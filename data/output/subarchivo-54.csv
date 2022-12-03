@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+6625,428,1924,5,1005323812,Plan 9 from Outer Space,1959,Horror|Sci-Fi,Grady,Smith,58
+6626,428,2318,5,1002384035,Happiness,1998,Comedy|Drama,Grady,Smith,58
+6627,428,1348,4,1002381767,Nosferatu (Nosferatu,1922,Horror,Grady,Smith,58
+6628,428,1983,4,1005327387,Halloween II,1981,Horror,Grady,Smith,58
+6629,428,3688,3,1005327236,Porky's,1982,Comedy,Grady,Smith,58
+6630,428,3498,4,1005314397,Midnight Express,1978,Drama,Grady,Smith,58
+6631,428,290,5,1002382167,Once Were Warriors,1994,Crime|Drama,Grady,Smith,58
+6632,428,1216,4,1005313790,Big Blue,1988,Adventure|Drama|Romance,Grady,Smith,58
+6633,428,1241,5,1002383308,Dead Alive (Braindead),1992,Comedy|Fantasy|Horror,Grady,Smith,58
+6634,428,2159,4,1002382167,Henry: Portrait of a Serial Killer,1986,Crime|Horror|Thriller,Grady,Smith,58
+6635,428,3016,4,1002383966,Creepshow,1982,Horror,Grady,Smith,58
+6636,428,1256,2,1005314311,Duck Soup,1933,Comedy|Musical|War,Grady,Smith,58
+6637,428,3569,4,1005323932,Idiots,1998,Comedy|Drama,Grady,Smith,58
+6638,428,3017,2,1005325763,Creepshow 2,1987,Horror,Grady,Smith,58
+6639,428,1189,4,1005313453,Thin Blue Line,1988,Documentary,Grady,Smith,58
+6640,428,2976,4,1002383938,Bringing Out the Dead,1999,Drama,Grady,Smith,58
+6641,428,2188,4,1002384256,54,1998,Drama,Grady,Smith,58
+6642,428,492,4,1005324226,Manhattan Murder Mystery,1993,Comedy|Mystery,Grady,Smith,58
+6643,428,1173,5,1005324648,Cook the Thief His Wife & Her Lover,1989,Comedy|Drama,Grady,Smith,58
+6644,428,1346,3,1005325217,Cat People,1982,Drama|Fantasy|Horror,Grady,Smith,58
+6645,428,4741,5,1002381716,Together (Tillsammans),2000,Comedy|Drama|Romance,Grady,Smith,58
+6646,428,3629,5,1005313503,Gold Rush,1925,Adventure|Comedy|Romance,Grady,Smith,58
+6647,428,3726,4,1005323611,Assault on Precinct 13,1976,Action|Thriller,Grady,Smith,58
+6648,428,4329,4,1005314019,Rio Bravo,1959,Western,Grady,Smith,58
+6649,428,4406,4,1002381702,Man Who Shot Liberty Valance,1962,Crime|Drama|Western,Grady,Smith,58
+6650,428,580,3,1005325206,Princess Caraboo,1994,Drama,Grady,Smith,58
+6651,428,3075,5,1002382228,Repulsion,1965,Drama|Horror,Grady,Smith,58
+6652,428,4061,4,1005324106,The Man in the Moon,1991,Drama|Romance,Grady,Smith,58
+6653,428,3470,3,1002382186,Dersu Uzala,1975,Adventure|Drama,Grady,Smith,58
+6654,428,835,3,1005323299,Foxfire,1996,Drama,Grady,Smith,58
+6655,428,1809,3,1005314375,Fireworks (Hana-bi),1997,Crime|Drama,Grady,Smith,58
+6656,428,3310,5,1002381767,Kid,1921,Comedy|Drama,Grady,Smith,58
+6657,428,3581,4,1002382259,Human Traffic,1999,Comedy,Grady,Smith,58
+6658,463,307,3,841896089,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Dax,Smith,42
+6659,463,10,1,841916926,GoldenEye,1995,Action|Adventure|Thriller,Dax,Smith,42
+6660,463,16,3,841895884,Casino,1995,Crime|Drama,Dax,Smith,42
+6661,463,25,3,841896173,Leaving Las Vegas,1995,Drama|Romance,Dax,Smith,42
+6662,463,36,3,841896173,Dead Man Walking,1995,Crime|Drama,Dax,Smith,42
+6663,463,47,3,841896257,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Dax,Smith,42
+6664,463,50,2,841896257,Usual Suspects,1995,Crime|Mystery|Thriller,Dax,Smith,42
+6665,463,110,2,841896257,Braveheart,1995,Action|Drama|War,Dax,Smith,42
+6666,463,150,2,841895715,Apollo 13,1995,Adventure|Drama|IMAX,Dax,Smith,42
+6667,463,153,1,841895752,Batman Forever,1995,Action|Adventure|Comedy|Crime,Dax,Smith,42
+6668,463,161,2,841896318,Crimson Tide,1995,Drama|Thriller|War,Dax,Smith,42
+6669,463,165,1,841895751,Die Hard: With a Vengeance,1995,Action|Crime|Thriller,Dax,Smith,42
+6670,463,185,2,841916926,Net,1995,Action|Crime|Thriller,Dax,Smith,42
+6671,463,253,3,841916926,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Dax,Smith,42
+6672,463,292,1,841896318,Outbreak,1995,Action|Drama|Sci-Fi|Thriller,Dax,Smith,42
+6673,463,296,3,841895715,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Dax,Smith,42
+6674,463,318,2,841896258,Shawshank Redemption,1994,Crime|Drama,Dax,Smith,42
+6675,463,329,1,841896317,Star Trek: Generations,1994,Adventure|Drama|Sci-Fi,Dax,Smith,42
+6676,463,339,3,841916925,While You Were Sleeping,1995,Comedy|Romance,Dax,Smith,42
+6677,463,344,1,841895752,Ace Ventura: Pet Detective,1994,Comedy,Dax,Smith,42
+6678,463,349,3,841895751,Clear and Present Danger,1994,Action|Crime|Drama|Thriller,Dax,Smith,42
+6679,463,356,2,841896318,Forrest Gump,1994,Comedy|Drama|Romance|War,Dax,Smith,42
+6680,463,434,1,841896318,Cliffhanger,1993,Action|Adventure|Thriller,Dax,Smith,42
+6681,463,457,2,841895787,Fugitive,1993,Thriller,Dax,Smith,42
+6682,463,527,3,841896200,Schindler's List,1993,Drama|War,Dax,Smith,42
+6683,463,588,2,841895751,Aladdin,1992,Adventure|Animation|Children|Comedy|Musical,Dax,Smith,42
+6684,463,590,2,841895714,Dances with Wolves,1990,Adventure|Drama|Western,Dax,Smith,42
+6685,463,592,1,841895713,Batman,1989,Action|Crime|Thriller,Dax,Smith,42
+6686,463,593,3,841895787,Silence of the Lambs,1991,Crime|Horror|Thriller,Dax,Smith,42
+6687,463,595,2,841895787,Beauty and the Beast,1991,Animation|Children|Fantasy|Musical|Romance|IMAX,Dax,Smith,42
+6688,463,778,3,841895855,Trainspotting,1996,Comedy|Crime|Drama,Dax,Smith,42
+6689,463,818,1,841915865,Very Brady Sequel,1996,Comedy,Dax,Smith,42
+6690,463,858,1,841915997,Godfather,1972,Crime|Drama,Dax,Smith,42
+6691,463,879,1,841915929,Relic,1997,Horror|Thriller,Dax,Smith,42
+6692,463,728,3,841916186,Cold Comfort Farm,1995,Comedy,Dax,Smith,42
+6693,463,208,3,841916925,Waterworld,1995,Action|Adventure|Sci-Fi,Dax,Smith,42
+6694,463,880,1,841915832,Island of Dr. Moreau,1996,Sci-Fi|Thriller,Dax,Smith,42
+6695,463,14,2,841896173,Nixon,1995,Drama,Dax,Smith,42
+6696,463,246,3,841896053,Hoop Dreams,1994,Documentary,Dax,Smith,42
+6697,463,299,1,841895855,Priest,1994,Drama,Dax,Smith,42
+6698,463,661,2,841916099,James and the Giant Peach,1996,Adventure|Animation|Children|Fantasy|Musical,Dax,Smith,42
+6699,463,105,2,841895981,Bridges of Madison County,1995,Drama|Romance,Dax,Smith,42
+6700,463,720,5,841916272,Wallace & Gromit: The Best of Aardman Animation,1996,Adventure|Animation|Comedy,Dax,Smith,42
+6701,463,213,3,841895884,Burnt by the Sun (Utomlyonnye solntsem),1994,Drama,Dax,Smith,42
+6702,463,347,4,841895855,Bitter Moon,1992,Drama|Film-Noir|Romance,Dax,Smith,42
+6703,463,431,3,841896200,Carlito's Way,1993,Crime|Drama,Dax,Smith,42
+6704,463,667,1,841915865,Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite),1996,Action,Dax,Smith,42
+6705,463,692,1,841915973,Solo,1996,Action|Sci-Fi|Thriller,Dax,Smith,42
+6706,463,839,2,841915880,Crow: City of Angels,1996,Action|Thriller,Dax,Smith,42
+6707,463,783,2,841916099,Hunchback of Notre Dame,1996,Animation|Children|Drama|Musical|Romance,Dax,Smith,42
+6708,463,97,3,841915832,Hate (Haine,1995,Crime|Drama,Dax,Smith,42
+6709,463,306,3,841896053,Three Colors: Red (Trois couleurs: Rouge),1994,Drama,Dax,Smith,42
+6710,463,326,2,841896089,To Live (Huozhe),1994,Drama,Dax,Smith,42
+6711,463,475,2,841896258,In the Name of the Father,1993,Drama,Dax,Smith,42
+6712,463,1034,2,841915929,Freeway,1996,Comedy|Crime|Drama|Thriller,Dax,Smith,42
+6713,463,266,3,841896173,Legends of the Fall,1994,Drama|Romance|War|Western,Dax,Smith,42
+6714,463,881,1,841915944,First Kid,1996,Children|Comedy,Dax,Smith,42
+6715,463,308,4,841895951,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Dax,Smith,42
+6716,463,717,3,841916186,Mouth to Mouth (Boca a boca),1995,Comedy,Dax,Smith,42
+6717,463,860,4,841916156,Maybe,1994,Comedy,Dax,Smith,42
+6718,463,631,1,841915865,All Dogs Go to Heaven 2,1996,Adventure|Animation|Children|Fantasy|Musical|Romance,Dax,Smith,42
+6719,463,73,2,841895855,Misérables,1995,Drama|War,Dax,Smith,42
+6720,463,621,2,841916130,My Favorite Season,1993,Drama,Dax,Smith,42
+6721,463,715,2,841916156,Horseman on the Roof,1995,Drama|Romance,Dax,Smith,42
+6722,463,391,2,841896115,Jason's Lyric,1994,Crime|Drama,Dax,Smith,42
+6723,463,92,2,841915865,Mary Reilly,1996,Drama|Horror|Thriller,Dax,Smith,42
+6724,463,804,1,841915898,She's the One,1996,Comedy|Romance,Dax,Smith,42
+6725,463,850,4,841916131,Cyclo (Xich lo),1995,Crime|Drama,Dax,Smith,42
+6726,463,781,3,841916130,Stealing Beauty,1996,Drama,Dax,Smith,42
+6727,463,35,2,841895855,Carrington,1995,Drama|Romance,Dax,Smith,42
+6728,463,242,2,841896115,Farinelli: il castrato,1994,Drama|Musical,Dax,Smith,42
+6729,463,718,3,841916205,Visitors,1993,Comedy|Fantasy|Sci-Fi,Dax,Smith,42
+6730,463,747,1,841915865,Stupids,1996,Comedy,Dax,Smith,42
+6731,463,824,4,841916156,Kaspar Hauser,1993,Drama|Mystery,Dax,Smith,42
+6732,463,882,1,841915944,Trigger Effect,1996,Drama|Thriller,Dax,Smith,42
+6733,463,59,3,841916130,Confessional,1995,Drama|Mystery,Dax,Smith,42
+6734,463,664,1,841915973,Faithful,1996,Comedy,Dax,Smith,42
+6735,463,729,2,841916186,Institute Benjamenta,1995,Drama,Dax,Smith,42
+6736,463,807,3,841916205,Rendezvous in Paris (Rendez-vous de Paris,1995,Comedy|Romance,Dax,Smith,42
+6737,463,826,2,841916205,Women Robbers (Diebinnen),1995,Drama,Dax,Smith,42
+6738,463,827,2,841915973,Convent,1995,Drama,Dax,Smith,42
+6739,463,831,2,841916186,Stonewall,1995,Drama,Dax,Smith,42
+6740,463,841,1,841916186,Eyes Without a Face (Yeux sans visage,1959,Horror,Dax,Smith,42
+6741,463,865,1,841916156,Small Faces,1996,Drama,Dax,Smith,42
+6742,463,867,1,841915973,Carpool,1996,Comedy|Crime,Dax,Smith,42
+6743,463,872,3,841916227,Vive L'Amour (Ai qing wan sui),1994,Drama,Dax,Smith,42
+6744,463,873,1,841916020,Shadow of Angels (Schatten der Engel),1976,Drama,Dax,Smith,42
+6745,463,877,1,841915929,Girls Town,1996,Comedy|Drama,Dax,Smith,42
+6746,463,878,1,841915944,Bye-Bye,1995,Drama,Dax,Smith,42
+6747,463,889,2,841915997,1-900 (06),1994,Drama|Romance,Dax,Smith,42
+6748,463,980,1,841915832,Yes,1985,Action,Dax,Smith,42
+6749,463,1039,1,841915929,Synthetic Pleasures,1995,Documentary,Dax,Smith,42

@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+875,71,4446,3,1257876019,Final Fantasy: The Spirits Within,2001,Adventure|Animation|Fantasy|Sci-Fi,Kai,Smith,39
+876,71,4874,3.5,1257876041,K-PAX,2001,Drama|Fantasy|Mystery|Sci-Fi,Kai,Smith,39
+877,71,4878,3.5,1257875801,Donnie Darko,2001,Drama|Mystery|Sci-Fi|Thriller,Kai,Smith,39
+878,71,4886,3.5,1257877671,Monsters,2001,Adventure|Animation|Children|Comedy|Fantasy,Kai,Smith,39
+879,71,4963,3.5,1278025449,Ocean's Eleven,2001,Crime|Thriller,Kai,Smith,39
+880,71,4993,4,1257876691,Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy,Kai,Smith,39
+881,71,4995,4,1278025502,Beautiful Mind,2001,Drama|Romance,Kai,Smith,39
+882,71,5219,1,1257795535,Resident Evil,2002,Action|Horror|Sci-Fi|Thriller,Kai,Smith,39
+883,71,5349,3,1257875948,Spider-Man,2002,Action|Adventure|Sci-Fi|Thriller,Kai,Smith,39
+884,71,5378,2,1278025609,Star Wars: Episode II - Attack of the Clones,2002,Action|Adventure|Sci-Fi|IMAX,Kai,Smith,39
+885,71,5445,3,1257875940,Minority Report,2002,Action|Crime|Mystery|Sci-Fi|Thriller,Kai,Smith,39
+886,71,5952,3.5,1257876730,Lord of the Rings: The Two Towers,2002,Adventure|Fantasy,Kai,Smith,39
+887,71,6016,4,1257872294,City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,Kai,Smith,39
+888,71,6283,3.5,1257876439,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira),2001,Action|Animation|Sci-Fi|Thriller,Kai,Smith,39
+889,71,6333,3,1257872427,X2: X-Men United,2003,Action|Adventure|Sci-Fi|Thriller,Kai,Smith,39
+890,71,6365,3,1257876056,Matrix Reloaded,2003,Action|Adventure|Sci-Fi|Thriller|IMAX,Kai,Smith,39
+891,71,6807,4,1278027335,Monty Python's The Meaning of Life,1983,Comedy,Kai,Smith,39
+892,71,6857,3.5,1257876354,Ninja Scroll (Jûbei ninpûchô),1995,Action|Adventure|Animation|Fantasy,Kai,Smith,39
+893,71,6874,4,1257876751,Kill Bill: Vol. 1,2003,Action|Crime|Thriller,Kai,Smith,39
+894,71,6934,2.5,1278027180,Matrix Revolutions,2003,Action|Adventure|Sci-Fi|Thriller|IMAX,Kai,Smith,39
+895,71,6947,3,1278027689,Master and Commander: The Far Side of the World,2003,Adventure|Drama|War,Kai,Smith,39
+896,71,7147,3,1257877654,Big Fish,2003,Drama|Fantasy|Romance,Kai,Smith,39
+897,71,7153,3.5,1257876694,Lord of the Rings: The Return of the King,2003,Action|Adventure|Drama|Fantasy,Kai,Smith,39
+898,71,7361,3.5,1257872105,Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,Kai,Smith,39
+899,71,7438,4,1257876758,Kill Bill: Vol. 2,2004,Action|Drama|Thriller,Kai,Smith,39
+900,71,8636,3,1257875950,Spider-Man 2,2004,Action|Adventure|Sci-Fi|IMAX,Kai,Smith,39
+901,71,32587,3.5,1257872373,Sin City,2005,Action|Crime|Film-Noir|Mystery|Thriller,Kai,Smith,39
+902,71,33004,2.5,1257876013,Hitchhiker's Guide to the Galaxy,2005,Adventure|Comedy|Sci-Fi,Kai,Smith,39
+903,71,33493,3,1278025567,Star Wars: Episode III - Revenge of the Sith,2005,Action|Adventure|Sci-Fi,Kai,Smith,39
+904,71,33679,3,1278027588,Mr. & Mrs. Smith,2005,Action|Adventure|Comedy|Romance,Kai,Smith,39
+905,71,33794,4,1257876719,Batman Begins,2005,Action|Crime|IMAX,Kai,Smith,39
+906,71,44191,3,1257872384,V for Vendetta,2006,Action|Sci-Fi|Thriller|IMAX,Kai,Smith,39
+907,71,48774,4.5,1257872506,Children of Men,2006,Action|Adventure|Drama|Sci-Fi|Thriller,Kai,Smith,39
+908,71,51662,3,1257872392,300,2007,Action|Fantasy|War|IMAX,Kai,Smith,39
+909,71,53000,3,1257875982,28 Weeks Later,2007,Horror|Sci-Fi|Thriller,Kai,Smith,39
+910,71,53996,3,1257872406,Transformers,2007,Action|Sci-Fi|Thriller|IMAX,Kai,Smith,39
+911,71,54286,3.5,1257876771,Bourne Ultimatum,2007,Action|Crime|Thriller,Kai,Smith,39
+912,71,2329,3.5,1257872568,American History X,1998,Crime|Drama,Kai,Smith,39
+913,71,3949,4,1278027425,Requiem for a Dream,2000,Drama,Kai,Smith,39
+914,71,4973,4.5,1287852213,Amelie (Fabuleux destin d'Amélie Poulain,2001,Comedy|Romance,Kai,Smith,39
+915,71,5995,4,1257873361,Pianist,2002,Drama|War,Kai,Smith,39
+916,71,48394,4,1257877147,Pan's Labyrinth (Laberinto del fauno,2006,Drama|Fantasy|Thriller,Kai,Smith,39
+917,71,48516,4,1278025734,Departed,2006,Crime|Drama|Thriller,Kai,Smith,39
+918,71,48780,3.5,1257875807,Prestige,2006,Drama|Mystery|Sci-Fi|Thriller,Kai,Smith,39
+919,71,49272,4,1257876775,Casino Royale,2006,Action|Adventure|Thriller,Kai,Smith,39
+920,71,55118,3.5,1257873139,Eastern Promises,2007,Crime|Drama|Thriller,Kai,Smith,39
+921,71,55820,4,1278025644,No Country for Old Men,2007,Crime|Drama,Kai,Smith,39
+922,71,56782,4,1278027861,There Will Be Blood,2007,Drama|Western,Kai,Smith,39
+923,71,111,4.5,1278026744,Taxi Driver,1976,Crime|Drama|Thriller,Kai,Smith,39
+924,71,750,4,1257872125,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|War,Kai,Smith,39
+925,71,912,4,1278026239,Casablanca,1942,Drama|Romance,Kai,Smith,39
+926,71,1199,3.5,1257877159,Brazil,1985,Fantasy|Sci-Fi,Kai,Smith,39
+927,71,1206,4,1257872496,Clockwork Orange,1971,Crime|Drama|Sci-Fi|Thriller,Kai,Smith,39
+928,71,1219,4,1257872191,Psycho,1960,Crime|Horror,Kai,Smith,39
+929,71,1258,4,1278026152,Shining,1980,Horror,Kai,Smith,39
+930,71,1282,4,1257877638,Fantasia,1940,Animation|Children|Fantasy|Musical,Kai,Smith,39
+931,71,2010,4.5,1257872785,Metropolis,1927,Drama|Sci-Fi,Kai,Smith,39
+932,71,2761,3,1257876117,Iron Giant,1999,Adventure|Animation|Children|Drama|Sci-Fi,Kai,Smith,39
+933,71,1281,4,1257873481,Great Dictator,1940,Comedy|Drama|War,Kai,Smith,39
+934,71,5618,4.5,1257876410,Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure|Animation|Fantasy,Kai,Smith,39
+935,71,7254,2.5,1257875963,The Butterfly Effect,2004,Drama|Sci-Fi|Thriller,Kai,Smith,39
+936,71,58559,4,1257872371,Dark Knight,2008,Action|Crime|Drama|IMAX,Kai,Smith,39
+937,71,59315,4,1257872379,Iron Man,2008,Action|Adventure|Sci-Fi,Kai,Smith,39
+938,71,60069,3.5,1257872487,WALL·E,2008,Adventure|Animation|Children|Romance|Sci-Fi,Kai,Smith,39
+939,71,63082,3,1278025824,Slumdog Millionaire,2008,Crime|Drama|Romance,Kai,Smith,39
+940,71,68157,3.5,1257871980,Inglourious Basterds,2009,Action|Drama|War,Kai,Smith,39
+941,71,73017,3.5,1278025851,Sherlock Holmes,2009,Action|Crime|Mystery|Thriller,Kai,Smith,39
+942,71,41566,2.5,1278027247,Chronicles of Narnia: The Lion,2005,Adventure|Children|Fantasy,Kai,Smith,39
+943,71,44555,4,1257872549,Lives of Others,2006,Drama|Romance|Thriller,Kai,Smith,39
+944,71,70286,3.5,1257871950,District 9,2009,Mystery|Sci-Fi|Thriller,Kai,Smith,39
+945,71,393,1.5,1257795713,Street Fighter,1994,Action|Adventure|Fantasy,Kai,Smith,39
+946,71,2019,4,1257872300,Seven Samurai (Shichinin no samurai),1954,Action|Adventure|Drama,Kai,Smith,39
+947,71,1237,4.5,1257795564,Seventh Seal,1957,Drama,Kai,Smith,39
+948,71,46530,2.5,1260917663,Superman Returns,2006,Action|Adventure|Sci-Fi|IMAX,Kai,Smith,39
+949,71,1292,4,1257873065,Being There,1979,Comedy|Drama,Kai,Smith,39
+950,71,1073,2.5,1257872248,Willy Wonka & the Chocolate Factory,1971,Children|Comedy|Fantasy|Musical,Kai,Smith,39
+951,71,4467,3.5,1257877676,Adventures of Baron Munchausen,1988,Adventure|Comedy|Fantasy,Kai,Smith,39
+952,71,45447,3,1278027582,Da Vinci Code,2006,Drama|Mystery|Thriller,Kai,Smith,39
+953,71,48043,3.5,1257877667,Fountain,2006,Drama|Fantasy|Romance,Kai,Smith,39
+954,71,6711,4.5,1278025679,Lost in Translation,2003,Comedy|Drama|Romance,Kai,Smith,39
+955,71,69757,2.5,1278027354,(500) Days of Summer,2009,Comedy|Drama|Romance,Kai,Smith,39
+956,71,72998,3.5,1278025974,Avatar,2009,Action|Adventure|Sci-Fi|IMAX,Kai,Smith,39
+957,71,8983,2.5,1257876796,House of Flying Daggers (Shi mian mai fu),2004,Action|Drama|Romance,Kai,Smith,39
+958,71,4848,4,1257875761,Mulholland Drive,2001,Crime|Drama|Film-Noir|Mystery|Thriller,Kai,Smith,39
+959,71,5902,3.5,1278027311,Adaptation,2002,Comedy|Drama|Romance,Kai,Smith,39
+960,71,6502,3.5,1257875911,28 Days Later,2002,Action|Horror|Sci-Fi,Kai,Smith,39
+961,71,30810,4,1257877686,Life Aquatic with Steve Zissou,2004,Adventure|Comedy|Fantasy,Kai,Smith,39
+962,71,31658,3.5,1257872840,Howl's Moving Castle (Hauru no ugoku shiro),2004,Adventure|Animation|Fantasy|Romance,Kai,Smith,39
+963,71,3159,3.5,1257876554,Fantasia 2000,1999,Animation|Children|Musical|IMAX,Kai,Smith,39
+964,71,8957,2,1257872926,Saw,2004,Horror|Mystery|Thriller,Kai,Smith,39
+965,71,39183,4,1278027615,Brokeback Mountain,2005,Drama|Romance,Kai,Smith,39
+966,71,48877,0.5,1257872889,Saw III,2006,Crime|Horror|Thriller,Kai,Smith,39
+967,71,61236,4,1257873254,Waltz with Bashir (Vals im Bashir),2008,Animation|Documentary|Drama|War,Kai,Smith,39
+968,71,64614,3.5,1278027514,Gran Torino,2008,Crime|Drama,Kai,Smith,39
+969,71,68358,3.5,1257873318,Star Trek,2009,Action|Adventure|Sci-Fi|IMAX,Kai,Smith,39
+970,71,69481,4,1278027623,Hurt Locker,2008,Action|Drama|Thriller|War,Kai,Smith,39
+971,71,5971,4,1257876222,My Neighbor Totoro (Tonari no Totoro),1988,Animation|Children|Drama|Fantasy,Kai,Smith,39
+972,71,7090,3.5,1257876743,Hero (Ying xiong),2002,Action|Adventure|Drama,Kai,Smith,39
+973,71,306,5,1257795403,Three Colors: Red (Trois couleurs: Rouge),1994,Drama,Kai,Smith,39
+974,71,2076,4.5,1257795373,Blue Velvet,1986,Drama|Mystery|Thriller,Kai,Smith,39
+975,71,52328,3,1257875932,Sunshine,2007,Adventure|Drama|Sci-Fi|Thriller,Kai,Smith,39
+976,71,1253,4,1257873339,Day the Earth Stood Still,1951,Drama|Sci-Fi|Thriller,Kai,Smith,39
+977,71,56174,3,1257876025,I Am Legend,2007,Action|Horror|Sci-Fi|Thriller|IMAX,Kai,Smith,39
+978,71,3439,2.5,1257795644,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,Action|Children|Fantasy,Kai,Smith,39
+979,71,4006,2.5,1257872965,Transformers: The Movie,1986,Adventure|Animation|Children|Sci-Fi,Kai,Smith,39
+980,71,5146,3,1257873394,Vampire Hunter D: Bloodlust (Banpaia hantâ D),2000,Animation|Fantasy|Horror|Sci-Fi,Kai,Smith,39
+981,71,308,4,1257873184,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Kai,Smith,39
+982,71,1232,5,1257872636,Stalker,1979,Drama|Mystery|Sci-Fi,Kai,Smith,39
+983,71,1464,4,1257872686,Lost Highway,1997,Crime|Drama|Fantasy|Film-Noir|Mystery|Romance,Kai,Smith,39
+984,71,2810,4,1257876334,Perfect Blue,1997,Animation|Horror|Mystery|Thriller,Kai,Smith,39
+985,71,3910,4,1257873095,Dancer in the Dark,2000,Drama|Musical,Kai,Smith,39
+986,71,5291,4.5,1278027907,Rashomon (Rashômon),1950,Crime|Drama|Mystery,Kai,Smith,39
+987,71,27156,3,1257876112,Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo,1997,Action|Animation|Drama|Fantasy|Sci-Fi,Kai,Smith,39
+988,71,27660,3,1257875889,Animatrix,2003,Action|Animation|Drama|Sci-Fi,Kai,Smith,39
+989,71,27904,3,1257875883,Scanner Darkly,2006,Animation|Drama|Mystery|Sci-Fi|Thriller,Kai,Smith,39
+990,71,37729,3,1257877662,Corpse Bride,2005,Animation|Comedy|Fantasy|Musical|Romance,Kai,Smith,39
+991,71,52885,3.5,1257873221,Paprika (Papurika),2006,Animation|Mystery|Sci-Fi,Kai,Smith,39
+992,71,56339,2,1257872918,Orphanage,2007,Drama|Horror|Mystery|Thriller,Kai,Smith,39
+993,71,69134,4,1257871964,Antichrist,2009,Drama|Fantasy,Kai,Smith,39
+994,71,1176,4.5,1257873202,Double Life of Veronique,1991,Drama|Fantasy|Romance,Kai,Smith,39
+995,71,1295,3,1257873376,Unbearable Lightness of Being,1988,Drama,Kai,Smith,39
+996,71,2022,3,1257877992,Last Temptation of Christ,1988,Drama,Kai,Smith,39
+997,71,3415,4.5,1257872668,Mirror,1975,Drama,Kai,Smith,39
+998,71,3444,2.5,1257795761,Bloodsport,1988,Action,Kai,Smith,39
+999,71,3503,4.5,1257872644,Solaris (Solyaris),1972,Drama|Mystery|Sci-Fi,Kai,Smith,39

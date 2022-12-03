@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+2625,214,5293,3,1164555432,Changing Lanes,2002,Drama|Thriller,Patrick,Smith,17
+2626,214,5297,2,1228078274,Cat's Meow,2002,Drama|Thriller,Patrick,Smith,17
+2627,214,5379,2,1163287815,Believer,2001,Drama,Patrick,Smith,17
+2628,214,5391,3,1273429524,Thirteen Conversations About One Thing (a.k.a. 13 Conversations),2001,Drama,Patrick,Smith,17
+2629,214,5416,3,1258810124,Cherish,2002,Comedy|Drama|Thriller,Patrick,Smith,17
+2630,214,5417,4,1147597949,Fast Runner,2001,Drama|Fantasy,Patrick,Smith,17
+2631,214,5425,3,1126999832,Dark Blue World (Tmavomodrý svet),2001,Drama|War,Patrick,Smith,17
+2632,214,5446,4,1141851865,Rabbit-Proof Fence,2002,Adventure|Drama,Patrick,Smith,17
+2633,214,5450,4,1179682294,Lovely & Amazing,2001,Comedy|Drama|Romance,Patrick,Smith,17
+2634,214,5461,4,1198599307,Me Without You,2001,Comedy|Drama,Patrick,Smith,17
+2635,214,5477,3,1144102334,Sex and Lucia (Lucía y el sexo),2001,Drama|Romance,Patrick,Smith,17
+2636,214,5479,3,1165106944,K-19: The Widowmaker,2002,Action|Adventure|Drama|Thriller,Patrick,Smith,17
+2637,214,5506,2,1509890578,Blood Work,2002,Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+2638,214,5508,4,1134771782,24 Hour Party People,2002,Comedy|Drama|Musical,Patrick,Smith,17
+2639,214,5525,3,1173606580,Mostly Martha (Bella Martha),2001,Comedy|Drama|Romance,Patrick,Smith,17
+2640,214,5607,3,1138135138,Son of the Bride (Hijo de la novia,2001,Comedy|Drama,Patrick,Smith,17
+2641,214,5613,3,1168175293,8 Women,2002,Comedy|Crime|Musical|Mystery,Patrick,Smith,17
+2642,214,5633,3,1175325001,Heaven,2002,Drama,Patrick,Smith,17
+2643,214,5643,4,1081515122,Powaqqatsi,1988,Documentary,Patrick,Smith,17
+2644,214,5668,4,1243623487,White Oleander,2002,Drama,Patrick,Smith,17
+2645,214,5686,3,1260013390,Russian Ark (Russkiy Kovcheg),2002,Drama|Fantasy|War,Patrick,Smith,17
+2646,214,5788,4,1221908589,All or Nothing,2002,Drama,Patrick,Smith,17
+2647,214,5792,3,1207386990,Roger Dodger,2002,Comedy|Drama,Patrick,Smith,17
+2648,214,5953,2,1193257377,Devils on the Doorstep (Guizi lai le),2000,Drama|War,Patrick,Smith,17
+2649,214,5968,4,1171740380,Miami Blues,1990,Comedy|Crime|Drama,Patrick,Smith,17
+2650,214,6008,3,1225636506,Son,2002,Drama,Patrick,Smith,17
+2651,214,6062,3,1129662549,Lost in La Mancha,2002,Documentary,Patrick,Smith,17
+2652,214,6162,3,1173606645,Gerry,2002,Adventure|Drama,Patrick,Smith,17
+2653,214,6191,3,1255784938,Navigators,2001,Comedy|Drama,Patrick,Smith,17
+2654,214,6243,2,1115031219,Ringu 2 (Ring 2),1999,Horror|Mystery,Patrick,Smith,17
+2655,214,6279,2,1173606520,Good Thief,2002,Crime|Drama,Patrick,Smith,17
+2656,214,6335,3,1179083085,Dancer Upstairs,2002,Crime|Drama|Thriller,Patrick,Smith,17
+2657,214,6341,3,1210535727,Shape of Things,2003,Drama,Patrick,Smith,17
+2658,214,6374,2,1147597611,In-Laws,2003,Comedy,Patrick,Smith,17
+2659,214,6381,4,1116081458,Three Marias,2002,Drama,Patrick,Smith,17
+2660,214,6388,3,1131277881,Regeneration,1997,Drama|War,Patrick,Smith,17
+2661,214,6506,3,1138231069,Fulltime Killer (Chuen jik sat sau),2001,Action|Thriller,Patrick,Smith,17
+2662,214,6567,4,1081514815,Buffalo Soldiers,2001,Comedy|Crime|Drama|War,Patrick,Smith,17
+2663,214,6591,3,1131440333,Magdalene Sisters,2002,Drama,Patrick,Smith,17
+2664,214,6681,3,1157325096,All the Little Animals,1998,Drama|Thriller,Patrick,Smith,17
+2665,214,6699,2,1183917447,Once Upon a Time in the Midlands,2002,Drama,Patrick,Smith,17
+2666,214,6772,4,1193257567,To Be and to Have (Être et avoir),2002,Documentary,Patrick,Smith,17
+2667,214,6818,4,1512327900,Come and See (Idi i smotri),1985,Drama|War,Patrick,Smith,17
+2668,214,6820,4,1081514836,Ginger Snaps,2000,Drama|Horror|Thriller,Patrick,Smith,17
+2669,214,6883,4,1138401177,Sylvia,2003,Drama|Romance,Patrick,Smith,17
+2670,214,6909,3,1162670267,Eye,2002,Thriller,Patrick,Smith,17
+2671,214,6961,4,1525385263,Damage (Fatale),1992,Drama,Patrick,Smith,17
+2672,214,7003,2,1117298379,Kafka,1991,Comedy|Drama|Mystery|Sci-Fi|Thriller,Patrick,Smith,17
+2673,214,7034,5,1081514297,Show Me Love (Fucking Åmål),1998,Drama|Romance,Patrick,Smith,17
+2674,214,7138,3,1114289520,Bonaerense,2002,Action|Drama,Patrick,Smith,17
+2675,214,7139,3,1198599354,In America,2002,Drama|Romance,Patrick,Smith,17
+2676,214,7160,3,1183239801,Monster,2003,Crime|Drama,Patrick,Smith,17
+2677,214,7177,3,1144993219,Osama,2003,Drama,Patrick,Smith,17
+2678,214,7285,4,1238909864,Thirteen,2003,Drama,Patrick,Smith,17
+2679,214,7349,4,1085854842,Broken Wings (Knafayim Shvurot),2002,Drama,Patrick,Smith,17
+2680,214,7352,3,1249728699,Wilbur Wants to Kill Himself,2002,Comedy|Drama|Romance,Patrick,Smith,17
+2681,214,7354,4,1149631293,Mad Dog and Glory,1993,Comedy|Drama|Romance,Patrick,Smith,17
+2682,214,7365,3,1149978434,Noi the Albino (Nói albinói),2003,Drama,Patrick,Smith,17
+2683,214,7382,4,1215961662,I'm Not Scared (Io non ho paura),2003,Drama|Mystery|Thriller,Patrick,Smith,17
+2684,214,7384,4,1183916830,Since Otar Left (Depuis qu'Otar est parti...),2003,Drama,Patrick,Smith,17
+2685,214,7456,3,1176153861,Valentin (Valentín),2002,Drama,Patrick,Smith,17
+2686,214,7572,4,1142639587,Wit,2001,Drama,Patrick,Smith,17
+2687,214,7618,4,1131903704,Chaplin,1992,Drama,Patrick,Smith,17
+2688,214,7918,3,1129478918,Indian Runner,1991,Drama,Patrick,Smith,17
+2689,214,7988,3,1088271089,Space Truckers,1996,Comedy|Sci-Fi,Patrick,Smith,17
+2690,214,8133,3,1206211681,Inheritance,2003,Drama,Patrick,Smith,17
+2691,214,8530,3,1193257396,Dear Frankie,2004,Drama|Romance,Patrick,Smith,17
+2692,214,8674,2,1238909803,Disco Pigs,2001,Drama,Patrick,Smith,17
+2693,214,8730,2,1126123719,To End All Wars,2001,Action|Drama|War,Patrick,Smith,17
+2694,214,8951,3,1111748531,Vera Drake,2004,Drama,Patrick,Smith,17
+2695,214,8953,2,1126764504,Stella Street,2004,Comedy,Patrick,Smith,17
+2696,214,8955,3,1111748705,Undertow,2004,Crime|Drama|Thriller,Patrick,Smith,17
+2697,214,8956,4,1206866514,Enduring Love,2004,Drama,Patrick,Smith,17
+2698,214,8980,3,1181482656,Our Music (Notre musique),2004,Drama,Patrick,Smith,17
+2699,214,26704,4,1127850311,State of Grace,1990,Crime|Drama|Thriller,Patrick,Smith,17
+2700,214,26840,4,1227970199,Sonatine (Sonachine),1993,Action|Comedy|Crime|Drama,Patrick,Smith,17
+2701,214,26965,4,1130363527,Boxer,1997,Drama|Thriller,Patrick,Smith,17
+2702,214,27271,3,1241416961,Taboo (Gohatto),1999,Drama,Patrick,Smith,17
+2703,214,27317,4,1155980013,Audition (Ôdishon),1999,Drama|Horror|Mystery|Romance|Thriller,Patrick,Smith,17
+2704,214,27370,3,1281173327,Late Night Shopping,2001,Comedy,Patrick,Smith,17
+2705,214,27746,2,1272196763,Ginger Snaps: Unleashed,2004,Horror|Thriller,Patrick,Smith,17
+2706,214,27768,4,1171739129,Intimate Strangers (Confidences trop intimes),2004,Drama,Patrick,Smith,17
+2707,214,27790,2,1272196516,Millions,2004,Children|Comedy|Crime|Drama|Fantasy,Patrick,Smith,17
+2708,214,27820,3,1243623514,Story of the Weeping Camel,2003,Documentary|Drama,Patrick,Smith,17
+2709,214,27838,4,1114932322,Mean Creek,2004,Drama|Thriller,Patrick,Smith,17
+2710,214,27850,3,1263845266,Yes Men,2003,Documentary,Patrick,Smith,17
+2711,214,27866,3,1202636271,In My Father's Den,2004,Drama,Patrick,Smith,17
+2712,214,27869,3,1174211901,Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo),2004,Action|Drama|War,Patrick,Smith,17
+2713,214,27882,3,1150481645,Riding Giants,2004,Documentary,Patrick,Smith,17
+2714,214,30803,3,1216542254,3-Iron (Bin-jip),2004,Drama|Romance,Patrick,Smith,17
+2715,214,30822,3,1225636563,In Good Company,2004,Comedy|Drama,Patrick,Smith,17
+2716,214,30846,4,1206866547,Assassination of Richard Nixon,2004,Crime|Drama|Thriller,Patrick,Smith,17
+2717,214,30850,4,1111748501,Merchant of Venice,2004,Drama,Patrick,Smith,17
+2718,214,30867,1,1272755469,Kamikaze Girls (Shimotsuma monogatari),2004,Comedy,Patrick,Smith,17
+2719,214,31101,4,1171215062,Stander,2003,Action|Crime|Drama,Patrick,Smith,17
+2720,214,31114,4,1186306285,Imaginary Heroes,2004,Comedy|Drama,Patrick,Smith,17
+2721,214,31162,3,1226250653,Life and Death of Peter Sellers,2004,Comedy|Drama,Patrick,Smith,17
+2722,214,31435,3,1240738866,Rory O'Shea Was Here (Inside I'm Dancing),2004,Drama,Patrick,Smith,17
+2723,214,31952,2,1163853973,Control (Kontroll),2003,Comedy|Crime|Drama|Mystery,Patrick,Smith,17
+2724,214,31956,4,1186841063,5x2,2004,Drama|Romance,Patrick,Smith,17
+2725,214,32707,4,1525384468,Blue,1993,Drama,Patrick,Smith,17
+2726,214,32770,4,1179681871,Brothers (Brødre),2004,Drama,Patrick,Smith,17
+2727,214,32943,5,1525382421,Life Is Sweet,1990,Comedy|Drama,Patrick,Smith,17
+2728,214,33138,3,1183916947,Palindromes,2004,Adventure|Comedy|Drama,Patrick,Smith,17
+2729,214,33621,4,1175846032,Somersault,2004,Drama,Patrick,Smith,17
+2730,214,33725,4,1255785053,It's All Gone Pete Tong,2004,Comedy|Drama|Musical,Patrick,Smith,17
+2731,214,33817,4,1160907643,My Summer of Love,2004,Drama|Romance,Patrick,Smith,17
+2732,214,33832,4,1167068050,Yes,2004,Drama,Patrick,Smith,17
+2733,214,33903,4,1231692569,Edukators,2004,Comedy|Crime|Drama|Romance,Patrick,Smith,17
+2734,214,34528,4,1152346615,Junebug,2005,Comedy|Drama,Patrick,Smith,17
+2735,214,34536,3,1234008092,The Great Raid,2005,Action|Drama|War,Patrick,Smith,17
+2736,214,37475,2,1254564057,Unfinished Life,2005,Drama,Patrick,Smith,17
+2737,214,37731,3,1230548545,Green Street Hooligans (a.k.a. Hooligans),2005,Crime|Drama,Patrick,Smith,17
+2738,214,37736,4,1261236208,Oliver Twist,2005,Drama,Patrick,Smith,17
+2739,214,37739,3,1220191571,Greatest Game Ever Played,2005,Drama,Patrick,Smith,17
+2740,214,38600,4,1250329390,Factotum,2005,Drama,Patrick,Smith,17
+2741,214,39419,3,1217695410,Where the Truth Lies,2005,Drama|Thriller,Patrick,Smith,17
+2742,214,39444,3,1221324616,Weather Man,2005,Comedy|Drama,Patrick,Smith,17
+2743,214,39869,4,1155754490,Manderlay,2005,Drama,Patrick,Smith,17
+2744,214,40412,5,1163265390,Dead Man's Shoes,2004,Crime|Thriller,Patrick,Smith,17
+2745,214,40870,3,1211130771,C.R.A.Z.Y.,2005,Drama,Patrick,Smith,17
+2746,214,41527,4,1145014172,Paradise Now,2005,Crime|Drama|Thriller|War,Patrick,Smith,17
+2747,214,41712,4,1278221993,Room for Romeo Brass,1999,Comedy|Drama,Patrick,Smith,17
+2748,214,41716,3,1219087122,Matador,2005,Comedy|Drama|Thriller,Patrick,Smith,17
+2749,214,41863,4,1203848024,Three Burials of Melquiades Estrada,2006,Adventure|Crime|Drama,Patrick,Smith,17

@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+4750,268,3948,1.5,1137242435,Meet the Parents,2000,Comedy,Brantley,Smith,36
+4751,268,3977,1.5,1137242425,Charlie's Angels,2000,Action|Comedy,Brantley,Smith,36
+4752,268,3996,2.5,1135774555,Crouching Tiger,2000,Action|Drama|Romance,Brantley,Smith,36
+4753,268,4018,2,1144702417,What Women Want,2000,Comedy|Romance,Brantley,Smith,36
+4754,268,4022,2.5,1135774803,Cast Away,2000,Drama,Brantley,Smith,36
+4755,268,4034,1.5,1135773921,Traffic,2000,Crime|Drama|Thriller,Brantley,Smith,36
+4756,268,4226,2.5,1135772880,Memento,2000,Mystery|Thriller,Brantley,Smith,36
+4757,268,4246,1.5,1138612827,Bridget Jones's Diary,2001,Comedy|Drama|Romance,Brantley,Smith,36
+4758,268,4270,2.5,1138612831,Mummy Returns,2001,Action|Adventure|Comedy|Thriller,Brantley,Smith,36
+4759,268,4306,3,1135774504,Shrek,2001,Adventure|Animation|Children|Comedy|Fantasy|Romance,Brantley,Smith,36
+4760,268,4638,1.5,1137494138,Jurassic Park III,2001,Action|Adventure|Sci-Fi|Thriller,Brantley,Smith,36
+4761,268,4643,2.5,1138612790,Planet of the Apes,2001,Action|Adventure|Drama|Sci-Fi,Brantley,Smith,36
+4762,268,4878,4,1144702541,Donnie Darko,2001,Drama|Mystery|Sci-Fi|Thriller,Brantley,Smith,36
+4763,268,4886,2.5,1137696342,Monsters,2001,Adventure|Animation|Children|Comedy|Fantasy,Brantley,Smith,36
+4764,268,4963,2,1137494728,Ocean's Eleven,2001,Crime|Thriller,Brantley,Smith,36
+4765,268,4993,2.5,1135773767,Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy,Brantley,Smith,36
+4766,268,4995,3,1144702271,Beautiful Mind,2001,Drama|Romance,Brantley,Smith,36
+4767,268,5010,2,1137242738,Black Hawk Down,2001,Action|Drama|War,Brantley,Smith,36
+4768,268,5218,3,1138612771,Ice Age,2002,Adventure|Animation|Children|Comedy,Brantley,Smith,36
+4769,268,5349,2,1138052307,Spider-Man,2002,Action|Adventure|Sci-Fi|Thriller,Brantley,Smith,36
+4770,268,5445,2.5,1139769030,Minority Report,2002,Action|Crime|Mystery|Sci-Fi|Thriller,Brantley,Smith,36
+4771,268,5459,1.5,1137242753,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),2002,Action|Comedy|Sci-Fi,Brantley,Smith,36
+4772,268,5872,1,1137242712,Die Another Day,2002,Action|Adventure|Thriller,Brantley,Smith,36
+4773,268,5952,2.5,1135773774,Lord of the Rings: The Two Towers,2002,Adventure|Fantasy,Brantley,Smith,36
+4774,268,5956,2,1137494113,Gangs of New York,2002,Crime|Drama,Brantley,Smith,36
+4775,268,6016,2.5,1135772775,City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,Brantley,Smith,36
+4776,268,6373,2.5,1144702376,Bruce Almighty,2003,Comedy|Drama|Fantasy|Romance,Brantley,Smith,36
+4777,268,6534,1,1137242716,Hulk,2003,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4778,268,6539,3.5,1137696484,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Action|Adventure|Comedy|Fantasy,Brantley,Smith,36
+4779,268,6874,2,1137494120,Kill Bill: Vol. 1,2003,Action|Crime|Thriller,Brantley,Smith,36
+4780,268,7147,3,1135773676,Big Fish,2003,Drama|Fantasy|Romance,Brantley,Smith,36
+4781,268,7153,2.5,1139768931,Lord of the Rings: The Return of the King,2003,Action|Adventure|Drama|Fantasy,Brantley,Smith,36
+4782,268,7361,4,1135770092,Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,Brantley,Smith,36
+4783,268,7458,1.5,1137242704,Troy,2004,Action|Adventure|Drama|War,Brantley,Smith,36
+4784,268,8360,2.5,1138612749,Shrek 2,2004,Adventure|Animation|Children|Comedy|Musical|Romance,Brantley,Smith,36
+4785,268,8622,2,1139769057,Fahrenheit 9/11,2004,Documentary,Brantley,Smith,36
+4786,268,8636,2,1138052321,Spider-Man 2,2004,Action|Adventure|Sci-Fi|IMAX,Brantley,Smith,36
+4787,268,8644,3,1144702366,I,2004,Action|Adventure|Sci-Fi|Thriller,Brantley,Smith,36
+4788,268,8914,2.5,1144702691,Primer,2004,Drama|Sci-Fi,Brantley,Smith,36
+4789,268,8961,2,1135773494,Incredibles,2004,Action|Adventure|Animation|Children|Comedy,Brantley,Smith,36
+4790,268,8972,2,1137494437,National Treasure,2004,Action|Adventure|Drama|Mystery|Thriller,Brantley,Smith,36
+4791,268,32587,2,1135773625,Sin City,2005,Action|Crime|Film-Noir|Mystery|Thriller,Brantley,Smith,36
+4792,268,33493,2.5,1139768915,Star Wars: Episode III - Revenge of the Sith,2005,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4793,268,33794,3.5,1135773208,Batman Begins,2005,Action|Crime|IMAX,Brantley,Smith,36
+4794,268,37733,3,1137251230,History of Violence,2005,Action|Crime|Drama|Thriller,Brantley,Smith,36
+4795,268,44191,5,1144695022,V for Vendetta,2006,Action|Sci-Fi|Thriller|IMAX,Brantley,Smith,36
+4796,268,1193,5,1135771233,One Flew Over the Cuckoo's Nest,1975,Drama,Brantley,Smith,36
+4797,268,1213,2.5,1135774491,Goodfellas,1990,Crime|Drama,Brantley,Smith,36
+4798,268,2329,2,1135773231,American History X,1998,Crime|Drama,Brantley,Smith,36
+4799,268,3949,4,1135771326,Requiem for a Dream,2000,Drama,Brantley,Smith,36
+4800,268,4973,4.5,1137408045,Amelie (Fabuleux destin d'Amélie Poulain,2001,Comedy|Romance,Brantley,Smith,36
+4801,268,5995,2,1135773060,Pianist,2002,Drama|War,Brantley,Smith,36
+4802,268,8784,3,1135773666,Garden State,2004,Comedy|Drama|Romance,Brantley,Smith,36
+4803,268,8950,2.5,1135772915,The Machinist,2004,Drama|Mystery|Thriller,Brantley,Smith,36
+4804,268,111,5,1135771408,Taxi Driver,1976,Crime|Drama|Thriller,Brantley,Smith,36
+4805,268,208,2.5,1135774404,Waterworld,1995,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4806,268,337,2.5,1135773848,What's Eating Gilbert Grape,1993,Drama,Brantley,Smith,36
+4807,268,501,4.5,1135771136,Naked,1993,Drama,Brantley,Smith,36
+4808,268,594,2.5,1137696267,Snow White and the Seven Dwarfs,1937,Animation|Children|Drama|Fantasy|Musical,Brantley,Smith,36
+4809,268,904,2.5,1135774763,Rear Window,1954,Mystery|Thriller,Brantley,Smith,36
+4810,268,923,2,1135773174,Citizen Kane,1941,Drama|Mystery,Brantley,Smith,36
+4811,268,1199,4,1144702600,Brazil,1985,Fantasy|Sci-Fi,Brantley,Smith,36
+4812,268,1206,4,1135770845,Clockwork Orange,1971,Crime|Drama|Sci-Fi|Thriller,Brantley,Smith,36
+4813,268,1225,2.5,1135773794,Amadeus,1984,Drama,Brantley,Smith,36
+4814,268,1258,3,1135772988,Shining,1980,Horror,Brantley,Smith,36
+4815,268,1282,2.5,1144702323,Fantasia,1940,Animation|Children|Fantasy|Musical,Brantley,Smith,36
+4816,268,1307,2,1135774464,When Harry Met Sally...,1989,Comedy|Romance,Brantley,Smith,36
+4817,268,1635,3,1135773688,Ice Storm,1997,Drama,Brantley,Smith,36
+4818,268,1952,2.5,1148976074,Midnight Cowboy,1969,Drama,Brantley,Smith,36
+4819,268,2010,2,1137254997,Metropolis,1927,Drama|Sci-Fi,Brantley,Smith,36
+4820,268,2324,2,1135774768,Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,Brantley,Smith,36
+4821,268,2396,2.5,1135774438,Shakespeare in Love,1998,Comedy|Drama|Romance,Brantley,Smith,36
+4822,268,3081,3.5,1135770836,Sleepy Hollow,1999,Fantasy|Horror|Mystery|Romance,Brantley,Smith,36
+4823,268,1380,3,1144702293,Grease,1978,Comedy|Musical|Romance,Brantley,Smith,36
+4824,268,3897,2,1135774704,Almost Famous,2000,Drama,Brantley,Smith,36
+4825,268,2908,1.5,1135773938,Boys Don't Cry,1999,Drama,Brantley,Smith,36
+4826,268,3147,2.5,1139769035,Green Mile,1999,Crime|Drama,Brantley,Smith,36
+4827,268,5618,1.5,1135772820,Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure|Animation|Fantasy,Brantley,Smith,36
+4828,268,2023,3,1144702288,Godfather: Part III,1990,Crime|Drama|Mystery|Thriller,Brantley,Smith,36
+4829,268,3556,4,1135771774,Virgin Suicides,1999,Drama|Romance,Brantley,Smith,36
+4830,268,3993,5,1135771308,Quills,2000,Drama|Romance,Brantley,Smith,36
+4831,268,235,2,1135773761,Ed Wood,1994,Comedy|Drama,Brantley,Smith,36
+4832,268,282,0.5,1137696406,Nell,1994,Drama,Brantley,Smith,36
+4833,268,357,1.5,1137696194,Four Weddings and a Funeral,1994,Comedy|Romance,Brantley,Smith,36
+4834,268,737,1.5,1137250910,Barb Wire,1996,Action|Sci-Fi,Brantley,Smith,36
+4835,268,3730,3,1135773134,Conversation,1974,Drama|Mystery,Brantley,Smith,36
+4836,268,3271,1.5,1137242821,Of Mice and Men,1992,Drama,Brantley,Smith,36
+4837,268,1231,2.5,1148975926,Right Stuff,1983,Drama,Brantley,Smith,36
+4838,268,1292,3,1135773830,Being There,1979,Comedy|Drama,Brantley,Smith,36
+4839,268,1965,3,1148975908,Repo Man,1984,Comedy|Sci-Fi,Brantley,Smith,36
+4840,268,1073,2.5,1137407738,Willy Wonka & the Chocolate Factory,1971,Children|Comedy|Fantasy|Musical,Brantley,Smith,36
+4841,268,1097,2.5,1135774351,E.T. the Extra-Terrestrial,1982,Children|Drama|Sci-Fi,Brantley,Smith,36
+4842,268,1304,2.5,1135774674,Butch Cassidy and the Sundance Kid,1969,Action|Western,Brantley,Smith,36
+4843,268,1246,3.5,1144702635,Dead Poets Society,1989,Drama,Brantley,Smith,36
+4844,268,6711,5,1135771044,Lost in Translation,2003,Comedy|Drama|Romance,Brantley,Smith,36
+4845,268,8533,1.5,1141937745,Notebook,2004,Drama|Romance,Brantley,Smith,36
+4846,268,1345,1.5,1137494316,Carrie,1976,Drama|Fantasy|Horror|Thriller,Brantley,Smith,36
+4847,268,2118,2.5,1141937669,Dead Zone,1983,Thriller,Brantley,Smith,36
+4848,268,4027,2,1135773779,O Brother,2000,Adventure|Comedy|Crime,Brantley,Smith,36
+4849,268,4641,4,1135770420,Ghost World,2001,Comedy|Drama,Brantley,Smith,36
+4850,268,4848,3,1135773288,Mulholland Drive,2001,Crime|Drama|Film-Noir|Mystery|Thriller,Brantley,Smith,36
+4851,268,4865,3,1137250860,From Hell,2001,Crime|Horror|Mystery|Thriller,Brantley,Smith,36
+4852,268,5902,3,1135772962,Adaptation,2002,Comedy|Drama|Romance,Brantley,Smith,36
+4853,268,8910,4.5,1135770507,I Heart Huckabees,2004,Comedy,Brantley,Smith,36
+4854,268,30810,4.5,1164561793,Life Aquatic with Steve Zissou,2004,Adventure|Comedy|Fantasy,Brantley,Smith,36
+4855,268,34437,4,1135769842,Broken Flowers,2005,Comedy|Drama,Brantley,Smith,36
+4856,268,247,1.5,1135773409,Heavenly Creatures,1994,Crime|Drama,Brantley,Smith,36
+4857,268,2692,2,1135773098,Run Lola Run (Lola rennt),1998,Action|Crime,Brantley,Smith,36
+4858,268,3535,4,1135769638,American Psycho,2000,Crime|Horror|Mystery|Thriller,Brantley,Smith,36
+4859,268,4103,2.5,1135773567,Empire of the Sun,1987,Action|Adventure|Drama|War,Brantley,Smith,36
+4860,268,1408,1,1137494024,Last of the Mohicans,1992,Action|Romance|War|Western,Brantley,Smith,36
+4861,268,1573,1.5,1135774657,Face/Off,1997,Action|Crime|Drama|Thriller,Brantley,Smith,36
+4862,268,783,2,1137494766,Hunchback of Notre Dame,1996,Animation|Children|Drama|Musical|Romance,Brantley,Smith,36
+4863,268,3504,4.5,1135771177,Network,1976,Comedy|Drama,Brantley,Smith,36
+4864,268,4370,3,1138612781,A.I. Artificial Intelligence,2001,Adventure|Drama|Sci-Fi,Brantley,Smith,36
+4865,268,5669,2,1137251212,Bowling for Columbine,2002,Documentary,Brantley,Smith,36
+4866,268,1228,2.5,1135773191,Raging Bull,1980,Drama,Brantley,Smith,36
+4867,268,1293,1.5,1137242522,Gandhi,1982,Drama,Brantley,Smith,36
+4868,268,1619,2.5,1137494287,Seven Years in Tibet,1997,Adventure|Drama|War,Brantley,Smith,36
+4869,268,1956,3.5,1144702651,Ordinary People,1980,Drama,Brantley,Smith,36
+4870,268,3418,1.5,1137242438,Thelma & Louise,1991,Adventure|Crime|Drama,Brantley,Smith,36
+4871,268,4349,3.5,1144702631,Catch-22,1970,Comedy|War,Brantley,Smith,36
+4872,268,5971,1.5,1135773373,My Neighbor Totoro (Tonari no Totoro),1988,Animation|Children|Drama|Fantasy,Brantley,Smith,36
+4873,268,5060,2.5,1137494746,M*A*S*H (a.k.a. MASH),1970,Comedy|Drama|War,Brantley,Smith,36
+4874,268,5881,2,1138357275,Solaris,2002,Drama|Romance|Sci-Fi,Brantley,Smith,36

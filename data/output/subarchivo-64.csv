@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+7875,549,2671,4,1238321464,Notting Hill,1999,Comedy|Romance,Dariel,Smith,57
+7876,549,2871,5,1238319459,Deliverance,1972,Adventure|Drama|Thriller,Dariel,Smith,57
+7877,549,3362,5,1238318169,Dog Day Afternoon,1975,Crime|Drama,Dariel,Smith,57
+7878,549,3418,5,1238321414,Thelma & Louise,1991,Adventure|Crime|Drama,Dariel,Smith,57
+7879,549,3543,5,1238319455,Diner,1982,Comedy|Drama,Dariel,Smith,57
+7880,549,3624,3.5,1238322424,Shanghai Noon,2000,Action|Adventure|Comedy|Western,Dariel,Smith,57
+7881,549,3681,4.5,1238316852,For a Few Dollars More (Per qualche dollaro in più),1965,Action|Drama|Thriller|Western,Dariel,Smith,57
+7882,549,3735,5,1238318037,Serpico,1973,Crime|Drama,Dariel,Smith,57
+7883,549,3741,5,1238319336,Badlands,1973,Crime|Drama|Thriller,Dariel,Smith,57
+7884,549,4369,2.5,1238329944,Fast and the Furious,2001,Action|Crime|Thriller,Dariel,Smith,57
+7885,549,4855,4.5,1238316546,Dirty Harry,1971,Action|Crime|Thriller,Dariel,Smith,57
+7886,549,5747,4.5,1238316865,Gallipoli,1981,Drama|War,Dariel,Smith,57
+7887,549,5971,4.5,1238319666,My Neighbor Totoro (Tonari no Totoro),1988,Animation|Children|Drama|Fantasy,Dariel,Smith,57
+7888,549,18,2.5,1238330361,Four Rooms,1995,Comedy,Dariel,Smith,57
+7889,549,1499,2,1238330081,Anaconda,1997,Action|Adventure|Thriller,Dariel,Smith,57
+7890,549,1717,3.5,1238322634,Scream 2,1997,Comedy|Horror|Mystery|Thriller,Dariel,Smith,57
+7891,549,2340,2.5,1238330489,Meet Joe Black,1998,Romance,Dariel,Smith,57
+7892,549,2409,3.5,1238330313,Rocky II,1979,Action|Drama,Dariel,Smith,57
+7893,549,2411,2,1238330704,Rocky IV,1985,Action|Drama,Dariel,Smith,57
+7894,549,5060,5,1238315303,M*A*S*H (a.k.a. MASH),1970,Comedy|Drama|War,Dariel,Smith,57
+7895,549,7090,4.5,1238318508,Hero (Ying xiong),2002,Action|Adventure|Drama,Dariel,Smith,57
+7896,549,306,5,1238322416,Three Colors: Red (Trois couleurs: Rouge),1994,Drama,Dariel,Smith,57
+7897,549,475,4,1238318944,In the Name of the Father,1993,Drama,Dariel,Smith,57
+7898,549,898,5,1238322693,Philadelphia Story,1940,Comedy|Drama|Romance,Dariel,Smith,57
+7899,549,1104,5,1238329861,Streetcar Named Desire,1951,Drama,Dariel,Smith,57
+7900,549,1172,5,1238322004,Cinema Paradiso (Nuovo cinema Paradiso),1989,Drama,Dariel,Smith,57
+7901,549,1175,4.5,1238322794,Delicatessen,1991,Comedy|Drama|Romance,Dariel,Smith,57
+7902,549,1179,4.5,1238322412,Grifters,1990,Crime|Drama|Film-Noir,Dariel,Smith,57
+7903,549,1185,4.5,1238330044,My Left Foot,1989,Drama,Dariel,Smith,57
+7904,549,1263,5,1238318838,Deer Hunter,1978,Drama|War,Dariel,Smith,57
+7905,549,1945,5,1238315523,On the Waterfront,1954,Crime|Drama,Dariel,Smith,57
+7906,549,2076,5,1238322172,Blue Velvet,1986,Drama|Mystery|Thriller,Dariel,Smith,57
+7907,549,2248,4.5,1238319205,Say Anything...,1989,Comedy|Drama|Romance,Dariel,Smith,57
+7908,549,2599,4.5,1238314805,Election,1999,Comedy,Dariel,Smith,57
+7909,549,6380,5,1238319402,Capturing the Friedmans,2003,Documentary,Dariel,Smith,57
+7910,549,2232,3.5,1238330245,Cube,1997,Horror|Mystery|Sci-Fi|Thriller,Dariel,Smith,57
+7911,549,6953,4.5,1238330872,21 Grams,2003,Crime|Drama|Mystery|Romance|Thriller,Dariel,Smith,57
+7912,549,57669,4,1238315840,In Bruges,2008,Comedy|Crime|Drama|Thriller,Dariel,Smith,57
+7913,549,926,5,1238330937,All About Eve,1950,Drama,Dariel,Smith,57
+7914,549,968,5,1238322332,Night of the Living Dead,1968,Horror|Sci-Fi|Thriller,Dariel,Smith,57
+7915,549,1027,3,1238322302,Robin Hood: Prince of Thieves,1991,Adventure|Drama,Dariel,Smith,57
+7916,549,1253,5,1238315270,Day the Earth Stood Still,1951,Drama|Sci-Fi|Thriller,Dariel,Smith,57
+7917,549,1283,5,1238315498,High Noon,1952,Drama|Western,Dariel,Smith,57
+7918,549,1287,5,1238319356,Ben-Hur,1959,Action|Adventure|Drama,Dariel,Smith,57
+7919,549,1301,4.5,1238319511,Forbidden Planet,1956,Drama|Sci-Fi,Dariel,Smith,57
+7920,549,1350,4,1238330339,Omen,1976,Horror|Mystery|Thriller,Dariel,Smith,57
+7921,549,1358,4.5,1238318330,Sling Blade,1996,Drama,Dariel,Smith,57
+7922,549,1378,3,1238322646,Young Guns,1988,Action|Comedy|Western,Dariel,Smith,57
+7923,549,1479,2,1238322149,Saint,1997,Action|Romance|Sci-Fi|Thriller,Dariel,Smith,57
+7924,549,1835,2,1238330493,City of Angels,1998,Drama|Fantasy|Romance,Dariel,Smith,57
+7925,549,1954,5,1238319203,Rocky,1976,Drama,Dariel,Smith,57
+7926,549,1960,5,1238318979,Last Emperor,1987,Drama,Dariel,Smith,57
+7927,549,2013,4,1238330060,Poseidon Adventure,1972,Action|Adventure|Drama,Dariel,Smith,57
+7928,549,2421,3,1238330004,Karate Kid,1986,Action|Adventure|Drama,Dariel,Smith,57
+7929,549,3510,3,1238322339,Frequency,2000,Drama|Thriller,Dariel,Smith,57
+7930,549,26614,4,1238319371,Bourne Identity,1988,Action|Adventure|Drama|Mystery|Thriller,Dariel,Smith,57
+7931,549,1032,4,1238322449,Alice in Wonderland,1951,Adventure|Animation|Children|Fantasy|Musical,Dariel,Smith,57
+7932,549,1061,3,1238322067,Sleepers,1996,Thriller,Dariel,Smith,57
+7933,549,1955,4.5,1238319595,Kramer vs. Kramer,1979,Drama,Dariel,Smith,57
+7934,549,2572,3.5,1238321692,10 Things I Hate About You,1999,Comedy|Romance,Dariel,Smith,57
+7935,549,5341,4.5,1238318981,Lenny,1974,Drama,Dariel,Smith,57
+7936,549,29,4.5,1238322223,City of Lost Children,1995,Adventure|Drama|Fantasy|Mystery|Sci-Fi,Dariel,Smith,57
+7937,549,88,2,1238330499,Black Sheep,1996,Comedy,Dariel,Smith,57
+7938,549,308,4,1238330192,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Dariel,Smith,57
+7939,549,355,2,1238321688,Flintstones,1994,Children|Comedy|Fantasy,Dariel,Smith,57
+7940,549,1103,5,1238319183,Rebel Without a Cause,1955,Drama,Dariel,Smith,57
+7941,549,1388,3,1238330825,Jaws 2,1978,Horror|Thriller,Dariel,Smith,57
+7942,549,1513,3,1238322140,Romy and Michele's High School Reunion,1997,Comedy,Dariel,Smith,57
+7943,549,1693,4,1238330606,Amistad,1997,Drama|Mystery,Dariel,Smith,57
+7944,549,2124,3.5,1238322305,Addams Family,1991,Children|Comedy|Fantasy,Dariel,Smith,57
+7945,549,2313,5,1238322798,Elephant Man,1980,Drama,Dariel,Smith,57
+7946,549,2795,4,1238319798,National Lampoon's Vacation,1983,Comedy,Dariel,Smith,57
+7947,549,3168,5,1238330501,Easy Rider,1969,Adventure|Drama,Dariel,Smith,57
+7948,549,3435,5,1238315271,Double Indemnity,1944,Crime|Drama|Film-Noir,Dariel,Smith,57
+7949,549,3989,4.5,1238315068,One Day in September,1999,Documentary,Dariel,Smith,57
+7950,549,4361,5,1238322365,Tootsie,1982,Comedy|Romance,Dariel,Smith,57
+7951,549,4407,4.5,1238318639,Salvador,1986,Drama|Thriller|War,Dariel,Smith,57
+7952,549,4816,4,1238329882,Zoolander,2001,Comedy,Dariel,Smith,57
+7953,549,5291,5,1238319699,Rashomon (Rashômon),1950,Crime|Drama|Mystery,Dariel,Smith,57
+7954,549,5617,4.5,1238318648,Secretary,2002,Comedy|Drama|Romance,Dariel,Smith,57
+7955,549,5630,3.5,1238330597,Red Dragon,2002,Crime|Mystery|Thriller,Dariel,Smith,57
+7956,549,7022,4,1238318397,Battle Royale (Batoru rowaiaru),2000,Action|Drama|Horror|Thriller,Dariel,Smith,57
+7957,549,8042,5,1238318561,Mean Streets,1973,Crime|Drama,Dariel,Smith,57
+7958,549,33154,4.5,1238315292,Enron: The Smartest Guys in the Room,2005,Documentary,Dariel,Smith,57
+7959,549,47629,4.5,1238318013,The Queen,2006,Drama,Dariel,Smith,57
+7960,549,63876,4.5,1238315143,Milk,2008,Drama,Dariel,Smith,57
+7961,549,3148,3.5,1238319409,Cider House Rules,1999,Drama,Dariel,Smith,57
+7962,549,319,4.5,1238318671,Shallow Grave,1994,Comedy|Drama|Thriller,Dariel,Smith,57
+7963,549,800,4.5,1238319611,Lone Star,1996,Drama|Mystery|Western,Dariel,Smith,57
+7964,549,1729,4.5,1238319567,Jackie Brown,1997,Crime|Drama|Thriller,Dariel,Smith,57
+7965,549,2384,4.5,1238330310,Babe: Pig in the City,1998,Adventure|Children|Drama,Dariel,Smith,57
+7966,549,3100,4,1238330133,River Runs Through It,1992,Drama,Dariel,Smith,57
+7967,549,6987,5,1238319400,Cabinet of Dr. Caligari,1920,Crime|Fantasy|Horror,Dariel,Smith,57
+7968,549,47894,4.5,1238316521,Wind That Shakes the Barley,2006,Drama|War,Dariel,Smith,57
+7969,549,54995,4,1238319684,Planet Terror,2007,Action|Horror|Sci-Fi,Dariel,Smith,57
+7970,549,60684,3.5,1238315121,Watchmen,2009,Action|Drama|Mystery|Sci-Fi|Thriller|IMAX,Dariel,Smith,57
+7971,549,413,2.5,1238330011,Airheads,1994,Comedy,Dariel,Smith,57
+7972,549,951,5,1238318917,His Girl Friday,1940,Comedy|Romance,Dariel,Smith,57
+7973,549,3030,5,1238315487,Yojimbo,1961,Action|Adventure,Dariel,Smith,57
+7974,549,3200,4.5,1238315390,Last Detail,1973,Comedy|Drama,Dariel,Smith,57
+7975,549,3683,5,1238318133,Blood Simple,1984,Crime|Drama|Film-Noir,Dariel,Smith,57
+7976,549,3814,4.5,1238319615,Love and Death,1975,Comedy,Dariel,Smith,57
+7977,549,8638,5,1238319340,Before Sunset,2004,Drama|Romance,Dariel,Smith,57
+7978,549,30707,5,1238315412,Million Dollar Baby,2004,Drama,Dariel,Smith,57
+7979,549,3752,3.5,1238322419,Me,2000,Adventure|Comedy,Dariel,Smith,57
+7980,549,2719,2,1238330518,Haunting,1999,Horror|Thriller,Dariel,Smith,57
+7981,549,1614,3.5,1238330394,In & Out,1997,Comedy,Dariel,Smith,57
+7982,549,2020,5,1238319428,Dangerous Liaisons,1988,Drama|Romance,Dariel,Smith,57
+7983,549,2729,4.5,1238318986,Lolita,1962,Drama|Romance,Dariel,Smith,57
+7984,549,3105,3.5,1238322786,Awakenings,1990,Drama|Mystery,Dariel,Smith,57
+7985,549,3108,4.5,1238322270,Fisher King,1991,Comedy|Drama|Fantasy|Romance,Dariel,Smith,57
+7986,549,5013,5,1238329991,Gosford Park,2001,Comedy|Drama|Mystery,Dariel,Smith,57
+7987,549,2951,4.5,1238318175,Fistful of Dollars,1964,Action|Western,Dariel,Smith,57
+7988,549,3462,5,1238319641,Modern Times,1936,Comedy|Drama|Romance,Dariel,Smith,57
+7989,549,3469,5,1238317567,Inherit the Wind,1960,Drama,Dariel,Smith,57
+7990,549,4007,4,1238318737,Wall Street,1987,Drama,Dariel,Smith,57
+7991,549,4299,2.5,1238330441,Knight's Tale,2001,Action|Comedy|Romance,Dariel,Smith,57
+7992,549,6565,3.5,1238330983,Seabiscuit,2003,Drama,Dariel,Smith,57
+7993,549,6787,5,1238316524,All the President's Men,1976,Drama|Thriller,Dariel,Smith,57
+7994,549,6796,5,1238315802,Boyz N the Hood,1991,Crime|Drama,Dariel,Smith,57
+7995,549,7156,5,1238315376,Fog of War: Eleven Lessons from the Life of Robert S. McNamara,2003,Documentary|War,Dariel,Smith,57
+7996,549,8970,3.5,1238318878,Finding Neverland,2004,Drama,Dariel,Smith,57
+7997,549,26729,5,1238315099,Hearts of Darkness: A Filmmakers Apocalypse,1991,Documentary,Dariel,Smith,57
+7998,549,30812,4.5,1238330964,Aviator,2004,Drama,Dariel,Smith,57
+7999,549,36517,4.5,1238318824,Constant Gardener,2005,Drama|Thriller,Dariel,Smith,57

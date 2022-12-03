@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+6750,495,307,2.5,1225744550,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Jase,Smith,22
+6751,495,1962,3,986146047,Driving Miss Daisy,1989,Drama,Jase,Smith,22
+6752,495,1221,1,1228773939,Godfather: Part II,1974,Crime|Drama,Jase,Smith,22
+6753,495,2028,3,986146032,Saving Private Ryan,1998,Action|Drama|War,Jase,Smith,22
+6754,495,10,0.5,1228774038,GoldenEye,1995,Action|Adventure|Thriller,Jase,Smith,22
+6755,495,32,4.5,1225744817,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Jase,Smith,22
+6756,495,47,4.5,1225744844,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Jase,Smith,22
+6757,495,110,3,1225744774,Braveheart,1995,Action|Drama|War,Jase,Smith,22
+6758,495,150,3.5,1225744780,Apollo 13,1995,Adventure|Drama|IMAX,Jase,Smith,22
+6759,495,231,0.5,1225744888,Dumb & Dumber (Dumb and Dumber),1994,Adventure|Comedy,Jase,Smith,22
+6760,495,260,4,986145854,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Jase,Smith,22
+6761,495,293,5,1225745096,Léon: The Professional (a.k.a. The Professional) (Léon),1994,Action|Crime|Drama|Thriller,Jase,Smith,22
+6762,495,296,3.5,1225744757,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Jase,Smith,22
+6763,495,318,5,986145704,Shawshank Redemption,1994,Crime|Drama,Jase,Smith,22
+6764,495,339,4,1225745026,While You Were Sleeping,1995,Comedy|Romance,Jase,Smith,22
+6765,495,356,4,1225744765,Forrest Gump,1994,Comedy|Drama|Romance|War,Jase,Smith,22
+6766,495,480,3,986144863,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Jase,Smith,22
+6767,495,500,2,1225744885,Mrs. Doubtfire,1993,Comedy|Drama,Jase,Smith,22
+6768,495,527,3,986145898,Schindler's List,1993,Drama|War,Jase,Smith,22
+6769,495,539,4,1225744929,Sleepless in Seattle,1993,Comedy|Drama|Romance,Jase,Smith,22
+6770,495,587,4,1225744926,Ghost,1990,Comedy|Drama|Fantasy|Romance|Thriller,Jase,Smith,22
+6771,495,590,4,1225744787,Dances with Wolves,1990,Adventure|Drama|Western,Jase,Smith,22
+6772,495,593,5,986144802,Silence of the Lambs,1991,Crime|Horror|Thriller,Jase,Smith,22
+6773,495,597,3.5,1225744881,Pretty Woman,1990,Comedy|Romance,Jase,Smith,22
+6774,495,608,4,986145802,Fargo,1996,Comedy|Crime|Drama|Thriller,Jase,Smith,22
+6775,495,778,5,1225744393,Trainspotting,1996,Comedy|Crime|Drama,Jase,Smith,22
+6776,495,780,3,1225744792,Independence Day (a.k.a. ID4),1996,Action|Adventure|Sci-Fi|Thriller,Jase,Smith,22
+6777,495,858,1,1228773937,Godfather,1972,Crime|Drama,Jase,Smith,22
+6778,495,924,4,986145854,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Jase,Smith,22
+6779,495,1079,4.5,1225745174,Fish Called Wanda,1988,Comedy|Crime,Jase,Smith,22
+6780,495,1136,4,986145825,Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,Jase,Smith,22
+6781,495,1207,5,986145740,To Kill a Mockingbird,1962,Drama,Jase,Smith,22
+6782,495,1214,4.5,1225744997,Alien,1979,Horror|Sci-Fi,Jase,Smith,22
+6783,495,1259,4.5,1225745163,Stand by Me,1986,Adventure|Drama,Jase,Smith,22
+6784,495,1265,4,1225744955,Groundhog Day,1993,Comedy|Fantasy|Romance,Jase,Smith,22
+6785,495,1270,4,986146032,Back to the Future,1985,Adventure|Comedy|Sci-Fi,Jase,Smith,22
+6786,495,1704,4,986145898,Good Will Hunting,1997,Drama|Romance,Jase,Smith,22
+6787,495,1721,3.5,1225744910,Titanic,1997,Drama|Romance,Jase,Smith,22
+6788,495,1784,4.5,1225745124,As Good as It Gets,1997,Comedy|Drama|Romance,Jase,Smith,22
+6789,495,1923,3,1225745074,There's Something About Mary,1998,Comedy|Romance,Jase,Smith,22
+6790,495,1961,4.5,1225745045,Rain Man,1988,Drama,Jase,Smith,22
+6791,495,2194,3,986576106,Untouchables,1987,Action|Crime|Drama,Jase,Smith,22
+6792,495,2571,5,1225744837,Matrix,1999,Action|Sci-Fi|Thriller,Jase,Smith,22
+6793,495,2617,1,986144894,Mummy,1999,Action|Adventure|Comedy|Fantasy|Horror|Thriller,Jase,Smith,22
+6794,495,2628,3,1225744937,Star Wars: Episode I - The Phantom Menace,1999,Action|Adventure|Sci-Fi,Jase,Smith,22
+6795,495,2706,3.5,1225745118,American Pie,1999,Comedy|Romance,Jase,Smith,22
+6796,495,2762,5,986146002,Sixth Sense,1999,Drama|Horror|Mystery,Jase,Smith,22
+6797,495,2858,5,986144864,American Beauty,1999,Drama|Romance,Jase,Smith,22
+6798,495,2918,4,986144894,Ferris Bueller's Day Off,1986,Comedy,Jase,Smith,22
+6799,495,2959,2.5,1225744972,Fight Club,1999,Action|Crime|Drama|Thriller,Jase,Smith,22
+6800,495,3481,5,986146174,High Fidelity,2000,Comedy|Drama|Romance,Jase,Smith,22
+6801,495,3527,1,986576150,Predator,1987,Action|Sci-Fi|Thriller,Jase,Smith,22
+6802,495,3578,3.5,1225745000,Gladiator,2000,Action|Adventure|Drama,Jase,Smith,22
+6803,495,3751,4,986146142,Chicken Run,2000,Animation|Children|Comedy,Jase,Smith,22
+6804,495,3809,2,986144833,What About Bob?,1991,Comedy,Jase,Smith,22
+6805,495,3977,2.5,1225745322,Charlie's Angels,2000,Action|Comedy,Jase,Smith,22
+6806,495,3996,4.5,1225745081,Crouching Tiger,2000,Action|Drama|Romance,Jase,Smith,22
+6807,495,4018,4,986146550,What Women Want,2000,Comedy|Romance,Jase,Smith,22
+6808,495,4022,3.5,1225745301,Cast Away,2000,Drama,Jase,Smith,22
+6809,495,4896,4,1225748459,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),2001,Adventure|Children|Fantasy,Jase,Smith,22
+6810,495,4993,5,1225744983,Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy,Jase,Smith,22
+6811,495,4995,4,1225745266,Beautiful Mind,2001,Drama|Romance,Jase,Smith,22
+6812,495,5378,4,1225748843,Star Wars: Episode II - Attack of the Clones,2002,Action|Adventure|Sci-Fi|IMAX,Jase,Smith,22
+6813,495,5816,4,1225748467,Harry Potter and the Chamber of Secrets,2002,Adventure|Fantasy,Jase,Smith,22
+6814,495,5952,5,1225745023,Lord of the Rings: The Two Towers,2002,Adventure|Fantasy,Jase,Smith,22
+6815,495,6365,1.5,1225749231,Matrix Reloaded,2003,Action|Adventure|Sci-Fi|Thriller|IMAX,Jase,Smith,22
+6816,495,6377,4.5,1225745256,Finding Nemo,2003,Adventure|Animation|Children|Comedy,Jase,Smith,22
+6817,495,6934,1,1225749237,Matrix Revolutions,2003,Action|Adventure|Sci-Fi|Thriller|IMAX,Jase,Smith,22
+6818,495,7153,5,1225745113,Lord of the Rings: The Return of the King,2003,Action|Adventure|Drama|Fantasy,Jase,Smith,22
+6819,495,7361,5,1225744275,Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,Jase,Smith,22
+6820,495,33493,4.5,1225748824,Star Wars: Episode III - Revenge of the Sith,2005,Action|Adventure|Sci-Fi,Jase,Smith,22
+6821,495,34319,3.5,1228772006,Island,2005,Action|Sci-Fi|Thriller,Jase,Smith,22
+6822,495,44191,4,1225748790,V for Vendetta,2006,Action|Sci-Fi|Thriller|IMAX,Jase,Smith,22
+6823,495,56367,5,1225744328,Juno,2007,Comedy|Drama|Romance,Jase,Smith,22
+6824,495,1193,5,986145778,One Flew Over the Cuckoo's Nest,1975,Drama,Jase,Smith,22
+6825,495,4973,5,1225744266,Amelie (Fabuleux destin d'Amélie Poulain,2001,Comedy|Romance,Jase,Smith,22
+6826,495,8784,4,1225744574,Garden State,2004,Comedy|Drama|Romance,Jase,Smith,22
+6827,495,46578,5,1225744338,Little Miss Sunshine,2006,Adventure|Comedy|Drama,Jase,Smith,22
+6828,495,48696,4.5,1235420231,Little Children,2006,Drama|Romance,Jase,Smith,22
+6829,495,55247,4.5,1235420032,Into the Wild,2007,Action|Adventure|Drama,Jase,Smith,22
+6830,495,56782,4.5,1225748650,There Will Be Blood,2007,Drama|Western,Jase,Smith,22
+6831,495,111,2,986145825,Taxi Driver,1976,Crime|Drama|Thriller,Jase,Smith,22
+6832,495,208,3,1225744968,Waterworld,1995,Action|Adventure|Sci-Fi,Jase,Smith,22
+6833,495,337,5,1225745219,What's Eating Gilbert Grape,1993,Drama,Jase,Smith,22
+6834,495,910,2,986145802,Some Like It Hot,1959,Comedy|Crime,Jase,Smith,22
+6835,495,1307,4,986576085,When Harry Met Sally...,1989,Comedy|Romance,Jase,Smith,22
+6836,495,1635,5,986576066,Ice Storm,1997,Drama,Jase,Smith,22
+6837,495,2116,1,986144894,Lord of the Rings,1978,Adventure|Animation|Children|Fantasy,Jase,Smith,22
+6838,495,2324,4,986145778,Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,Jase,Smith,22
+6839,495,2396,4,1225745034,Shakespeare in Love,1998,Comedy|Drama|Romance,Jase,Smith,22
+6840,495,3072,4,986144894,Moonstruck,1987,Comedy|Romance,Jase,Smith,22
+6841,495,3897,4,1225745236,Almost Famous,2000,Drama,Jase,Smith,22
+6842,495,2908,5,986145802,Boys Don't Cry,1999,Drama,Jase,Smith,22
+6843,495,58559,4.5,1235419988,Dark Knight,2008,Action|Crime|Drama|IMAX,Jase,Smith,22
+6844,495,2023,1,1228773941,Godfather: Part III,1990,Crime|Drama|Mystery|Thriller,Jase,Smith,22
+6845,495,8368,5,1225748453,Harry Potter and the Prisoner of Azkaban,2004,Adventure|Fantasy|IMAX,Jase,Smith,22
+6846,495,40815,4.5,1225748464,Harry Potter and the Goblet of Fire,2005,Adventure|Fantasy|Thriller|IMAX,Jase,Smith,22
+6847,495,44555,5,1225748884,Lives of Others,2006,Drama|Romance|Thriller,Jase,Smith,22
+6848,495,54001,4.5,1225748449,Harry Potter and the Order of the Phoenix,2007,Adventure|Drama|Fantasy|IMAX,Jase,Smith,22
+6849,495,232,5,1225744445,Eat Drink Man Woman (Yin shi nan nu),1994,Comedy|Drama|Romance,Jase,Smith,22
+6850,495,357,4.5,1225744944,Four Weddings and a Funeral,1994,Comedy|Romance,Jase,Smith,22
+6851,495,497,4.5,1225747997,Much Ado About Nothing,1993,Comedy|Romance,Jase,Smith,22
+6852,495,1097,4.5,1225744907,E.T. the Extra-Terrestrial,1982,Children|Drama|Sci-Fi,Jase,Smith,22
+6853,495,6711,5,1225744543,Lost in Translation,2003,Comedy|Drama|Romance,Jase,Smith,22
+6854,495,34048,3,1225749850,War of the Worlds,2005,Action|Adventure|Sci-Fi|Thriller,Jase,Smith,22
+6855,495,61323,4.5,1225744668,Burn After Reading,2008,Comedy|Crime|Drama,Jase,Smith,22
+6856,495,247,4,1225744505,Heavenly Creatures,1994,Crime|Drama,Jase,Smith,22
+6857,495,2692,5,986145919,Run Lola Run (Lola rennt),1998,Action|Crime,Jase,Smith,22
+6858,495,3408,3,986146229,Erin Brockovich,2000,Drama,Jase,Smith,22
+6859,495,3594,1,986146566,Center Stage,2000,Drama|Musical,Jase,Smith,22
+6860,495,3967,4.5,1225744557,Billy Elliot,2000,Drama,Jase,Smith,22
+6861,495,4014,5,986146194,Chocolat,2000,Drama|Romance,Jase,Smith,22
+6862,495,4062,2,986576150,Mystic Pizza,1988,Comedy|Drama|Romance,Jase,Smith,22
+6863,495,39183,5,1225744561,Brokeback Mountain,2005,Drama|Romance,Jase,Smith,22
+6864,495,63113,0.5,1228774059,Quantum of Solace,2008,Action|Adventure|Thriller,Jase,Smith,22
+6865,495,5014,4.5,1225749878,I Am Sam,2001,Drama,Jase,Smith,22
+6866,495,6953,5,1225748576,21 Grams,2003,Crime|Drama|Mystery|Romance|Thriller,Jase,Smith,22
+6867,495,44694,4,1225744424,Volver,2006,Comedy|Drama,Jase,Smith,22
+6868,495,46723,5,1225748544,Babel,2006,Drama|Thriller,Jase,Smith,22
+6869,495,7151,3.5,1228771981,Girl with a Pearl Earring,2003,Drama|Romance,Jase,Smith,22
+6870,495,7323,4.5,1225744397,Good bye,2003,Comedy|Drama,Jase,Smith,22
+6871,495,41285,3.5,1228771989,Match Point,2005,Crime|Drama|Romance,Jase,Smith,22
+6872,495,60950,5,1235419968,Vicky Cristina Barcelona,2008,Comedy|Drama|Romance,Jase,Smith,22
+6873,495,4205,4,986145399,Mermaids,1990,Comedy|Drama|Romance,Jase,Smith,22
+6874,495,1441,4,986576168,Benny & Joon,1993,Comedy|Romance,Jase,Smith,22

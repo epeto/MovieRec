@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+6000,408,543,1,916091578,So I Married an Axe Murderer,1993,Comedy|Romance|Thriller,Baylor,Smith,49
+6001,408,213,3,915922670,Burnt by the Sun (Utomlyonnye solntsem),1994,Drama,Baylor,Smith,49
+6002,408,482,2,916091344,Killing Zoe,1994,Crime|Drama|Thriller,Baylor,Smith,49
+6003,408,535,2,915923550,Short Cuts,1993,Drama,Baylor,Smith,49
+6004,408,1084,3,915923271,Bonnie and Clyde,1967,Crime|Drama,Baylor,Smith,49
+6005,408,1252,4,915919335,Chinatown,1974,Crime|Film-Noir|Mystery|Thriller,Baylor,Smith,49
+6006,408,1266,4,915922252,Unforgiven,1992,Drama|Western,Baylor,Smith,49
+6007,408,2019,5,915918308,Seven Samurai (Shichinin no samurai),1954,Action|Adventure|Drama,Baylor,Smith,49
+6008,408,922,4,915918308,Sunset Blvd. (a.k.a. Sunset Boulevard),1950,Drama|Film-Noir|Romance,Baylor,Smith,49
+6009,408,930,4,915918578,Notorious,1946,Film-Noir|Romance|Thriller,Baylor,Smith,49
+6010,408,953,5,915918550,It's a Wonderful Life,1946,Children|Drama|Fantasy|Romance,Baylor,Smith,49
+6011,408,1231,3,915919978,Right Stuff,1983,Drama,Baylor,Smith,49
+6012,408,1292,3,915923133,Being There,1979,Comedy|Drama,Baylor,Smith,49
+6013,408,1073,3,915919335,Willy Wonka & the Chocolate Factory,1971,Children|Comedy|Fantasy|Musical,Baylor,Smith,49
+6014,408,1120,4,915922181,People vs. Larry Flynt,1996,Comedy|Drama,Baylor,Smith,49
+6015,408,1371,2,915923905,Star Trek: The Motion Picture,1979,Adventure|Sci-Fi,Baylor,Smith,49
+6016,408,1373,1,915923957,Star Trek V: The Final Frontier,1989,Action|Sci-Fi,Baylor,Smith,49
+6017,408,2005,1,915923957,Goonies,1985,Action|Adventure|Children|Comedy|Fantasy,Baylor,Smith,49
+6018,408,2420,2,915923826,Karate Kid,1984,Drama,Baylor,Smith,49
+6019,408,493,5,915920994,Menace II Society,1993,Action|Crime|Drama,Baylor,Smith,49
+6020,408,1097,2,915923691,E.T. the Extra-Terrestrial,1982,Children|Drama|Sci-Fi,Baylor,Smith,49
+6021,408,1250,3,915918384,Bridge on the River Kwai,1957,Adventure|Drama|War,Baylor,Smith,49
+6022,408,1272,4,915919394,Patton,1970,Drama|War,Baylor,Smith,49
+6023,408,1285,3,915919978,Heathers,1989,Comedy,Baylor,Smith,49
+6024,408,1302,5,915919877,Field of Dreams,1989,Children|Drama|Fantasy,Baylor,Smith,49
+6025,408,1304,2,915923550,Butch Cassidy and the Sundance Kid,1969,Action|Western,Baylor,Smith,49
+6026,408,1246,3,915922992,Dead Poets Society,1989,Drama,Baylor,Smith,49
+6027,408,948,3,915918432,Giant,1956,Drama|Romance|Western,Baylor,Smith,49
+6028,408,1387,3,915919262,Jaws,1975,Action|Horror,Baylor,Smith,49
+6029,408,1994,1,915923957,Poltergeist,1982,Horror|Thriller,Baylor,Smith,49
+6030,408,1276,3,915923222,Cool Hand Luke,1967,Drama,Baylor,Smith,49
+6031,408,2321,4,915918117,Pleasantville,1998,Comedy|Drama|Fantasy,Baylor,Smith,49
+6032,408,247,4,915922362,Heavenly Creatures,1994,Crime|Drama,Baylor,Smith,49
+6033,408,899,2,915923550,Singin' in the Rain,1952,Comedy|Musical|Romance,Baylor,Smith,49
+6034,408,914,2,915923550,My Fair Lady,1964,Comedy|Drama|Musical|Romance,Baylor,Smith,49
+6035,408,1797,4,915921361,Everest,1998,Documentary|IMAX,Baylor,Smith,49
+6036,408,2137,3,915919184,Charlotte's Web,1973,Animation|Children,Baylor,Smith,49
+6037,408,1204,4,915918951,Lawrence of Arabia,1962,Adventure|Drama|War,Baylor,Smith,49
+6038,408,1408,3,916090848,Last of the Mohicans,1992,Action|Romance|War|Western,Baylor,Smith,49
+6039,408,909,3,915923312,Apartment,1960,Comedy|Drama|Romance,Baylor,Smith,49
+6040,408,1289,2,915923862,Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance),1983,Documentary,Baylor,Smith,49
+6041,408,2064,4,915919877,Roger & Me,1989,Documentary,Baylor,Smith,49
+6042,408,969,5,915918384,African Queen,1951,Adventure|Comedy|Romance|War,Baylor,Smith,49
+6043,408,1030,2,915923630,Pete's Dragon,1977,Adventure|Animation|Children|Musical,Baylor,Smith,49
+6044,408,1183,4,915921595,English Patient,1996,Drama|Romance|War,Baylor,Smith,49
+6045,408,1212,3,915918550,Third Man,1949,Film-Noir|Mystery|Thriller,Baylor,Smith,49
+6046,408,1224,4,915919631,Henry V,1989,Action|Drama|Romance|War,Baylor,Smith,49
+6047,408,1228,4,915919924,Raging Bull,1980,Drama,Baylor,Smith,49
+6048,408,1248,3,915918347,Touch of Evil,1958,Crime|Film-Noir|Thriller,Baylor,Smith,49
+6049,408,1254,4,915918550,Treasure of the Sierra Madre,1948,Action|Adventure|Drama|Western,Baylor,Smith,49
+6050,408,1278,3,915919335,Young Frankenstein,1974,Comedy|Fantasy,Baylor,Smith,49
+6051,408,1293,4,915919697,Gandhi,1982,Drama,Baylor,Smith,49
+6052,408,1674,3,915922940,Witness,1985,Drama|Romance|Thriller,Baylor,Smith,49
+6053,408,1939,3,915922822,Best Years of Our Lives,1946,Drama|War,Baylor,Smith,49
+6054,408,1944,3,915922822,From Here to Eternity,1953,Drama|Romance|War,Baylor,Smith,49
+6055,408,1947,2,915923691,West Side Story,1961,Drama|Musical|Romance,Baylor,Smith,49
+6056,408,2067,3,915918994,Doctor Zhivago,1965,Drama|Romance|War,Baylor,Smith,49
+6057,408,2336,3,915922822,Elizabeth,1998,Drama,Baylor,Smith,49
+6058,408,2411,1,915923987,Rocky IV,1985,Action|Drama,Baylor,Smith,49
+6059,408,5060,4,915919335,M*A*S*H (a.k.a. MASH),1970,Comedy|Drama|War,Baylor,Smith,49
+6060,408,154,2,915923455,Beauty of the Day (Belle de jour),1967,Drama,Baylor,Smith,49
+6061,408,306,2,915923455,Three Colors: Red (Trois couleurs: Rouge),1994,Drama,Baylor,Smith,49
+6062,408,326,3,915920698,To Live (Huozhe),1994,Drama,Baylor,Smith,49
+6063,408,898,3,915918519,Philadelphia Story,1940,Comedy|Drama|Romance,Baylor,Smith,49
+6064,408,1104,3,915918409,Streetcar Named Desire,1951,Drama,Baylor,Smith,49
+6065,408,1172,4,915919978,Cinema Paradiso (Nuovo cinema Paradiso),1989,Drama,Baylor,Smith,49
+6066,408,1179,4,916093963,Grifters,1990,Crime|Drama|Film-Noir,Baylor,Smith,49
+6067,408,1185,3,915919836,My Left Foot,1989,Drama,Baylor,Smith,49
+6068,408,1211,2,915923736,Wings of Desire (Himmel über Berlin,1987,Drama|Fantasy|Romance,Baylor,Smith,49
+6069,408,1263,2,915923826,Deer Hunter,1978,Drama|War,Baylor,Smith,49
+6070,408,1914,4,915921456,Smoke Signals,1998,Comedy|Drama,Baylor,Smith,49
+6071,408,1945,3,915922857,On the Waterfront,1954,Crime|Drama,Baylor,Smith,49
+6072,408,2076,2,915923905,Blue Velvet,1986,Drama|Mystery|Thriller,Baylor,Smith,49
+6073,408,678,3,916091205,Some Folks Call It a Sling Blade,1993,Drama|Thriller,Baylor,Smith,49
+6074,408,920,3,915923222,Gone with the Wind,1939,Drama|Romance|War,Baylor,Smith,49
+6075,408,926,4,915918347,All About Eve,1950,Drama,Baylor,Smith,49
+6076,408,954,4,915918744,Mr. Smith Goes to Washington,1939,Drama,Baylor,Smith,49
+6077,408,1010,2,915923630,Love Bug,1969,Children|Comedy,Baylor,Smith,49
+6078,408,1019,2,915923630,20,1954,Adventure|Drama|Sci-Fi,Baylor,Smith,49
+6079,408,1033,2,915923630,Fox and the Hound,1981,Animation|Children|Drama,Baylor,Smith,49
+6080,408,1283,3,915923133,High Noon,1952,Drama|Western,Baylor,Smith,49
+6081,408,1334,1,915923957,Blob,1958,Horror|Sci-Fi,Baylor,Smith,49
+6082,408,1358,4,915921257,Sling Blade,1996,Drama,Baylor,Smith,49
+6083,408,1927,5,915918767,All Quiet on the Western Front,1930,Action|Drama|War,Baylor,Smith,49
+6084,408,1954,3,915919184,Rocky,1976,Drama,Baylor,Smith,49
+6085,408,1960,2,915923781,Last Emperor,1987,Drama,Baylor,Smith,49
+6086,408,2109,1,915919262,Jerk,1979,Comedy,Baylor,Smith,49
+6087,408,2206,3,915922706,Suspicion,1941,Film-Noir|Mystery|Thriller,Baylor,Smith,49
+6088,408,2370,3,915923312,Emerald Forest,1985,Action|Adventure|Drama,Baylor,Smith,49
+6089,408,2421,1,915923987,Karate Kid,1986,Action|Adventure|Drama,Baylor,Smith,49
+6090,408,58,3,915922608,Postman,1994,Comedy|Drama|Romance,Baylor,Smith,49
+6091,408,1082,1,915923957,Candidate,1972,Drama,Baylor,Smith,49
+6092,408,1955,3,915919290,Kramer vs. Kramer,1979,Drama,Baylor,Smith,49
+6093,408,82,4,915922181,Antonia's Line (Antonia),1995,Comedy|Drama,Baylor,Smith,49
+6094,408,308,2,915923455,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Baylor,Smith,49
+6095,408,1078,4,915919335,Bananas,1971,Comedy|War,Baylor,Smith,49
+6096,408,1103,3,915918347,Rebel Without a Cause,1955,Drama,Baylor,Smith,49
+6097,408,1693,4,915920881,Amistad,1997,Drama|Mystery,Baylor,Smith,49
+6098,408,2333,4,915917816,Gods and Monsters,1998,Drama,Baylor,Smith,49
+6099,408,538,2,915923550,Six Degrees of Separation,1993,Drama,Baylor,Smith,49
+6100,408,800,5,915921206,Lone Star,1996,Drama|Mystery|Western,Baylor,Smith,49
+6101,408,1184,2,916090848,Mediterraneo,1991,Comedy|Drama,Baylor,Smith,49
+6102,408,1670,2,916090910,Welcome to Sarajevo,1997,Drama|War,Baylor,Smith,49
+6103,408,1295,2,915923499,Unbearable Lightness of Being,1988,Drama,Baylor,Smith,49
+6104,408,2022,3,915922758,Last Temptation of Christ,1988,Drama,Baylor,Smith,49
+6105,408,1701,4,915921361,Deconstructing Harry,1997,Comedy|Drama,Baylor,Smith,49
+6106,408,1963,4,915918994,Take the Money and Run,1969,Comedy|Crime,Baylor,Smith,49
+6107,408,2065,4,915920103,Purple Rose of Cairo,1985,Comedy|Drama|Fantasy|Romance,Baylor,Smith,49
+6108,408,2290,3,915922758,Stardust Memories,1980,Comedy|Drama,Baylor,Smith,49
+6109,408,955,4,915918744,Bringing Up Baby,1938,Comedy|Romance,Baylor,Smith,49
+6110,408,1171,4,915922181,Bob Roberts,1992,Comedy,Baylor,Smith,49
+6111,408,1300,2,915923862,My Life as a Dog (Mitt liv som hund),1985,Comedy|Drama,Baylor,Smith,49
+6112,408,1678,3,915922940,Joy Luck Club,1993,Drama|Romance,Baylor,Smith,49
+6113,408,2020,3,915920148,Dangerous Liaisons,1988,Drama|Romance,Baylor,Smith,49
+6114,408,2359,4,915917778,Waking Ned Devine (a.k.a. Waking Ned),1998,Comedy,Baylor,Smith,49
+6115,408,2068,2,915919877,Fanny and Alexander (Fanny och Alexander),1982,Drama|Fantasy|Mystery,Baylor,Smith,49
+6116,408,2117,3,915920043,1984 (Nineteen Eighty-Four),1984,Drama|Sci-Fi,Baylor,Smith,49
+6117,408,1271,5,915921162,Fried Green Tomatoes,1991,Comedy|Crime|Drama,Baylor,Smith,49
+6118,408,116,4,915920841,Anne Frank Remembered,1995,Documentary,Baylor,Smith,49
+6119,408,688,1,916090930,Operation Dumbo Drop,1995,Action|Adventure|Comedy|War,Baylor,Smith,49
+6120,408,73,4,915920746,Misérables,1995,Drama|War,Baylor,Smith,49
+6121,408,314,4,915922295,Secret of Roan Inish,1994,Children|Drama|Fantasy|Mystery,Baylor,Smith,49
+6122,408,1132,3,915922940,Manon of the Spring (Manon des sources),1986,Drama,Baylor,Smith,49
+6123,408,1354,1,915923957,Breaking the Waves,1996,Drama|Mystery,Baylor,Smith,49
+6124,408,1694,4,915921162,Apostle,1997,Drama,Baylor,Smith,49

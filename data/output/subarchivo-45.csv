@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+5500,334,165,3,837750990,Die Hard: With a Vengeance,1995,Action|Crime|Thriller,Ezequiel,Smith,37
+5501,334,185,3,837751056,Net,1995,Action|Crime|Thriller,Ezequiel,Smith,37
+5502,334,231,3,837751011,Dumb & Dumber (Dumb and Dumber),1994,Adventure|Comedy,Ezequiel,Smith,37
+5503,334,253,3,837751056,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Ezequiel,Smith,37
+5504,334,288,4,837751080,Natural Born Killers,1994,Action|Crime|Thriller,Ezequiel,Smith,37
+5505,334,292,4,837751032,Outbreak,1995,Action|Drama|Sci-Fi|Thriller,Ezequiel,Smith,37
+5506,334,296,5,837750965,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Ezequiel,Smith,37
+5507,334,316,4,837751011,Stargate,1994,Action|Adventure|Sci-Fi,Ezequiel,Smith,37
+5508,334,318,5,837751011,Shawshank Redemption,1994,Crime|Drama,Ezequiel,Smith,37
+5509,334,329,3,837751011,Star Trek: Generations,1994,Adventure|Drama|Sci-Fi,Ezequiel,Smith,37
+5510,334,344,3,837750990,Ace Ventura: Pet Detective,1994,Comedy,Ezequiel,Smith,37
+5511,334,349,4,837750990,Clear and Present Danger,1994,Action|Crime|Drama|Thriller,Ezequiel,Smith,37
+5512,334,356,4,837751080,Forrest Gump,1994,Comedy|Drama|Romance|War,Ezequiel,Smith,37
+5513,334,364,4,837751114,Lion King,1994,Adventure|Animation|Children|Drama|Musical|IMAX,Ezequiel,Smith,37
+5514,334,367,3,837751133,Mask,1994,Action|Comedy|Crime|Fantasy,Ezequiel,Smith,37
+5515,334,380,1,837750965,True Lies,1994,Action|Adventure|Comedy|Romance|Thriller,Ezequiel,Smith,37
+5516,334,410,3,837751080,Addams Family Values,1993,Children|Comedy|Fantasy,Ezequiel,Smith,37
+5517,334,420,3,837751167,Beverly Hills Cop III,1994,Action|Comedy|Crime|Thriller,Ezequiel,Smith,37
+5518,334,434,2,837751032,Cliffhanger,1993,Action|Adventure|Thriller,Ezequiel,Smith,37
+5519,334,454,3,837751114,Firm,1993,Drama|Thriller,Ezequiel,Smith,37
+5520,334,457,3,837751033,Fugitive,1993,Thriller,Ezequiel,Smith,37
+5521,334,480,3,837751114,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Ezequiel,Smith,37
+5522,334,588,5,837750990,Aladdin,1992,Adventure|Animation|Children|Comedy|Musical,Ezequiel,Smith,37
+5523,334,589,3,837751167,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Ezequiel,Smith,37
+5524,334,590,3,837750965,Dances with Wolves,1990,Adventure|Drama|Western,Ezequiel,Smith,37
+5525,334,592,3,837750965,Batman,1989,Action|Crime|Thriller,Ezequiel,Smith,37
+5526,334,593,3,837751032,Silence of the Lambs,1991,Crime|Horror|Thriller,Ezequiel,Smith,37
+5527,334,273,4,837751549,Mary Shelley's Frankenstein (Frankenstein),1994,Drama|Horror|Sci-Fi,Ezequiel,Smith,37
+5528,334,515,5,837751211,Remains of the Day,1993,Drama|Romance,Ezequiel,Smith,37
+5529,334,357,5,837751211,Four Weddings and a Funeral,1994,Comedy|Romance,Ezequiel,Smith,37
+5530,334,18,4,837751431,Four Rooms,1995,Comedy,Ezequiel,Smith,37
+5531,334,665,5,837751345,Underground,1995,Comedy|Drama|War,Ezequiel,Smith,37
+5532,334,58,5,837751226,Postman,1994,Comedy|Drama|Romance,Ezequiel,Smith,37
+5533,334,319,5,837751243,Shallow Grave,1994,Comedy|Drama|Thriller,Ezequiel,Smith,37
+5534,334,718,3,837751412,Visitors,1993,Comedy|Fantasy|Sci-Fi,Ezequiel,Smith,37
+5535,335,307,4,837063267,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Jake,Smith,47
+5536,335,6,5,837063081,Heat,1995,Action|Crime|Thriller,Jake,Smith,47
+5537,335,10,3,837062784,GoldenEye,1995,Action|Adventure|Thriller,Jake,Smith,47
+5538,335,47,5,837062810,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Jake,Smith,47
+5539,335,95,3,837062998,Broken Arrow,1996,Action|Adventure|Thriller,Jake,Smith,47
+5540,335,110,3,837062810,Braveheart,1995,Action|Drama|War,Jake,Smith,47
+5541,335,150,4,837062698,Apollo 13,1995,Adventure|Drama|IMAX,Jake,Smith,47
+5542,335,165,3,837062727,Die Hard: With a Vengeance,1995,Action|Crime|Thriller,Jake,Smith,47
+5543,335,172,3,837062983,Johnny Mnemonic,1995,Action|Sci-Fi|Thriller,Jake,Smith,47
+5544,335,315,2,837062893,Specialist,1994,Action|Drama|Thriller,Jake,Smith,47
+5545,335,316,2,837062747,Stargate,1994,Action|Adventure|Sci-Fi,Jake,Smith,47
+5546,335,344,4,837062727,Ace Ventura: Pet Detective,1994,Comedy,Jake,Smith,47
+5547,335,356,5,837062823,Forrest Gump,1994,Comedy|Drama|Romance|War,Jake,Smith,47
+5548,335,364,4,837062841,Lion King,1994,Adventure|Animation|Children|Drama|Musical|IMAX,Jake,Smith,47
+5549,335,370,4,837063163,Naked Gun 33 1/3: The Final Insult,1994,Action|Comedy,Jake,Smith,47
+5550,335,377,4,837062893,Speed,1994,Action|Romance|Thriller,Jake,Smith,47
+5551,335,434,3,837062772,Cliffhanger,1993,Action|Adventure|Thriller,Jake,Smith,47
+5552,335,466,4,837063188,Hot Shots! Part Deux,1993,Action|Comedy|War,Jake,Smith,47
+5553,335,480,3,837062841,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Jake,Smith,47
+5554,335,485,3,837063163,Last Action Hero,1993,Action|Adventure|Comedy|Fantasy,Jake,Smith,47
+5555,335,500,4,837062911,Mrs. Doubtfire,1993,Comedy|Drama,Jake,Smith,47
+5556,335,539,4,837062942,Sleepless in Seattle,1993,Comedy|Drama|Romance,Jake,Smith,47
+5557,335,552,3,837063137,Three Musketeers,1993,Action|Adventure|Comedy|Romance,Jake,Smith,47
+5558,335,586,3,837062957,Home Alone,1990,Children|Comedy,Jake,Smith,47
+5559,335,587,3,837062942,Ghost,1990,Comedy|Drama|Fantasy|Romance|Thriller,Jake,Smith,47
+5560,335,589,5,837062877,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Jake,Smith,47
+5561,335,590,4,837062698,Dances with Wolves,1990,Adventure|Drama|Western,Jake,Smith,47
+5562,335,592,3,837062697,Batman,1989,Action|Crime|Thriller,Jake,Smith,47
+5563,335,593,5,837062772,Silence of the Lambs,1991,Crime|Horror|Thriller,Jake,Smith,47
+5564,335,597,4,837062942,Pretty Woman,1990,Comedy|Romance,Jake,Smith,47
+5565,335,733,3,837063319,Rock,1996,Action|Adventure|Thriller,Jake,Smith,47
+5566,335,224,4,837063023,Don Juan DeMarco,1995,Comedy|Drama|Romance,Jake,Smith,47
+5567,335,337,5,837062911,What's Eating Gilbert Grape,1993,Drama,Jake,Smith,47
+5568,335,531,3,837063297,Secret Garden,1993,Children|Drama,Jake,Smith,47
+5569,335,299,4,837063434,Priest,1994,Drama,Jake,Smith,47
+5570,335,534,4,837063358,Shadowlands,1993,Drama|Romance,Jake,Smith,47
+5571,335,551,4,837063023,Nightmare Before Christmas,1993,Animation|Children|Fantasy|Musical,Jake,Smith,47
+5572,335,105,5,837063066,Bridges of Madison County,1995,Drama|Romance,Jake,Smith,47
+5573,335,17,4,837062957,Sense and Sensibility,1995,Drama|Romance,Jake,Smith,47
+5574,335,357,5,837062957,Four Weddings and a Funeral,1994,Comedy|Romance,Jake,Smith,47
+5575,335,497,4,837063137,Much Ado About Nothing,1993,Comedy|Romance,Jake,Smith,47
+5576,335,540,3,837063267,Sliver,1993,Thriller,Jake,Smith,47
+5577,335,236,4,837062911,French Kiss,1995,Action|Comedy|Romance,Jake,Smith,47
+5578,335,383,3,837063282,Wyatt Earp,1994,Western,Jake,Smith,47
+5579,335,535,5,837063434,Short Cuts,1993,Drama,Jake,Smith,47
+5580,335,475,4,837063282,In the Name of the Father,1993,Drama,Jake,Smith,47
+5581,335,58,5,837063176,Postman,1994,Comedy|Drama|Romance,Jake,Smith,47
+5582,335,509,5,837062998,Piano,1993,Drama|Romance,Jake,Smith,47
+5583,335,550,3,837063388,Threesome,1994,Comedy|Romance,Jake,Smith,47
+5584,335,46,4,837063449,How to Make an American Quilt,1995,Drama|Romance,Jake,Smith,47
+5585,360,307,4,840252921,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Hector,Smith,50
+5586,360,170,5,840252869,Hackers,1995,Action|Adventure|Crime|Thriller,Hector,Smith,50
+5587,360,32,5,840252571,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Hector,Smith,50
+5588,360,39,5,840252571,Clueless,1995,Comedy|Romance,Hector,Smith,50
+5589,360,41,5,840253040,Richard III,1995,Drama|War,Hector,Smith,50
+5590,360,150,4,840252235,Apollo 13,1995,Adventure|Drama|IMAX,Hector,Smith,50
+5591,360,153,5,840252338,Batman Forever,1995,Action|Adventure|Comedy|Crime,Hector,Smith,50
+5592,360,165,3,840252338,Die Hard: With a Vengeance,1995,Action|Crime|Thriller,Hector,Smith,50
+5593,360,296,3,840252235,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Hector,Smith,50
+5594,360,316,2,840252436,Stargate,1994,Action|Adventure|Sci-Fi,Hector,Smith,50
+5595,360,318,5,840252466,Shawshank Redemption,1994,Crime|Drama,Hector,Smith,50
+5596,360,329,4,840252466,Star Trek: Generations,1994,Adventure|Drama|Sci-Fi,Hector,Smith,50
+5597,360,349,3,840252338,Clear and Present Danger,1994,Action|Crime|Drama|Thriller,Hector,Smith,50
+5598,360,353,5,840252701,Crow,1994,Action|Crime|Fantasy|Thriller,Hector,Smith,50
+5599,360,380,3,840252235,True Lies,1994,Action|Adventure|Comedy|Romance|Thriller,Hector,Smith,50
+5600,360,410,3,840252515,Addams Family Values,1993,Children|Comedy|Fantasy,Hector,Smith,50
+5601,360,442,4,840252638,Demolition Man,1993,Action|Adventure|Sci-Fi,Hector,Smith,50
+5602,360,471,5,840252823,Hudsucker Proxy,1994,Comedy,Hector,Smith,50
+5603,360,480,4,840252489,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Hector,Smith,50
+5604,360,589,4,840252539,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Hector,Smith,50
+5605,360,590,3,840252234,Dances with Wolves,1990,Adventure|Drama|Western,Hector,Smith,50
+5606,360,592,5,840252234,Batman,1989,Action|Crime|Thriller,Hector,Smith,50
+5607,360,593,5,840252436,Silence of the Lambs,1991,Crime|Horror|Thriller,Hector,Smith,50
+5608,360,595,4,840252436,Beauty and the Beast,1991,Animation|Children|Fantasy|Musical|Romance|IMAX,Hector,Smith,50
+5609,360,597,3,840252582,Pretty Woman,1990,Comedy|Romance,Hector,Smith,50
+5610,360,608,3,840252774,Fargo,1996,Comedy|Crime|Drama|Thriller,Hector,Smith,50
+5611,360,648,3,840252735,Mission: Impossible,1996,Action|Adventure|Mystery|Thriller,Hector,Smith,50
+5612,360,924,4,840253561,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Hector,Smith,50
+5613,360,728,5,840253277,Cold Comfort Farm,1995,Comedy,Hector,Smith,50
+5614,360,1041,3,848417284,Secrets & Lies,1996,Drama,Hector,Smith,50
+5615,360,52,5,840252973,Mighty Aphrodite,1995,Comedy|Drama|Romance,Hector,Smith,50
+5616,360,551,5,840252687,Nightmare Before Christmas,1993,Animation|Children|Fantasy|Musical,Hector,Smith,50
+5617,360,903,5,840253605,Vertigo,1958,Drama|Mystery|Romance|Thriller,Hector,Smith,50
+5618,360,904,4,840253605,Rear Window,1954,Mystery|Thriller,Hector,Smith,50
+5619,360,908,5,840253587,North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,Hector,Smith,50
+5620,360,912,4,840253587,Casablanca,1942,Drama|Romance,Hector,Smith,50
+5621,360,1148,5,848417150,Wallace & Gromit: The Wrong Trousers,1993,Animation|Children|Comedy|Crime,Hector,Smith,50
+5622,360,1073,3,848416380,Willy Wonka & the Chocolate Factory,1971,Children|Comedy|Fantasy|Musical,Hector,Smith,50
+5623,360,247,4,840252953,Heavenly Creatures,1994,Crime|Drama,Hector,Smith,50
+5624,360,914,3,840253615,My Fair Lady,1964,Comedy|Drama|Musical|Romance,Hector,Smith,50

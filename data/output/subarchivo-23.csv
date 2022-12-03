@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+2750,214,43376,4,1195414467,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage),2005,Drama|War,Patrick,Smith,17
+2751,214,43899,4,1226754288,Tony Takitani,2004,Drama,Patrick,Smith,17
+2752,214,44301,2,1229873706,Lights in the Dusk (Laitakaupungin valot),2006,Crime|Drama,Patrick,Smith,17
+2753,214,44849,3,1227359848,Renaissance,2006,Action|Animation|Film-Noir|Sci-Fi|Thriller,Patrick,Smith,17
+2754,214,44929,4,1198599471,Candy,2006,Drama|Romance,Patrick,Smith,17
+2755,214,44937,4,1223496683,Child,2005,Crime|Drama,Patrick,Smith,17
+2756,214,45210,4,1149374568,United 93,2006,Crime|Drama,Patrick,Smith,17
+2757,214,47634,3,1229273820,36 Quai des Orfèvres (Department 36),2004,Action|Crime|Drama|Thriller,Patrick,Smith,17
+2758,214,47940,4,1270894757,Time to Leave,2005,Drama,Patrick,Smith,17
+2759,214,48231,1,1238909775,Taxidermia,2006,Comedy|Drama|Horror,Patrick,Smith,17
+2760,214,48682,3,1259999125,Offside,2006,Comedy|Drama,Patrick,Smith,17
+2761,214,48783,3,1263845214,Flags of Our Fathers,2006,Drama|War,Patrick,Smith,17
+2762,214,48856,4,1221908780,Guide to Recognizing Your Saints,2006,Crime|Drama,Patrick,Smith,17
+2763,214,48997,3,1272900667,Perfume: The Story of a Murderer,2006,Crime|Drama|Thriller,Patrick,Smith,17
+2764,214,49265,3,1240738321,Shooting Dogs (a.k.a. Beyond the Gates),2005,Documentary|Drama|War,Patrick,Smith,17
+2765,214,49286,2,1419636039,Holiday,2006,Comedy|Romance,Patrick,Smith,17
+2766,214,49856,3,1297889122,Page Turner,2006,Drama|Musical|Thriller,Patrick,Smith,17
+2767,214,49910,2,1271001883,Freedom Writers,2007,Drama,Patrick,Smith,17
+2768,214,50011,3,1216542298,Bothersome Man,2006,Comedy|Drama|Fantasy|Mystery,Patrick,Smith,17
+2769,214,50064,3,1265647663,Good German,2006,Drama|Mystery|Thriller,Patrick,Smith,17
+2770,214,50259,3,1231088056,Old Joy,2006,Drama,Patrick,Smith,17
+2771,214,50274,4,1171800227,Venus,2006,Drama|Romance,Patrick,Smith,17
+2772,214,50851,4,1310242644,Cocaine Cowboys,2006,Documentary,Patrick,Smith,17
+2773,214,51007,3,1248465833,Days of Glory (Indigènes),2006,Action|Adventure|Drama|War,Patrick,Smith,17
+2774,214,51187,4,1275672030,Kidulthood,2006,Drama,Patrick,Smith,17
+2775,214,51312,4,1525380163,Consequences of Love,2004,Crime|Drama,Patrick,Smith,17
+2776,214,51694,4,1231692556,Starter for 10,2006,Drama|Romance,Patrick,Smith,17
+2777,214,52005,3,1272899324,Jindabyne,2006,Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+2778,214,52042,4,1205440033,Black Book (Zwartboek),2006,Drama|Thriller|War,Patrick,Smith,17
+2779,214,52606,2,1271001836,Big Nothing,2006,Comedy|Crime|Thriller,Patrick,Smith,17
+2780,214,52709,2,1294094636,Adam & Paul,2004,Comedy|Drama,Patrick,Smith,17
+2781,214,52967,2,1203168417,Away from Her,2006,Drama,Patrick,Smith,17
+2782,214,52980,3,1278222035,Zidane: A 21st Century Portrait (Zidane,2006,Documentary,Patrick,Smith,17
+2783,214,53127,3,1240143012,Bug,2007,Drama|Horror|Thriller,Patrick,Smith,17
+2784,214,53592,2,1271001713,Four Minutes (Vier Minuten),2006,Drama,Patrick,Smith,17
+2785,214,53788,2,1271001749,Exiled (Fong juk),2006,Action|Crime|Thriller,Patrick,Smith,17
+2786,214,54691,4,1281173144,Lady Chatterley,2006,Drama|Romance,Patrick,Smith,17
+2787,214,54796,4,1205439779,2 Days in Paris,2007,Comedy|Drama|Romance,Patrick,Smith,17
+2788,214,54833,3,1306008884,Brighton Rock,1947,Crime|Drama|Film-Noir,Patrick,Smith,17
+2789,214,55343,4,1252171618,Straightheads (Closure),2007,Crime|Drama,Patrick,Smith,17
+2790,214,55363,4,1258810398,Assassination of Jesse James by the Coward Robert Ford,2007,Crime|Drama|Western,Patrick,Smith,17
+2791,214,55402,4,1259999341,Beaufort,2007,Action|Drama|War,Patrick,Smith,17
+2792,214,55417,4,1244885645,Irina Palm,2007,Drama,Patrick,Smith,17
+2793,214,55901,2,1272755505,You,2007,Comedy|Drama|Musical,Patrick,Smith,17
+2794,214,56370,4,1265647677,Goodbye Bafana (Color of Freedom,2007,Drama|War,Patrick,Smith,17
+2795,214,57401,3,1276944190,Cleaner,2007,Crime|Thriller,Patrick,Smith,17
+2796,214,57464,3,1203167829,He Was a Quiet Man,2007,Drama,Patrick,Smith,17
+2797,214,57754,2,1271001771,Bamako,2006,Drama,Patrick,Smith,17
+2798,214,58898,2,1238332181,Aerial,2007,Adventure|Fantasy|Film-Noir|Mystery|Sci-Fi,Patrick,Smith,17
+2799,214,59118,2,1263845362,Happy-Go-Lucky,2008,Comedy|Drama,Patrick,Smith,17
+2800,214,59729,3,1216965822,Savage Grace,2007,Crime|Drama,Patrick,Smith,17
+2801,214,59810,4,1223661825,Recount,2008,Drama,Patrick,Smith,17
+2802,214,60133,3,1259998941,Brick Lane,2007,Drama,Patrick,Smith,17
+2803,214,60530,3,1261236201,Water Lilies (Naissance des pieuvres),2007,Drama,Patrick,Smith,17
+2804,214,60647,2,1246205453,Transsiberian,2008,Crime|Drama|Thriller,Patrick,Smith,17
+2805,214,60753,3,1294076894,Felon,2008,Crime|Drama,Patrick,Smith,17
+2806,214,61009,3,1294094366,Inside Paris (Dans Paris),2006,Drama,Patrick,Smith,17
+2807,214,61037,4,1281173498,Silent Light (Stellet licht),2007,Drama,Patrick,Smith,17
+2808,214,61075,3,1218393789,Elegy,2008,Drama|Romance,Patrick,Smith,17
+2809,214,61319,3,1293457603,Somers Town,2008,Drama,Patrick,Smith,17
+2810,214,61816,4,1281173177,Import/Export,2007,Drama,Patrick,Smith,17
+2811,214,62293,4,1224440249,Duchess,2008,Drama|Romance,Patrick,Smith,17
+2812,214,64285,3,1234008058,Wallace and Gromit in 'A Matter of Loaf and Death',2008,Animation|Comedy,Patrick,Smith,17
+2813,214,64501,3,1255189188,Che: Part Two,2008,Drama|War,Patrick,Smith,17
+2814,214,64701,4,1238330271,I've Loved You So Long (Il y a longtemps que je t'aime),2008,Drama|Mystery,Patrick,Smith,17
+2815,214,65418,3,1297889033,Wendy and Lucy,2008,Drama,Patrick,Smith,17
+2816,214,65596,4,1306008781,Mesrine: Killer Instinct (L'instinct de mort),2008,Action|Crime|Drama|Thriller,Patrick,Smith,17
+2817,214,66156,3,1257667446,Escapist,2008,Thriller,Patrick,Smith,17
+2818,214,66509,4,1260637196,Funny People,2009,Comedy|Drama,Patrick,Smith,17
+2819,214,66744,4,1257667388,Divo,2008,Drama,Patrick,Smith,17
+2820,214,67193,3,1249417106,Duplicity,2009,Crime|Romance|Thriller,Patrick,Smith,17
+2821,214,67801,3,1271590544,Revanche,2008,Crime|Drama|Romance,Patrick,Smith,17
+2822,214,68685,2,1260006389,Incendiary,2008,Drama|Mystery|Romance|Thriller,Patrick,Smith,17
+2823,214,69995,3,1276941922,Tokyo Sonata,2008,Drama,Patrick,Smith,17
+2824,214,71409,4,1256076438,Execution of P,2009,Crime|Thriller,Patrick,Smith,17
+2825,214,71542,4,1260637210,September Issue,2009,Documentary,Patrick,Smith,17
+2826,214,72330,4,1258810114,Private Lives of Pippa Lee,2009,Drama,Patrick,Smith,17
+2827,214,72720,4,1527545870,Single Man,2009,Drama,Patrick,Smith,17
+2828,214,73730,2,1421023420,Wrong Turn at Tahoe,2009,Action|Crime|Thriller,Patrick,Smith,17
+2829,214,77596,4,1358706611,Lebanon,2009,Drama|War,Patrick,Smith,17
+2830,214,77800,3,1279393340,Four Lions,2010,Comedy|Drama,Patrick,Smith,17
+2831,214,79916,4,1297889063,Tony Manero,2008,Crime|Drama,Patrick,Smith,17
+2832,214,80126,3,1291506740,American,2010,Drama|Thriller,Patrick,Smith,17
+2833,214,80590,3,1288460662,Wall Street: Money Never Sleeps,2010,Drama,Patrick,Smith,17
+2834,214,81385,4,1293096756,Of Gods and Men (Des hommes et des dieux),2010,Drama,Patrick,Smith,17
+2835,214,81702,2,1294094345,Lake Tahoe,2008,Drama,Patrick,Smith,17
+2836,214,81817,4,1515957828,Carlos,2010,Crime|Drama|Thriller,Patrick,Smith,17
+2837,214,84392,3,1320700518,Lincoln Lawyer,2011,Crime|Drama|Thriller,Patrick,Smith,17
+2838,214,85540,4,1301732773,Essential Killing,2010,Thriller|War,Patrick,Smith,17
+2839,214,85790,4,1303511950,Meek's Cutoff,2010,Western,Patrick,Smith,17
+2840,214,86432,4,1306009609,Outside the Law (Hors-la-loi),2010,Crime|Drama|War,Patrick,Smith,17
+2841,214,89085,4,1330548029,Debt,2011,Drama|Thriller,Patrick,Smith,17
+2842,214,89321,4,1319885355,Future,2011,Drama,Patrick,Smith,17
+2843,214,90528,3,1319885379,This Must Be the Place,2011,Crime|Drama|Thriller,Patrick,Smith,17
+2844,214,90531,4,1326542302,Shame,2011,Drama,Patrick,Smith,17
+2845,214,90624,2,1421022697,Machine Gun Preacher,2011,Action|Crime,Patrick,Smith,17
+2846,214,91416,4,1505004843,Miss Bala,2011,Action|Adventure|Drama|Thriller,Patrick,Smith,17
+2847,214,91601,2,1357422225,Outside Satan (Hors Satan),2011,Drama,Patrick,Smith,17
+2848,214,92008,3,1419120974,Haywire,2011,Action|Thriller,Patrick,Smith,17
+2849,214,92920,3,1342306862,Hunter,2011,Drama,Patrick,Smith,17
+2850,214,94126,4,1361057599,Bullhead (Rundskop),2011,Crime|Drama,Patrick,Smith,17
+2851,214,94953,2,1419678924,Wanderlust,2012,Comedy,Patrick,Smith,17
+2852,214,95761,3,1414334126,Killer Joe,2011,Crime|Thriller,Patrick,Smith,17
+2853,214,96337,3,1350853253,Our Children (À perdre la raison),2012,Drama,Patrick,Smith,17
+2854,214,97860,3,1421710963,Killing Them Softly,2012,Crime|Drama|Thriller,Patrick,Smith,17
+2855,214,97988,3,1420938485,Bay,2012,Horror|Sci-Fi|Thriller,Patrick,Smith,17
+2856,214,98056,4,1424992376,Amour,2012,Drama|Romance,Patrick,Smith,17
+2857,214,99957,2,1371393722,Broken City,2013,Crime|Drama|Thriller,Patrick,Smith,17
+2858,214,99992,4,1422229522,Shadow Dancer,2012,Crime|Drama|Thriller,Patrick,Smith,17
+2859,214,100244,3,1382342395,East,2013,Drama,Patrick,Smith,17
+2860,214,100272,4,1525381932,Snow White (Blancanieves),2012,Drama,Patrick,Smith,17
+2861,214,100440,4,1362869883,Lore,2012,Drama|Thriller|War,Patrick,Smith,17
+2862,214,101761,2,1371393662,Welcome to the Punch,2013,Action|Adventure|Crime|Thriller,Patrick,Smith,17
+2863,214,102005,4,1372531369,Like Someone In Love,2012,Drama,Patrick,Smith,17
+2864,214,102684,3,1375565610,Only God Forgives,2013,Drama|Thriller,Patrick,Smith,17
+2865,214,103372,3,1382342351,Heat,2013,Action|Comedy|Crime,Patrick,Smith,17
+2866,214,103721,1,1509892249,Love,2011,Drama|Sci-Fi,Patrick,Smith,17
+2867,214,103984,5,1525476196,Great Beauty,2013,Comedy|Drama,Patrick,Smith,17
+2868,214,104078,4,1376078953,Alan Partridge: Alpha Papa,2013,Comedy,Patrick,Smith,17
+2869,214,104636,4,1519572373,TT3D: Closer to the Edge,2011,Documentary,Patrick,Smith,17
+2870,214,105364,4,1468718579,Something in the Air (Après Mai),2012,Action|Drama,Patrick,Smith,17
+2871,214,105755,2,1467662583,Counselor,2013,Crime|Drama|Thriller,Patrick,Smith,17
+2872,214,109607,2,1419639641,In Fear,2013,Thriller,Patrick,Smith,17
+2873,214,110586,3,1528922140,Calvary,2014,Comedy|Drama,Patrick,Smith,17
+2874,214,111661,3,1473625442,Two Faces of January,2014,Thriller,Patrick,Smith,17

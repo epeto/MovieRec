@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+4625,268,172,2,1137696348,Johnny Mnemonic,1995,Action|Sci-Fi|Thriller,Brantley,Smith,36
+4626,268,173,3,1135774722,Judge Dredd,1995,Action|Crime|Sci-Fi,Brantley,Smith,36
+4627,268,231,1,1135774322,Dumb & Dumber (Dumb and Dumber),1994,Adventure|Comedy,Brantley,Smith,36
+4628,268,253,3.5,1135774353,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Brantley,Smith,36
+4629,268,260,3,1135774230,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4630,268,288,2.5,1137494071,Natural Born Killers,1994,Action|Crime|Thriller,Brantley,Smith,36
+4631,268,293,2.5,1135774497,Léon: The Professional (a.k.a. The Professional) (Léon),1994,Action|Crime|Drama|Thriller,Brantley,Smith,36
+4632,268,296,3,1135773035,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Brantley,Smith,36
+4633,268,315,1.5,1144702350,Specialist,1994,Action|Drama|Thriller,Brantley,Smith,36
+4634,268,318,2,1135774214,Shawshank Redemption,1994,Crime|Drama,Brantley,Smith,36
+4635,268,344,1.5,1135774267,Ace Ventura: Pet Detective,1994,Comedy,Brantley,Smith,36
+4636,268,353,2,1137696293,Crow,1994,Action|Crime|Fantasy|Thriller,Brantley,Smith,36
+4637,268,356,3,1135774204,Forrest Gump,1994,Comedy|Drama|Romance|War,Brantley,Smith,36
+4638,268,364,2.5,1135774304,Lion King,1994,Adventure|Animation|Children|Drama|Musical|IMAX,Brantley,Smith,36
+4639,268,367,1,1137696180,Mask,1994,Action|Comedy|Crime|Fantasy,Brantley,Smith,36
+4640,268,377,0.5,1137242428,Speed,1994,Action|Romance|Thriller,Brantley,Smith,36
+4641,268,434,1,1135774367,Cliffhanger,1993,Action|Adventure|Thriller,Brantley,Smith,36
+4642,268,442,1.5,1135774574,Demolition Man,1993,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4643,268,454,1.5,1137250839,Firm,1993,Drama|Thriller,Brantley,Smith,36
+4644,268,480,1.5,1135774206,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Brantley,Smith,36
+4645,268,527,2.5,1135773990,Schindler's List,1993,Drama|War,Brantley,Smith,36
+4646,268,539,2,1137696191,Sleepless in Seattle,1993,Comedy|Drama|Romance,Brantley,Smith,36
+4647,268,541,3,1148976484,Blade Runner,1982,Action|Sci-Fi|Thriller,Brantley,Smith,36
+4648,268,552,1,1137696438,Three Musketeers,1993,Action|Adventure|Comedy|Romance,Brantley,Smith,36
+4649,268,586,1,1135774443,Home Alone,1990,Children|Comedy,Brantley,Smith,36
+4650,268,588,2,1135774260,Aladdin,1992,Adventure|Animation|Children|Comedy|Musical,Brantley,Smith,36
+4651,268,589,2,1137242418,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Brantley,Smith,36
+4652,268,590,2,1135774219,Dances with Wolves,1990,Adventure|Drama|Western,Brantley,Smith,36
+4653,268,592,3,1135774209,Batman,1989,Action|Crime|Thriller,Brantley,Smith,36
+4654,268,593,2.5,1135774203,Silence of the Lambs,1991,Crime|Horror|Thriller,Brantley,Smith,36
+4655,268,595,2,1137696173,Beauty and the Beast,1991,Animation|Children|Fantasy|Musical|Romance|IMAX,Brantley,Smith,36
+4656,268,597,1.5,1135774316,Pretty Woman,1990,Comedy|Romance,Brantley,Smith,36
+4657,268,608,2,1135774248,Fargo,1996,Comedy|Crime|Drama|Thriller,Brantley,Smith,36
+4658,268,648,2,1135774263,Mission: Impossible,1996,Action|Adventure|Mystery|Thriller,Brantley,Smith,36
+4659,268,733,1,1135774311,Rock,1996,Action|Adventure|Thriller,Brantley,Smith,36
+4660,268,780,1,1135774236,Independence Day (a.k.a. ID4),1996,Action|Adventure|Sci-Fi|Thriller,Brantley,Smith,36
+4661,268,784,3,1135774748,Cable Guy,1996,Comedy|Thriller,Brantley,Smith,36
+4662,268,786,1,1137494058,Eraser,1996,Action|Drama|Thriller,Brantley,Smith,36
+4663,268,858,2,1135773101,Godfather,1972,Crime|Drama,Brantley,Smith,36
+4664,268,924,4,1135770848,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Brantley,Smith,36
+4665,268,1036,1,1135774435,Die Hard,1988,Action|Crime|Thriller,Brantley,Smith,36
+4666,268,1059,3,1144702339,William Shakespeare's Romeo + Juliet,1996,Drama|Romance,Brantley,Smith,36
+4667,268,1079,2,1135774566,Fish Called Wanda,1988,Comedy|Crime,Brantley,Smith,36
+4668,268,1080,2.5,1137407720,Monty Python's Life of Brian,1979,Comedy,Brantley,Smith,36
+4669,268,1088,2,1144702333,Dirty Dancing,1987,Drama|Musical|Romance,Brantley,Smith,36
+4670,268,1089,2.5,1135774560,Reservoir Dogs,1992,Crime|Mystery|Thriller,Brantley,Smith,36
+4671,268,1090,2,1135773962,Platoon,1986,Drama|War,Brantley,Smith,36
+4672,268,1101,2,1135774627,Top Gun,1986,Action|Romance,Brantley,Smith,36
+4673,268,1136,3,1137407613,Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,Brantley,Smith,36
+4674,268,1196,2.5,1137407733,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4675,268,1198,3.5,1135774296,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action|Adventure,Brantley,Smith,36
+4676,268,1207,2,1138004456,To Kill a Mockingbird,1962,Drama,Brantley,Smith,36
+4677,268,1208,5,1135768973,Apocalypse Now,1979,Action|Drama|War,Brantley,Smith,36
+4678,268,1210,2.5,1137407731,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4679,268,1214,2,1135773693,Alien,1979,Horror|Sci-Fi,Brantley,Smith,36
+4680,268,1222,2.5,1135772911,Full Metal Jacket,1987,Drama|War,Brantley,Smith,36
+4681,268,1240,2.5,1137696214,Terminator,1984,Action|Sci-Fi|Thriller,Brantley,Smith,36
+4682,268,1259,2,1135774563,Stand by Me,1986,Adventure|Drama,Brantley,Smith,36
+4683,268,1265,4,1135770455,Groundhog Day,1993,Comedy|Fantasy|Romance,Brantley,Smith,36
+4684,268,1270,1.5,1135774301,Back to the Future,1985,Adventure|Comedy|Sci-Fi,Brantley,Smith,36
+4685,268,1291,3,1135774428,Indiana Jones and the Last Crusade,1989,Action|Adventure,Brantley,Smith,36
+4686,268,1370,1,1137696330,Die Hard 2,1990,Action|Adventure|Thriller,Brantley,Smith,36
+4687,268,1377,2.5,1138612612,Batman Returns,1992,Action|Crime,Brantley,Smith,36
+4688,268,1407,1.5,1135774683,Scream,1996,Comedy|Horror|Mystery|Thriller,Brantley,Smith,36
+4689,268,1485,2,1135774717,Liar Liar,1997,Comedy,Brantley,Smith,36
+4690,268,1517,0.5,1135774570,Austin Powers: International Man of Mystery,1997,Action|Adventure|Comedy,Brantley,Smith,36
+4691,268,1527,3,1137696241,Fifth Element,1997,Action|Adventure|Comedy|Sci-Fi,Brantley,Smith,36
+4692,268,1544,2,1135774813,Lost World: Jurassic Park,1997,Action|Adventure|Sci-Fi|Thriller,Brantley,Smith,36
+4693,268,1552,1.5,1137494733,Con Air,1997,Action|Adventure|Thriller,Brantley,Smith,36
+4694,268,1580,2,1135774391,Men in Black (a.k.a. MIB),1997,Action|Comedy|Sci-Fi,Brantley,Smith,36
+4695,268,1584,2,1138612606,Contact,1997,Drama|Sci-Fi,Brantley,Smith,36
+4696,268,1586,1,1137250905,G.I. Jane,1997,Action|Drama,Brantley,Smith,36
+4697,268,1608,1.5,1135774808,Air Force One,1997,Action|Thriller,Brantley,Smith,36
+4698,268,1610,2,1137696260,Hunt for Red October,1990,Action|Adventure|Thriller,Brantley,Smith,36
+4699,268,1617,1.5,1135774377,L.A. Confidential,1997,Crime|Film-Noir|Mystery|Thriller,Brantley,Smith,36
+4700,268,1641,2.5,1135774679,Full Monty,1997,Comedy|Drama,Brantley,Smith,36
+4701,268,1653,3,1135774710,Gattaca,1997,Drama|Sci-Fi|Thriller,Brantley,Smith,36
+4702,268,1676,1,1137493991,Starship Troopers,1997,Action|Sci-Fi,Brantley,Smith,36
+4703,268,1682,4,1135771476,Truman Show,1998,Comedy|Drama|Sci-Fi,Brantley,Smith,36
+4704,268,1704,2,1135774501,Good Will Hunting,1997,Drama|Romance,Brantley,Smith,36
+4705,268,1721,2.5,1135774393,Titanic,1997,Drama|Romance,Brantley,Smith,36
+4706,268,1722,1.5,1137493983,Tomorrow Never Dies,1997,Action|Adventure|Thriller,Brantley,Smith,36
+4707,268,1732,1.5,1137696325,Big Lebowski,1998,Comedy|Crime,Brantley,Smith,36
+4708,268,1748,2,1137250828,Dark City,1998,Adventure|Film-Noir|Sci-Fi|Thriller,Brantley,Smith,36
+4709,268,1779,2.5,1137494292,Sphere,1998,Sci-Fi|Thriller,Brantley,Smith,36
+4710,268,1805,3,1148976731,Wild Things,1998,Crime|Drama|Mystery|Thriller,Brantley,Smith,36
+4711,268,1884,4,1135770264,Fear and Loathing in Las Vegas,1998,Adventure|Comedy|Drama,Brantley,Smith,36
+4712,268,1909,1,1137242461,X-Files: Fight the Future,1998,Action|Crime|Mystery|Sci-Fi|Thriller,Brantley,Smith,36
+4713,268,1917,1.5,1135774633,Armageddon,1998,Action|Romance|Sci-Fi|Thriller,Brantley,Smith,36
+4714,268,1921,3,1135773731,Pi,1998,Drama|Sci-Fi|Thriller,Brantley,Smith,36
+4715,268,1923,1.5,1135774512,There's Something About Mary,1998,Comedy|Romance,Brantley,Smith,36
+4716,268,1961,2.5,1137696233,Rain Man,1988,Drama,Brantley,Smith,36
+4717,268,2054,0.5,1137696316,Honey,1989,Adventure|Children|Comedy|Fantasy|Sci-Fi,Brantley,Smith,36
+4718,268,2081,2,1137493972,Little Mermaid,1989,Animation|Children|Comedy|Musical|Romance,Brantley,Smith,36
+4719,268,2082,0.5,1137494263,Mighty Ducks,1992,Children|Comedy,Brantley,Smith,36
+4720,268,2115,3.5,1135774652,Indiana Jones and the Temple of Doom,1984,Action|Adventure|Fantasy,Brantley,Smith,36
+4721,268,2167,1.5,1137242464,Blade,1998,Action|Horror|Thriller,Brantley,Smith,36
+4722,268,2174,2,1135774622,Beetlejuice,1988,Comedy|Fantasy,Brantley,Smith,36
+4723,268,2193,2,1137494240,Willow,1988,Action|Adventure|Fantasy,Brantley,Smith,36
+4724,268,2291,4,1135770041,Edward Scissorhands,1990,Drama|Fantasy|Romance,Brantley,Smith,36
+4725,268,2353,2,1137696401,Enemy of the State,1998,Action|Thriller,Brantley,Smith,36
+4726,268,2470,1,1137242410,Crocodile Dundee,1986,Adventure|Comedy,Brantley,Smith,36
+4727,268,2471,1.5,1137494228,Crocodile Dundee II,1988,Action|Adventure|Comedy,Brantley,Smith,36
+4728,268,2542,2,1135773960,Lock,1998,Comedy|Crime|Thriller,Brantley,Smith,36
+4729,268,2571,4,1144702608,Matrix,1999,Action|Sci-Fi|Thriller,Brantley,Smith,36
+4730,268,2617,2.5,1135774779,Mummy,1999,Action|Adventure|Comedy|Fantasy|Horror|Thriller,Brantley,Smith,36
+4731,268,2628,2,1135774399,Star Wars: Episode I - The Phantom Menace,1999,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4732,268,2683,0.5,1135774515,Austin Powers: The Spy Who Shagged Me,1999,Action|Adventure|Comedy,Brantley,Smith,36
+4733,268,2701,1.5,1137494736,Wild Wild West,1999,Action|Comedy|Sci-Fi|Western,Brantley,Smith,36
+4734,268,2710,2,1135774630,Blair Witch Project,1999,Drama|Horror|Thriller,Brantley,Smith,36
+4735,268,2712,3.5,1144702552,Eyes Wide Shut,1999,Drama|Mystery|Thriller,Brantley,Smith,36
+4736,268,2716,3,1135774433,Ghostbusters (a.k.a. Ghost Busters),1984,Action|Comedy|Sci-Fi,Brantley,Smith,36
+4737,268,2762,2,1135774342,Sixth Sense,1999,Drama|Horror|Mystery,Brantley,Smith,36
+4738,268,2797,1,1137696285,Big,1988,Comedy|Drama|Fantasy|Romance,Brantley,Smith,36
+4739,268,2858,3,1135773285,American Beauty,1999,Drama|Romance,Brantley,Smith,36
+4740,268,2959,5,1135770300,Fight Club,1999,Action|Crime|Drama|Thriller,Brantley,Smith,36
+4741,268,2997,3,1135772964,Being John Malkovich,1999,Comedy|Drama|Fantasy,Brantley,Smith,36
+4742,268,3000,1,1135772930,Princess Mononoke (Mononoke-hime),1997,Action|Adventure|Animation|Drama|Fantasy,Brantley,Smith,36
+4743,268,3263,1,1137494197,White Men Can't Jump,1992,Comedy|Drama,Brantley,Smith,36
+4744,268,3354,1,1137242831,Mission to Mars,2000,Sci-Fi,Brantley,Smith,36
+4745,268,3513,2,1137242803,Rules of Engagement,2000,Drama|Thriller,Brantley,Smith,36
+4746,268,3578,2.5,1135774467,Gladiator,2000,Action|Adventure|Drama,Brantley,Smith,36
+4747,268,3623,1.5,1137494743,Mission: Impossible II,2000,Action|Adventure|Thriller,Brantley,Smith,36
+4748,268,3702,2,1137254957,Mad Max,1979,Action|Adventure|Sci-Fi,Brantley,Smith,36
+4749,268,3793,2,1135774600,X-Men,2000,Action|Adventure|Sci-Fi,Brantley,Smith,36

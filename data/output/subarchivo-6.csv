@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+625,56,2313,3,1298282604,Elephant Man,1980,Drama,Isaiah,Smith,58
+626,56,2320,2.5,1303625631,Apt Pupil,1998,Drama|Thriller,Isaiah,Smith,58
+627,56,2322,2.5,1381371563,Soldier,1998,Action|Sci-Fi|War,Isaiah,Smith,58
+628,56,2333,3.5,1373676569,Gods and Monsters,1998,Drama,Isaiah,Smith,58
+629,56,2351,3.5,1274778897,Nights of Cabiria (Notti di Cabiria,1957,Drama,Isaiah,Smith,58
+630,56,2387,4,1281865019,Very Bad Things,1998,Comedy|Crime,Isaiah,Smith,58
+631,56,2459,2.5,1361327941,Texas Chainsaw Massacre,1974,Horror,Isaiah,Smith,58
+632,56,2551,4,1388899638,Dead Ringers,1988,Drama|Horror|Thriller,Isaiah,Smith,58
+633,56,2596,1.5,1274771838,SLC Punk!,1998,Comedy|Drama,Isaiah,Smith,58
+634,56,2664,1.5,1274781245,Invasion of the Body Snatchers,1956,Horror|Sci-Fi|Thriller,Isaiah,Smith,58
+635,56,2713,1.5,1274781485,Lake Placid,1999,Horror|Thriller,Isaiah,Smith,58
+636,56,2730,3,1371934407,Barry Lyndon,1975,Drama|Romance|War,Isaiah,Smith,58
+637,56,2731,4,1274769185,400 Blows,1959,Crime|Drama,Isaiah,Smith,58
+638,56,2747,1,1274766743,Little Shop of Horrors,1960,Comedy|Horror,Isaiah,Smith,58
+639,56,2795,1.5,1274768908,National Lampoon's Vacation,1983,Comedy,Isaiah,Smith,58
+640,56,2810,4,1326896434,Perfect Blue,1997,Animation|Horror|Mystery|Thriller,Isaiah,Smith,58
+641,56,2966,1.5,1301301843,Straight Story,1999,Adventure|Drama,Isaiah,Smith,58
+642,56,3008,3,1354350564,Last Night,1998,Drama|Sci-Fi,Isaiah,Smith,58
+643,56,3074,3.5,1381370851,Jeremiah Johnson,1972,Western,Isaiah,Smith,58
+644,56,3089,3.5,1274781956,Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette),1948,Drama,Isaiah,Smith,58
+645,56,3168,4.5,1382914611,Easy Rider,1969,Adventure|Drama,Isaiah,Smith,58
+646,56,3186,4.5,1274766669,Girl,1999,Drama,Isaiah,Smith,58
+647,56,3201,4,1375506355,Five Easy Pieces,1970,Drama,Isaiah,Smith,58
+648,56,3224,3,1379562791,Woman in the Dunes (Suna no onna),1964,Drama,Isaiah,Smith,58
+649,56,3274,3,1274781883,Single White Female,1992,Drama|Thriller,Isaiah,Smith,58
+650,56,3285,3.5,1274781157,Beach,2000,Adventure|Drama,Isaiah,Smith,58
+651,56,3339,4,1317382133,Cross of Iron,1977,War,Isaiah,Smith,58
+652,56,3435,2,1274769221,Double Indemnity,1944,Crime|Drama|Film-Noir,Isaiah,Smith,58
+653,56,3653,3,1274768850,Endless Summer,1966,Documentary,Isaiah,Smith,58
+654,56,3676,4,1274770540,Eraserhead,1977,Drama|Horror,Isaiah,Smith,58
+655,56,3812,1.5,1295787602,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,1972,Comedy,Isaiah,Smith,58
+656,56,3882,1.5,1274781305,Bring It On,2000,Comedy,Isaiah,Smith,58
+657,56,3910,4.5,1274781644,Dancer in the Dark,2000,Drama|Musical,Isaiah,Smith,58
+658,56,3917,2.5,1320323991,Hellraiser,1987,Horror,Isaiah,Smith,58
+659,56,3918,2,1320323998,Hellbound: Hellraiser II,1988,Horror,Isaiah,Smith,58
+660,56,3979,1,1274781924,Little Nicky,2000,Comedy,Isaiah,Smith,58
+661,56,3989,3.5,1320323974,One Day in September,1999,Documentary,Isaiah,Smith,58
+662,56,4010,2.5,1274782936,Brewster's Millions,1985,Comedy,Isaiah,Smith,58
+663,56,4255,3.5,1381372980,Freddy Got Fingered,2001,Comedy,Isaiah,Smith,58
+664,56,4361,4,1274780597,Tootsie,1982,Comedy|Romance,Isaiah,Smith,58
+665,56,4390,4,1294837652,Rape Me (Baise-moi),2000,Crime|Drama|Thriller,Isaiah,Smith,58
+666,56,4407,3.5,1375604581,Salvador,1986,Drama|Thriller|War,Isaiah,Smith,58
+667,56,4519,1.5,1274782922,Land Before Time,1988,Adventure|Animation|Children|Fantasy,Isaiah,Smith,58
+668,56,4541,3.5,1274778976,Serpent and the Rainbow,1988,Horror,Isaiah,Smith,58
+669,56,4552,3,1301556514,Tetsuo,1988,Action|Horror|Sci-Fi|Thriller,Isaiah,Smith,58
+670,56,4744,1,1274783029,Jeepers Creepers,2001,Horror,Isaiah,Smith,58
+671,56,4792,3.5,1274768020,13 Ghosts,1960,Horror,Isaiah,Smith,58
+672,56,4816,2.5,1274780823,Zoolander,2001,Comedy,Isaiah,Smith,58
+673,56,4835,2,1274770311,Coal Miner's Daughter,1980,Drama,Isaiah,Smith,58
+674,56,4873,1.5,1300693557,Waking Life,2001,Animation|Drama|Fantasy,Isaiah,Smith,58
+675,56,4881,3,1311582008,Man Who Wasn't There,2001,Crime|Drama,Isaiah,Smith,58
+676,56,4954,2,1381372462,Ocean's Eleven (a.k.a. Ocean's 11),1960,Comedy|Crime,Isaiah,Smith,58
+677,56,5025,2,1274782654,Orange County,2002,Comedy,Isaiah,Smith,58
+678,56,5072,3.5,1274771438,Metropolis,2001,Animation|Sci-Fi,Isaiah,Smith,58
+679,56,5103,3,1274769742,Sandlot,1993,Children|Comedy|Drama,Isaiah,Smith,58
+680,56,5266,2,1274780893,Panic Room,2002,Thriller,Isaiah,Smith,58
+681,56,5268,2,1304507247,No Such Thing,2001,Drama|Fantasy|Romance,Isaiah,Smith,58
+682,56,5291,3.5,1274781843,Rashomon (Rashômon),1950,Crime|Drama|Mystery,Isaiah,Smith,58
+683,56,5294,3.5,1274782663,Frailty,2001,Crime|Drama|Thriller,Isaiah,Smith,58
+684,56,5364,3,1274782964,Unfaithful,2002,Drama|Thriller,Isaiah,Smith,58
+685,56,5449,1,1274782536,Mr. Deeds,2002,Comedy|Romance,Isaiah,Smith,58
+686,56,5452,2,1274782742,Look Who's Talking Now,1993,Children|Comedy|Romance,Isaiah,Smith,58
+687,56,5611,3,1317633204,Four Feathers,2002,Adventure|War,Isaiah,Smith,58
+688,56,5617,4,1371185780,Secretary,2002,Comedy|Drama|Romance,Isaiah,Smith,58
+689,56,5630,3.5,1274781184,Red Dragon,2002,Crime|Mystery|Thriller,Isaiah,Smith,58
+690,56,5650,0.5,1274769745,Strange Brew,1983,Comedy,Isaiah,Smith,58
+691,56,5810,3,1274781274,8 Mile,2002,Drama,Isaiah,Smith,58
+692,56,5833,2.5,1381372944,Dog Soldiers,2002,Action|Horror,Isaiah,Smith,58
+693,56,6220,3,1381372101,Willard,2003,Drama|Horror|Thriller,Isaiah,Smith,58
+694,56,6223,3,1296134563,Spun,2001,Comedy|Crime|Drama,Isaiah,Smith,58
+695,56,6242,3,1383106970,Ringu (Ring),1998,Horror|Mystery|Thriller,Isaiah,Smith,58
+696,56,6250,3.5,1381372929,Dreamcatcher,2003,Drama|Horror|Sci-Fi|Thriller,Isaiah,Smith,58
+697,56,6645,3.5,1280217328,THX 1138,1971,Action|Adventure|Drama|Sci-Fi,Isaiah,Smith,58
+698,56,6797,2,1281741271,Bugsy,1991,Crime|Drama,Isaiah,Smith,58
+699,56,6957,5,1274781738,Bad Santa,2003,Comedy|Crime,Isaiah,Smith,58
+700,56,7022,4,1274770030,Battle Royale (Batoru rowaiaru),2000,Action|Drama|Horror|Thriller,Isaiah,Smith,58
+701,56,7024,4,1386907241,Salo,1976,Drama,Isaiah,Smith,58
+702,56,7064,3,1274770042,Beauty and the Beast (La belle et la bête),1946,Drama|Fantasy,Isaiah,Smith,58
+703,56,7123,4.5,1386907284,Naked Lunch,1991,Drama|Fantasy|Mystery|Sci-Fi,Isaiah,Smith,58
+704,56,7199,4,1301294174,Melvin Goes to Dinner,2003,Comedy|Drama,Isaiah,Smith,58
+705,56,7225,3.5,1274771719,Pumping Iron,1977,Documentary,Isaiah,Smith,58
+706,56,7445,3,1281741472,Man on Fire,2004,Action|Crime|Drama|Mystery|Thriller,Isaiah,Smith,58
+707,56,7528,3.5,1281742096,Passion of Ayn Rand,1999,Documentary|Drama|Romance,Isaiah,Smith,58
+708,56,8042,2,1274771416,Mean Streets,1973,Crime|Drama,Isaiah,Smith,58
+709,56,8482,1,1274771667,Picture of Dorian Gray,1945,Drama|Fantasy|Horror,Isaiah,Smith,58
+710,56,8484,3.5,1320667931,Human Condition I,1959,Drama|War,Isaiah,Smith,58
+711,56,8607,4,1384833618,Tokyo Godfathers,2003,Adventure|Animation|Drama,Isaiah,Smith,58
+712,56,8690,3,1274824375,Slaughterhouse-Five,1972,Comedy|Drama|Sci-Fi|War,Isaiah,Smith,58
+713,56,8783,3.5,1274782321,Village,2004,Drama|Mystery|Thriller,Isaiah,Smith,58
+714,56,25782,2.5,1299876489,Boudu Saved From Drowning (Boudu sauvé des eaux),1932,Comedy,Isaiah,Smith,58
+715,56,26073,2,1326366286,Human Condition III,1961,Drama|War,Isaiah,Smith,58
+716,56,26258,5,1274784340,Topo,1970,Fantasy|Western,Isaiah,Smith,58
+717,56,26325,3.5,1314188878,Hearts and Minds,1974,Documentary|War,Isaiah,Smith,58
+718,56,26403,1.5,1363921073,Hobbit,1977,Animation|Children|Fantasy,Isaiah,Smith,58
+719,56,26528,2,1274769669,Anne of Green Gables,1985,Children|Drama,Isaiah,Smith,58
+720,56,26702,3.5,1298456750,Reflecting Skin,1990,Drama|Horror|Thriller,Isaiah,Smith,58
+721,56,27002,4,1299588384,From the Earth to the Moon,1998,Action|Documentary|Drama|Thriller,Isaiah,Smith,58
+722,56,27156,4,1307889935,Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo,1997,Action|Animation|Drama|Fantasy|Sci-Fi,Isaiah,Smith,58
+723,56,27266,3,1371186755,2046,2004,Drama|Fantasy|Romance|Sci-Fi,Isaiah,Smith,58
+724,56,27441,3,1274770111,Blood: The Last Vampire,2000,Action|Animation|Horror,Isaiah,Smith,58
+725,56,27482,4.5,1274784431,Cube 2: Hypercube,2002,Horror|Mystery|Sci-Fi,Isaiah,Smith,58
+726,56,27660,3,1274782672,Animatrix,2003,Action|Animation|Drama|Sci-Fi,Isaiah,Smith,58
+727,56,27731,3,1289037841,Cat Returns,2002,Adventure|Animation|Children|Fantasy,Isaiah,Smith,58
+728,56,27904,4,1274782681,Scanner Darkly,2006,Animation|Drama|Mystery|Sci-Fi|Thriller,Isaiah,Smith,58
+729,56,30816,3.5,1274771649,Phantom of the Opera,2004,Drama|Musical|Romance,Isaiah,Smith,58
+730,56,32213,2.5,1274784443,Cube Zero,2004,Horror|Mystery|Sci-Fi|Thriller,Isaiah,Smith,58
+731,56,32554,4,1415596047,Memories (Memorîzu),1995,Animation|Fantasy|Sci-Fi|Thriller,Isaiah,Smith,58
+732,56,32657,3.5,1315984369,Man Who Planted Trees,1987,Animation|Drama,Isaiah,Smith,58
+733,56,33154,4,1274770532,Enron: The Smartest Guys in the Room,2005,Documentary,Isaiah,Smith,58
+734,56,33672,2.5,1289997598,Lords of Dogtown,2005,Action|Comedy|Drama,Isaiah,Smith,58
+735,56,34323,3,1381372757,Devil's Rejects,2005,Action|Crime|Horror,Isaiah,Smith,58
+736,56,35347,3,1274769951,Animal Farm,1954,Animation|Drama,Isaiah,Smith,58
+737,56,37386,2,1274782988,Aeon Flux,2005,Action|Sci-Fi,Isaiah,Smith,58
+738,56,37729,3,1274781699,Corpse Bride,2005,Animation|Comedy|Fantasy|Musical|Romance,Isaiah,Smith,58
+739,56,38097,3.5,1328749938,Dumplings (Gaau ji),2004,Drama|Horror|Thriller,Isaiah,Smith,58
+740,56,39381,2,1385519222,Proposition,2005,Crime|Drama|Western,Isaiah,Smith,58
+741,56,41571,3,1274771424,Memoirs of a Geisha,2005,Drama|Romance,Isaiah,Smith,58
+742,56,42351,4,1301576318,Threads,1984,Drama|Sci-Fi|War,Isaiah,Smith,58
+743,56,42718,2.5,1381371654,District 13 (Banlieue 13),2004,Action|Crime|Sci-Fi,Isaiah,Smith,58
+744,56,43444,3.5,1312802200,Made in Britain,1982,Crime|Drama,Isaiah,Smith,58
+745,56,43677,2,1274768810,Tuskegee Airmen,1995,Drama|War,Isaiah,Smith,58
+746,56,43928,0.5,1381371647,Ultraviolet,2006,Action|Fantasy|Sci-Fi|Thriller,Isaiah,Smith,58
+747,56,44041,4,1274769787,All Quiet on the Western Front,1979,Action|Drama|War,Isaiah,Smith,58
+748,56,44597,3.5,1305476681,Youth of the Beast (Yaju no seishun),1963,Action|Crime|Mystery,Isaiah,Smith,58
+749,56,44694,3.5,1354080212,Volver,2006,Comedy|Drama,Isaiah,Smith,58

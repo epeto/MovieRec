@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+4875,268,7090,2,1135773016,Hero (Ying xiong),2002,Action|Adventure|Drama,Brantley,Smith,36
+4876,268,154,4,1135769711,Beauty of the Day (Belle de jour),1967,Drama,Brantley,Smith,36
+4877,268,306,3.5,1135771460,Three Colors: Red (Trois couleurs: Rouge),1994,Drama,Brantley,Smith,36
+4878,268,1104,3.5,1135773643,Streetcar Named Desire,1951,Drama,Brantley,Smith,36
+4879,268,1175,4,1164561672,Delicatessen,1991,Comedy|Drama|Romance,Brantley,Smith,36
+4880,268,1263,3,1137242490,Deer Hunter,1978,Drama|War,Brantley,Smith,36
+4881,268,2076,2,1137407170,Blue Velvet,1986,Drama|Mystery|Thriller,Brantley,Smith,36
+4882,268,3019,4,1144702639,Drugstore Cowboy,1989,Crime|Drama,Brantley,Smith,36
+4883,268,2232,4,1135770725,Cube,1997,Horror|Mystery|Sci-Fi|Thriller,Brantley,Smith,36
+4884,268,1027,2,1137494363,Robin Hood: Prince of Thieves,1991,Adventure|Drama,Brantley,Smith,36
+4885,268,1358,2.5,1135774001,Sling Blade,1996,Drama,Brantley,Smith,36
+4886,268,1587,1,1137494283,Conan the Barbarian,1982,Action|Adventure|Fantasy,Brantley,Smith,36
+4887,268,1032,2.5,1137494354,Alice in Wonderland,1951,Adventure|Animation|Children|Fantasy|Musical,Brantley,Smith,36
+4888,268,4016,1.5,1139768923,Emperor's New Groove,2000,Adventure|Animation|Children|Comedy|Fantasy,Brantley,Smith,36
+4889,268,4366,2,1137494530,Atlantis: The Lost Empire,2001,Adventure|Animation|Children|Fantasy,Brantley,Smith,36
+4890,268,5992,3,1144702393,Hours,2002,Drama|Romance,Brantley,Smith,36
+4891,268,308,2.5,1137407735,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Brantley,Smith,36
+4892,268,1103,2.5,1135773869,Rebel Without a Cause,1955,Drama,Brantley,Smith,36
+4893,268,2730,2.5,1135773816,Barry Lyndon,1975,Drama|Romance|War,Brantley,Smith,36
+4894,268,2966,2,1135773835,Straight Story,1999,Adventure|Drama,Brantley,Smith,36
+4895,268,3186,2,1137251100,Girl,1999,Drama,Brantley,Smith,36
+4896,268,3224,4,1135771371,Woman in the Dunes (Suna no onna),1964,Drama,Brantley,Smith,36
+4897,268,4881,3,1135773502,Man Who Wasn't There,2001,Crime|Drama,Brantley,Smith,36
+4898,268,5266,2.5,1144702402,Panic Room,2002,Thriller,Brantley,Smith,36
+4899,268,5617,3,1148976016,Secretary,2002,Comedy|Drama|Romance,Brantley,Smith,36
+4900,268,5810,1,1137242733,8 Mile,2002,Drama,Brantley,Smith,36
+4901,268,6645,4,1144702528,THX 1138,1971,Action|Adventure|Drama|Sci-Fi,Brantley,Smith,36
+4902,268,7123,4,1135771147,Naked Lunch,1991,Drama|Fantasy|Mystery|Sci-Fi,Brantley,Smith,36
+4903,268,27266,3.5,1164561727,2046,2004,Drama|Fantasy|Romance|Sci-Fi,Brantley,Smith,36
+4904,268,37729,3,1137495118,Corpse Bride,2005,Animation|Comedy|Fantasy|Musical|Romance,Brantley,Smith,36
+4905,268,2025,2.5,1137251113,Lolita,1997,Drama|Romance,Brantley,Smith,36
+4906,268,1295,4,1144702623,Unbearable Lightness of Being,1988,Drama,Brantley,Smith,36
+4907,268,2022,2.5,1135773983,Last Temptation of Christ,1988,Drama,Brantley,Smith,36
+4908,268,2970,3,1139768480,Fitzcarraldo,1982,Adventure|Drama,Brantley,Smith,36
+4909,268,3925,3.5,1135771347,Stranger Than Paradise,1984,Comedy|Drama,Brantley,Smith,36
+4910,268,7063,4,1135769607,Aguirre: The Wrath of God (Aguirre,1972,Adventure|Drama,Brantley,Smith,36
+4911,268,8638,2.5,1135772900,Before Sunset,2004,Drama|Romance,Brantley,Smith,36
+4912,268,45880,4.5,1164561618,Marie Antoinette,2006,Drama|Romance,Brantley,Smith,36
+4913,268,766,3.5,1135770545,I Shot Andy Warhol,1996,Drama,Brantley,Smith,36
+4914,268,2729,3.5,1135773292,Lolita,1962,Drama|Romance,Brantley,Smith,36
+4915,268,4811,2,1139768731,Quadrophenia,1979,Drama|Musical,Brantley,Smith,36
+4916,268,2117,4,1135771204,1984 (Nineteen Eighty-Four),1984,Drama|Sci-Fi,Brantley,Smith,36
+4917,268,5128,2,1137494496,Queen of the Damned,2002,Fantasy|Horror,Brantley,Smith,36
+4918,268,6197,3,1138476657,Spider,2002,Drama|Mystery,Brantley,Smith,36
+4919,268,33162,2.5,1137494443,Kingdom of Heaven,2005,Action|Drama|Romance|War,Brantley,Smith,36
+4920,268,40966,3,1148975811,Libertine,2004,Drama,Brantley,Smith,36
+4921,268,3992,3.5,1148976596,Malèna,2000,Drama|Romance|War,Brantley,Smith,36
+4922,268,4928,2.5,1148976124,That Obscure Object of Desire (Cet obscur objet du désir),1977,Drama,Brantley,Smith,36
+4923,268,7158,2.5,1148975752,House of Sand and Fog,2003,Drama,Brantley,Smith,36
+4924,268,27721,2.5,1139768974,Very Long Engagement,2004,Drama|Mystery|Romance|War,Brantley,Smith,36
+4925,268,5308,0.5,1137494131,Three Men and a Baby,1987,Comedy,Brantley,Smith,36
+4926,268,1233,1.5,1137494008,Boot,1981,Action|Drama|War,Brantley,Smith,36
+4927,268,674,3,1137407244,Barbarella,1968,Adventure|Comedy|Sci-Fi,Brantley,Smith,36
+4928,268,1299,3,1135770625,Killing Fields,1984,Drama|War,Brantley,Smith,36
+4929,268,1801,1.5,1137494301,Man in the Iron Mask,1998,Action|Adventure|Drama,Brantley,Smith,36
+4930,268,2827,2,1138612918,Astronaut's Wife,1999,Horror|Sci-Fi|Thriller,Brantley,Smith,36
+4931,268,2318,2.5,1135772763,Happiness,1998,Comedy|Drama,Brantley,Smith,36
+4932,268,4017,4,1144702611,Pollock,2000,Drama,Brantley,Smith,36
+4933,268,6291,3,1139768742,Lilya 4-Ever (Lilja 4-ever),2002,Crime|Drama,Brantley,Smith,36
+4934,268,1348,2.5,1135773051,Nosferatu (Nosferatu,1922,Horror,Brantley,Smith,36
+4935,268,6774,4,1135771761,Videodrome,1983,Fantasy|Horror|Sci-Fi|Thriller,Brantley,Smith,36
+4936,268,233,1.5,1144702204,Exotica,1994,Drama,Brantley,Smith,36
+4937,268,2594,2.5,1137407221,Open Your Eyes (Abre los ojos),1997,Drama|Romance|Sci-Fi|Thriller,Brantley,Smith,36
+4938,268,6538,3,1148975998,Swimming Pool,2003,Drama|Mystery|Thriller,Brantley,Smith,36
+4939,268,495,2.5,1139768770,In the Realm of the Senses (Ai no corrida),1976,Drama,Brantley,Smith,36
+4940,268,7749,3,1137242003,Weekend (a.k.a. Le Week-end) (Week End),1967,Drama,Brantley,Smith,36
+4941,268,5225,1.5,1137242743,And Your Mother Too (Y tu mamá también),2001,Drama|Romance,Brantley,Smith,36
+4942,268,5527,2,1141937696,Possession,2002,Drama|Romance,Brantley,Smith,36
+4943,268,1173,3,1148975732,Cook the Thief His Wife & Her Lover,1989,Comedy|Drama,Brantley,Smith,36
+4944,268,1483,4,1135769899,Crash,1996,Drama|Thriller,Brantley,Smith,36
+4945,268,2437,3.5,1144702653,Wilde,1997,Drama,Brantley,Smith,36
+4946,268,3342,3.5,1144702628,Birdy,1984,Drama|War,Brantley,Smith,36
+4947,268,5477,3,1164561761,Sex and Lucia (Lucía y el sexo),2001,Drama|Romance,Brantley,Smith,36
+4948,268,5508,2,1137251029,24 Hour Party People,2002,Comedy|Drama|Musical,Brantley,Smith,36
+4949,268,6883,4,1144702525,Sylvia,2003,Drama|Romance,Brantley,Smith,36
+4950,268,7003,4,1135770732,Kafka,1991,Comedy|Drama|Mystery|Sci-Fi|Thriller,Brantley,Smith,36
+4951,268,7034,2.5,1135772808,Show Me Love (Fucking Åmål),1998,Drama|Romance,Brantley,Smith,36
+4952,268,3235,4,1135771788,Where the Buffalo Roam,1980,Comedy,Brantley,Smith,36
+4953,268,4951,2.5,1137494514,Lord of the Flies,1990,Adventure|Drama|Thriller,Brantley,Smith,36
+4954,268,202,3.5,1135771420,Total Eclipse,1995,Drama|Romance,Brantley,Smith,36
+4955,268,1264,3,1140172797,Diva,1981,Action|Drama|Mystery|Romance|Thriller,Brantley,Smith,36
+4956,268,698,4,1142156408,Delta of Venus,1995,Drama,Brantley,Smith,36
+4957,268,1567,3,1135770951,The Last Time I Committed Suicide,1997,Drama,Brantley,Smith,36
+4958,268,4872,4,1135770730,Intimacy,2000,Drama,Brantley,Smith,36
+4959,268,5890,2.5,1139768758,Elling,2001,Comedy|Drama,Brantley,Smith,36
+4960,268,6234,3.5,1144702642,Equus,1977,Drama|Mystery,Brantley,Smith,36
+4961,268,6247,2.5,1148976160,Women in Love,1969,Drama|Romance,Brantley,Smith,36
+4962,268,6666,3,1148976152,Discreet Charm of the Bourgeoisie,1972,Comedy|Drama|Fantasy,Brantley,Smith,36
+4963,268,6789,2,1135773142,Apartment,1996,Drama|Mystery|Romance,Brantley,Smith,36
+4964,268,6985,3,1135773042,Passion of Joan of Arc,1928,Drama,Brantley,Smith,36
+4965,268,7008,2,1137251095,Last Tango in Paris (Ultimo tango a Parigi),1972,Drama|Romance,Brantley,Smith,36
+4966,268,7042,5,1135768508,Betty Blue (37°2 le matin),1986,Drama|Romance,Brantley,Smith,36
+4967,268,7168,3.5,1148975942,Secret Things (Choses secrètes),2002,Drama,Brantley,Smith,36
+4968,268,7487,4,1144702598,Henry & June,1990,Drama,Brantley,Smith,36
+4969,268,27416,1.5,1135773856,Jalla! Jalla!,2000,Comedy|Drama|Romance,Brantley,Smith,36
+4970,277,307,3,1428192413,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Tobias,Smith,36
+4971,277,1590,3,1428192415,Event Horizon,1997,Horror|Sci-Fi|Thriller,Tobias,Smith,36
+4972,277,1221,3.5,1427931789,Godfather: Part II,1974,Crime|Drama,Tobias,Smith,36
+4973,277,2028,3.5,1427936110,Saving Private Ryan,1998,Action|Drama|War,Tobias,Smith,36
+4974,277,6,3.5,1428419995,Heat,1995,Action|Crime|Thriller,Tobias,Smith,36
+4975,277,25,3.5,1428191190,Leaving Las Vegas,1995,Drama|Romance,Tobias,Smith,36
+4976,277,32,3.5,1427936217,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Tobias,Smith,36
+4977,277,36,3,1428191204,Dead Man Walking,1995,Crime|Drama,Tobias,Smith,36
+4978,277,47,4.5,1427935783,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Tobias,Smith,36
+4979,277,50,4,1427931768,Usual Suspects,1995,Crime|Mystery|Thriller,Tobias,Smith,36
+4980,277,70,2,1428191626,From Dusk Till Dawn,1996,Action|Comedy|Horror|Thriller,Tobias,Smith,36
+4981,277,95,2.5,1428191157,Broken Arrow,1996,Action|Adventure|Thriller,Tobias,Smith,36
+4982,277,110,3,1428190980,Braveheart,1995,Action|Drama|War,Tobias,Smith,36
+4983,277,253,3.5,1428191103,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Tobias,Smith,36
+4984,277,260,3.5,1428190978,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Tobias,Smith,36
+4985,277,288,3,1428191167,Natural Born Killers,1994,Action|Crime|Thriller,Tobias,Smith,36
+4986,277,296,3.5,1428190965,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Tobias,Smith,36
+4987,277,318,4,1427931763,Shawshank Redemption,1994,Crime|Drama,Tobias,Smith,36
+4988,277,356,3,1428190969,Forrest Gump,1994,Comedy|Drama|Romance|War,Tobias,Smith,36
+4989,277,368,3,1428190891,Maverick,1994,Adventure|Comedy|Western,Tobias,Smith,36
+4990,277,377,3,1428191030,Speed,1994,Action|Romance|Thriller,Tobias,Smith,36
+4991,277,380,3.5,1428191017,True Lies,1994,Action|Adventure|Comedy|Romance|Thriller,Tobias,Smith,36
+4992,277,410,2,1428190920,Addams Family Values,1993,Children|Comedy|Fantasy,Tobias,Smith,36
+4993,277,434,2,1428191146,Cliffhanger,1993,Action|Adventure|Thriller,Tobias,Smith,36
+4994,277,457,2.5,1428190992,Fugitive,1993,Thriller,Tobias,Smith,36
+4995,277,471,3.5,1428423379,Hudsucker Proxy,1994,Comedy,Tobias,Smith,36
+4996,277,480,2,1428190972,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Tobias,Smith,36
+4997,277,527,4,1427931780,Schindler's List,1993,Drama|War,Tobias,Smith,36
+4998,277,539,3,1428191085,Sleepless in Seattle,1993,Comedy|Drama|Romance,Tobias,Smith,36
+4999,277,541,4.5,1427935921,Blade Runner,1982,Action|Sci-Fi|Thriller,Tobias,Smith,36

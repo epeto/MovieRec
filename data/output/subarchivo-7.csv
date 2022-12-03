@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+750,56,44974,2,1327325229,Hard Candy,2005,Drama|Thriller,Isaiah,Smith,58
+751,56,45208,1,1274772249,RV,2006,Adventure|Children|Comedy,Isaiah,Smith,58
+752,56,45728,2.5,1274782693,Clerks II,2006,Comedy,Isaiah,Smith,58
+753,56,46723,4,1274781755,Babel,2006,Drama|Thriller,Isaiah,Smith,58
+754,56,47629,2.5,1383189645,The Queen,2006,Drama,Isaiah,Smith,58
+755,56,48560,3.5,1381373195,Running With Scissors,2006,Comedy|Drama,Isaiah,Smith,58
+756,56,50594,3.5,1274784852,Daisies (Sedmikrasky),1966,Comedy|Drama,Isaiah,Smith,58
+757,56,51091,3,1274770094,Black Snake Moan,2006,Drama,Isaiah,Smith,58
+758,56,52885,3,1404538666,Paprika (Papurika),2006,Animation|Mystery|Sci-Fi,Isaiah,Smith,58
+759,56,53024,4,1281741454,Jonestown: The Life and Death of Peoples Temple,2006,Documentary,Isaiah,Smith,58
+760,56,54426,3.5,1299876467,12:08 East of Bucharest (A fost sau n-a fost?),2006,Comedy|Drama,Isaiah,Smith,58
+761,56,55280,3.5,1282083858,Lars and the Real Girl,2007,Comedy|Drama,Isaiah,Smith,58
+762,56,55444,2,1310263221,Control,2007,Drama,Isaiah,Smith,58
+763,56,55872,1,1274769990,August Rush,2007,Drama|Musical,Isaiah,Smith,58
+764,56,56003,5,1274784351,Southland Tales,2006,Comedy|Drama|Sci-Fi|Thriller,Isaiah,Smith,58
+765,56,56339,3,1329988442,Orphanage,2007,Drama|Horror|Mystery|Thriller,Isaiah,Smith,58
+766,56,56587,2.5,1274770199,Bucket List,2007,Comedy|Drama,Isaiah,Smith,58
+767,56,56757,2,1381371303,Sweeney Todd: The Demon Barber of Fleet Street,2007,Drama|Horror|Musical|Thriller,Isaiah,Smith,58
+768,56,57637,2.5,1354611226,Signal,2007,Horror|Sci-Fi|Thriller,Isaiah,Smith,58
+769,56,57792,3.5,1281741574,Caramel (Sukkar banat),2007,Comedy,Isaiah,Smith,58
+770,56,57980,3,1326890662,Art of Negative Thinking,2006,Comedy|Drama,Isaiah,Smith,58
+771,56,59387,3,1288252299,Fall,2006,Adventure|Drama|Fantasy,Isaiah,Smith,58
+772,56,59684,2,1298545853,Lake of Fire,2006,Documentary,Isaiah,Smith,58
+773,56,60037,2,1294741534,Happening,2008,Drama|Sci-Fi|Thriller,Isaiah,Smith,58
+774,56,61136,4,1320654593,Objective,2008,Horror|Sci-Fi|Thriller|War,Isaiah,Smith,58
+775,56,61240,4,1288252352,Let the Right One In (Låt den rätte komma in),2008,Drama|Fantasy|Horror|Romance,Isaiah,Smith,58
+776,56,62336,4,1326896102,FLCL,2000,Animation|Comedy|Fantasy|Sci-Fi,Isaiah,Smith,58
+777,56,63062,2,1274770257,Changeling,2008,Crime|Drama|Mystery,Isaiah,Smith,58
+778,56,63876,3.5,1314189041,Milk,2008,Drama,Isaiah,Smith,58
+779,56,64034,3,1274770153,Boy in the Striped Pajamas,2008,Drama|War,Isaiah,Smith,58
+780,56,66934,1,1274778936,Dr. Horrible's Sing-Along Blog,2008,Comedy|Drama|Musical|Sci-Fi,Isaiah,Smith,58
+781,56,67665,3,1289738344,Anvil! The Story of Anvil,2008,Documentary|Musical,Isaiah,Smith,58
+782,56,68519,4,1286157006,S. Darko (S. Darko: A Donnie Darko Tale),2009,Crime|Mystery|Sci-Fi|Thriller,Isaiah,Smith,58
+783,56,68945,3,1307889930,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei),1997,Action|Animation|Mystery|Sci-Fi,Isaiah,Smith,58
+784,56,69134,5,1415596064,Antichrist,2009,Drama|Fantasy,Isaiah,Smith,58
+785,56,69784,4,1281741612,Brüno (Bruno),2009,Comedy,Isaiah,Smith,58
+786,56,70533,4,1307889941,Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekijôban: Jo),2007,Action|Animation|Sci-Fi,Isaiah,Smith,58
+787,56,70728,3,1354071040,Bronson,2009,Action|Comedy|Drama|Thriller,Isaiah,Smith,58
+788,56,71057,2,1282083532,9,2009,Adventure|Animation|Sci-Fi,Isaiah,Smith,58
+789,56,71156,1,1282444441,Men Who Stare at Goats,2009,Action|Comedy|Drama,Isaiah,Smith,58
+790,56,71205,2,1298456654,Jennifer's Body,2009,Comedy|Horror|Sci-Fi|Thriller,Isaiah,Smith,58
+791,56,71282,3,1381372020,Food,2008,Documentary,Isaiah,Smith,58
+792,56,71379,2,1288252111,Paranormal Activity,2009,Horror|Thriller,Isaiah,Smith,58
+793,56,72731,1.5,1288481077,Lovely Bones,2009,Crime|Drama|Fantasy|Horror|Thriller,Isaiah,Smith,58
+794,56,73608,4,1274772079,Heat,1972,Comedy|Drama|Romance,Isaiah,Smith,58
+795,56,74416,4,1277106839,Fish Tank,2009,Drama,Isaiah,Smith,58
+796,56,77561,3,1274768800,Iron Man 2,2010,Action|Adventure|Sci-Fi|Thriller|IMAX,Isaiah,Smith,58
+797,56,77798,2,1381372655,Nightmare on Elm Street,2010,Fantasy|Horror|Thriller,Isaiah,Smith,58
+798,56,77854,2.5,1295870233,Work of Director Michel Gondry,2003,Comedy|Documentary,Isaiah,Smith,58
+799,56,78681,4,1324483306,Wild Hunt,2009,Drama|Thriller,Isaiah,Smith,58
+800,56,78836,3,1415595360,Enter the Void,2009,Drama,Isaiah,Smith,58
+801,56,80831,4,1298456697,Let Me In,2010,Drama|Horror|Mystery,Isaiah,Smith,58
+802,56,80917,2.5,1354483099,Monsters,2010,Drama|Sci-Fi,Isaiah,Smith,58
+803,56,81417,1,1289718022,Paranormal Activity 2,2010,Horror|IMAX,Isaiah,Smith,58
+804,56,82242,1,1386907198,Rare Exports: A Christmas Tale (Rare Exports),2010,Action|Comedy,Isaiah,Smith,58
+805,56,84116,4,1326366299,Poetry (Shi),2010,Drama,Isaiah,Smith,58
+806,56,84187,4.5,1307889947,Evangelion: 2.0 You Can (Not) Advance (Evangerion shin gekijôban: Ha),2009,Action|Animation|Drama|Sci-Fi,Isaiah,Smith,58
+807,56,84880,3.5,1324483352,Infidel,2010,Comedy,Isaiah,Smith,58
+808,56,86320,3.5,1335565009,Melancholia,2011,Drama|Sci-Fi,Isaiah,Smith,58
+809,56,86355,3.5,1335405118,Atlas Shrugged: Part 1,2011,Drama|Mystery|Sci-Fi,Isaiah,Smith,58
+810,56,87306,1.5,1381372638,Super 8,2011,Mystery|Sci-Fi|Thriller|IMAX,Isaiah,Smith,58
+811,56,89780,1.5,1381373132,Sherlock Holmes,2010,Mystery|Sci-Fi,Isaiah,Smith,58
+812,56,90374,3.5,1327417294,Martha Marcy May Marlene,2011,Drama|Thriller,Isaiah,Smith,58
+813,56,91658,2.5,1354414185,Girl with the Dragon Tattoo,2011,Drama|Thriller,Isaiah,Smith,58
+814,56,94558,4.5,1366340635,Beyond the Black Rainbow,2010,Mystery|Sci-Fi,Isaiah,Smith,58
+815,56,96832,4,1415584208,Holy Motors,2012,Drama|Fantasy|Musical|Mystery|Sci-Fi,Isaiah,Smith,58
+816,56,103574,4,1383107272,Jug Face,2013,Horror,Isaiah,Smith,58
+817,56,104074,1,1415584315,Percy Jackson: Sea of Monsters,2013,Adventure|Children|Fantasy,Isaiah,Smith,58
+818,56,104243,2.5,1379562718,Riddick,2013,Action|Sci-Fi|Thriller|IMAX,Isaiah,Smith,58
+819,56,105248,4,1381373689,Metallica: Through the Never,2013,Action|Musical|IMAX,Isaiah,Smith,58
+820,56,108727,4.5,1396934293,Nymphomaniac: Volume I,2013,Drama,Isaiah,Smith,58
+821,56,108981,4.5,1396934296,Nymphomaniac: Volume II,2013,Drama|Mystery,Isaiah,Smith,58
+822,71,307,5,1257795414,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Kai,Smith,39
+823,71,2028,3.5,1278025659,Saving Private Ryan,1998,Action|Drama|War,Kai,Smith,39
+824,71,1,4,1287852411,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy,Kai,Smith,39
+825,71,32,3.5,1257876107,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Kai,Smith,39
+826,71,47,4,1278025495,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Kai,Smith,39
+827,71,110,3,1257872047,Braveheart,1995,Action|Drama|War,Kai,Smith,39
+828,71,260,4,1257872215,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Kai,Smith,39
+829,71,296,4.5,1257872310,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Kai,Smith,39
+830,71,318,4,1257872068,Shawshank Redemption,1994,Crime|Drama,Kai,Smith,39
+831,71,344,3,1278025508,Ace Ventura: Pet Detective,1994,Comedy,Kai,Smith,39
+832,71,356,3,1257872149,Forrest Gump,1994,Comedy|Drama|Romance|War,Kai,Smith,39
+833,71,364,4,1278025688,Lion King,1994,Adventure|Animation|Children|Drama|Musical|IMAX,Kai,Smith,39
+834,71,367,4,1260208526,Mask,1994,Action|Comedy|Crime|Fantasy,Kai,Smith,39
+835,71,380,1.5,1278025437,True Lies,1994,Action|Adventure|Comedy|Romance|Thriller,Kai,Smith,39
+836,71,480,3.5,1257873516,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Kai,Smith,39
+837,71,527,4,1278025476,Schindler's List,1993,Drama|War,Kai,Smith,39
+838,71,541,4,1257872492,Blade Runner,1982,Action|Sci-Fi|Thriller,Kai,Smith,39
+839,71,588,4,1278025457,Aladdin,1992,Adventure|Animation|Children|Comedy|Musical,Kai,Smith,39
+840,71,592,3.5,1278025671,Batman,1989,Action|Crime|Thriller,Kai,Smith,39
+841,71,741,4.5,1257876134,Ghost in the Shell (Kôkaku kidôtai),1995,Animation|Sci-Fi,Kai,Smith,39
+842,71,780,2,1278025623,Independence Day (a.k.a. ID4),1996,Action|Adventure|Sci-Fi|Thriller,Kai,Smith,39
+843,71,919,4,1257877649,Wizard of Oz,1939,Adventure|Children|Fantasy|Musical,Kai,Smith,39
+844,71,924,5,1278025962,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Kai,Smith,39
+845,71,1080,4,1278027213,Monty Python's Life of Brian,1979,Comedy,Kai,Smith,39
+846,71,1089,4.5,1278025857,Reservoir Dogs,1992,Crime|Mystery|Thriller,Kai,Smith,39
+847,71,1136,4,1257872312,Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,Kai,Smith,39
+848,71,1196,4,1278025426,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,Kai,Smith,39
+849,71,1200,3.5,1278026224,Aliens,1986,Action|Adventure|Horror|Sci-Fi,Kai,Smith,39
+850,71,1208,4,1278026787,Apocalypse Now,1979,Action|Drama|War,Kai,Smith,39
+851,71,1210,3.5,1278025530,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Sci-Fi,Kai,Smith,39
+852,71,1214,4,1278025774,Alien,1979,Horror|Sci-Fi,Kai,Smith,39
+853,71,1265,4,1257872822,Groundhog Day,1993,Comedy|Fantasy|Romance,Kai,Smith,39
+854,71,1274,3.5,1257872512,Akira,1988,Action|Adventure|Animation|Sci-Fi,Kai,Smith,39
+855,71,1291,3.5,1278025582,Indiana Jones and the Last Crusade,1989,Action|Adventure,Kai,Smith,39
+856,71,1320,2.5,1278027663,Alien³ (a.k.a. Alien 3),1992,Action|Horror|Sci-Fi|Thriller,Kai,Smith,39
+857,71,1682,3,1278025836,Truman Show,1998,Comedy|Drama|Sci-Fi,Kai,Smith,39
+858,71,1704,3.5,1278025753,Good Will Hunting,1997,Drama|Romance,Kai,Smith,39
+859,71,1921,4,1257876117,Pi,1998,Drama|Sci-Fi|Thriller,Kai,Smith,39
+860,71,2021,3.5,1257873114,Dune,1984,Adventure|Sci-Fi,Kai,Smith,39
+861,71,2291,3.5,1257877626,Edward Scissorhands,1990,Drama|Fantasy|Romance,Kai,Smith,39
+862,71,2571,4.5,1257876145,Matrix,1999,Action|Sci-Fi|Thriller,Kai,Smith,39
+863,71,2628,2,1278025512,Star Wars: Episode I - The Phantom Menace,1999,Action|Adventure|Sci-Fi,Kai,Smith,39
+864,71,2716,3.5,1278025662,Ghostbusters (a.k.a. Ghost Busters),1984,Action|Comedy|Sci-Fi,Kai,Smith,39
+865,71,2858,4.5,1278025691,American Beauty,1999,Drama|Romance,Kai,Smith,39
+866,71,2959,4,1257872560,Fight Club,1999,Action|Crime|Drama|Thriller,Kai,Smith,39
+867,71,2987,3.5,1257876386,Who Framed Roger Rabbit?,1988,Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,Kai,Smith,39
+868,71,2997,3.5,1257877186,Being John Malkovich,1999,Comedy|Drama|Fantasy,Kai,Smith,39
+869,71,3000,4.5,1257872482,Princess Mononoke (Mononoke-hime),1997,Action|Adventure|Animation|Drama|Fantasy,Kai,Smith,39
+870,71,3578,3.5,1278025557,Gladiator,2000,Action|Adventure|Drama,Kai,Smith,39
+871,71,3793,3,1257872416,X-Men,2000,Action|Adventure|Sci-Fi,Kai,Smith,39
+872,71,3977,0.5,1278025699,Charlie's Angels,2000,Action|Comedy,Kai,Smith,39
+873,71,3996,4,1257876737,Crouching Tiger,2000,Action|Drama|Romance,Kai,Smith,39
+874,71,3997,1,1257795705,Dungeons & Dragons,2000,Action|Adventure|Comedy|Fantasy,Kai,Smith,39

@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+7250,549,2707,3,1238322493,Arlington Road,1999,Thriller,Dariel,Smith,57
+7251,549,3363,5,1238318389,American Graffiti,1973,Comedy|Drama,Dariel,Smith,57
+7252,549,1221,5,1238315203,Godfather: Part II,1974,Crime|Drama,Dariel,Smith,57
+7253,549,1645,2.5,1238321547,The Devil's Advocate,1997,Drama|Mystery|Thriller,Dariel,Smith,57
+7254,549,2028,4.5,1238316403,Saving Private Ryan,1998,Action|Drama|War,Dariel,Smith,57
+7255,549,1,5,1238319291,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy,Dariel,Smith,57
+7256,549,2,3.5,1238320785,Jumanji,1995,Adventure|Children|Fantasy,Dariel,Smith,57
+7257,549,6,4.5,1238318910,Heat,1995,Action|Crime|Thriller,Dariel,Smith,57
+7258,549,10,3.5,1238320022,GoldenEye,1995,Action|Adventure|Thriller,Dariel,Smith,57
+7259,549,11,3.5,1238320853,American President,1995,Comedy|Drama|Romance,Dariel,Smith,57
+7260,549,16,4,1238318803,Casino,1995,Crime|Drama,Dariel,Smith,57
+7261,549,19,2.5,1238320805,Ace Ventura: When Nature Calls,1995,Comedy,Dariel,Smith,57
+7262,549,20,2,1238330949,Money Train,1995,Action|Comedy|Crime|Drama|Thriller,Dariel,Smith,57
+7263,549,25,4.5,1238320683,Leaving Las Vegas,1995,Drama|Romance,Dariel,Smith,57
+7264,549,32,4.5,1238318757,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Dariel,Smith,57
+7265,549,34,5,1238320012,Babe,1995,Children|Drama,Dariel,Smith,57
+7266,549,36,4.5,1238320722,Dead Man Walking,1995,Crime|Drama,Dariel,Smith,57
+7267,549,39,4.5,1238320672,Clueless,1995,Comedy|Romance,Dariel,Smith,57
+7268,549,47,4.5,1238318656,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Dariel,Smith,57
+7269,549,50,5,1238315774,Usual Suspects,1995,Crime|Mystery|Thriller,Dariel,Smith,57
+7270,549,62,3.5,1238320734,Mr. Holland's Opus,1995,Drama,Dariel,Smith,57
+7271,549,65,2,1238330536,Bio-Dome,1996,Comedy,Dariel,Smith,57
+7272,549,70,3.5,1238321402,From Dusk Till Dawn,1996,Action|Comedy|Horror|Thriller,Dariel,Smith,57
+7273,549,104,2.5,1238320911,Happy Gilmore,1996,Comedy,Dariel,Smith,57
+7274,549,110,4,1238318795,Braveheart,1995,Action|Drama|War,Dariel,Smith,57
+7275,549,145,3,1238321461,Bad Boys,1995,Action|Comedy|Crime|Drama|Thriller,Dariel,Smith,57
+7276,549,150,4,1238319890,Apollo 13,1995,Adventure|Drama|IMAX,Dariel,Smith,57
+7277,549,151,4,1238321194,Rob Roy,1995,Action|Drama|Romance|War,Dariel,Smith,57
+7278,549,153,2,1238319963,Batman Forever,1995,Action|Adventure|Comedy|Crime,Dariel,Smith,57
+7279,549,158,2.5,1238321280,Casper,1995,Adventure|Children,Dariel,Smith,57
+7280,549,163,3.5,1238314773,Desperado,1995,Action|Romance|Western,Dariel,Smith,57
+7281,549,165,3.5,1238319952,Die Hard: With a Vengeance,1995,Action|Crime|Thriller,Dariel,Smith,57
+7282,549,172,2,1238321284,Johnny Mnemonic,1995,Action|Sci-Fi|Thriller,Dariel,Smith,57
+7283,549,173,2,1238321073,Judge Dredd,1995,Action|Crime|Sci-Fi,Dariel,Smith,57
+7284,549,180,3,1238322097,Mallrats,1995,Comedy|Romance,Dariel,Smith,57
+7285,549,185,2,1238320666,Net,1995,Action|Crime|Thriller,Dariel,Smith,57
+7286,549,186,3.5,1238321371,Nine Months,1995,Comedy|Romance,Dariel,Smith,57
+7287,549,216,2.5,1238322191,Billy Madison,1995,Comedy,Dariel,Smith,57
+7288,549,223,4.5,1238318822,Clerks,1994,Comedy,Dariel,Smith,57
+7289,549,231,4,1238319993,Dumb & Dumber (Dumb and Dumber),1994,Adventure|Comedy,Dariel,Smith,57
+7290,549,253,4,1238320073,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Dariel,Smith,57
+7291,549,260,5,1238315224,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Dariel,Smith,57
+7292,549,288,3.5,1238320707,Natural Born Killers,1994,Action|Crime|Thriller,Dariel,Smith,57
+7293,549,293,4.5,1238316376,Léon: The Professional (a.k.a. The Professional) (Léon),1994,Action|Crime|Drama|Thriller,Dariel,Smith,57
+7294,549,296,5,1238318011,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Dariel,Smith,57
+7295,549,317,3,1238320975,Santa Clause,1994,Comedy|Drama|Fantasy,Dariel,Smith,57
+7296,549,318,4.5,1238315175,Shawshank Redemption,1994,Crime|Drama,Dariel,Smith,57
+7297,549,338,2,1238330348,Virtuosity,1995,Action|Sci-Fi|Thriller,Dariel,Smith,57
+7298,549,344,3.5,1238319928,Ace Ventura: Pet Detective,1994,Comedy,Dariel,Smith,57
+7299,549,353,4,1238321004,Crow,1994,Action|Crime|Fantasy|Thriller,Dariel,Smith,57
+7300,549,356,3.5,1238319880,Forrest Gump,1994,Comedy|Drama|Romance|War,Dariel,Smith,57
+7301,549,364,4.5,1238319974,Lion King,1994,Adventure|Animation|Children|Drama|Musical|IMAX,Dariel,Smith,57
+7302,549,367,3.5,1238319997,Mask,1994,Action|Comedy|Crime|Fantasy,Dariel,Smith,57
+7303,549,377,4.5,1238319926,Speed,1994,Action|Romance|Thriller,Dariel,Smith,57
+7304,549,380,3.5,1238319918,True Lies,1994,Action|Adventure|Comedy|Romance|Thriller,Dariel,Smith,57
+7305,549,410,4,1238320857,Addams Family Values,1993,Children|Comedy|Fantasy,Dariel,Smith,57
+7306,549,432,3,1238321164,City Slickers II: The Legend of Curly's Gold,1994,Adventure|Comedy|Western,Dariel,Smith,57
+7307,549,434,2.5,1238320078,Cliffhanger,1993,Action|Adventure|Thriller,Dariel,Smith,57
+7308,549,457,4.5,1238318200,Fugitive,1993,Thriller,Dariel,Smith,57
+7309,549,466,3,1238314767,Hot Shots! Part Deux,1993,Action|Comedy|War,Dariel,Smith,57
+7310,549,471,3.5,1238321498,Hudsucker Proxy,1994,Comedy,Dariel,Smith,57
+7311,549,480,4,1238319885,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Dariel,Smith,57
+7312,549,500,3,1238319983,Mrs. Doubtfire,1993,Comedy|Drama,Dariel,Smith,57
+7313,549,520,3,1238321136,Robin Hood: Men in Tights,1993,Comedy,Dariel,Smith,57
+7314,549,527,5,1238315336,Schindler's List,1993,Drama|War,Dariel,Smith,57
+7315,549,541,5,1238315252,Blade Runner,1982,Action|Sci-Fi|Thriller,Dariel,Smith,57
+7316,549,546,1.5,1238330077,Super Mario Bros.,1993,Action|Adventure|Children|Comedy|Fantasy|Sci-Fi,Dariel,Smith,57
+7317,549,552,3,1238321301,Three Musketeers,1993,Action|Adventure|Comedy|Romance,Dariel,Smith,57
+7318,549,586,4,1238320663,Home Alone,1990,Children|Comedy,Dariel,Smith,57
+7319,549,588,4,1238319921,Aladdin,1992,Adventure|Animation|Children|Comedy|Musical,Dariel,Smith,57
+7320,549,589,5,1238319263,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Dariel,Smith,57
+7321,549,590,4,1238319896,Dances with Wolves,1990,Adventure|Drama|Western,Dariel,Smith,57
+7322,549,592,4.5,1238319892,Batman,1989,Action|Crime|Thriller,Dariel,Smith,57
+7323,549,593,5,1238318678,Silence of the Lambs,1991,Crime|Horror|Thriller,Dariel,Smith,57
+7324,549,608,5,1238315091,Fargo,1996,Comedy|Crime|Drama|Thriller,Dariel,Smith,57
+7325,549,647,3.5,1238321956,Courage Under Fire,1996,Action|Crime|Drama|War,Dariel,Smith,57
+7326,549,648,3.5,1238319935,Mission: Impossible,1996,Action|Adventure|Mystery|Thriller,Dariel,Smith,57
+7327,549,653,3,1238321051,Dragonheart,1996,Action|Adventure|Fantasy,Dariel,Smith,57
+7328,549,724,3,1238322037,Craft,1996,Drama|Fantasy|Horror|Thriller,Dariel,Smith,57
+7329,549,733,3,1238319990,Rock,1996,Action|Adventure|Thriller,Dariel,Smith,57
+7330,549,736,3,1238319977,Twister,1996,Action|Adventure|Romance|Thriller,Dariel,Smith,57
+7331,549,741,4.5,1238329879,Ghost in the Shell (Kôkaku kidôtai),1995,Animation|Sci-Fi,Dariel,Smith,57
+7332,549,778,4.5,1238319791,Trainspotting,1996,Comedy|Crime|Drama,Dariel,Smith,57
+7333,549,780,3.5,1238319901,Independence Day (a.k.a. ID4),1996,Action|Adventure|Sci-Fi|Thriller,Dariel,Smith,57
+7334,549,784,4,1238321093,Cable Guy,1996,Comedy|Thriller,Dariel,Smith,57
+7335,549,785,3.5,1238321638,Kingpin,1996,Comedy,Dariel,Smith,57
+7336,549,788,3.5,1238320845,Nutty Professor,1996,Comedy|Fantasy|Romance|Sci-Fi,Dariel,Smith,57
+7337,549,805,3,1238321409,Time to Kill,1996,Drama|Thriller,Dariel,Smith,57
+7338,549,836,2,1238330397,Chain Reaction,1996,Action|Adventure|Thriller,Dariel,Smith,57
+7339,549,852,3.5,1238321482,Tin Cup,1996,Comedy|Drama|Romance,Dariel,Smith,57
+7340,549,858,5,1238315094,Godfather,1972,Crime|Drama,Dariel,Smith,57
+7341,549,919,5,1238320761,Wizard of Oz,1939,Adventure|Children|Fantasy|Musical,Dariel,Smith,57
+7342,549,924,5,1238320748,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Dariel,Smith,57
+7343,549,1020,3,1238322760,Cool Runnings,1993,Comedy,Dariel,Smith,57
+7344,549,1036,5,1238315821,Die Hard,1988,Action|Crime|Thriller,Dariel,Smith,57
+7345,549,1059,3.5,1238321696,William Shakespeare's Romeo + Juliet,1996,Drama|Romance,Dariel,Smith,57
+7346,549,1079,4.5,1238318172,Fish Called Wanda,1988,Comedy|Crime,Dariel,Smith,57
+7347,549,1080,4.5,1238319650,Monty Python's Life of Brian,1979,Comedy,Dariel,Smith,57
+7348,549,1089,4.5,1238318032,Reservoir Dogs,1992,Crime|Mystery|Thriller,Dariel,Smith,57
+7349,549,1090,5,1238318005,Platoon,1986,Drama|War,Dariel,Smith,57
+7350,549,1092,3.5,1238321551,Basic Instinct,1992,Crime|Mystery|Thriller,Dariel,Smith,57
+7351,549,1101,3.5,1238320837,Top Gun,1986,Action|Romance,Dariel,Smith,57
+7352,549,1136,5,1238318278,Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,Dariel,Smith,57
+7353,549,1196,5,1238318058,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,Dariel,Smith,57
+7354,549,1198,5,1238315089,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action|Adventure,Dariel,Smith,57
+7355,549,1200,5,1238318099,Aliens,1986,Action|Adventure|Horror|Sci-Fi,Dariel,Smith,57
+7356,549,1203,5,1238315179,12 Angry Men,1957,Drama,Dariel,Smith,57
+7357,549,1207,5,1238315343,To Kill a Mockingbird,1962,Drama,Dariel,Smith,57
+7358,549,1208,5,1238315246,Apocalypse Now,1979,Action|Drama|War,Dariel,Smith,57
+7359,549,1210,4.5,1238319904,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Sci-Fi,Dariel,Smith,57
+7360,549,1214,5,1238318097,Alien,1979,Horror|Sci-Fi,Dariel,Smith,57
+7361,549,1215,3.5,1238321459,Army of Darkness,1993,Action|Adventure|Comedy|Fantasy|Horror,Dariel,Smith,57
+7362,549,1220,4.5,1238319360,Blues Brothers,1980,Action|Comedy|Musical,Dariel,Smith,57
+7363,549,1222,4.5,1238316859,Full Metal Jacket,1987,Drama|War,Dariel,Smith,57
+7364,549,1240,5,1238318350,Terminator,1984,Action|Sci-Fi|Thriller,Dariel,Smith,57
+7365,549,1259,4.5,1238318055,Stand by Me,1986,Adventure|Drama,Dariel,Smith,57
+7366,549,1265,4.5,1238319532,Groundhog Day,1993,Comedy|Fantasy|Romance,Dariel,Smith,57
+7367,549,1270,4.5,1238318785,Back to the Future,1985,Adventure|Comedy|Sci-Fi,Dariel,Smith,57
+7368,549,1274,5,1238319325,Akira,1988,Action|Adventure|Animation|Sci-Fi,Dariel,Smith,57
+7369,549,1275,3,1238321560,Highlander,1986,Action|Adventure|Fantasy,Dariel,Smith,57
+7370,549,1291,4,1238318238,Indiana Jones and the Last Crusade,1989,Action|Adventure,Dariel,Smith,57
+7371,549,1320,3,1238321237,Alien³ (a.k.a. Alien 3),1992,Action|Horror|Sci-Fi|Thriller,Dariel,Smith,57
+7372,549,1339,3.5,1238321746,Dracula (Bram Stoker's Dracula),1992,Fantasy|Horror|Romance|Thriller,Dariel,Smith,57
+7373,549,1370,2.5,1238321102,Die Hard 2,1990,Action|Adventure|Thriller,Dariel,Smith,57
+7374,549,1385,3,1238329913,Under Siege,1992,Action|Drama|Thriller,Dariel,Smith,57

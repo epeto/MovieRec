@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+1125,84,3735,3,999055229,Serpico,1973,Crime|Drama,Wesley,Smith,44
+1126,84,154,4,999055337,Beauty of the Day (Belle de jour),1967,Drama,Wesley,Smith,44
+1127,84,306,4,999056572,Three Colors: Red (Trois couleurs: Rouge),1994,Drama,Wesley,Smith,44
+1128,84,475,4,999056512,In the Name of the Father,1993,Drama,Wesley,Smith,44
+1129,84,1185,5,999056364,My Left Foot,1989,Drama,Wesley,Smith,44
+1130,84,1263,3,999056171,Deer Hunter,1978,Drama|War,Wesley,Smith,44
+1131,84,1280,4,999055737,Raise the Red Lantern (Da hong deng long gao gao gua),1991,Drama,Wesley,Smith,44
+1132,84,1914,3,999056310,Smoke Signals,1998,Comedy|Drama,Wesley,Smith,44
+1133,84,1945,4,999055684,On the Waterfront,1954,Crime|Drama,Wesley,Smith,44
+1134,84,266,3,999057380,Legends of the Fall,1994,Drama|Romance|War|Western,Wesley,Smith,44
+1135,84,1358,4,999057224,Sling Blade,1996,Drama,Wesley,Smith,44
+1136,84,1955,4,999056230,Kramer vs. Kramer,1979,Drama,Wesley,Smith,44
+1137,84,3194,4,999056655,Way We Were,1973,Drama|Romance,Wesley,Smith,44
+1138,84,4292,3,999056364,Norma Rae,1979,Drama,Wesley,Smith,44
+1139,84,82,3,999056535,Antonia's Line (Antonia),1995,Comedy|Drama,Wesley,Smith,44
+1140,84,3089,3,999055907,Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette),1948,Drama,Wesley,Smith,44
+1141,84,800,5,999056046,Lone Star,1996,Drama|Mystery|Western,Wesley,Smith,44
+1142,84,4703,4,999056335,Chocolat,1988,Drama,Wesley,Smith,44
+1143,84,3415,4,999055519,Mirror,1975,Drama,Wesley,Smith,44
+1144,84,3683,3,999055586,Blood Simple,1984,Crime|Drama|Film-Noir,Wesley,Smith,44
+1145,84,3969,4,999056867,Pay It Forward,2000,Drama,Wesley,Smith,44
+1146,84,766,3,999056833,I Shot Andy Warhol,1996,Drama,Wesley,Smith,44
+1147,84,2020,3,999056151,Dangerous Liaisons,1988,Drama|Romance,Wesley,Smith,44
+1148,84,72,2,999056798,Kicking and Screaming,1995,Comedy|Drama,Wesley,Smith,44
+1149,84,73,4,999057335,Misérables,1995,Drama|War,Wesley,Smith,44
+1150,84,80,3,999056112,White Balloon,1995,Children|Drama,Wesley,Smith,44
+1151,84,84,4,999057130,Last Summer in the Hamptons,1995,Comedy|Drama,Wesley,Smith,44
+1152,84,314,5,999055937,Secret of Roan Inish,1994,Children|Drama|Fantasy|Mystery,Wesley,Smith,44
+1153,84,446,4,999055337,Farewell My Concubine (Ba wang bie ji),1993,Drama|Romance,Wesley,Smith,44
+1154,84,621,3,999056310,My Favorite Season,1993,Drama,Wesley,Smith,44
+1155,84,715,4,999057130,Horseman on the Roof,1995,Drama|Romance,Wesley,Smith,44
+1156,84,753,4,999057130,Month by the Lake,1995,Comedy|Drama|Romance,Wesley,Smith,44
+1157,84,862,3,999056493,Manny & Lo,1996,Drama,Wesley,Smith,44
+1158,84,944,4,999056363,Lost Horizon,1937,Drama,Wesley,Smith,44
+1159,84,971,4,999056112,Cat on a Hot Tin Roof,1958,Drama,Wesley,Smith,44
+1160,84,973,3,999055937,Meet John Doe,1941,Comedy|Drama,Wesley,Smith,44
+1161,84,1044,3,999057154,Surviving Picasso,1996,Drama,Wesley,Smith,44
+1162,84,1114,4,999057154,Funeral,1996,Crime|Drama,Wesley,Smith,44
+1163,84,1132,4,999056991,Manon of the Spring (Manon des sources),1986,Drama,Wesley,Smith,44
+1164,84,1187,4,999056867,Passion Fish,1992,Drama,Wesley,Smith,44
+1165,84,1354,3,999055586,Breaking the Waves,1996,Drama|Mystery,Wesley,Smith,44
+1166,84,1404,3,999057419,Night Falls on Manhattan,1996,Crime|Drama,Wesley,Smith,44
+1167,84,1419,3,999056833,Walkabout,1971,Adventure|Drama,Wesley,Smith,44
+1168,84,1507,3,999055519,Paradise Road,1997,Drama|War,Wesley,Smith,44
+1169,84,1542,3,999055265,Brassed Off,1996,Comedy|Drama|Romance,Wesley,Smith,44
+1170,84,1694,3,999055989,Apostle,1997,Drama,Wesley,Smith,44
+1171,84,1759,3,999056603,Four Days in September (O Que É Isso,1997,Drama,Wesley,Smith,44
+1172,84,1767,4,999056432,Music From Another Room,1998,Drama|Romance,Wesley,Smith,44
+1173,84,1870,4,999055586,Dancer,1998,Comedy|Drama,Wesley,Smith,44
+1174,84,1888,4,999053840,Hope Floats,1998,Comedy|Drama|Romance,Wesley,Smith,44
+1175,84,2341,4,999057099,Dancing at Lughnasa,1998,Drama,Wesley,Smith,44
+1176,84,2345,3,999056655,Desert Bloom,1986,Drama,Wesley,Smith,44
+1177,84,2443,4,999057306,Playing by Heart,1998,Drama|Romance,Wesley,Smith,44
+1178,84,2447,2,999057335,Varsity Blues,1999,Comedy|Drama,Wesley,Smith,44
+1179,84,2481,3,999057130,My Name Is Joe,1998,Drama|Romance,Wesley,Smith,44
+1180,84,2506,3,999057419,Other Sister,1999,Comedy|Drama|Romance,Wesley,Smith,44
+1181,84,2546,3,999057335,Deep End of the Ocean,1999,Drama,Wesley,Smith,44
+1182,84,2609,4,999055737,King of Masks,1996,Drama,Wesley,Smith,44
+1183,84,2611,4,999056151,Winslow Boy,1999,Drama,Wesley,Smith,44
+1184,84,2711,3,999056948,My Life So Far,1999,Drama,Wesley,Smith,44
+1185,84,2862,3,999053901,Caligula,1979,Drama,Wesley,Smith,44
+1186,84,2969,4,999056948,Man and a Woman,1966,Drama|Romance,Wesley,Smith,44
+1187,84,2996,3,999057306,Music of the Heart,1999,Drama,Wesley,Smith,44
+1188,84,3028,4,999053840,Taming of the Shrew,1967,Comedy,Wesley,Smith,44
+1189,84,3038,4,999056230,Face in the Crowd,1957,Drama,Wesley,Smith,44
+1190,84,3135,3,999056512,Great Santini,1979,Drama,Wesley,Smith,44
+1191,84,3155,4,999057380,Anna and the King,1999,Drama|Romance,Wesley,Smith,44
+1192,84,3685,3,999056335,Prizzi's Honor,1985,Comedy|Drama|Romance,Wesley,Smith,44
+1193,84,3713,4,999057224,Long Walk Home,1990,Drama,Wesley,Smith,44
+1194,84,3822,4,999055295,Girl on the Bridge,1999,Drama|Romance,Wesley,Smith,44
+1195,84,3983,4,999056257,You Can Count on Me,2000,Drama|Romance,Wesley,Smith,44
+1196,84,3988,2,999053840,How the Grinch Stole Christmas (a.k.a. The Grinch),2000,Children|Comedy|Fantasy,Wesley,Smith,44
+1197,84,4117,3,999055441,Hope and Glory,1987,Drama,Wesley,Smith,44
+1198,84,4186,4,999056774,Fortune Cookie,1966,Comedy|Drama|Romance,Wesley,Smith,44
+1199,84,4216,4,999057419,Longtime Companion,1990,Drama,Wesley,Smith,44
+1200,84,4399,4,999055068,Diary of a Chambermaid (Journal d'une femme de chambre,1964,Comedy|Drama,Wesley,Smith,44
+1201,84,4422,3,999055586,Cries and Whispers (Viskningar och rop),1972,Drama,Wesley,Smith,44
+1202,84,4521,4,999057011,Little Nikita,1988,Drama,Wesley,Smith,44
+1203,84,4523,3,999056112,Milagro Beanfield War,1988,Comedy|Drama|Fantasy,Wesley,Smith,44
+1204,84,4537,3,999056112,Running on Empty,1988,Drama,Wesley,Smith,44
+1205,84,4555,3,999056798,Torch Song Trilogy,1988,Comedy|Drama|Romance,Wesley,Smith,44
+1206,84,4586,4,999056922,Dry White Season,1989,Drama|Thriller,Wesley,Smith,44
+1207,84,4616,4,999056973,Lean on Me,1989,Drama,Wesley,Smith,44
+1208,141,307,5,835902360,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Thiago,Smith,18
+1209,141,32,3,848468088,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Thiago,Smith,18
+1210,141,47,5,835901856,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Thiago,Smith,18
+1211,141,50,5,835901913,Usual Suspects,1995,Crime|Mystery|Thriller,Thiago,Smith,18
+1212,141,160,3,835901938,Congo,1995,Action|Adventure|Mystery|Sci-Fi,Thiago,Smith,18
+1213,141,165,3,835901700,Die Hard: With a Vengeance,1995,Action|Crime|Thriller,Thiago,Smith,18
+1214,141,172,4,835902037,Johnny Mnemonic,1995,Action|Sci-Fi|Thriller,Thiago,Smith,18
+1215,141,198,5,848468096,Strange Days,1995,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,Thiago,Smith,18
+1216,141,253,3,835901794,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Thiago,Smith,18
+1217,141,260,2,848469604,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Thiago,Smith,18
+1218,141,288,5,835901856,Natural Born Killers,1994,Action|Crime|Thriller,Thiago,Smith,18
+1219,141,292,4,835901763,Outbreak,1995,Action|Drama|Sci-Fi|Thriller,Thiago,Smith,18
+1220,141,296,4,835901661,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Thiago,Smith,18
+1221,141,316,3,835901743,Stargate,1994,Action|Adventure|Sci-Fi,Thiago,Smith,18
+1222,141,349,5,835901700,Clear and Present Danger,1994,Action|Crime|Drama|Thriller,Thiago,Smith,18
+1223,141,353,3,835902147,Crow,1994,Action|Crime|Fantasy|Thriller,Thiago,Smith,18
+1224,141,367,2,835901938,Mask,1994,Action|Comedy|Crime|Fantasy,Thiago,Smith,18
+1225,141,370,2,835902302,Naked Gun 33 1/3: The Final Insult,1994,Action|Comedy,Thiago,Smith,18
+1226,141,377,5,835902014,Speed,1994,Action|Romance|Thriller,Thiago,Smith,18
+1227,141,380,2,835901662,True Lies,1994,Action|Adventure|Comedy|Romance|Thriller,Thiago,Smith,18
+1228,141,420,2,835901913,Beverly Hills Cop III,1994,Action|Comedy|Crime|Thriller,Thiago,Smith,18
+1229,141,434,3,835901763,Cliffhanger,1993,Action|Adventure|Thriller,Thiago,Smith,18
+1230,141,442,3,835902069,Demolition Man,1993,Action|Adventure|Sci-Fi,Thiago,Smith,18
+1231,141,457,3,835901795,Fugitive,1993,Thriller,Thiago,Smith,18
+1232,141,474,4,835902161,In the Line of Fire,1993,Action|Thriller,Thiago,Smith,18
+1233,141,485,3,835902282,Last Action Hero,1993,Action|Adventure|Comedy|Fantasy,Thiago,Smith,18
+1234,141,539,1,848468072,Sleepless in Seattle,1993,Comedy|Drama|Romance,Thiago,Smith,18
+1235,141,586,1,835902100,Home Alone,1990,Children|Comedy,Thiago,Smith,18
+1236,141,589,4,835901985,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Thiago,Smith,18
+1237,141,590,3,835901661,Dances with Wolves,1990,Adventure|Drama|Western,Thiago,Smith,18
+1238,141,592,4,835901660,Batman,1989,Action|Crime|Thriller,Thiago,Smith,18
+1239,141,593,5,835901763,Silence of the Lambs,1991,Crime|Horror|Thriller,Thiago,Smith,18
+1240,141,597,2,835902100,Pretty Woman,1990,Comedy|Romance,Thiago,Smith,18
+1241,141,610,4,848468593,Heavy Metal,1981,Action|Adventure|Animation|Horror|Sci-Fi,Thiago,Smith,18
+1242,141,741,4,848468183,Ghost in the Shell (Kôkaku kidôtai),1995,Animation|Sci-Fi,Thiago,Smith,18
+1243,141,780,2,848468443,Independence Day (a.k.a. ID4),1996,Action|Adventure|Sci-Fi|Thriller,Thiago,Smith,18
+1244,141,1196,3,848469671,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,Thiago,Smith,18
+1245,141,1198,3,848469682,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action|Adventure,Thiago,Smith,18
+1246,141,1210,2,848469693,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Sci-Fi,Thiago,Smith,18
+1247,141,111,4,848469378,Taxi Driver,1976,Crime|Drama|Thriller,Thiago,Smith,18
+1248,141,208,4,835901794,Waterworld,1995,Action|Adventure|Sci-Fi,Thiago,Smith,18
+1249,141,273,3,835902147,Mary Shelley's Frankenstein (Frankenstein),1994,Drama|Horror|Sci-Fi,Thiago,Smith,18

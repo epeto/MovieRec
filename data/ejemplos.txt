@@ -1,0 +1,8 @@
+Tomar los registros de todas las personas mayores de 50 o menores de 30 tal que la película es de este milenio. Finalmente proyectar por título, año, nombre y edad.
+
+Poner en el cuadro de selección de columnas:
+title,year,name,age
+
+En el cuadro de condición de filtrado:
+(age > 50 AND year >= 2000) OR (age < 30 AND year >= 2000)
+

@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+3000,239,216,3,992921954,Billy Madison,1995,Comedy,Jeremy,Smith,17
+3001,239,223,2,991624145,Clerks,1994,Comedy,Jeremy,Smith,17
+3002,239,253,2,991712604,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Jeremy,Smith,17
+3003,239,256,3,992922789,Junior,1994,Comedy|Sci-Fi,Jeremy,Smith,17
+3004,239,260,3,991627271,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Jeremy,Smith,17
+3005,239,292,3,991625647,Outbreak,1995,Action|Drama|Sci-Fi|Thriller,Jeremy,Smith,17
+3006,239,293,5,991625084,Léon: The Professional (a.k.a. The Professional) (Léon),1994,Action|Crime|Drama|Thriller,Jeremy,Smith,17
+3007,239,296,2,991627271,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Jeremy,Smith,17
+3008,239,316,2,992921914,Stargate,1994,Action|Adventure|Sci-Fi,Jeremy,Smith,17
+3009,239,318,3,991626320,Shawshank Redemption,1994,Crime|Drama,Jeremy,Smith,17
+3010,239,338,2,991625765,Virtuosity,1995,Action|Sci-Fi|Thriller,Jeremy,Smith,17
+3011,239,339,3,991712320,While You Were Sleeping,1995,Comedy|Romance,Jeremy,Smith,17
+3012,239,344,4,999471264,Ace Ventura: Pet Detective,1994,Comedy,Jeremy,Smith,17
+3013,239,349,2,1013381254,Clear and Present Danger,1994,Action|Crime|Drama|Thriller,Jeremy,Smith,17
+3014,239,350,3,991625536,Client,1994,Drama|Mystery|Thriller,Jeremy,Smith,17
+3015,239,353,4,991623450,Crow,1994,Action|Crime|Fantasy|Thriller,Jeremy,Smith,17
+3016,239,356,3,991711574,Forrest Gump,1994,Comedy|Drama|Romance|War,Jeremy,Smith,17
+3017,239,364,1,991711484,Lion King,1994,Adventure|Animation|Children|Drama|Musical|IMAX,Jeremy,Smith,17
+3018,239,367,1,991711980,Mask,1994,Action|Comedy|Crime|Fantasy,Jeremy,Smith,17
+3019,239,377,2,991625268,Speed,1994,Action|Romance|Thriller,Jeremy,Smith,17
+3020,239,380,3,991724187,True Lies,1994,Action|Adventure|Comedy|Romance|Thriller,Jeremy,Smith,17
+3021,239,382,2,991722593,Wolf,1994,Drama|Horror|Romance|Thriller,Jeremy,Smith,17
+3022,239,410,1,992920523,Addams Family Values,1993,Children|Comedy|Fantasy,Jeremy,Smith,17
+3023,239,420,1,992922725,Beverly Hills Cop III,1994,Action|Comedy|Crime|Thriller,Jeremy,Smith,17
+3024,239,423,2,991625444,Blown Away,1994,Action|Thriller,Jeremy,Smith,17
+3025,239,432,2,1013380908,City Slickers II: The Legend of Curly's Gold,1994,Adventure|Comedy|Western,Jeremy,Smith,17
+3026,239,434,2,992922316,Cliffhanger,1993,Action|Adventure|Thriller,Jeremy,Smith,17
+3027,239,435,2,991623544,Coneheads,1993,Comedy|Sci-Fi,Jeremy,Smith,17
+3028,239,440,3,991711819,Dave,1993,Comedy|Romance,Jeremy,Smith,17
+3029,239,442,2,992921914,Demolition Man,1993,Action|Adventure|Sci-Fi,Jeremy,Smith,17
+3030,239,454,3,991625444,Firm,1993,Drama|Thriller,Jeremy,Smith,17
+3031,239,457,2,991627474,Fugitive,1993,Thriller,Jeremy,Smith,17
+3032,239,466,3,992921834,Hot Shots! Part Deux,1993,Action|Comedy|War,Jeremy,Smith,17
+3033,239,471,4,992919308,Hudsucker Proxy,1994,Comedy,Jeremy,Smith,17
+3034,239,474,2,991625084,In the Line of Fire,1993,Action|Thriller,Jeremy,Smith,17
+3035,239,480,3,991711819,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Jeremy,Smith,17
+3036,239,485,3,992922103,Last Action Hero,1993,Action|Adventure|Comedy|Fantasy,Jeremy,Smith,17
+3037,239,500,2,992921410,Mrs. Doubtfire,1993,Comedy|Drama,Jeremy,Smith,17
+3038,239,514,3,991628374,Ref,1994,Comedy,Jeremy,Smith,17
+3039,239,517,1,992922187,Rising Sun,1993,Action|Drama|Mystery,Jeremy,Smith,17
+3040,239,520,1,992921834,Robin Hood: Men in Tights,1993,Comedy,Jeremy,Smith,17
+3041,239,527,2,991626410,Schindler's List,1993,Drama|War,Jeremy,Smith,17
+3042,239,539,3,991712320,Sleepless in Seattle,1993,Comedy|Drama|Romance,Jeremy,Smith,17
+3043,239,541,3,991626492,Blade Runner,1982,Action|Sci-Fi|Thriller,Jeremy,Smith,17
+3044,239,552,2,1038890385,Three Musketeers,1993,Action|Adventure|Comedy|Romance,Jeremy,Smith,17
+3045,239,586,3,992921708,Home Alone,1990,Children|Comedy,Jeremy,Smith,17
+3046,239,587,4,991623382,Ghost,1990,Comedy|Drama|Fantasy|Romance|Thriller,Jeremy,Smith,17
+3047,239,588,2,991809412,Aladdin,1992,Adventure|Animation|Children|Comedy|Musical,Jeremy,Smith,17
+3048,239,589,3,991625084,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Jeremy,Smith,17
+3049,239,590,4,991628166,Dances with Wolves,1990,Adventure|Drama|Western,Jeremy,Smith,17
+3050,239,592,3,991628105,Batman,1989,Action|Crime|Thriller,Jeremy,Smith,17
+3051,239,593,3,991624996,Silence of the Lambs,1991,Crime|Horror|Thriller,Jeremy,Smith,17
+3052,239,595,3,991627271,Beauty and the Beast,1991,Animation|Children|Fantasy|Musical|Romance|IMAX,Jeremy,Smith,17
+3053,239,597,4,992920697,Pretty Woman,1990,Comedy|Romance,Jeremy,Smith,17
+3054,239,608,4,991624996,Fargo,1996,Comedy|Crime|Drama|Thriller,Jeremy,Smith,17
+3055,239,648,3,991712477,Mission: Impossible,1996,Action|Adventure|Mystery|Thriller,Jeremy,Smith,17
+3056,239,653,2,992920408,Dragonheart,1996,Action|Adventure|Fantasy,Jeremy,Smith,17
+3057,239,733,3,991623296,Rock,1996,Action|Adventure|Thriller,Jeremy,Smith,17
+3058,239,736,2,991625765,Twister,1996,Action|Adventure|Romance|Thriller,Jeremy,Smith,17
+3059,239,762,2,992922539,Striptease,1996,Comedy|Crime,Jeremy,Smith,17
+3060,239,778,4,991711574,Trainspotting,1996,Comedy|Crime|Drama,Jeremy,Smith,17
+3061,239,780,1,992921346,Independence Day (a.k.a. ID4),1996,Action|Adventure|Sci-Fi|Thriller,Jeremy,Smith,17
+3062,239,784,2,992921955,Cable Guy,1996,Comedy|Thriller,Jeremy,Smith,17
+3063,239,788,2,991722993,Nutty Professor,1996,Comedy|Fantasy|Romance|Sci-Fi,Jeremy,Smith,17
+3064,239,805,3,992920340,Time to Kill,1996,Drama|Thriller,Jeremy,Smith,17
+3065,239,832,3,991625268,Ransom,1996,Crime|Thriller,Jeremy,Smith,17
+3066,239,836,3,991625853,Chain Reaction,1996,Action|Adventure|Thriller,Jeremy,Smith,17
+3067,239,852,3,992921410,Tin Cup,1996,Comedy|Drama|Romance,Jeremy,Smith,17
+3068,239,858,5,991626222,Godfather,1972,Crime|Drama,Jeremy,Smith,17
+3069,239,879,1,1012947819,Relic,1997,Horror|Thriller,Jeremy,Smith,17
+3070,239,919,4,991626410,Wizard of Oz,1939,Adventure|Children|Fantasy|Musical,Jeremy,Smith,17
+3071,239,924,1,1012427308,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Jeremy,Smith,17
+3072,239,1036,3,991625084,Die Hard,1988,Action|Crime|Thriller,Jeremy,Smith,17
+3073,239,1037,1,992922725,Lawnmower Man,1992,Action|Horror|Sci-Fi|Thriller,Jeremy,Smith,17
+3074,239,1059,4,991712176,William Shakespeare's Romeo + Juliet,1996,Drama|Romance,Jeremy,Smith,17
+3075,239,1079,4,991627653,Fish Called Wanda,1988,Comedy|Crime,Jeremy,Smith,17
+3076,239,1080,5,991627815,Monty Python's Life of Brian,1979,Comedy,Jeremy,Smith,17
+3077,239,1088,3,992921654,Dirty Dancing,1987,Drama|Musical|Romance,Jeremy,Smith,17
+3078,239,1089,3,991625084,Reservoir Dogs,1992,Crime|Mystery|Thriller,Jeremy,Smith,17
+3079,239,1090,3,991628299,Platoon,1986,Drama|War,Jeremy,Smith,17
+3080,239,1092,3,991625536,Basic Instinct,1992,Crime|Mystery|Thriller,Jeremy,Smith,17
+3081,239,1094,3,991627653,Crying Game,1992,Drama|Romance|Thriller,Jeremy,Smith,17
+3082,239,1101,3,991711725,Top Gun,1986,Action|Romance,Jeremy,Smith,17
+3083,239,1126,3,991722993,Drop Dead Fred,1991,Comedy|Fantasy,Jeremy,Smith,17
+3084,239,1127,3,991624030,Abyss,1989,Action|Adventure|Sci-Fi|Thriller,Jeremy,Smith,17
+3085,239,1136,4,991627154,Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,Jeremy,Smith,17
+3086,239,1196,3,991627154,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,Jeremy,Smith,17
+3087,239,1198,3,991710025,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action|Adventure,Jeremy,Smith,17
+3088,239,1200,3,991625174,Aliens,1986,Action|Adventure|Horror|Sci-Fi,Jeremy,Smith,17
+3089,239,1203,4,991623134,12 Angry Men,1957,Drama,Jeremy,Smith,17
+3090,239,1207,3,991626320,To Kill a Mockingbird,1962,Drama,Jeremy,Smith,17
+3091,239,1208,3,991627893,Apocalypse Now,1979,Action|Drama|War,Jeremy,Smith,17
+3092,239,1210,2,991711270,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Sci-Fi,Jeremy,Smith,17
+3093,239,1214,4,991624996,Alien,1979,Horror|Sci-Fi,Jeremy,Smith,17
+3094,239,1215,3,991711111,Army of Darkness,1993,Action|Adventure|Comedy|Fantasy|Horror,Jeremy,Smith,17
+3095,239,1220,3,991724096,Blues Brothers,1980,Action|Comedy|Musical,Jeremy,Smith,17
+3096,239,1222,4,991710829,Full Metal Jacket,1987,Drama|War,Jeremy,Smith,17
+3097,239,1240,3,991624996,Terminator,1984,Action|Sci-Fi|Thriller,Jeremy,Smith,17
+3098,239,1242,3,991710386,Glory,1989,Drama|War,Jeremy,Smith,17
+3099,239,1259,3,991627404,Stand by Me,1986,Adventure|Drama,Jeremy,Smith,17
+3100,239,1265,3,991627551,Groundhog Day,1993,Comedy|Fantasy|Romance,Jeremy,Smith,17
+3101,239,1270,3,991710386,Back to the Future,1985,Adventure|Comedy|Sci-Fi,Jeremy,Smith,17
+3102,239,1274,3,991625174,Akira,1988,Action|Adventure|Animation|Sci-Fi,Jeremy,Smith,17
+3103,239,1275,3,991711819,Highlander,1986,Action|Adventure|Fantasy,Jeremy,Smith,17
+3104,239,1291,4,991710829,Indiana Jones and the Last Crusade,1989,Action|Adventure,Jeremy,Smith,17
+3105,239,1320,2,991625647,Alien³ (a.k.a. Alien 3),1992,Action|Horror|Sci-Fi|Thriller,Jeremy,Smith,17
+3106,239,1339,4,991722531,Dracula (Bram Stoker's Dracula),1992,Fantasy|Horror|Romance|Thriller,Jeremy,Smith,17
+3107,239,1370,3,991625444,Die Hard 2,1990,Action|Adventure|Thriller,Jeremy,Smith,17
+3108,239,1377,4,992921536,Batman Returns,1992,Action|Crime,Jeremy,Smith,17
+3109,239,1391,3,992922103,Mars Attacks!,1996,Action|Comedy|Sci-Fi,Jeremy,Smith,17
+3110,239,1393,3,991627815,Jerry Maguire,1996,Drama|Romance,Jeremy,Smith,17
+3111,239,1396,3,991711338,Sneakers,1992,Action|Comedy|Crime|Drama|Sci-Fi,Jeremy,Smith,17
+3112,239,1405,2,991809464,Beavis and Butt-Head Do America,1996,Adventure|Animation|Comedy|Crime,Jeremy,Smith,17
+3113,239,1407,1,991625268,Scream,1996,Comedy|Horror|Mystery|Thriller,Jeremy,Smith,17
+3114,239,1425,2,991712477,Fierce Creatures,1997,Comedy,Jeremy,Smith,17
+3115,239,1466,3,991628445,Donnie Brasco,1997,Crime|Drama,Jeremy,Smith,17
+3116,239,1485,2,992920957,Liar Liar,1997,Comedy,Jeremy,Smith,17
+3117,239,1500,4.5,1055204298,Grosse Pointe Blank,1997,Comedy|Crime|Romance,Jeremy,Smith,17
+3118,239,1515,1,992922388,Volcano,1997,Action|Drama|Thriller,Jeremy,Smith,17
+3119,239,1517,1,1014587087,Austin Powers: International Man of Mystery,1997,Action|Adventure|Comedy,Jeremy,Smith,17
+3120,239,1518,3,991625853,Breakdown,1997,Action|Thriller,Jeremy,Smith,17
+3121,239,1527,3,991712176,Fifth Element,1997,Action|Adventure|Comedy|Sci-Fi,Jeremy,Smith,17
+3122,239,1544,2,999471630,Lost World: Jurassic Park,1997,Action|Adventure|Sci-Fi|Thriller,Jeremy,Smith,17
+3123,239,1552,1,991625647,Con Air,1997,Action|Adventure|Thriller,Jeremy,Smith,17
+3124,239,1562,1,1017721967,Batman & Robin,1997,Action|Adventure|Fantasy|Thriller,Jeremy,Smith,17

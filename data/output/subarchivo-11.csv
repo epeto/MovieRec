@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+1250,141,555,5,835902084,True Romance,1993,Crime|Thriller,Thiago,Smith,18
+1251,141,225,3,835901881,Disclosure,1994,Drama|Thriller,Thiago,Smith,18
+1252,141,347,5,835902934,Bitter Moon,1992,Drama|Film-Noir|Romance,Thiago,Smith,18
+1253,141,431,4,848469378,Carlito's Way,1993,Crime|Drama,Thiago,Smith,18
+1254,141,464,3,835903367,Hard Target,1993,Action|Adventure|Crime|Thriller,Thiago,Smith,18
+1255,141,482,5,835903180,Killing Zoe,1994,Crime|Drama|Thriller,Thiago,Smith,18
+1256,141,521,5,835903210,Romeo Is Bleeding,1993,Crime|Thriller,Thiago,Smith,18
+1257,141,553,4,835901985,Tombstone,1993,Action|Drama|Western,Thiago,Smith,18
+1258,141,1161,3,848468326,Tin Drum,1979,Drama|War,Thiago,Smith,18
+1259,141,1035,1,848469795,Sound of Music,1965,Musical|Romance,Thiago,Smith,18
+1260,141,306,5,835902345,Three Colors: Red (Trois couleurs: Rouge),1994,Drama,Thiago,Smith,18
+1261,141,29,4,848468135,City of Lost Children,1995,Adventure|Drama|Fantasy|Mystery|Sci-Fi,Thiago,Smith,18
+1262,141,308,5,835903254,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Thiago,Smith,18
+1263,141,509,4,835902069,Piano,1993,Drama|Romance,Thiago,Smith,18
+1264,141,426,4,835903327,Body Snatchers,1993,Horror|Sci-Fi|Thriller,Thiago,Smith,18
+1265,141,606,4,848468545,Candyman: Farewell to the Flesh,1995,Fantasy|Horror,Thiago,Smith,18
+1266,141,444,4,848468508,Even Cowgirls Get the Blues,1993,Comedy|Romance,Thiago,Smith,18
+1267,213,307,4,967010111,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Eric,Smith,31
+1268,213,2915,4,967009617,Risky Business,1983,Comedy,Eric,Smith,31
+1269,213,1221,3,967009585,Godfather: Part II,1974,Crime|Drama,Eric,Smith,31
+1270,213,1,3,967009848,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy,Eric,Smith,31
+1271,213,32,5,967009685,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Eric,Smith,31
+1272,213,34,5,967009848,Babe,1995,Children|Drama,Eric,Smith,31
+1273,213,260,4,967009554,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Eric,Smith,31
+1274,213,296,3,967010141,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Eric,Smith,31
+1275,213,318,5,967010141,Shawshank Redemption,1994,Crime|Drama,Eric,Smith,31
+1276,213,589,4,967009685,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Eric,Smith,31
+1277,213,593,3,967010141,Silence of the Lambs,1991,Crime|Horror|Thriller,Eric,Smith,31
+1278,213,608,3,967010111,Fargo,1996,Comedy|Crime|Drama|Thriller,Eric,Smith,31
+1279,213,1215,4,967009741,Army of Darkness,1993,Action|Adventure|Comedy|Fantasy|Horror,Eric,Smith,31
+1280,213,1265,4,967009888,Groundhog Day,1993,Comedy|Fantasy|Romance,Eric,Smith,31
+1281,213,1372,2,967009741,Star Trek VI: The Undiscovered Country,1991,Action|Mystery|Sci-Fi,Eric,Smith,31
+1282,213,1396,3,967009741,Sneakers,1992,Action|Comedy|Crime|Drama|Sci-Fi,Eric,Smith,31
+1283,213,1580,2,967009741,Men in Black (a.k.a. MIB),1997,Action|Comedy|Sci-Fi,Eric,Smith,31
+1284,213,1584,5,967009741,Contact,1997,Drama|Sci-Fi,Eric,Smith,31
+1285,213,1653,3,967009685,Gattaca,1997,Drama|Sci-Fi|Thriller,Eric,Smith,31
+1286,213,1748,2,967009685,Dark City,1998,Adventure|Film-Noir|Sci-Fi|Thriller,Eric,Smith,31
+1287,213,1876,4,967009786,Deep Impact,1998,Drama|Sci-Fi|Thriller,Eric,Smith,31
+1288,213,1909,3,967009786,X-Files: Fight the Future,1998,Action|Crime|Mystery|Sci-Fi|Thriller,Eric,Smith,31
+1289,213,1921,4,967009741,Pi,1998,Drama|Sci-Fi|Thriller,Eric,Smith,31
+1290,213,2571,5,967009685,Matrix,1999,Action|Sci-Fi|Thriller,Eric,Smith,31
+1291,213,2916,2,967009685,Total Recall,1990,Action|Adventure|Sci-Fi|Thriller,Eric,Smith,31
+1292,213,2997,5,967009848,Being John Malkovich,1999,Comedy|Drama|Fantasy,Eric,Smith,31
+1293,213,3793,4,967010494,X-Men,2000,Action|Adventure|Sci-Fi,Eric,Smith,31
+1294,213,1213,3,967010074,Goodfellas,1990,Crime|Drama,Eric,Smith,31
+1295,213,21,2,967009978,Get Shorty,1995,Comedy|Crime|Thriller,Eric,Smith,31
+1296,213,2396,3,967009848,Shakespeare in Love,1998,Comedy|Drama|Romance,Eric,Smith,31
+1297,213,3083,3,967009931,All About My Mother (Todo sobre mi madre),1999,Drama,Eric,Smith,31
+1298,213,17,2,967010342,Sense and Sensibility,1995,Drama|Romance,Eric,Smith,31
+1299,213,2521,1,967009554,Airport 1975,1974,Action|Drama|Thriller,Eric,Smith,31
+1300,213,3175,4,967009685,Galaxy Quest,1999,Adventure|Comedy|Sci-Fi,Eric,Smith,31
+1301,213,1097,1,967009617,E.T. the Extra-Terrestrial,1982,Children|Drama|Sci-Fi,Eric,Smith,31
+1302,213,1345,2,967009617,Carrie,1976,Drama|Fantasy|Horror|Thriller,Eric,Smith,31
+1303,213,2699,2,967009786,Arachnophobia,1990,Comedy|Horror,Eric,Smith,31
+1304,213,2289,4,967010183,Player,1992,Comedy|Crime|Drama,Eric,Smith,31
+1305,213,2336,4,967010183,Elizabeth,1998,Drama,Eric,Smith,31
+1306,213,306,5,967010074,Three Colors: Red (Trois couleurs: Rouge),1994,Drama,Eric,Smith,31
+1307,213,1179,2,967010333,Grifters,1990,Crime|Drama|Film-Noir,Eric,Smith,31
+1308,213,2599,5,967009888,Election,1999,Comedy,Eric,Smith,31
+1309,213,2697,4,967009978,My Son the Fanatic,1997,Comedy|Drama|Romance,Eric,Smith,31
+1310,213,1358,4,967010281,Sling Blade,1996,Drama,Eric,Smith,31
+1311,213,308,3,967010183,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Eric,Smith,31
+1312,213,448,5,967010281,Fearless,1993,Drama,Eric,Smith,31
+1313,213,2966,4,967010281,Straight Story,1999,Adventure|Drama,Eric,Smith,31
+1314,213,125,5,967009931,Flirting With Disaster,1996,Comedy,Eric,Smith,31
+1315,213,1570,3,967009741,Tetsuo II: Body Hammer,1992,Horror|Sci-Fi,Eric,Smith,31
+1316,213,2802,2,967009585,Tequila Sunrise,1988,Action|Drama|Romance|Thriller,Eric,Smith,31
+1317,213,3690,1,967009617,Porky's Revenge,1985,Comedy,Eric,Smith,31
+1318,214,307,4,1512913860,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Patrick,Smith,17
+1319,214,481,3,983022617,Kalifornia,1993,Drama|Thriller,Patrick,Smith,17
+1320,214,1590,3,983029566,Event Horizon,1997,Horror|Sci-Fi|Thriller,Patrick,Smith,17
+1321,214,2986,2,983030273,RoboCop 2,1990,Action|Crime|Sci-Fi|Thriller,Patrick,Smith,17
+1322,214,3020,4,983023295,Falling Down,1993,Action|Drama,Patrick,Smith,17
+1323,214,3893,4,981197895,Nurse Betty,2000,Comedy|Crime|Drama|Romance|Thriller,Patrick,Smith,17
+1324,214,170,2,983026999,Hackers,1995,Action|Adventure|Crime|Thriller,Patrick,Smith,17
+1325,214,1186,3,983018668,Sex,1989,Drama,Patrick,Smith,17
+1326,214,1244,3,983019404,Manhattan,1979,Comedy|Drama|Romance,Patrick,Smith,17
+1327,214,1962,3,983020870,Driving Miss Daisy,1989,Drama,Patrick,Smith,17
+1328,214,2108,3,1156665386,L.A. Story,1991,Comedy|Romance,Patrick,Smith,17
+1329,214,2707,3,1156764568,Arlington Road,1999,Thriller,Patrick,Smith,17
+1330,214,2746,2,983024254,Little Shop of Horrors,1986,Comedy|Horror|Musical,Patrick,Smith,17
+1331,214,1221,4,1176153895,Godfather: Part II,1974,Crime|Drama,Patrick,Smith,17
+1332,214,1645,3,1138525083,The Devil's Advocate,1997,Drama|Mystery|Thriller,Patrick,Smith,17
+1333,214,2028,4,981198702,Saving Private Ryan,1998,Action|Drama|War,Patrick,Smith,17
+1334,214,1,3,1104263624,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy,Patrick,Smith,17
+1335,214,6,5,1169389405,Heat,1995,Action|Crime|Thriller,Patrick,Smith,17
+1336,214,10,3,983022950,GoldenEye,1995,Action|Adventure|Thriller,Patrick,Smith,17
+1337,214,11,3,983021484,American President,1995,Comedy|Drama|Romance,Patrick,Smith,17
+1338,214,16,4,1081514332,Casino,1995,Crime|Drama,Patrick,Smith,17
+1339,214,19,2,983030656,Ace Ventura: When Nature Calls,1995,Comedy,Patrick,Smith,17
+1340,214,25,3,983018038,Leaving Las Vegas,1995,Drama|Romance,Patrick,Smith,17
+1341,214,32,4,1183239172,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Patrick,Smith,17
+1342,214,34,1,983017715,Babe,1995,Children|Drama,Patrick,Smith,17
+1343,214,36,3,983016813,Dead Man Walking,1995,Crime|Drama,Patrick,Smith,17
+1344,214,39,3,983020169,Clueless,1995,Comedy|Romance,Patrick,Smith,17
+1345,214,41,5,1104261390,Richard III,1995,Drama|War,Patrick,Smith,17
+1346,214,44,2,983028084,Mortal Kombat,1995,Action|Adventure|Fantasy,Patrick,Smith,17
+1347,214,45,3,983021174,To Die For,1995,Comedy|Drama|Thriller,Patrick,Smith,17
+1348,214,47,4,981198817,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Patrick,Smith,17
+1349,214,50,5,981197106,Usual Suspects,1995,Crime|Mystery|Thriller,Patrick,Smith,17
+1350,214,62,3,1147640399,Mr. Holland's Opus,1995,Drama,Patrick,Smith,17
+1351,214,70,4,983025627,From Dusk Till Dawn,1996,Action|Comedy|Horror|Thriller,Patrick,Smith,17
+1352,214,85,3,983026467,Angels and Insects,1995,Drama|Romance,Patrick,Smith,17
+1353,214,95,2,983027692,Broken Arrow,1996,Action|Adventure|Thriller,Patrick,Smith,17
+1354,214,110,2,983016771,Braveheart,1995,Action|Drama|War,Patrick,Smith,17
+1355,214,141,3,1191685744,Birdcage,1996,Comedy,Patrick,Smith,17
+1356,214,150,4,1081515420,Apollo 13,1995,Adventure|Drama|IMAX,Patrick,Smith,17
+1357,214,153,2,983028279,Batman Forever,1995,Action|Adventure|Comedy|Crime,Patrick,Smith,17
+1358,214,158,2,983025595,Casper,1995,Adventure|Children,Patrick,Smith,17
+1359,214,161,3,983021009,Crimson Tide,1995,Drama|Thriller|War,Patrick,Smith,17
+1360,214,163,3,983019134,Desperado,1995,Action|Romance|Western,Patrick,Smith,17
+1361,214,165,2,983025365,Die Hard: With a Vengeance,1995,Action|Crime|Thriller,Patrick,Smith,17
+1362,214,169,1,983030604,Free Willy 2: The Adventure Home,1995,Adventure|Children|Drama,Patrick,Smith,17
+1363,214,172,3,1081514392,Johnny Mnemonic,1995,Action|Sci-Fi|Thriller,Patrick,Smith,17
+1364,214,173,4,1202639428,Judge Dredd,1995,Action|Crime|Sci-Fi,Patrick,Smith,17
+1365,214,175,4,1113773021,Kids,1995,Drama,Patrick,Smith,17
+1366,214,180,2,1193257358,Mallrats,1995,Comedy|Romance,Patrick,Smith,17
+1367,214,181,1,983031066,Mighty Morphin Power Rangers: The Movie,1995,Action|Children,Patrick,Smith,17
+1368,214,185,1,983027289,Net,1995,Action|Crime|Thriller,Patrick,Smith,17
+1369,214,193,2,983030196,Showgirls,1995,Drama,Patrick,Smith,17
+1370,214,198,4,1109408541,Strange Days,1995,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,Patrick,Smith,17
+1371,214,204,2,983030451,Under Siege 2: Dark Territory,1995,Action,Patrick,Smith,17
+1372,214,223,5,1104262903,Clerks,1994,Comedy,Patrick,Smith,17
+1373,214,231,2,983025365,Dumb & Dumber (Dumb and Dumber),1994,Adventure|Comedy,Patrick,Smith,17
+1374,214,253,3,983025806,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Patrick,Smith,17

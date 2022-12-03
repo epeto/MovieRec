@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+2500,214,687,3,983029980,Country Life,1994,Drama|Romance,Patrick,Smith,17
+2501,214,705,2,1271001793,Cosi,1996,Comedy,Patrick,Smith,17
+2502,214,764,3,1094847968,Heavy,1995,Drama|Romance,Patrick,Smith,17
+2503,214,806,3,983023736,American Buffalo,1996,Crime|Drama,Patrick,Smith,17
+2504,214,846,3,983021981,Flirt,1995,Drama,Patrick,Smith,17
+2505,214,851,4,983025520,Basquiat,1996,Drama,Patrick,Smith,17
+2506,214,892,3,1137098562,Twelfth Night,1996,Comedy|Drama|Romance,Patrick,Smith,17
+2507,214,988,4,1195414430,Grace of My Heart,1996,Comedy|Drama,Patrick,Smith,17
+2508,214,1046,3,1185096761,Beautiful Thing,1996,Drama|Romance,Patrick,Smith,17
+2509,214,1056,4,1082922581,Jude,1996,Drama,Patrick,Smith,17
+2510,214,1151,3,981198282,Lesson Faust,1994,Animation|Comedy|Drama|Fantasy,Patrick,Smith,17
+2511,214,1173,4,1104261153,Cook the Thief His Wife & Her Lover,1989,Comedy|Drama,Patrick,Smith,17
+2512,214,1190,3,983024412,Tie Me Up! Tie Me Down! (¡Átame!),1990,Crime|Drama|Romance,Patrick,Smith,17
+2513,214,1305,4,983018939,Paris,1984,Drama|Romance,Patrick,Smith,17
+2514,214,1346,3,983024036,Cat People,1982,Drama|Fantasy|Horror,Patrick,Smith,17
+2515,214,1352,3,983023130,Albino Alligator,1996,Crime|Thriller,Patrick,Smith,17
+2516,214,1365,4,983018366,Ridicule,1996,Drama,Patrick,Smith,17
+2517,214,1401,3,983021009,Ghosts of Mississippi,1996,Drama,Patrick,Smith,17
+2518,214,1406,3,983016814,La Cérémonie,1995,Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+2519,214,1412,4,983019633,Some Mother's Son,1996,Drama,Patrick,Smith,17
+2520,214,1444,3,983025194,Guantanamera,1994,Comedy,Patrick,Smith,17
+2521,214,1450,4,983019633,Prisoner of the Mountains (Kavkazsky plennik),1996,War,Patrick,Smith,17
+2522,214,1480,3,1111847193,Smilla's Sense of Snow,1997,Drama|Thriller,Patrick,Smith,17
+2523,214,1483,2,1084559914,Crash,1996,Drama|Thriller,Patrick,Smith,17
+2524,214,1498,3,1104356957,Inventing the Abbotts,1997,Drama|Romance,Patrick,Smith,17
+2525,214,1503,3,983028259,8 Heads in a Duffel Bag,1997,Comedy,Patrick,Smith,17
+2526,214,1554,4,983021076,Pillow Book,1996,Drama|Romance,Patrick,Smith,17
+2527,214,1564,2,1116276805,For Roseanna (Roseanna's Grave),1997,Comedy|Drama|Romance,Patrick,Smith,17
+2528,214,1565,3,983025770,Head Above Water,1996,Comedy|Thriller,Patrick,Smith,17
+2529,214,1575,3,983016861,Gabbeh,1996,Drama,Patrick,Smith,17
+2530,214,1595,1,983030584,Free Willy 3: The Rescue,1997,Adventure|Children|Drama,Patrick,Smith,17
+2531,214,1609,3,983026445,187 (One Eight Seven),1997,Drama|Thriller,Patrick,Smith,17
+2532,214,1699,4,981199037,Butcher Boy,1997,Comedy|Drama,Patrick,Smith,17
+2533,214,1719,4,981198779,Sweet Hereafter,1997,Drama,Patrick,Smith,17
+2534,214,1848,2,983024816,Borrowers,1997,Adventure|Children|Comedy|Fantasy,Patrick,Smith,17
+2535,214,1880,4,1179681854,Lawn Dogs,1997,Drama,Patrick,Smith,17
+2536,214,1910,3,1243623469,I Went Down,1997,Comedy|Crime|Drama,Patrick,Smith,17
+2537,214,1913,3,1160305150,Picnic at Hanging Rock,1975,Drama|Mystery,Patrick,Smith,17
+2538,214,2155,4,1192322376,Slums of Beverly Hills,1998,Comedy|Drama,Patrick,Smith,17
+2539,214,2344,3,983024516,Runaway Train,1985,Action|Adventure|Drama|Thriller,Patrick,Smith,17
+2540,214,2437,3,1104263199,Wilde,1997,Drama,Patrick,Smith,17
+2541,214,2442,4,1214730956,Hilary and Jackie,1998,Drama,Patrick,Smith,17
+2542,214,2474,3,1155420968,Color of Money,1986,Drama,Patrick,Smith,17
+2543,214,2560,3,1104263192,Ravenous,1999,Horror|Thriller,Patrick,Smith,17
+2544,214,2577,3,1194722977,Metroland,1997,Comedy|Drama,Patrick,Smith,17
+2545,214,2579,3,1186841196,Following,1998,Crime|Mystery|Thriller,Patrick,Smith,17
+2546,214,2585,3,1105816797,Lovers of the Arctic Circle,1998,Drama|Romance,Patrick,Smith,17
+2547,214,2590,4,983022708,Hideous Kinky,1998,Drama,Patrick,Smith,17
+2548,214,2682,3,1104263233,Limbo,1999,Drama,Patrick,Smith,17
+2549,214,2704,3,983021484,Lovers on the Bridge,1991,Drama|Romance,Patrick,Smith,17
+2550,214,2745,3,983018111,Mission,1986,Drama,Patrick,Smith,17
+2551,214,2782,3,983115043,Pit and the Pendulum,1961,Horror,Patrick,Smith,17
+2552,214,2905,4,1512327765,Sanjuro (Tsubaki Sanjûrô),1962,Action|Adventure|Drama,Patrick,Smith,17
+2553,214,2921,2,987374906,High Plains Drifter,1973,Western,Patrick,Smith,17
+2554,214,2929,4,1293393169,Reds,1981,Drama|Romance,Patrick,Smith,17
+2555,214,2931,3,983029692,Time of the Gypsies (Dom za vesanje),1989,Comedy|Crime|Drama|Fantasy,Patrick,Smith,17
+2556,214,2971,3,983020601,All That Jazz,1979,Drama|Fantasy|Musical,Patrick,Smith,17
+2557,214,3045,3,983026031,Peter's Friends,1992,Comedy|Drama,Patrick,Smith,17
+2558,214,3053,2,1202636286,Messenger: The Story of Joan of Arc,1999,Drama|War,Patrick,Smith,17
+2559,214,3055,4,981197106,Felicia's Journey,1999,Thriller,Patrick,Smith,17
+2560,214,3060,3,983020399,Commitments,1991,Comedy|Drama|Musical,Patrick,Smith,17
+2561,214,3104,4,1092080281,Midnight Run,1988,Action|Comedy|Crime|Thriller,Patrick,Smith,17
+2562,214,3117,3,1148240546,Ride with the Devil,1999,Drama|Romance|War,Patrick,Smith,17
+2563,214,3127,3,1122583263,Holy Smoke,1999,Comedy|Drama,Patrick,Smith,17
+2564,214,3142,3,983021635,U2: Rattle and Hum,1988,Documentary|Musical,Patrick,Smith,17
+2565,214,3150,4,1136334952,War Zone,1999,Drama|Thriller,Patrick,Smith,17
+2566,214,3165,2,983026616,Boiling Point,1993,Action|Drama,Patrick,Smith,17
+2567,214,3179,4,1167067936,Angela's Ashes,1999,Drama,Patrick,Smith,17
+2568,214,3222,2,983020262,Carmen,1984,Drama,Patrick,Smith,17
+2569,214,3295,4,1151697306,Raining Stones,1993,Drama,Patrick,Smith,17
+2570,214,3342,3,983016771,Birdy,1984,Drama|War,Patrick,Smith,17
+2571,214,3372,3,983026812,Bridge at Remagen,1969,Action|War,Patrick,Smith,17
+2572,214,3429,4,1512912717,Creature Comforts,1989,Animation|Comedy,Patrick,Smith,17
+2573,214,3445,3,983022898,Eyes of Laura Mars,1978,Mystery|Thriller,Patrick,Smith,17
+2574,214,3446,3,1114884716,Funny Bones,1995,Comedy|Drama,Patrick,Smith,17
+2575,214,3457,3,981197860,Waking the Dead,2000,Drama|Thriller,Patrick,Smith,17
+2576,214,3518,3,1175849902,End of Violence,1997,Drama|Thriller,Patrick,Smith,17
+2577,214,3618,3,983021660,Small Time Crooks,2000,Comedy|Crime,Patrick,Smith,17
+2578,214,3728,4,983017642,One False Move,1992,Crime|Drama|Film-Noir|Thriller,Patrick,Smith,17
+2579,214,3764,2,983021076,F/X2 (a.k.a. F/X 2 - The Deadly Art of Illusion),1991,Action|Crime|Thriller,Patrick,Smith,17
+2580,214,3783,3,1139602071,Croupier,1998,Crime|Drama,Patrick,Smith,17
+2581,214,3894,3,1197826993,Solas,1999,Drama,Patrick,Smith,17
+2582,214,3896,4,1167067985,Way of the Gun,2000,Crime|Thriller,Patrick,Smith,17
+2583,214,3920,3,983017744,Faraway,1993,Drama|Fantasy|Mystery|Romance,Patrick,Smith,17
+2584,214,3943,3,986681727,Bamboozled,2000,Comedy,Patrick,Smith,17
+2585,214,4003,1,983026289,She's Having a Baby,1988,Comedy,Patrick,Smith,17
+2586,214,4009,3,1179083014,Talk Radio,1988,Drama,Patrick,Smith,17
+2587,214,4024,4,1177257734,House of Mirth,2000,Romance,Patrick,Smith,17
+2588,214,4056,3,1104263249,Pledge,2001,Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+2589,214,4110,3,983027452,Fourth Protocol,1987,Thriller,Patrick,Smith,17
+2590,214,4146,3,1101543439,Million Dollar Hotel,2001,Drama|Mystery|Romance,Patrick,Smith,17
+2591,214,4152,4,1231692541,Vatel,2000,Drama,Patrick,Smith,17
+2592,214,4160,4,1157009064,Widow of St. Pierre,2000,Drama|Romance,Patrick,Smith,17
+2593,214,4173,3,1239445713,When Brendan Met Trudy,2000,Comedy|Romance,Patrick,Smith,17
+2594,214,4211,3,1155501321,Reversal of Fortune,1990,Drama,Patrick,Smith,17
+2595,214,4234,3,1144006503,Tailor of Panama,2001,Drama|Thriller,Patrick,Smith,17
+2596,214,4251,4,1129662670,Chopper,2000,Drama|Thriller,Patrick,Smith,17
+2597,214,4259,3,1117395689,Luzhin Defence,2000,Drama|Romance,Patrick,Smith,17
+2598,214,4267,4,1001242265,One Night at McCool's,2001,Comedy,Patrick,Smith,17
+2599,214,4297,3,1115053289,Pelle the Conqueror (Pelle erobreren),1987,Drama,Patrick,Smith,17
+2600,214,4300,3,1256987005,Bread and Roses,2000,Drama,Patrick,Smith,17
+2601,214,4305,2,1001242295,Angel Eyes,2001,Romance|Thriller,Patrick,Smith,17
+2602,214,4312,3,1157299194,Himalaya (Himalaya - l'enfance d'un chef),1999,Adventure|Drama,Patrick,Smith,17
+2603,214,4450,4,1238910884,Bully,2001,Crime|Drama|Thriller,Patrick,Smith,17
+2604,214,4451,2,1160510013,Jump Tomorrow,2001,Comedy|Drama|Romance,Patrick,Smith,17
+2605,214,4465,4,1220783870,Accused,1988,Drama,Patrick,Smith,17
+2606,214,4475,1,1202636255,Beast of War,1988,Drama|War,Patrick,Smith,17
+2607,214,4479,2,1144176119,Bird,1988,Drama|Musical,Patrick,Smith,17
+2608,214,4562,2,1148740111,Without a Clue,1988,Comedy|Mystery,Patrick,Smith,17
+2609,214,4640,3,1203847860,Brother,2000,Action|Crime|Thriller,Patrick,Smith,17
+2610,214,4698,2,1183917381,Orphans,1997,Comedy|Drama,Patrick,Smith,17
+2611,214,4723,3,1269156824,Deep End,2001,Drama,Patrick,Smith,17
+2612,214,4741,4,1100093703,Together (Tillsammans),2000,Comedy|Drama|Romance,Patrick,Smith,17
+2613,214,4784,4,1171739150,French Lieutenant's Woman,1981,Drama,Patrick,Smith,17
+2614,214,4842,3,1149988034,Dogs of War,1980,Drama|War,Patrick,Smith,17
+2615,214,4871,2,1204372320,Focus,2001,Drama,Patrick,Smith,17
+2616,214,4976,3,1258810410,Iris,2001,Drama,Patrick,Smith,17
+2617,214,4996,3,1310242555,Little Otik (Otesánek),2000,Comedy|Drama|Fantasy,Patrick,Smith,17
+2618,214,5052,3,1104263257,Time of Favor (Ha-Hesder),2000,Drama|War,Patrick,Smith,17
+2619,214,5073,4,1090752241,Son's Room,2001,Drama,Patrick,Smith,17
+2620,214,5074,3,1244407134,Storytelling,2001,Comedy|Drama,Patrick,Smith,17
+2621,214,5105,4,1242467411,Don't Look Now,1973,Drama|Horror|Thriller,Patrick,Smith,17
+2622,214,5112,3,1278221659,Last Orders,2001,Drama,Patrick,Smith,17
+2623,214,5198,4,1158696215,Long Good Friday,1980,Drama|Thriller,Patrick,Smith,17
+2624,214,5269,3,1193598646,Piano Teacher,2001,Drama,Patrick,Smith,17

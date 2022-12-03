@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+4250,239,3732,2.5,1055204246,Fury,1978,Horror,Jeremy,Smith,17
+4251,239,3819,4,991626492,Tampopo,1985,Comedy,Jeremy,Smith,17
+4252,239,3858,1,1019775718,Cecil B. DeMented,2000,Comedy,Jeremy,Smith,17
+4253,239,3895,1,1004313806,Watcher,2000,Crime|Thriller,Jeremy,Smith,17
+4254,239,4012,1,992921219,Punchline,1988,Comedy|Drama,Jeremy,Smith,17
+4255,239,4042,2,1013380862,Alamo,1960,Action|Drama|War|Western,Jeremy,Smith,17
+4256,239,4079,3,997679870,Amazon Women on the Moon,1987,Comedy|Sci-Fi,Jeremy,Smith,17
+4257,239,4318,1,991623403,Postcards From the Edge,1990,Comedy|Drama,Jeremy,Smith,17
+4258,239,4463,3,1013381090,1969,1988,Drama|War,Jeremy,Smith,17
+4259,239,4498,3,1008716749,Dead Pool,1988,Action|Crime|Thriller,Jeremy,Smith,17
+4260,239,4577,4,1008716582,Casualties of War,1989,Drama|War,Jeremy,Smith,17
+4261,239,4589,1,1012948592,Eddie and the Cruisers,1983,Drama|Musical|Mystery,Jeremy,Smith,17
+4262,239,4633,4,1012947752,Parents,1989,Comedy|Drama|Horror,Jeremy,Smith,17
+4263,239,4661,2,1013381254,Sea of Love,1989,Crime|Drama|Thriller,Jeremy,Smith,17
+4264,239,4690,3,995855885,Cotton Club,1984,Crime|Musical,Jeremy,Smith,17
+4265,239,4831,2,1012948639,Can't Stop the Music,1980,Comedy|Musical,Jeremy,Smith,17
+4266,239,4911,3,1008716824,Jabberwocky,1977,Adventure|Comedy|Fantasy,Jeremy,Smith,17
+4267,239,4929,1,1011668956,Toy,1982,Comedy,Jeremy,Smith,17
+4268,239,4936,3,1012948592,Fame,1980,Drama|Musical,Jeremy,Smith,17
+4269,239,4951,2,1007686778,Lord of the Flies,1990,Adventure|Drama|Thriller,Jeremy,Smith,17
+4270,239,4971,2,1008716582,Moscow on the Hudson,1984,Comedy|Drama,Jeremy,Smith,17
+4271,239,5003,2,1008716862,Nine Lives of Fritz the Cat,1974,Animation,Jeremy,Smith,17
+4272,239,5034,3,1011668746,Truly,1991,Drama|Romance,Jeremy,Smith,17
+4273,239,5054,3,1012428275,Brainstorm,1983,Sci-Fi|Thriller,Jeremy,Smith,17
+4274,239,5220,3,1033337361,Showtime,2002,Action|Comedy,Jeremy,Smith,17
+4275,239,5265,2,1042408451,Death to Smoochy,2002,Comedy|Crime|Drama,Jeremy,Smith,17
+4276,239,5346,1,1019437407,Wild Orchid,1990,Drama|Romance,Jeremy,Smith,17
+4277,239,5385,3,1021416775,Last Waltz,1978,Documentary,Jeremy,Smith,17
+4278,239,5387,3,1055725911,Enough,2002,Drama|Thriller,Jeremy,Smith,17
+4279,239,5431,2,1024876584,Goin' South,1978,Comedy|Western,Jeremy,Smith,17
+4280,239,5471,2,1026690106,Perfect,1985,Drama|Romance,Jeremy,Smith,17
+4281,239,5522,3,1029717962,Rollerball,1975,Action|Drama|Sci-Fi,Jeremy,Smith,17
+4282,239,5749,2,1034030219,Ghost Story,1981,Drama|Horror,Jeremy,Smith,17
+4283,239,5852,3,1037058927,Saturday the 14th,1981,Comedy|Horror,Jeremy,Smith,17
+4284,239,5940,2,1038189176,Eating Raoul,1982,Comedy,Jeremy,Smith,17
+4285,239,5965,2,1039393544,Duellists,1977,Action|War,Jeremy,Smith,17
+4286,239,5981,2,1039393544,Day of the Triffids,1962,Horror|Sci-Fi,Jeremy,Smith,17
+4287,239,6184,4,1044796191,Man Who Fell to Earth,1976,Drama|Sci-Fi,Jeremy,Smith,17
+4288,239,2312,3,991711655,Children of a Lesser God,1986,Drama,Jeremy,Smith,17
+4289,239,96,3,992920957,In the Bleak Midwinter,1995,Comedy|Drama,Jeremy,Smith,17
+4290,239,144,2,991712477,Brothers McMullen,1995,Comedy,Jeremy,Smith,17
+4291,239,159,3,992921168,Clockers,1995,Crime|Drama|Mystery,Jeremy,Smith,17
+4292,239,178,1,992922725,Love & Human Remains,1993,Comedy|Drama,Jeremy,Smith,17
+4293,239,182,3,1012949573,Moonlight and Valentino,1995,Drama|Romance,Jeremy,Smith,17
+4294,239,202,1,1028605042,Total Eclipse,1995,Drama|Romance,Jeremy,Smith,17
+4295,239,205,3,991711018,Unstrung Heroes,1995,Comedy|Drama,Jeremy,Smith,17
+4296,239,211,3,991627551,Browning Version,1994,Drama,Jeremy,Smith,17
+4297,239,346,3,991712604,Backbeat,1993,Drama|Musical,Jeremy,Smith,17
+4298,239,392,3,1017698299,Secret Adventures of Tom Thumb,1993,Adventure|Animation,Jeremy,Smith,17
+4299,239,414,1,992920643,Air Up There,1994,Comedy,Jeremy,Smith,17
+4300,239,469,2,992920467,House of the Spirits,1993,Drama|Romance,Jeremy,Smith,17
+4301,239,478,3,992920857,Jimmy Hollywood,1994,Comedy|Crime|Drama,Jeremy,Smith,17
+4302,239,498,2,1012949577,Mr. Jones,1993,Drama|Romance,Jeremy,Smith,17
+4303,239,518,4,992922725,Road to Wellville,1994,Comedy,Jeremy,Smith,17
+4304,239,530,3,991712390,Second Best,1994,Drama,Jeremy,Smith,17
+4305,239,580,3,992921410,Princess Caraboo,1994,Drama,Jeremy,Smith,17
+4306,239,696,1,1012257401,Butterfly Kiss,1995,Drama|Thriller,Jeremy,Smith,17
+4307,239,868,3,1042408451,Death in Brunswick,1991,Comedy,Jeremy,Smith,17
+4308,239,1003,2,991625765,Extreme Measures,1996,Drama|Thriller,Jeremy,Smith,17
+4309,239,1051,2,991710956,Trees Lounge,1996,Drama,Jeremy,Smith,17
+4310,239,1112,4,991628374,Palookaville,1996,Action|Comedy|Drama,Jeremy,Smith,17
+4311,239,1153,2,992921486,Raw Deal,1948,Film-Noir,Jeremy,Smith,17
+4312,239,1177,3,992920589,Enchanted April,1992,Drama|Romance,Jeremy,Smith,17
+4313,239,1180,3,991627653,Hear My Song,1991,Comedy,Jeremy,Smith,17
+4314,239,1264,3,991627271,Diva,1981,Action|Drama|Mystery|Romance|Thriller,Jeremy,Smith,17
+4315,239,1290,3,991711725,Some Kind of Wonderful,1987,Drama|Romance,Jeremy,Smith,17
+4316,239,1330,3,991722661,April Fool's Day,1986,Horror,Jeremy,Smith,17
+4317,239,1331,3,1012947819,Audrey Rose,1977,Horror,Jeremy,Smith,17
+4318,239,1332,3,991625765,Believers,1987,Horror|Thriller,Jeremy,Smith,17
+4319,239,1335,2,991722818,Blood Beach,1981,Horror|Mystery,Jeremy,Smith,17
+4320,239,1351,2,992920957,Blood and Wine (Blood & Wine),1996,Crime|Drama|Thriller,Jeremy,Smith,17
+4321,239,1458,3,991711876,Touch,1997,Drama|Fantasy|Romance,Jeremy,Smith,17
+4322,239,1472,2,991625444,City of Industry,1997,Crime|Thriller,Jeremy,Smith,17
+4323,239,1501,3,992922789,Keys to Tulsa,1997,Crime,Jeremy,Smith,17
+4324,239,1504,3,992921288,Hollow Reed,1996,Drama,Jeremy,Smith,17
+4325,239,1516,3,992920857,Children of the Revolution,1996,Comedy,Jeremy,Smith,17
+4326,239,1520,3,1012949633,Commandments,1997,Romance,Jeremy,Smith,17
+4327,239,1539,3,992920231,Twin Town,1997,Comedy|Crime,Jeremy,Smith,17
+4328,239,1541,4,1012949496,Addicted to Love,1997,Comedy|Romance,Jeremy,Smith,17
+4329,239,1550,2,992921834,Trial and Error,1997,Comedy|Romance,Jeremy,Smith,17
+4330,239,1563,3,992922187,Dream With the Fishes,1997,Drama,Jeremy,Smith,17
+4331,239,1598,2,991625944,Desperate Measures,1998,Crime|Drama|Thriller,Jeremy,Smith,17
+4332,239,1600,3,992922022,She's So Lovely,1997,Drama|Romance,Jeremy,Smith,17
+4333,239,1654,4,991711338,FairyTale: A True Story,1997,Children|Drama|Fantasy,Jeremy,Smith,17
+4334,239,1661,3,992920231,Switchback,1997,Crime|Mystery|Thriller,Jeremy,Smith,17
+4335,239,1668,3,992921708,One Night Stand,1997,Drama,Jeremy,Smith,17
+4336,239,1689,3,1011310011,Man Who Knew Too Little,1997,Comedy|Crime|Thriller,Jeremy,Smith,17
+4337,239,1713,2,991712477,Mouse Hunt,1997,Children|Comedy,Jeremy,Smith,17
+4338,239,1752,2,991625944,Hard Rain,1998,Action|Crime|Thriller,Jeremy,Smith,17
+4339,239,1756,2,1012257627,Prophecy II,1998,Horror,Jeremy,Smith,17
+4340,239,1832,1,992922789,Heaven's Burning,1997,Action|Drama,Jeremy,Smith,17
+4341,239,1857,3,992922187,Real Blonde,1997,Comedy,Jeremy,Smith,17
+4342,239,1875,3,991712753,Clockwatchers,1997,Comedy,Jeremy,Smith,17
+4343,239,1891,2,1012257627,Ugly,1997,Horror|Thriller,Jeremy,Smith,17
+4344,239,1973,1,992922725,Freddy's Dead: The Final Nightmare (Nightmare on Elm Street Part 6: Freddy's Dead,1991,Horror,Jeremy,Smith,17
+4345,239,1995,2,991626038,Poltergeist II: The Other Side,1986,Horror|Thriller,Jeremy,Smith,17
+4346,239,1999,3,991722774,Exorcist III,1990,Horror,Jeremy,Smith,17
+4347,239,2007,3,992921486,Polish Wedding,1998,Comedy,Jeremy,Smith,17
+4348,239,2027,2,992923242,Jane Austen's Mafia!,1998,Comedy|Crime,Jeremy,Smith,17
+4349,239,2035,3,992921594,Blackbeard's Ghost,1968,Children|Comedy,Jeremy,Smith,17
+4350,239,2072,3,992922388,'burbs,1989,Comedy,Jeremy,Smith,17
+4351,239,2083,4,1012948592,Muppet Christmas Carol,1992,Children|Comedy|Musical,Jeremy,Smith,17
+4352,239,2128,3,992921914,Safe Men,1998,Comedy,Jeremy,Smith,17
+4353,239,2135,2,1012948592,Doctor Dolittle,1967,Adventure|Children|Musical,Jeremy,Smith,17
+4354,239,2147,2,991624145,Clan of the Cave Bear,1986,Adventure|Drama|Fantasy,Jeremy,Smith,17
+4355,239,2149,2,991722661,House II: The Second Story,1987,Comedy|Fantasy|Horror,Jeremy,Smith,17
+4356,239,2151,2,992920795,Gods Must Be Crazy II,1989,Comedy,Jeremy,Smith,17
+4357,239,2233,2,1032840193,Digging to China,1998,Drama,Jeremy,Smith,17
+4358,239,2241,3,992921914,Class,1983,Comedy,Jeremy,Smith,17
+4359,239,2259,3,991623664,Blame It on Rio,1984,Comedy|Romance,Jeremy,Smith,17
+4360,239,2262,3,992921654,About Last Night...,1986,Comedy|Drama|Romance,Jeremy,Smith,17
+4361,239,2267,1,991625444,Mortal Thoughts,1991,Mystery|Thriller,Jeremy,Smith,17
+4362,239,2310,4,991624340,Mighty,1998,Drama,Jeremy,Smith,17
+4363,239,2372,3,992922103,Fletch Lives,1989,Comedy,Jeremy,Smith,17
+4364,239,2417,3,1007686153,Heartburn,1986,Comedy|Drama,Jeremy,Smith,17
+4365,239,2425,3,1016401207,General,1998,Crime,Jeremy,Smith,17
+4366,239,2451,2,1012947887,Gate,1987,Horror,Jeremy,Smith,17
+4367,239,2482,2,991628021,Still Crazy,1998,Comedy|Romance,Jeremy,Smith,17
+4368,239,2496,4,991712477,Blast from the Past,1999,Comedy|Romance,Jeremy,Smith,17
+4369,239,2525,2,999471423,Alligator,1980,Action|Horror|Sci-Fi,Jeremy,Smith,17
+4370,239,2586,4,991625536,Goodbye Lover,1999,Comedy|Crime|Thriller,Jeremy,Smith,17
+4371,239,2589,1,1025677678,Friends & Lovers,1999,Comedy|Drama|Romance,Jeremy,Smith,17
+4372,239,2618,2,992920957,Castle,1997,Comedy,Jeremy,Smith,17
+4373,239,2695,3,992922855,Boys,1998,Drama,Jeremy,Smith,17
+4374,239,2749,3,991712814,Morning After,1986,Drama|Mystery,Jeremy,Smith,17

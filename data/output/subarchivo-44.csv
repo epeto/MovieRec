@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+5375,277,40732,2.5,1428629938,Descent,2005,Adventure|Drama|Horror|Thriller,Tobias,Smith,36
+5376,277,110127,3,1427933911,Noah,2014,Adventure|Drama|IMAX,Tobias,Smith,36
+5377,277,6187,3.5,1428419914,Life of David Gale,2003,Crime|Drama|Thriller,Tobias,Smith,36
+5378,277,1277,3,1428632127,Cyrano de Bergerac,1990,Comedy|Drama|Romance,Tobias,Smith,36
+5379,277,2183,4,1427933024,Man Who Knew Too Much,1956,Adventure|Drama|Mystery|Thriller,Tobias,Smith,36
+5380,277,2819,4.5,1427933536,Three Days of the Condor (3 Days of the Condor),1975,Drama|Mystery|Romance|Thriller,Tobias,Smith,36
+5381,277,1959,3.5,1427933559,Out of Africa,1985,Drama|Romance,Tobias,Smith,36
+5382,277,1151,3,1428631694,Lesson Faust,1994,Animation|Comedy|Drama|Fantasy,Tobias,Smith,36
+5383,277,1305,3.5,1427933340,Paris,1984,Drama|Romance,Tobias,Smith,36
+5384,277,1406,3.5,1428422533,La Cérémonie,1995,Crime|Drama|Mystery|Thriller,Tobias,Smith,36
+5385,277,1483,3.5,1427935138,Crash,1996,Drama|Thriller,Tobias,Smith,36
+5386,277,2579,4,1427936048,Following,1998,Crime|Mystery|Thriller,Tobias,Smith,36
+5387,277,2585,3,1428423248,Lovers of the Arctic Circle,1998,Drama|Romance,Tobias,Smith,36
+5388,277,2704,3,1429206008,Lovers on the Bridge,1991,Drama|Romance,Tobias,Smith,36
+5389,277,2905,3.5,1427934003,Sanjuro (Tsubaki Sanjûrô),1962,Action|Adventure|Drama,Tobias,Smith,36
+5390,277,2931,4,1427934513,Time of the Gypsies (Dom za vesanje),1989,Comedy|Crime|Drama|Fantasy,Tobias,Smith,36
+5391,277,3060,3,1428419909,Commitments,1991,Comedy|Drama|Musical,Tobias,Smith,36
+5392,277,3342,3.5,1428419899,Birdy,1984,Drama|War,Tobias,Smith,36
+5393,277,3920,4,1427933336,Faraway,1993,Drama|Fantasy|Mystery|Romance,Tobias,Smith,36
+5394,277,4056,3,1429206314,Pledge,2001,Crime|Drama|Mystery|Thriller,Tobias,Smith,36
+5395,277,4146,3,1427935018,Million Dollar Hotel,2001,Drama|Mystery|Romance,Tobias,Smith,36
+5396,277,5269,3.5,1427934291,Piano Teacher,2001,Drama,Tobias,Smith,36
+5397,277,30803,3.5,1428420922,3-Iron (Bin-jip),2004,Drama|Romance,Tobias,Smith,36
+5398,277,48997,3,1428629976,Perfume: The Story of a Murderer,2006,Crime|Drama|Thriller,Tobias,Smith,36
+5399,277,98056,3.5,1427934233,Amour,2012,Drama|Romance,Tobias,Smith,36
+5400,277,8974,2.5,1428630269,SpongeBob SquarePants Movie,2004,Adventure|Animation|Children|Comedy,Tobias,Smith,36
+5401,277,69951,3.5,1427936234,Imaginarium of Doctor Parnassus,2009,Drama|Fantasy,Tobias,Smith,36
+5402,277,2514,2,1428631817,Pet Sematary II,1992,Comedy|Horror,Tobias,Smith,36
+5403,277,2727,3.5,1427935875,Killer's Kiss,1955,Crime|Film-Noir,Tobias,Smith,36
+5404,277,2932,3.5,1428422962,Days of Heaven,1978,Drama,Tobias,Smith,36
+5405,277,3011,4,1427933552,They Shoot Horses,1969,Drama,Tobias,Smith,36
+5406,277,3307,4,1428629321,City Lights,1931,Comedy|Drama|Romance,Tobias,Smith,36
+5407,277,117176,3,1428419668,The Theory of Everything,2014,Drama|Romance,Tobias,Smith,36
+5408,277,6666,3.5,1427933184,Discreet Charm of the Bourgeoisie,1972,Comedy|Drama|Fantasy,Tobias,Smith,36
+5409,277,7008,3,1429206420,Last Tango in Paris (Ultimo tango a Parigi),1972,Drama|Romance,Tobias,Smith,36
+5410,277,7042,3,1428423565,Betty Blue (37°2 le matin),1986,Drama|Romance,Tobias,Smith,36
+5411,277,488,4,1427935066,M. Butterfly,1993,Drama|Romance,Tobias,Smith,36
+5412,277,2181,2.5,1428423557,Marnie,1964,Drama|Mystery|Romance|Thriller,Tobias,Smith,36
+5413,277,2283,3.5,1429206386,Sheltering Sky,1990,Drama,Tobias,Smith,36
+5414,277,2573,3.5,1428422305,Tango,1998,Drama|Musical,Tobias,Smith,36
+5415,277,2673,3,1428423412,Eternity and a Day (Mia aoniotita kai mia mera),1998,Drama,Tobias,Smith,36
+5416,277,2925,3.5,1428420337,Conformist,1970,Drama,Tobias,Smith,36
+5417,277,3470,3.5,1427934025,Dersu Uzala,1975,Adventure|Drama,Tobias,Smith,36
+5418,277,3621,4,1427934476,Possession,1981,Drama|Horror,Tobias,Smith,36
+5419,277,5475,3.5,1428632535,Z,1969,Drama|Mystery|Thriller,Tobias,Smith,36
+5420,277,6021,4,1427933328,American Friend,1977,Crime|Drama|Mystery|Thriller,Tobias,Smith,36
+5421,277,6460,3.5,1429205512,Trial,1962,Drama,Tobias,Smith,36
+5422,277,6461,4,1427934640,Unforgiven,1960,Drama|Western,Tobias,Smith,36
+5423,277,6684,3,1428631982,Death in Venice (Morte a Venezia),1971,Drama|Romance,Tobias,Smith,36
+5424,277,7010,3.5,1429206023,Lover,1992,Drama|Romance,Tobias,Smith,36
+5425,277,7043,3.5,1428422615,Vivre sa vie: Film en douze tableaux (My Life to Live),1962,Drama,Tobias,Smith,36
+5426,277,7069,3.5,1428422736,Macbeth (a.k.a. Tragedy of Macbeth,1971,Drama,Tobias,Smith,36
+5427,277,7505,3.5,1428420875,Kingdom,1994,Drama|Horror|Mystery,Tobias,Smith,36
+5428,277,7941,4,1428420115,Smiles of a Summer Night (Sommarnattens leende),1955,Comedy|Romance,Tobias,Smith,36
+5429,277,7944,4,1427934622,Night of the Iguana,1964,Drama|Thriller,Tobias,Smith,36
+5430,277,8014,4,1428420938,Spring,2003,Drama,Tobias,Smith,36
+5431,277,8254,4,1427934527,Arizona Dream,1993,Comedy|Drama|Fantasy|Romance,Tobias,Smith,36
+5432,277,8367,3.5,1427934289,Time of the Wolf,2003,Drama,Tobias,Smith,36
+5433,277,8922,4,1428421223,Epidemic,1988,Drama|Horror|Thriller,Tobias,Smith,36
+5434,277,25759,4,1427934580,October,1928,Drama|War,Tobias,Smith,36
+5435,277,25940,3.5,1428421377,Lady from Shanghai,1947,Drama|Film-Noir|Mystery,Tobias,Smith,36
+5436,277,25963,4,1427933124,Young and the Damned,1950,Crime|Drama,Tobias,Smith,36
+5437,277,26318,4,1427933126,Phantom of Liberty,1974,Comedy|Drama,Tobias,Smith,36
+5438,277,26387,4,1427933705,Man Who Loved Women,1977,Comedy|Drama|Romance,Tobias,Smith,36
+5439,277,27033,3.5,1428421180,Kingdom II,1997,Drama|Horror|Mystery,Tobias,Smith,36
+5440,277,32444,3.5,1428422297,Carmen,1983,Drama|Musical|Romance,Tobias,Smith,36
+5441,277,32735,3.5,1427934154,Arabian Nights (Il fiore delle mille e una notte),1974,Comedy|Drama|Fantasy,Tobias,Smith,36
+5442,277,32741,3.5,1427934180,Oedipus Rex (Edipo re),1967,Drama,Tobias,Smith,36
+5443,277,32892,4,1427933631,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo),1962,Drama|War,Tobias,Smith,36
+5444,277,33487,3.5,1428420947,Samaritan Girl (Samaria),2004,Drama,Tobias,Smith,36
+5445,277,38159,3.5,1428420920,Short Film About Love,1988,Drama|Romance,Tobias,Smith,36
+5446,277,38701,3,1429206258,Don't Come Knocking,2005,Drama|Western,Tobias,Smith,36
+5447,277,39659,4,1427934172,Teorema,1968,Drama,Tobias,Smith,36
+5448,277,41336,4,1427933142,Nazarin (Nazarín),1959,Drama,Tobias,Smith,36
+5449,277,44100,3,1428632118,Cyrano de Bergerac,1950,Drama|Romance,Tobias,Smith,36
+5450,277,45000,3,1428422598,Chinoise,1967,Comedy|Drama,Tobias,Smith,36
+5451,277,47904,3,1428631998,Notti bianche,1957,Drama|Romance,Tobias,Smith,36
+5452,277,48001,3.5,1428420995,Bow,2005,Drama|Romance,Tobias,Smith,36
+5453,277,48165,4.5,1427934303,Seventh Continent,1989,Drama,Tobias,Smith,36
+5454,277,49902,3.5,1427934163,Decameron,1971,Comedy|Drama,Tobias,Smith,36
+5455,277,50517,3.5,1428420971,Time (Shi gan),2006,Drama|Romance,Tobias,Smith,36
+5456,277,51380,3.5,1427934166,Canterbury Tales,1972,Comedy|Drama,Tobias,Smith,36
+5457,277,51418,3,1429206481,Breaking and Entering,2006,Drama,Tobias,Smith,36
+5458,277,52528,3.5,1427933155,Tristana,1970,Drama,Tobias,Smith,36
+5459,277,53143,2,1428631673,Fay Grim,2006,Action|Thriller,Tobias,Smith,36
+5460,277,55360,3,1427934422,Climates (Iklimler),2006,Drama,Tobias,Smith,36
+5461,277,61697,2.5,1429206140,Righteous Kill,2008,Crime|Mystery|Thriller,Tobias,Smith,36
+5462,277,63698,3,1427934407,Three Monkeys (Üç maymun),2008,Drama,Tobias,Smith,36
+5463,277,74431,4,1427936377,Takva: A Man's Fear of God,2006,Drama,Tobias,Smith,36
+5464,277,77866,3,1427935971,Robin Hood,2010,Action|Adventure|Drama|Romance|War,Tobias,Smith,36
+5465,277,78016,3.5,1427933396,Times and Winds (Bes vakit),2006,Drama,Tobias,Smith,36
+5466,277,78614,2.5,1427934397,Clouds of May (Mayis sikintisi),1999,Drama,Tobias,Smith,36
+5467,277,81312,3,1428631610,Borderland,2007,Crime|Horror|Thriller,Tobias,Smith,36
+5468,277,81673,2.5,1427934402,Small Town,1997,Drama,Tobias,Smith,36
+5469,277,81819,5,1427932018,Biutiful,2010,Drama,Tobias,Smith,36
+5470,277,82320,4,1427935239,Fate (Yazgi),2001,Drama,Tobias,Smith,36
+5471,277,86083,2.5,1428422034,Crazy Class Wakes Up,1977,Comedy,Tobias,Smith,36
+5472,277,86087,1.5,1428422935,Dunce Class on Vacation,1978,Comedy,Tobias,Smith,36
+5473,277,86717,4,1427933392,Kosmos,2010,Drama,Tobias,Smith,36
+5474,277,87385,3,1427935232,Envy (Kiskanmak),2009,Drama,Tobias,Smith,36
+5475,277,87996,3.5,1427935245,Waiting Room (Bekleme odasi),2004,Drama,Tobias,Smith,36
+5476,277,88276,3.5,1427935628,Dry Summer (Susuz yaz) (Reflections),1964,Drama,Tobias,Smith,36
+5477,277,89900,4,1427934409,Once Upon a Time in Anatolia (Bir zamanlar Anadolu'da),2011,Drama,Tobias,Smith,36
+5478,277,93164,3,1429206100,Sleep Tight (Mientras duermes),2011,Horror|Thriller,Tobias,Smith,36
+5479,277,99941,3.5,1428190828,Double Indemnity,1973,Crime|Drama|Thriller,Tobias,Smith,36
+5480,277,104423,3.5,1428422873,Snows of Kilimanjaro,2011,Drama,Tobias,Smith,36
+5481,277,105246,3,1427933766,Mood Indigo (L'écume des jours),2013,Drama|Fantasy,Tobias,Smith,36
+5482,277,106204,2.5,1428420951,Pieta,2013,Drama,Tobias,Smith,36
+5483,277,130992,4,1427935250,Innocence,1997,Drama,Tobias,Smith,36
+5484,277,131451,2.5,1429205360,The Atticus Institute,2015,Horror,Tobias,Smith,36
+5485,277,131550,5,1427933495,My Only Sunshine,2009,Drama,Tobias,Smith,36
+5486,277,131554,4,1427934115,Somersault in a Coffin,1996,Children|Drama,Tobias,Smith,36
+5487,277,131556,3.5,1427935296,Inside,2012,(no genres listed),Tobias,Smith,36
+5488,277,131558,3.5,1427935369,Majority,2010,Drama,Tobias,Smith,36
+5489,277,131560,3.5,1427935456,Vavien,2009,(no genres listed),Tobias,Smith,36
+5490,277,131562,4,1427935533,Time to Love,1965,Drama|Romance,Tobias,Smith,36
+5491,277,131564,3.5,1427935580,The Angel of Vengeance - The Female Hamlet,1977,Drama,Tobias,Smith,36
+5492,277,131566,3.5,1427935659,Suçlular aramizda,1964,Crime|Drama,Tobias,Smith,36
+5493,277,132010,4,1428422405,Anna and the Wolves,1973,Drama,Tobias,Smith,36
+5494,334,307,4,837751243,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Ezequiel,Smith,37
+5495,334,10,3,837751056,GoldenEye,1995,Action|Adventure|Thriller,Ezequiel,Smith,37
+5496,334,47,4,837751115,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Ezequiel,Smith,37
+5497,334,50,5,837751167,Usual Suspects,1995,Crime|Mystery|Thriller,Ezequiel,Smith,37
+5498,334,110,3,837751080,Braveheart,1995,Action|Drama|War,Ezequiel,Smith,37
+5499,334,153,2,837750990,Batman Forever,1995,Action|Adventure|Comedy|Crime,Ezequiel,Smith,37

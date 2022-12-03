@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+375,56,56782,3.5,1334473134,There Will Be Blood,2007,Drama|Western,Isaiah,Smith,58
+376,56,21,3,1274779596,Get Shorty,1995,Comedy|Crime|Thriller,Isaiah,Smith,58
+377,56,111,4.5,1274768527,Taxi Driver,1976,Crime|Drama|Thriller,Isaiah,Smith,58
+378,56,208,3,1350437344,Waterworld,1995,Action|Adventure|Sci-Fi,Isaiah,Smith,58
+379,56,337,4,1276337802,What's Eating Gilbert Grape,1993,Drama,Isaiah,Smith,58
+380,56,531,3.5,1274771964,Secret Garden,1993,Children|Drama,Isaiah,Smith,58
+381,56,41997,4,1274781435,Munich,2005,Action|Crime|Drama|Thriller,Isaiah,Smith,58
+382,56,135,2,1274766574,Down Periscope,1996,Comedy,Isaiah,Smith,58
+383,56,1409,2.5,1274766595,Michael,1996,Comedy|Drama|Fantasy|Romance,Isaiah,Smith,58
+384,56,551,4,1274779715,Nightmare Before Christmas,1993,Animation|Children|Fantasy|Musical,Isaiah,Smith,58
+385,56,594,1.5,1274779736,Snow White and the Seven Dwarfs,1937,Animation|Children|Drama|Fantasy|Musical,Isaiah,Smith,58
+386,56,661,3,1274780251,James and the Giant Peach,1996,Adventure|Animation|Children|Fantasy|Musical,Isaiah,Smith,58
+387,56,745,1,1274780187,Wallace & Gromit: A Close Shave,1995,Animation|Children|Comedy,Isaiah,Smith,58
+388,56,750,4,1379562815,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|War,Isaiah,Smith,58
+389,56,837,2,1274781076,Matilda,1996,Children|Comedy|Fantasy,Isaiah,Smith,58
+390,56,912,3,1381370764,Casablanca,1942,Drama|Romance,Isaiah,Smith,58
+391,56,923,2,1274769207,Citizen Kane,1941,Drama|Mystery,Isaiah,Smith,58
+392,56,1029,2,1274780409,Dumbo,1941,Animation|Children|Drama|Musical,Isaiah,Smith,58
+393,56,1093,3.5,1274780612,Doors,1991,Drama,Isaiah,Smith,58
+394,56,1148,0.5,1274769542,Wallace & Gromit: The Wrong Trousers,1993,Animation|Children|Comedy|Crime,Isaiah,Smith,58
+395,56,1199,3,1277192402,Brazil,1985,Fantasy|Sci-Fi,Isaiah,Smith,58
+396,56,1206,4.5,1274770297,Clockwork Orange,1971,Crime|Drama|Sci-Fi|Thriller,Isaiah,Smith,58
+397,56,1219,2,1274771714,Psycho,1960,Crime|Horror,Isaiah,Smith,58
+398,56,1230,3.5,1274769959,Annie Hall,1977,Comedy|Romance,Isaiah,Smith,58
+399,56,1247,3,1381373653,Graduate,1967,Comedy|Drama|Romance,Isaiah,Smith,58
+400,56,1258,4,1274768224,Shining,1980,Horror,Isaiah,Smith,58
+401,56,1282,3,1274770582,Fantasia,1940,Animation|Children|Fantasy|Musical,Isaiah,Smith,58
+402,56,1639,1.5,1274770262,Chasing Amy,1997,Comedy|Drama|Romance,Isaiah,Smith,58
+403,56,1907,1,1274780702,Mulan,1998,Adventure|Animation|Children|Comedy|Drama|Musical|Romance,Isaiah,Smith,58
+404,56,1952,4,1274766599,Midnight Cowboy,1969,Drama,Isaiah,Smith,58
+405,56,2010,2,1281865004,Metropolis,1927,Drama|Sci-Fi,Isaiah,Smith,58
+406,56,2078,1.5,1274780525,Jungle Book,1967,Animation|Children|Comedy|Musical,Isaiah,Smith,58
+407,56,2080,3,1281741959,Lady and the Tramp,1955,Animation|Children|Comedy|Romance,Isaiah,Smith,58
+408,56,2087,3,1274780785,Peter Pan,1953,Animation|Children|Fantasy|Musical,Isaiah,Smith,58
+409,56,2973,3,1295783770,Crimes and Misdemeanors,1989,Comedy|Crime|Drama,Isaiah,Smith,58
+410,56,3081,3,1274769177,Sleepy Hollow,1999,Fantasy|Horror|Mystery|Romance,Isaiah,Smith,58
+411,56,3246,2,1274771373,Malcolm X,1992,Drama,Isaiah,Smith,58
+412,56,48,1.5,1274779951,Pocahontas,1995,Animation|Children|Drama|Musical|Romance,Isaiah,Smith,58
+413,56,1777,2.5,1350437337,Wedding Singer,1998,Comedy|Romance,Isaiah,Smith,58
+414,56,596,3.5,1274779997,Pinocchio,1940,Animation|Children|Fantasy|Musical,Isaiah,Smith,58
+415,56,1380,1,1274779809,Grease,1978,Comedy|Musical|Romance,Isaiah,Smith,58
+416,56,2657,0.5,1281741697,Rocky Horror Picture Show,1975,Comedy|Horror|Musical|Sci-Fi,Isaiah,Smith,58
+417,56,720,1,1274769546,Wallace & Gromit: The Best of Aardman Animation,1996,Adventure|Animation|Comedy,Isaiah,Smith,58
+418,56,2144,1.5,1274769817,Sixteen Candles,1984,Comedy|Romance,Isaiah,Smith,58
+419,56,2908,3.5,1281742518,Boys Don't Cry,1999,Drama,Isaiah,Smith,58
+420,56,3210,2,1274768921,Fast Times at Ridgemont High,1982,Comedy|Drama|Romance,Isaiah,Smith,58
+421,56,3863,4,1301556481,Cell,2000,Drama|Horror|Thriller,Isaiah,Smith,58
+422,56,3147,2,1274770931,Green Mile,1999,Crime|Drama,Isaiah,Smith,58
+423,56,5618,4.5,1326896273,Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure|Animation|Fantasy,Isaiah,Smith,58
+424,56,6863,2.5,1274780574,School of Rock,2003,Comedy|Musical,Isaiah,Smith,58
+425,56,7254,2,1274770208,The Butterfly Effect,2004,Drama|Sci-Fi|Thriller,Isaiah,Smith,58
+426,56,8645,3,1360891746,Maria Full of Grace (Maria,2004,Crime|Drama,Isaiah,Smith,58
+427,56,35836,2.5,1274780743,40-Year-Old Virgin,2005,Comedy|Romance,Isaiah,Smith,58
+428,56,40629,3,1274771698,Pride & Prejudice,2005,Drama|Romance,Isaiah,Smith,58
+429,56,45517,1,1281742019,Cars,2006,Animation|Children|Comedy,Isaiah,Smith,58
+430,56,50872,1,1274771743,Ratatouille,2007,Animation|Children|Drama,Isaiah,Smith,58
+431,56,58559,3,1274769217,Dark Knight,2008,Action|Crime|Drama|IMAX,Isaiah,Smith,58
+432,56,60069,1.5,1274780961,WALL·E,2008,Adventure|Animation|Children|Romance|Sci-Fi,Isaiah,Smith,58
+433,56,63082,3.5,1314188844,Slumdog Millionaire,2008,Crime|Drama|Romance,Isaiah,Smith,58
+434,56,68954,1,1415595790,Up,2009,Adventure|Animation|Children|Drama,Isaiah,Smith,58
+435,56,79132,4,1279701142,Inception,2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,Isaiah,Smith,58
+436,56,80463,3.5,1289717969,Social Network,2010,Drama,Isaiah,Smith,58
+437,56,81591,4,1294756140,Black Swan,2010,Drama|Thriller,Isaiah,Smith,58
+438,56,81845,3.5,1295429584,King's Speech,2010,Drama,Isaiah,Smith,58
+439,56,365,4,1274782792,Little Buddha,1993,Drama,Isaiah,Smith,58
+440,56,1267,4,1274780380,Manchurian Candidate,1962,Crime|Thriller|War,Isaiah,Smith,58
+441,56,2023,3,1280385329,Godfather: Part III,1990,Crime|Drama|Mystery|Thriller,Isaiah,Smith,58
+442,56,7371,4,1329988315,Dogville,2003,Drama|Mystery|Thriller,Isaiah,Smith,58
+443,56,34405,2,1274772008,Serenity,2005,Action|Adventure|Sci-Fi,Isaiah,Smith,58
+444,56,40583,3.5,1281742359,Syriana,2005,Drama|Thriller,Isaiah,Smith,58
+445,56,44665,4,1281741950,Lucky Number Slevin,2006,Crime|Drama|Mystery,Isaiah,Smith,58
+446,56,51540,2,1368381851,Zodiac,2007,Crime|Drama|Thriller,Isaiah,Smith,58
+447,56,64620,4,1274770791,Frost/Nixon,2008,Drama,Isaiah,Smith,58
+448,56,70286,3.5,1274770457,District 9,2009,Mystery|Sci-Fi|Thriller,Isaiah,Smith,58
+449,56,78039,2,1298026512,Blue Valentine,2010,Drama|Romance,Isaiah,Smith,58
+450,56,91500,2.5,1375506252,The Hunger Games,2012,Action|Adventure|Drama|Sci-Fi|Thriller,Isaiah,Smith,58
+451,56,91542,1.5,1324483472,Sherlock Holmes: A Game of Shadows,2011,Action|Adventure|Comedy|Crime|Mystery|Thriller,Isaiah,Smith,58
+452,56,93840,1,1381371268,Cabin in the Woods,2012,Comedy|Horror|Sci-Fi|Thriller,Isaiah,Smith,58
+453,56,98809,2,1363921077,Hobbit: An Unexpected Journey,2012,Adventure|Fantasy|IMAX,Isaiah,Smith,58
+454,56,17,4,1383007002,Sense and Sensibility,1995,Drama|Romance,Isaiah,Smith,58
+455,56,196,2,1281742003,Species,1995,Horror|Sci-Fi,Isaiah,Smith,58
+456,56,86,3,1274766661,White Squall,1996,Action|Adventure|Drama,Isaiah,Smith,58
+457,56,168,1,1274780052,First Knight,1995,Action|Drama|Romance,Isaiah,Smith,58
+458,56,276,2,1274782249,Milk Money,1994,Comedy|Romance,Isaiah,Smith,58
+459,56,374,2.5,1274782258,Richie Rich,1994,Children|Comedy,Isaiah,Smith,58
+460,56,431,3.5,1307706682,Carlito's Way,1993,Crime|Drama,Isaiah,Smith,58
+461,56,502,0.5,1274766705,Next Karate Kid,1994,Action|Children|Romance,Isaiah,Smith,58
+462,56,553,3.5,1274779838,Tombstone,1993,Action|Drama|Western,Isaiah,Smith,58
+463,56,1201,4,1281741486,Good,1966,Action|Adventure|Western,Isaiah,Smith,58
+464,56,1209,4,1274769475,Once Upon a Time in the West (C'era una volta il West),1968,Action|Drama|Western,Isaiah,Smith,58
+465,56,1252,3.5,1274769203,Chinatown,1974,Crime|Film-Noir|Mystery|Thriller,Isaiah,Smith,58
+466,56,1266,3.5,1373436143,Unforgiven,1992,Drama|Western,Isaiah,Smith,58
+467,56,1347,1.5,1274780733,Nightmare on Elm Street,1984,Horror|Thriller,Isaiah,Smith,58
+468,56,262,2.5,1274771280,Little Princess,1995,Children|Drama,Isaiah,Smith,58
+469,56,1023,2.5,1274782434,Winnie the Pooh and the Blustery Day,1968,Animation|Children|Musical,Isaiah,Smith,58
+470,56,1035,2,1274779959,Sound of Music,1965,Musical|Romance,Isaiah,Smith,58
+471,56,2125,1.5,1274780991,Ever After: A Cinderella Story,1998,Comedy|Drama|Romance,Isaiah,Smith,58
+472,56,1911,1.5,1281742281,Dr. Dolittle,1998,Comedy,Isaiah,Smith,58
+473,56,1073,3,1274769118,Willy Wonka & the Chocolate Factory,1971,Children|Comedy|Fantasy|Musical,Isaiah,Smith,58
+474,56,2005,1,1274780347,Goonies,1985,Action|Adventure|Children|Comedy|Fantasy,Isaiah,Smith,58
+475,56,2420,3,1281741976,Karate Kid,1984,Drama,Isaiah,Smith,58
+476,56,2455,4,1274769809,Fly,1986,Drama|Horror|Sci-Fi|Thriller,Isaiah,Smith,58
+477,56,45447,3.5,1274781356,Da Vinci Code,2006,Drama|Mystery|Thriller,Isaiah,Smith,58
+478,56,47610,3,1274781402,Illusionist,2006,Drama|Fantasy|Mystery|Romance,Isaiah,Smith,58
+479,56,48385,4,1281741594,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Comedy,Isaiah,Smith,58
+480,56,58347,2,1314188932,Penelope,2006,Comedy|Fantasy|Romance,Isaiah,Smith,58
+481,56,1333,2.5,1329988788,Birds,1963,Horror|Thriller,Isaiah,Smith,58
+482,56,2395,2,1274779992,Rushmore,1998,Comedy|Drama,Isaiah,Smith,58
+483,56,1097,4.5,1274769723,E.T. the Extra-Terrestrial,1982,Children|Drama|Sci-Fi,Isaiah,Smith,58
+484,56,1302,2,1281742129,Field of Dreams,1989,Children|Drama|Fantasy,Isaiah,Smith,58
+485,56,2529,4,1281741676,Planet of the Apes,1968,Action|Drama|Sci-Fi,Isaiah,Smith,58
+486,56,2804,3.5,1274780093,Christmas Story,1983,Children|Comedy,Isaiah,Smith,58
+487,56,3266,4,1274784473,Man Bites Dog (C'est arrivé près de chez vous),1992,Comedy|Crime|Drama|Thriller,Isaiah,Smith,58
+488,56,3471,5,1274780021,Close Encounters of the Third Kind,1977,Adventure|Drama|Sci-Fi,Isaiah,Smith,58
+489,56,1246,1.5,1274770401,Dead Poets Society,1989,Drama,Isaiah,Smith,58
+490,56,7451,3,1274781608,Mean Girls,2004,Comedy,Isaiah,Smith,58
+491,56,40819,3,1307706574,Walk the Line,2005,Drama|Musical|Romance,Isaiah,Smith,58
+492,56,72998,2.5,1274769999,Avatar,2009,Action|Adventure|Sci-Fi|IMAX,Isaiah,Smith,58
+493,56,80549,2,1303455092,Easy A,2010,Comedy|Romance,Isaiah,Smith,58
+494,56,1367,0.5,1274767993,101 Dalmatians,1996,Adventure|Children|Comedy,Isaiah,Smith,58
+495,56,2427,3.5,1295797594,Thin Red Line,1998,Action|Drama|War,Isaiah,Smith,58
+496,56,2826,2.5,1274768032,13th Warrior,1999,Action|Adventure|Fantasy,Isaiah,Smith,58
+497,56,3785,1,1274780569,Scary Movie,2000,Comedy|Horror,Isaiah,Smith,58
+498,56,48304,2.5,1282083524,Apocalypto,2006,Adventure|Drama|Thriller,Isaiah,Smith,58
+499,56,58293,3,1274767979,10,2008,Adventure|Romance|Thriller,Isaiah,Smith,58

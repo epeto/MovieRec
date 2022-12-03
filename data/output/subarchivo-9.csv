@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+1000,71,3707,4,1257795764,9 1/2 Weeks (Nine 1/2 Weeks),1986,Drama|Romance,Kai,Smith,39
+1001,71,3742,4.5,1257873420,Battleship Potemkin,1925,Drama|War,Kai,Smith,39
+1002,71,5147,4.5,1257873893,Wild Strawberries (Smultronstället),1957,Drama,Kai,Smith,39
+1003,71,5500,3.5,1257795663,Top Secret!,1984,Comedy,Kai,Smith,39
+1004,71,5690,4.5,1257876400,Grave of the Fireflies (Hotaru no haka),1988,Animation|Drama|War,Kai,Smith,39
+1005,71,6286,4.5,1287852234,Man Without a Past,2002,Comedy|Crime|Drama,Kai,Smith,39
+1006,71,6350,4,1257876247,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta),1986,Action|Adventure|Animation|Children|Fantasy|Sci-Fi,Kai,Smith,39
+1007,71,6987,4.5,1257872802,Cabinet of Dr. Caligari,1920,Crime|Fantasy|Horror,Kai,Smith,39
+1008,71,7089,5,1257872711,Amarcord,1973,Comedy|Drama,Kai,Smith,39
+1009,71,7099,4,1257795720,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika),1984,Adventure|Animation|Drama|Fantasy|Sci-Fi,Kai,Smith,39
+1010,71,7327,4.5,1257873160,Persona,1966,Drama,Kai,Smith,39
+1011,71,8253,4,1261341719,Lupin III: The Castle Of Cagliostro (Rupan sansei: Kariosutoro no shiro),1979,Action|Adventure|Animation|Comedy|Crime|Mystery,Kai,Smith,39
+1012,71,8620,4.5,1258404188,Exterminating Angel,1962,Comedy|Drama|Fantasy|Mystery,Kai,Smith,39
+1013,71,25771,4.5,1257873441,Andalusian Dog,1929,Fantasy,Kai,Smith,39
+1014,71,26150,4.5,1257875719,Andrei Rublev (Andrey Rublyov),1969,Drama|War,Kai,Smith,39
+1015,71,26578,4.5,1257872652,Sacrifice,1986,Drama,Kai,Smith,39
+1016,71,26587,4.5,1278027884,Decalogue,1989,Crime|Drama|Romance,Kai,Smith,39
+1017,71,26662,3,1257876282,Kiki's Delivery Service (Majo no takkyûbin),1989,Adventure|Animation|Children|Drama|Fantasy,Kai,Smith,39
+1018,71,26776,4.5,1257876259,Porco Rosso (Crimson Pig) (Kurenai no buta),1992,Adventure|Animation|Comedy|Fantasy|Romance,Kai,Smith,39
+1019,71,27186,3.5,1257876344,Kirikou and the Sorceress (Kirikou et la sorcière),1998,Adventure|Animation|Children|Fantasy,Kai,Smith,39
+1020,71,27728,3.5,1257875861,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu),2004,Action|Animation|Drama|Sci-Fi|Thriller,Kai,Smith,39
+1021,71,34542,4,1287851960,Grizzly Man,2005,Documentary,Kai,Smith,39
+1022,71,37830,2.5,1257876006,Final Fantasy VII: Advent Children,2004,Action|Adventure|Animation|Fantasy|Sci-Fi,Kai,Smith,39
+1023,71,40586,4.5,1287852256,Calamari Union,1985,Comedy,Kai,Smith,39
+1024,71,45499,3,1278027695,X-Men: The Last Stand,2006,Action|Sci-Fi|Thriller,Kai,Smith,39
+1025,71,47894,4,1257873350,Wind That Shakes the Barley,2006,Drama|War,Kai,Smith,39
+1026,71,48082,4,1257877617,Science of Sleep,2006,Comedy|Drama|Fantasy|Romance,Kai,Smith,39
+1027,71,49932,4,1287852047,Inland Empire,2006,Drama|Mystery|Thriller,Kai,Smith,39
+1028,71,52806,2,1278027668,Tales from Earthsea (Gedo Senki),2006,Adventure|Animation|Fantasy,Kai,Smith,39
+1029,71,53519,3,1257876780,Death Proof,2007,Action|Adventure|Crime|Horror|Thriller,Kai,Smith,39
+1030,71,54272,3.5,1257876559,Simpsons Movie,2007,Animation|Comedy,Kai,Smith,39
+1031,71,54995,3,1257876784,Planet Terror,2007,Action|Horror|Sci-Fi,Kai,Smith,39
+1032,71,55069,4.5,1287851951,4 Months,2007,Drama,Kai,Smith,39
+1033,71,55442,3.5,1257873241,Persepolis,2007,Animation|Drama,Kai,Smith,39
+1034,71,55908,3.5,1257875852,Man from Earth,2007,Drama|Sci-Fi,Kai,Smith,39
+1035,71,56251,3.5,1257876460,Futurama: Bender's Big Score,2007,Animation|Comedy|Sci-Fi,Kai,Smith,39
+1036,71,56286,4,1287852487,I'm Not There,2007,Drama,Kai,Smith,39
+1037,71,57368,3.5,1257875979,Cloverfield,2008,Action|Mystery|Sci-Fi|Thriller,Kai,Smith,39
+1038,71,57504,2.5,1261341752,Girl Who Leapt Through Time,2006,Animation|Comedy|Drama|Romance|Sci-Fi,Kai,Smith,39
+1039,71,57640,2.5,1257872396,Hellboy II: The Golden Army,2008,Action|Adventure|Fantasy|Sci-Fi,Kai,Smith,39
+1040,71,59615,1.5,1278027573,Indiana Jones and the Kingdom of the Crystal Skull,2008,Action|Adventure|Comedy|Sci-Fi,Kai,Smith,39
+1041,71,60161,2.5,1257875894,Futurama: The Beast with a Billion Backs,2008,Action|Animation|Comedy|Romance|Sci-Fi,Kai,Smith,39
+1042,71,60684,3.5,1257872444,Watchmen,2009,Action|Drama|Mystery|Sci-Fi|Thriller|IMAX,Kai,Smith,39
+1043,71,60979,2.5,1260917686,Batman: Gotham Knight,2008,Action|Animation|Crime,Kai,Smith,39
+1044,71,62376,2,1257875899,City of Ember,2008,Adventure|Children|Sci-Fi,Kai,Smith,39
+1045,71,64497,3,1257873337,Day the Earth Stood Still,2008,Drama|Sci-Fi|Thriller|IMAX,Kai,Smith,39
+1046,71,64957,3,1278027548,Curious Case of Benjamin Button,2008,Drama|Fantasy|Mystery|Romance,Kai,Smith,39
+1047,71,65261,3.5,1257871926,Ponyo (Gake no ue no Ponyo),2008,Adventure|Animation|Children|Fantasy,Kai,Smith,39
+1048,71,66097,3,1257876277,Coraline,2009,Animation|Fantasy|Thriller,Kai,Smith,39
+1049,71,66297,2,1257876467,Futurama: Into the Wild Green Yonder,2009,Action|Animation|Comedy|Sci-Fi,Kai,Smith,39
+1050,71,66317,3.5,1257877699,Comet in Moominland,1992,Adventure|Animation|Fantasy,Kai,Smith,39
+1051,71,67295,3,1257876523,Kung Fu Panda: Secrets of the Furious Five,2008,Action|Animation|Children|Comedy,Kai,Smith,39
+1052,71,69526,1.5,1257872945,Transformers: Revenge of the Fallen,2009,Action|Adventure|Sci-Fi|IMAX,Kai,Smith,39
+1053,71,69746,3,1257876452,Watchmen: Tales of the Black Freighter,2009,Action|Adventure|Animation|Horror,Kai,Smith,39
+1054,71,72554,4.5,1287852159,Cell 211 (Celda 211),2009,Action|Drama,Kai,Smith,39
+1055,84,307,3,999055519,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Wesley,Smith,44
+1056,84,1186,5,999056205,Sex,1989,Drama,Wesley,Smith,44
+1057,84,1296,5,999056112,Room with a View,1986,Drama|Romance,Wesley,Smith,44
+1058,84,1962,4,999056622,Driving Miss Daisy,1989,Drama,Wesley,Smith,44
+1059,84,3363,3,999056391,American Graffiti,1973,Comedy|Drama,Wesley,Smith,44
+1060,84,2028,4,999057099,Saving Private Ryan,1998,Action|Drama|War,Wesley,Smith,44
+1061,84,3171,3,999056833,Room at the Top,1959,Drama,Wesley,Smith,44
+1062,84,25,3,999055265,Leaving Las Vegas,1995,Drama|Romance,Wesley,Smith,44
+1063,84,36,4,999057173,Dead Man Walking,1995,Crime|Drama,Wesley,Smith,44
+1064,84,41,3,999055068,Richard III,1995,Drama|War,Wesley,Smith,44
+1065,84,62,4,999057306,Mr. Holland's Opus,1995,Drama,Wesley,Smith,44
+1066,84,296,4,999056151,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Wesley,Smith,44
+1067,84,318,5,999055190,Shawshank Redemption,1994,Crime|Drama,Wesley,Smith,44
+1068,84,527,5,999053840,Schindler's List,1993,Drama|War,Wesley,Smith,44
+1069,84,590,3,999056432,Dances with Wolves,1990,Adventure|Drama|Western,Wesley,Smith,44
+1070,84,593,3,999055519,Silence of the Lambs,1991,Crime|Horror|Thriller,Wesley,Smith,44
+1071,84,1094,4,999055883,Crying Game,1992,Drama|Romance|Thriller,Wesley,Smith,44
+1072,84,1207,5,999055265,To Kill a Mockingbird,1962,Drama,Wesley,Smith,44
+1073,84,1259,4,999056535,Stand by Me,1986,Adventure|Drama,Wesley,Smith,44
+1074,84,1396,3,999056774,Sneakers,1992,Action|Comedy|Crime|Drama|Sci-Fi,Wesley,Smith,44
+1075,84,1673,3,999055295,Boogie Nights,1997,Drama,Wesley,Smith,44
+1076,84,1704,4,999056277,Good Will Hunting,1997,Drama|Romance,Wesley,Smith,44
+1077,84,1784,5,999056867,As Good as It Gets,1997,Comedy|Drama|Romance,Wesley,Smith,44
+1078,84,1961,4,999056391,Rain Man,1988,Drama,Wesley,Smith,44
+1079,84,2501,3,999055190,October Sky,1999,Drama,Wesley,Smith,44
+1080,84,2858,1,999055229,American Beauty,1999,Drama|Romance,Wesley,Smith,44
+1081,84,3255,3,999056603,League of Their Own,1992,Comedy|Drama,Wesley,Smith,44
+1082,84,3448,4,999057011,Good Morning,1987,Comedy|Drama|War,Wesley,Smith,44
+1083,84,4308,1,999056655,Moulin Rouge,2001,Drama|Musical|Romance,Wesley,Smith,44
+1084,84,1213,3,999056432,Goodfellas,1990,Crime|Drama,Wesley,Smith,44
+1085,84,3949,3,999055637,Requiem for a Dream,2000,Drama,Wesley,Smith,44
+1086,84,337,4,999056391,What's Eating Gilbert Grape,1993,Drama,Wesley,Smith,44
+1087,84,531,4,999056257,Secret Garden,1993,Children|Drama,Wesley,Smith,44
+1088,84,1041,4,999055519,Secrets & Lies,1996,Drama,Wesley,Smith,44
+1089,84,994,4,999057380,Big Night,1996,Comedy|Drama,Wesley,Smith,44
+1090,84,1095,2,999056205,Glengarry Glen Ross,1992,Drama,Wesley,Smith,44
+1091,84,1635,3,999057380,Ice Storm,1997,Drama,Wesley,Smith,44
+1092,84,1639,4,999056948,Chasing Amy,1997,Comedy|Drama|Romance,Wesley,Smith,44
+1093,84,2324,2,999057070,Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,Wesley,Smith,44
+1094,84,3067,3,999056432,Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios),1988,Comedy|Drama,Wesley,Smith,44
+1095,84,3260,5,999056151,Howards End,1992,Drama,Wesley,Smith,44
+1096,84,838,3,999056833,Emma,1996,Comedy|Drama|Romance,Wesley,Smith,44
+1097,84,2908,4,999055883,Boys Don't Cry,1999,Drama,Wesley,Smith,44
+1098,84,3147,4,999056028,Green Mile,1999,Crime|Drama,Wesley,Smith,44
+1099,84,1197,3,999053901,Princess Bride,1987,Action|Adventure|Comedy|Fantasy|Romance,Wesley,Smith,44
+1100,84,17,4,999057283,Sense and Sensibility,1995,Drama|Romance,Wesley,Smith,44
+1101,84,272,4,999056205,Madness of King George,1994,Comedy|Drama,Wesley,Smith,44
+1102,84,300,3,999056676,Quiz Show,1994,Drama,Wesley,Smith,44
+1103,84,345,4,999057250,Adventures of Priscilla,1994,Comedy|Drama,Wesley,Smith,44
+1104,84,508,4,999056922,Philadelphia,1993,Drama,Wesley,Smith,44
+1105,84,213,4,999056151,Burnt by the Sun (Utomlyonnye solntsem),1994,Drama,Wesley,Smith,44
+1106,84,428,4,999056744,Bronx Tale,1993,Drama,Wesley,Smith,44
+1107,84,1084,4,999055968,Bonnie and Clyde,1967,Crime|Drama,Wesley,Smith,44
+1108,84,1237,3,999055441,Seventh Seal,1957,Drama,Wesley,Smith,44
+1109,84,953,3,999055968,It's a Wonderful Life,1946,Children|Drama|Fantasy|Romance,Wesley,Smith,44
+1110,84,412,4,999056603,Age of Innocence,1993,Drama,Wesley,Smith,44
+1111,84,1097,4,999056889,E.T. the Extra-Terrestrial,1982,Children|Drama|Sci-Fi,Wesley,Smith,44
+1112,84,1302,3,999056028,Field of Dreams,1989,Children|Drama|Fantasy,Wesley,Smith,44
+1113,84,3098,3,999056922,Natural,1984,Drama,Wesley,Smith,44
+1114,84,3129,4,999057380,Sweet and Lowdown,1999,Comedy|Drama,Wesley,Smith,44
+1115,84,3471,3,999056257,Close Encounters of the Third Kind,1977,Adventure|Drama|Sci-Fi,Wesley,Smith,44
+1116,84,2427,4,999056774,Thin Red Line,1998,Action|Drama|War,Wesley,Smith,44
+1117,84,3160,3,999056973,Magnolia,1999,Drama,Wesley,Smith,44
+1118,84,4103,4,999056889,Empire of the Sun,1987,Action|Adventure|Drama|War,Wesley,Smith,44
+1119,84,1183,1,999056798,English Patient,1996,Drama|Romance|War,Wesley,Smith,44
+1120,84,1228,2,999055799,Raging Bull,1980,Drama,Wesley,Smith,44
+1121,84,1674,4,999056205,Witness,1985,Drama|Romance|Thriller,Wesley,Smith,44
+1122,84,2336,4,999056603,Elizabeth,1998,Drama,Wesley,Smith,44
+1123,84,3198,3,999056922,Papillon,1973,Crime|Drama,Wesley,Smith,44
+1124,84,3543,4,999056230,Diner,1982,Comedy|Drama,Wesley,Smith,44

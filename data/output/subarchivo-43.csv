@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+5250,277,475,3,1428191928,In the Name of the Father,1993,Drama,Tobias,Smith,36
+5251,277,665,3.5,1427934522,Underground,1995,Comedy|Drama|War,Tobias,Smith,36
+5252,277,1104,3,1428192441,Streetcar Named Desire,1951,Drama,Tobias,Smith,36
+5253,277,1175,4,1428192395,Delicatessen,1991,Comedy|Drama|Romance,Tobias,Smith,36
+5254,277,1185,3,1428192596,My Left Foot,1989,Drama,Tobias,Smith,36
+5255,277,1211,5,1427933319,Wings of Desire (Himmel über Berlin,1987,Drama|Fantasy|Romance,Tobias,Smith,36
+5256,277,1945,3.5,1428192684,On the Waterfront,1954,Crime|Drama,Tobias,Smith,36
+5257,277,2076,3,1428192007,Blue Velvet,1986,Drama|Mystery|Thriller,Tobias,Smith,36
+5258,277,2232,1.5,1428192631,Cube,1997,Horror|Mystery|Sci-Fi|Thriller,Tobias,Smith,36
+5259,277,6953,3.5,1427933237,21 Grams,2003,Crime|Drama|Mystery|Romance|Thriller,Tobias,Smith,36
+5260,277,56145,3.5,1428629956,Mist,2007,Horror|Sci-Fi,Tobias,Smith,36
+5261,277,96829,4,1428090651,Hunt,2012,Drama,Tobias,Smith,36
+5262,277,104841,3.5,1427936337,Gravity,2013,Action|Sci-Fi|IMAX,Tobias,Smith,36
+5263,277,104879,3.5,1428631443,Prisoners,2013,Drama|Mystery|Thriller,Tobias,Smith,36
+5264,277,106920,4,1427933839,Her,2013,Drama|Romance|Sci-Fi,Tobias,Smith,36
+5265,277,108729,4,1427932700,Enemy,2013,Mystery|Thriller,Tobias,Smith,36
+5266,277,266,3.5,1428190882,Legends of the Fall,1994,Drama|Romance|War|Western,Tobias,Smith,36
+5267,277,802,3,1428191602,Phenomenon,1996,Drama|Romance,Tobias,Smith,36
+5268,277,920,3,1428191384,Gone with the Wind,1939,Drama|Romance|War,Tobias,Smith,36
+5269,277,1027,2.5,1428192236,Robin Hood: Prince of Thieves,1991,Adventure|Drama,Tobias,Smith,36
+5270,277,1086,4.5,1427932996,Dial M for Murder,1954,Crime|Mystery|Thriller,Tobias,Smith,36
+5271,277,1287,3,1428423202,Ben-Hur,1959,Action|Adventure|Drama,Tobias,Smith,36
+5272,277,1954,2.5,1428191476,Rocky,1976,Drama,Tobias,Smith,36
+5273,277,1960,3.5,1429206416,Last Emperor,1987,Drama,Tobias,Smith,36
+5274,277,2176,4.5,1427933004,Rope,1948,Crime|Drama|Thriller,Tobias,Smith,36
+5275,277,2513,2.5,1428631806,Pet Sematary,1989,Horror,Tobias,Smith,36
+5276,277,1061,3,1428191956,Sleepers,1996,Thriller,Tobias,Smith,36
+5277,277,3194,3.5,1427933565,Way We Were,1973,Drama|Romance,Tobias,Smith,36
+5278,277,308,4,1428420260,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Tobias,Smith,36
+5279,277,1232,4,1427933635,Stalker,1979,Drama|Mystery|Sci-Fi,Tobias,Smith,36
+5280,277,1464,3.5,1428421711,Lost Highway,1997,Crime|Drama|Fantasy|Film-Noir|Mystery|Romance,Tobias,Smith,36
+5281,277,2551,4,1427935077,Dead Ringers,1988,Drama|Horror|Thriller,Tobias,Smith,36
+5282,277,2730,3,1427935878,Barry Lyndon,1975,Drama|Romance|War,Tobias,Smith,36
+5283,277,2731,4,1427933702,400 Blows,1959,Crime|Drama,Tobias,Smith,36
+5284,277,3089,3.5,1428421402,Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette),1948,Drama,Tobias,Smith,36
+5285,277,3435,3.5,1428420265,Double Indemnity,1944,Crime|Drama|Film-Noir,Tobias,Smith,36
+5286,277,4361,3,1427933573,Tootsie,1982,Comedy|Romance,Tobias,Smith,36
+5287,277,5291,4.5,1427934019,Rashomon (Rashômon),1950,Crime|Drama|Mystery,Tobias,Smith,36
+5288,277,5294,2.5,1428631721,Frailty,2001,Crime|Drama|Thriller,Tobias,Smith,36
+5289,277,7024,4,1427934176,Salo,1976,Drama,Tobias,Smith,36
+5290,277,7123,4,1427935073,Naked Lunch,1991,Drama|Fantasy|Mystery|Sci-Fi,Tobias,Smith,36
+5291,277,8783,2.5,1428629544,Village,2004,Drama|Mystery|Thriller,Tobias,Smith,36
+5292,277,26258,3,1428422222,Topo,1970,Fantasy|Western,Tobias,Smith,36
+5293,277,27904,3,1428629790,Scanner Darkly,2006,Animation|Drama|Mystery|Sci-Fi|Thriller,Tobias,Smith,36
+5294,277,46723,3.5,1428629671,Babel,2006,Drama|Thriller,Tobias,Smith,36
+5295,277,61240,2.5,1428421699,Let the Right One In (Låt den rätte komma in),2008,Drama|Fantasy|Horror|Romance,Tobias,Smith,36
+5296,277,91658,4,1427935791,Girl with the Dragon Tattoo,2011,Drama|Thriller,Tobias,Smith,36
+5297,277,108727,2.5,1428421177,Nymphomaniac: Volume I,2013,Drama,Tobias,Smith,36
+5298,277,108981,2.5,1428421192,Nymphomaniac: Volume II,2013,Drama|Mystery,Tobias,Smith,36
+5299,277,112183,3.5,1427933226,Birdman: Or (The Unexpected Virtue of Ignorance),2014,Comedy|Drama,Tobias,Smith,36
+5300,277,3005,3,1428192422,Bone Collector,1999,Thriller,Tobias,Smith,36
+5301,277,1295,3,1428632566,Unbearable Lightness of Being,1988,Drama,Tobias,Smith,36
+5302,277,3415,4,1427933632,Mirror,1975,Drama,Tobias,Smith,36
+5303,277,3503,4.5,1427933645,Solaris (Solyaris),1972,Drama|Mystery|Sci-Fi,Tobias,Smith,36
+5304,277,3742,4,1427934576,Battleship Potemkin,1925,Drama|War,Tobias,Smith,36
+5305,277,5147,3.5,1428420113,Wild Strawberries (Smultronstället),1957,Drama,Tobias,Smith,36
+5306,277,8620,5,1427931950,Exterminating Angel,1962,Comedy|Drama|Fantasy|Mystery,Tobias,Smith,36
+5307,277,25771,4,1427933179,Andalusian Dog,1929,Fantasy,Tobias,Smith,36
+5308,277,26150,4,1427933628,Andrei Rublev (Andrey Rublyov),1969,Drama|War,Tobias,Smith,36
+5309,277,48082,4,1427933773,Science of Sleep,2006,Comedy|Drama|Fantasy|Romance,Tobias,Smith,36
+5310,277,64957,4.5,1427935801,Curious Case of Benjamin Button,2008,Drama|Fantasy|Mystery|Romance,Tobias,Smith,36
+5311,277,680,3,1428422652,Alphaville (Alphaville,1965,Drama|Mystery|Romance|Sci-Fi|Thriller,Tobias,Smith,36
+5312,277,714,3.5,1428420248,Dead Man,1995,Drama|Mystery|Western,Tobias,Smith,36
+5313,277,3030,3.5,1427934007,Yojimbo,1961,Action|Adventure,Tobias,Smith,36
+5314,277,3706,3.5,1428419887,Angel Heart,1987,Film-Noir|Horror|Mystery|Thriller,Tobias,Smith,36
+5315,277,4914,3,1428421307,Breathless (À bout de souffle),1960,Crime|Drama|Romance,Tobias,Smith,36
+5316,277,6993,3,1429206295,Hannah and Her Sisters,1986,Comedy|Drama|Romance,Tobias,Smith,36
+5317,277,30707,2,1428192087,Million Dollar Baby,2004,Drama,Tobias,Smith,36
+5318,277,2020,2.5,1428192264,Dangerous Liaisons,1988,Drama|Romance,Tobias,Smith,36
+5319,277,3105,3,1428192428,Awakenings,1990,Drama|Mystery,Tobias,Smith,36
+5320,277,3108,3.5,1427936232,Fisher King,1991,Comedy|Drama|Fantasy|Romance,Tobias,Smith,36
+5321,277,1441,3.5,1428192549,Benny & Joon,1993,Comedy|Romance,Tobias,Smith,36
+5322,277,3462,4,1428420274,Modern Times,1936,Comedy|Drama|Romance,Tobias,Smith,36
+5323,277,5008,3,1428420168,Witness for the Prosecution,1957,Drama|Mystery|Thriller,Tobias,Smith,36
+5324,277,5878,3.5,1428420289,Talk to Her (Hable con Ella),2002,Drama|Romance,Tobias,Smith,36
+5325,277,6323,3,1429206444,Identity,2003,Crime|Horror|Mystery|Thriller,Tobias,Smith,36
+5326,277,7265,3,1429206360,Dreamers,2003,Drama,Tobias,Smith,36
+5327,277,7347,2,1428629826,Secret Window,2004,Mystery|Thriller,Tobias,Smith,36
+5328,277,62434,2.5,1428631924,Zack and Miri Make a Porno,2008,Comedy|Drama|Romance,Tobias,Smith,36
+5329,277,115210,3.5,1428190766,Fury,2014,Action|Drama|War,Tobias,Smith,36
+5330,277,1178,3.5,1427935842,Paths of Glory,1957,Drama|War,Tobias,Smith,36
+5331,277,6971,4,1428421170,Europa (Zentropa),1991,Drama|Thriller,Tobias,Smith,36
+5332,277,7013,4,1428421835,Night of the Hunter,1955,Drama|Film-Noir|Thriller,Tobias,Smith,36
+5333,277,1354,4,1428421185,Breaking the Waves,1996,Drama|Mystery,Tobias,Smith,36
+5334,277,4399,3.5,1427933188,Diary of a Chambermaid (Journal d'une femme de chambre,1964,Comedy|Drama,Tobias,Smith,36
+5335,277,4928,4,1427933133,That Obscure Object of Desire (Cet obscur objet du désir),1977,Drama,Tobias,Smith,36
+5336,277,27788,3.5,1428630103,Jacket,2005,Drama|Mystery|Sci-Fi|Thriller,Tobias,Smith,36
+5337,277,72386,3.5,1428421536,Broken Embraces (Los abrazos rotos),2009,Drama|Romance|Thriller,Tobias,Smith,36
+5338,277,2739,4,1427936164,Color Purple,1985,Drama,Tobias,Smith,36
+5339,277,509,4,1428190900,Piano,1993,Drama|Romance,Tobias,Smith,36
+5340,277,1343,3.5,1428191916,Cape Fear,1991,Thriller,Tobias,Smith,36
+5341,277,3355,2.5,1428422719,Ninth Gate,1999,Fantasy|Horror|Mystery|Thriller,Tobias,Smith,36
+5342,277,6305,3.5,1427933726,Fahrenheit 451,1966,Drama|Sci-Fi,Tobias,Smith,36
+5343,277,6609,4,1427934159,Gospel According to St. Matthew,1964,Drama,Tobias,Smith,36
+5344,277,7162,3.5,1429206484,Cold Mountain,2003,Drama|Romance|War,Tobias,Smith,36
+5345,277,36401,3.5,1427936284,Brothers Grimm,2005,Comedy|Fantasy|Horror|Thriller,Tobias,Smith,36
+5346,277,1306,4,1427933345,Until the End of the World (Bis ans Ende der Welt),1991,Adventure|Drama|Sci-Fi,Tobias,Smith,36
+5347,277,1644,1.5,1428192241,I Know What You Did Last Summer,1997,Horror|Mystery|Thriller,Tobias,Smith,36
+5348,277,3788,3.5,1428422134,Blow-Up (Blowup),1966,Drama|Mystery,Tobias,Smith,36
+5349,277,4235,3.5,1427933245,Amores Perros (Love's a Bitch),2000,Drama|Thriller,Tobias,Smith,36
+5350,277,4326,4,1428419904,Mississippi Burning,1988,Crime|Drama|Thriller,Tobias,Smith,36
+5351,277,7172,4,1427934423,Distant (Uzak),2002,Drama,Tobias,Smith,36
+5352,277,27834,3.5,1428421902,Return,2003,Drama,Tobias,Smith,36
+5353,277,36276,4,1427934275,Hidden (a.k.a. Cache) (Caché),2005,Drama|Mystery|Thriller,Tobias,Smith,36
+5354,277,74545,3.5,1429205327,Ghost Writer,2010,Drama|Mystery|Thriller,Tobias,Smith,36
+5355,277,89759,3.5,1428420066,Separation,2011,Drama,Tobias,Smith,36
+5356,277,105835,3,1428190803,Double,2013,Comedy|Drama|Thriller,Tobias,Smith,36
+5357,277,113240,3,1427934387,Winter Sleep (Kis Uykusu),2014,Drama,Tobias,Smith,36
+5358,277,1217,4,1427934022,Ran,1985,Drama|War,Tobias,Smith,36
+5359,277,102407,3,1428631871,Great Gatsby,2013,Drama,Tobias,Smith,36
+5360,277,5853,3,1427935142,Scanners,1981,Horror|Sci-Fi|Thriller,Tobias,Smith,36
+5361,277,6774,4,1427935071,Videodrome,1983,Fantasy|Horror|Sci-Fi|Thriller,Tobias,Smith,36
+5362,277,106489,3,1429205213,Hobbit: The Desolation of Smaug,2013,Adventure|Fantasy|IMAX,Tobias,Smith,36
+5363,277,112515,3,1429205651,Babadook,2014,Drama|Horror|Thriller,Tobias,Smith,36
+5364,277,2726,3.5,1427935851,Killing,1956,Crime|Film-Noir,Tobias,Smith,36
+5365,277,6270,4,1427934036,Akira Kurosawa's Dreams (Dreams),1990,Drama|Fantasy,Tobias,Smith,36
+5366,277,3569,3.5,1428421215,Idiots,1998,Comedy|Drama,Tobias,Smith,36
+5367,277,4144,3.5,1428420155,In the Mood For Love (Fa yeung nin wa),2000,Drama|Romance,Tobias,Smith,36
+5368,277,89118,4,1428421538,Skin I Live In,2011,Drama,Tobias,Smith,36
+5369,277,931,3.5,1427933010,Spellbound,1945,Mystery|Romance|Thriller,Tobias,Smith,36
+5370,277,2202,3.5,1427933032,Lifeboat,1944,Drama|War,Tobias,Smith,36
+5371,277,2203,4,1427932981,Shadow of a Doubt,1943,Crime|Drama|Thriller,Tobias,Smith,36
+5372,277,4210,3.5,1428419985,Manhunter,1986,Action|Crime|Drama|Horror|Thriller,Tobias,Smith,36
+5373,277,5225,4.5,1427936317,And Your Mother Too (Y tu mamá también),2001,Drama|Romance,Tobias,Smith,36
+5374,277,6975,3.5,1427934257,Funny Games,1997,Drama|Horror|Thriller,Tobias,Smith,36

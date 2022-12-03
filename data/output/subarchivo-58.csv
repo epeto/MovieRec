@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+7125,497,715,2,941879872,Horseman on the Roof,1995,Drama|Romance,Sonny,Smith,53
+7126,497,944,4,941883074,Lost Horizon,1937,Drama,Sonny,Smith,53
+7127,497,971,4,941881853,Cat on a Hot Tin Roof,1958,Drama,Sonny,Smith,53
+7128,497,1132,1,941878171,Manon of the Spring (Manon des sources),1986,Drama,Sonny,Smith,53
+7129,497,1187,3,941883478,Passion Fish,1992,Drama,Sonny,Smith,53
+7130,497,1354,5,941878171,Breaking the Waves,1996,Drama|Mystery,Sonny,Smith,53
+7131,497,1404,3,941883239,Night Falls on Manhattan,1996,Crime|Drama,Sonny,Smith,53
+7132,497,1694,5,941881853,Apostle,1997,Drama,Sonny,Smith,53
+7133,497,1888,4,941882567,Hope Floats,1998,Comedy|Drama|Romance,Sonny,Smith,53
+7134,497,2341,5,941883159,Dancing at Lughnasa,1998,Drama,Sonny,Smith,53
+7135,497,2443,5,941878243,Playing by Heart,1998,Drama|Romance,Sonny,Smith,53
+7136,497,2506,1,941878243,Other Sister,1999,Comedy|Drama|Romance,Sonny,Smith,53
+7137,497,2546,4,941882666,Deep End of the Ocean,1999,Drama,Sonny,Smith,53
+7138,497,2611,4,941880932,Winslow Boy,1999,Drama,Sonny,Smith,53
+7139,497,2969,5,941883074,Man and a Woman,1966,Drama|Romance,Sonny,Smith,53
+7140,497,2996,2,941877703,Music of the Heart,1999,Drama,Sonny,Smith,53
+7141,497,1233,5,941879819,Boot,1981,Action|Drama|War,Sonny,Smith,53
+7142,497,509,5,941881327,Piano,1993,Drama|Romance,Sonny,Smith,53
+7143,497,1357,5,941878919,Shine,1996,Drama|Romance,Sonny,Smith,53
+7144,497,280,4,941880393,Murder in the First,1995,Drama|Thriller,Sonny,Smith,53
+7145,497,1299,5,941879627,Killing Fields,1984,Drama|War,Sonny,Smith,53
+7146,497,1306,2,941880393,Until the End of the World (Bis ans Ende der Welt),1991,Adventure|Drama|Sci-Fi,Sonny,Smith,53
+7147,497,1801,3,941883478,Man in the Iron Mask,1998,Action|Adventure|Drama,Sonny,Smith,53
+7148,497,2875,4,941879223,Sommersby,1993,Drama|Mystery|Romance,Sonny,Smith,53
+7149,497,2906,1,941877936,Random Hearts,1999,Drama|Romance,Sonny,Smith,53
+7150,497,1411,4,941880173,Hamlet,1996,Crime|Drama|Romance,Sonny,Smith,53
+7151,497,1217,5,941879133,Ran,1985,Drama|War,Sonny,Smith,53
+7152,497,1958,4,941882567,Terms of Endearment,1983,Comedy|Drama,Sonny,Smith,53
+7153,497,1150,5,941878530,Return of Martin Guerre,1982,Drama,Sonny,Smith,53
+7154,497,233,3,941883650,Exotica,1994,Drama,Sonny,Smith,53
+7155,497,456,4,941882066,Fresh,1994,Crime|Drama|Thriller,Sonny,Smith,53
+7156,497,866,5,941879334,Bound,1996,Crime|Drama|Romance|Thriller,Sonny,Smith,53
+7157,497,1594,4,941880852,In the Company of Men,1997,Comedy|Drama,Sonny,Smith,53
+7158,497,1730,3,941880243,Kundun,1997,Drama,Sonny,Smith,53
+7159,497,1834,3,941878919,Spanish Prisoner,1997,Crime|Drama|Mystery|Thriller,Sonny,Smith,53
+7160,497,2348,3,941878420,Sid and Nancy,1986,Drama,Sonny,Smith,53
+7161,497,2269,1,941879627,Indecent Proposal,1993,Drama|Romance,Sonny,Smith,53
+7162,497,613,3,941880393,Jane Eyre,1996,Drama|Romance,Sonny,Smith,53
+7163,497,1096,5,941881971,Sophie's Choice,1982,Drama,Sonny,Smith,53
+7164,497,1660,4,941882243,Eve's Bayou,1997,Drama,Sonny,Smith,53
+7165,497,2071,5,941879041,And the Band Played On,1993,Drama,Sonny,Smith,53
+7166,497,2757,5,941883937,Frances,1982,Drama,Sonny,Smith,53
+7167,497,2852,4,941883159,Soldier's Story,1984,Drama,Sonny,Smith,53
+7168,497,2976,5,941877619,Bringing Out the Dead,1999,Drama,Sonny,Smith,53
+7169,497,1366,4,941881692,Crucible,1996,Drama,Sonny,Smith,53
+7170,497,1397,5,941879510,Bastard Out of Carolina,1996,Drama,Sonny,Smith,53
+7171,497,26,3,941881240,Othello,1995,Drama,Sonny,Smith,53
+7172,497,2059,2,941880643,Parent Trap,1998,Children|Comedy|Romance,Sonny,Smith,53
+7173,497,2410,2,941882066,Rocky III,1982,Action|Drama,Sonny,Smith,53
+7174,497,1277,4,941880243,Cyrano de Bergerac,1990,Comedy|Drama|Romance,Sonny,Smith,53
+7175,497,1643,5,941881156,Mrs. Brown (a.k.a. Her Majesty,1997,Drama|Romance,Sonny,Smith,53
+7176,497,1794,4,941879133,Love and Death on Long Island,1997,Comedy|Drama,Sonny,Smith,53
+7177,497,2767,3,941877789,Illuminata,1998,Comedy,Sonny,Smith,53
+7178,497,1286,4,941881327,Somewhere in Time,1980,Drama|Romance,Sonny,Smith,53
+7179,497,2106,3,941880643,Swing Kids,1993,Drama|War,Sonny,Smith,53
+7180,497,3037,5,941882360,Little Big Man,1970,Western,Sonny,Smith,53
+7181,497,764,4,941884060,Heavy,1995,Drama|Romance,Sonny,Smith,53
+7182,497,988,4,941883650,Grace of My Heart,1996,Comedy|Drama,Sonny,Smith,53
+7183,497,1173,1,941882150,Cook the Thief His Wife & Her Lover,1989,Comedy|Drama,Sonny,Smith,53
+7184,497,1305,5,941881971,Paris,1984,Drama|Romance,Sonny,Smith,53
+7185,497,1365,4,941879041,Ridicule,1996,Drama,Sonny,Smith,53
+7186,497,1401,4,941883159,Ghosts of Mississippi,1996,Drama,Sonny,Smith,53
+7187,497,1406,3,941878920,La Cérémonie,1995,Crime|Drama|Mystery|Thriller,Sonny,Smith,53
+7188,497,1480,5,941882807,Smilla's Sense of Snow,1997,Drama|Thriller,Sonny,Smith,53
+7189,497,1719,5,941878733,Sweet Hereafter,1997,Drama,Sonny,Smith,53
+7190,497,1913,5,941882150,Picnic at Hanging Rock,1975,Drama|Mystery,Sonny,Smith,53
+7191,497,2442,4,941882666,Hilary and Jackie,1998,Drama,Sonny,Smith,53
+7192,497,2474,3,941882870,Color of Money,1986,Drama,Sonny,Smith,53
+7193,497,2745,5,941882738,Mission,1986,Drama,Sonny,Smith,53
+7194,497,3053,5,941877554,Messenger: The Story of Joan of Arc,1999,Drama|War,Sonny,Smith,53
+7195,497,2282,4,941878801,Pecker,1998,Comedy|Drama,Sonny,Smith,53
+7196,497,57,3,941883478,Home for the Holidays,1995,Drama,Sonny,Smith,53
+7197,497,1611,5,941883011,My Own Private Idaho,1991,Drama|Romance,Sonny,Smith,53
+7198,497,1840,5,941880932,He Got Game,1998,Drama,Sonny,Smith,53
+7199,497,1841,4,941883159,Gingerbread Man,1998,Drama|Thriller,Sonny,Smith,53
+7200,497,2570,2,941878632,Walk on the Moon,1999,Drama|Romance,Sonny,Smith,53
+7201,497,3011,4,941878092,They Shoot Horses,1969,Drama,Sonny,Smith,53
+7202,497,2312,4,941878171,Children of a Lesser God,1986,Drama,Sonny,Smith,53
+7203,497,159,4,941880321,Clockers,1995,Crime|Drama|Mystery,Sonny,Smith,53
+7204,497,469,3,941882430,House of the Spirits,1993,Drama|Romance,Sonny,Smith,53
+7205,497,1177,5,941879510,Enchanted April,1992,Drama|Romance,Sonny,Smith,53
+7206,497,1264,5,941880476,Diva,1981,Action|Drama|Mystery|Romance|Thriller,Sonny,Smith,53
+7207,497,1598,3,941882567,Desperate Measures,1998,Crime|Drama|Thriller,Sonny,Smith,53
+7208,497,2262,2,941882870,About Last Night...,1986,Comedy|Drama|Romance,Sonny,Smith,53
+7209,497,2417,4,941878530,Heartburn,1986,Comedy|Drama,Sonny,Smith,53
+7210,497,2891,4,941877673,Happy,1999,Comedy,Sonny,Smith,53
+7211,497,2988,3,941883319,Melvin and Howard,1980,Drama,Sonny,Smith,53
+7212,497,488,4,941880932,M. Butterfly,1993,Drama|Romance,Sonny,Smith,53
+7213,497,2925,4,941878092,Conformist,1970,Drama,Sonny,Smith,53
+7214,497,121,5,941879041,Boys of St. Vincent,1992,Drama,Sonny,Smith,53
+7215,497,848,4,941883937,Spitfire Grill,1996,Drama,Sonny,Smith,53
+7216,497,465,5,941879223,Heaven & Earth,1993,Action|Drama|War,Sonny,Smith,53
+7217,497,2563,3,941881385,Dangerous Beauty,1998,Drama,Sonny,Smith,53
+7218,497,4424,4,941881617,Garden of the Finzi-Continis,1970,Drama,Sonny,Smith,53
+7219,497,893,5,941881787,Mother Night,1996,Drama,Sonny,Smith,53
+7220,497,1727,2,941882360,Horse Whisperer,1998,Drama|Romance,Sonny,Smith,53
+7221,497,1624,4,941883159,Thousand Acres,1997,Drama,Sonny,Smith,53
+7222,497,2069,2,941880752,Trip to Bountiful,1985,Drama,Sonny,Smith,53
+7223,497,2972,5,941883159,Red Sorghum (Hong gao liang),1987,Drama|War,Sonny,Smith,53
+7224,497,2445,3,941882360,At First Sight,1999,Drama,Sonny,Smith,53
+7225,497,301,5,941881544,Picture Bride (Bijo photo),1994,Drama|Romance,Sonny,Smith,53
+7226,497,461,5,941880476,Go Fish,1994,Drama|Romance,Sonny,Smith,53
+7227,497,571,2,941878367,Wedding Gift,1994,Drama|Romance,Sonny,Smith,53
+7228,497,702,4,941880476,Faces,1968,Drama,Sonny,Smith,53
+7229,497,993,5,941881240,Infinity,1996,Drama,Sonny,Smith,53
+7230,497,1043,2,941882430,To Gillian on Her 37th Birthday,1996,Drama|Romance,Sonny,Smith,53
+7231,497,1650,3,941882947,Washington Square,1997,Drama,Sonny,Smith,53
+7232,497,1728,5,941882430,Winter Guest,1997,Drama,Sonny,Smith,53
+7233,497,1860,5,941881971,Character (Karakter),1997,Drama,Sonny,Smith,53
+7234,497,2131,4,941882304,Autumn Sonata (Höstsonaten),1978,Drama,Sonny,Smith,53
+7235,497,2252,3,941879223,Hero,1992,Comedy|Drama,Sonny,Smith,53
+7236,497,2419,3,941881240,Extremities,1986,Drama|Thriller,Sonny,Smith,53
+7237,549,307,5,1238322638,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Dariel,Smith,57
+7238,549,1091,2,1238330344,Weekend at Bernie's,1989,Comedy,Dariel,Smith,57
+7239,549,1449,4.5,1238319813,Waiting for Guffman,1996,Comedy,Dariel,Smith,57
+7240,549,2478,3,1238329864,¡Three Amigos!,1986,Comedy|Western,Dariel,Smith,57
+7241,549,3424,5,1238319472,Do the Right Thing,1989,Drama,Dariel,Smith,57
+7242,549,3893,3.5,1238330400,Nurse Betty,2000,Comedy|Crime|Drama|Romance|Thriller,Dariel,Smith,57
+7243,549,1186,5,1238322512,Sex,1989,Drama,Dariel,Smith,57
+7244,549,1235,5,1238322311,Harold and Maude,1971,Comedy|Drama|Romance,Dariel,Smith,57
+7245,549,1244,5,1238322262,Manhattan,1979,Comedy|Drama|Romance,Dariel,Smith,57
+7246,549,1296,4.5,1238322670,Room with a View,1986,Drama|Romance,Dariel,Smith,57
+7247,549,1663,4,1238318062,Stripes,1981,Comedy|War,Dariel,Smith,57
+7248,549,2108,4,1238322379,L.A. Story,1991,Comedy|Romance,Dariel,Smith,57
+7249,549,2243,5,1238322690,Broadcast News,1987,Comedy|Drama|Romance,Dariel,Smith,57

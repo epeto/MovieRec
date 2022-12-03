@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+6125,408,1233,4,915922077,Boot,1981,Action|Drama|War,Baylor,Smith,49
+6126,408,509,2,915923500,Piano,1993,Drama|Romance,Baylor,Smith,49
+6127,408,1343,3,916091296,Cape Fear,1991,Thriller,Baylor,Smith,49
+6128,408,1357,3,915921361,Shine,1996,Drama|Romance,Baylor,Smith,49
+6129,408,1680,2,916092614,Sliding Doors,1998,Drama|Romance,Baylor,Smith,49
+6130,408,1299,4,915919877,Killing Fields,1984,Drama|War,Baylor,Smith,49
+6131,408,2034,1,915923957,Black Hole,1979,Children|Sci-Fi,Baylor,Smith,49
+6132,408,2365,3,915919112,King Kong vs. Godzilla (Kingukongu tai Gojira),1962,Action|Sci-Fi,Baylor,Smith,49
+6133,408,1411,4,915922362,Hamlet,1996,Crime|Drama|Romance,Baylor,Smith,49
+6134,408,2318,1,915923987,Happiness,1998,Comedy|Drama,Baylor,Smith,49
+6135,408,1217,5,915919631,Ran,1985,Drama|War,Baylor,Smith,49
+6136,408,1348,3,915923036,Nosferatu (Nosferatu,1922,Horror,Baylor,Smith,49
+6137,408,1975,1,915920437,Friday the 13th Part 2,1981,Horror,Baylor,Smith,49
+6138,408,2088,1,915923987,Popeye,1980,Adventure|Comedy|Musical,Baylor,Smith,49
+6139,408,1150,4,915920011,Return of Martin Guerre,1982,Drama,Baylor,Smith,49
+6140,408,369,3,915923455,Mrs. Parker and the Vicious Circle,1994,Drama,Baylor,Smith,49
+6141,408,735,3,916093920,Cemetery Man (Dellamorte Dellamore),1994,Horror,Baylor,Smith,49
+6142,408,1834,4,916091403,Spanish Prisoner,1997,Crime|Drama|Mystery|Thriller,Baylor,Smith,49
+6143,408,2159,3,916093716,Henry: Portrait of a Serial Killer,1986,Crime|Horror|Thriller,Baylor,Smith,49
+6144,408,1256,4,915918744,Duck Soup,1933,Comedy|Musical|War,Baylor,Smith,49
+6145,408,581,4,915922432,Celluloid Closet,1995,Documentary,Baylor,Smith,49
+6146,408,1009,2,915923630,Escape to Witch Mountain,1975,Adventure|Children|Fantasy,Baylor,Smith,49
+6147,408,1660,4,915920698,Eve's Bayou,1997,Drama,Baylor,Smith,49
+6148,408,28,3,915921456,Persuasion,1995,Drama|Romance,Baylor,Smith,49
+6149,408,30,3,915921038,Shanghai Triad (Yao a yao yao dao waipo qiao),1995,Crime|Drama,Baylor,Smith,49
+6150,408,35,4,915921206,Carrington,1995,Drama|Romance,Baylor,Smith,49
+6151,408,26,3,915922563,Othello,1995,Drama,Baylor,Smith,49
+6152,408,1277,3,915923222,Cyrano de Bergerac,1990,Comedy|Drama|Romance,Baylor,Smith,49
+6153,408,1643,4,915921544,Mrs. Brown (a.k.a. Her Majesty,1997,Drama|Romance,Baylor,Smith,49
+6154,408,2349,3,915920217,Mona Lisa,1986,Comedy|Thriller,Baylor,Smith,49
+6155,408,1959,2,915923736,Out of Africa,1985,Drama|Romance,Baylor,Smith,49
+6156,408,2062,3,916092780,Governess,1998,Drama|Romance,Baylor,Smith,49
+6157,408,492,3,916093512,Manhattan Murder Mystery,1993,Comedy|Mystery,Baylor,Smith,49
+6158,408,1173,3,915919978,Cook the Thief His Wife & Her Lover,1989,Comedy|Drama,Baylor,Smith,49
+6159,408,1450,3,916090943,Prisoner of the Mountains (Kavkazsky plennik),1996,War,Baylor,Smith,49
+6160,408,1554,2,916093300,Pillow Book,1996,Drama|Romance,Baylor,Smith,49
+6161,408,1719,4,915920881,Sweet Hereafter,1997,Drama,Baylor,Smith,49
+6162,408,1827,4,915921713,Big One,1997,Comedy|Documentary,Baylor,Smith,49
+6163,408,905,3,915923396,It Happened One Night,1934,Comedy|Romance,Baylor,Smith,49
+6164,408,921,2,915923630,My Favorite Year,1982,Comedy,Baylor,Smith,49
+6165,408,2110,3,915920405,Dead Men Don't Wear Plaid,1982,Comedy|Crime|Thriller,Baylor,Smith,49
+6166,408,2366,3,915922992,King Kong,1933,Action|Adventure|Fantasy|Horror,Baylor,Smith,49
+6167,408,2312,3,915923355,Children of a Lesser God,1986,Drama,Baylor,Smith,49
+6168,408,96,2,915923455,In the Bleak Midwinter,1995,Comedy|Drama,Baylor,Smith,49
+6169,408,1264,5,915919722,Diva,1981,Action|Drama|Mystery|Romance|Thriller,Baylor,Smith,49
+6170,408,1935,3,915922857,How Green Was My Valley,1941,Drama|Musical|Romance,Baylor,Smith,49
+6171,408,2356,3,915917869,Celebrity,1998,Comedy,Baylor,Smith,49
+6172,408,465,4,916090910,Heaven & Earth,1993,Action|Drama|War,Baylor,Smith,49
+6173,408,1384,3,915921544,Substance of Fire,1996,Drama,Baylor,Smith,49
+6174,408,4424,2,915923905,Garden of the Finzi-Continis,1970,Drama,Baylor,Smith,49
+6175,408,214,5,915920698,Before the Rain (Pred dozhdot),1994,Drama|War,Baylor,Smith,49
+6176,408,335,2,916091464,Underneath,1995,Mystery|Thriller,Baylor,Smith,49
+6177,408,385,3,915921943,Man of No Importance,1994,Drama,Baylor,Smith,49
+6178,408,389,2,915923499,Colonel Chabert,1994,Drama|Romance|War,Baylor,Smith,49
+6179,408,570,3,915923355,Slingshot,1993,Comedy|Drama,Baylor,Smith,49
+6180,408,1571,3,916093381,When the Cat's Away (Chacun cherche son chat),1996,Comedy|Romance,Baylor,Smith,49
+6181,408,1683,4,916091205,Wings of the Dove,1997,Drama|Romance,Baylor,Smith,49
+6182,408,1733,2,916092285,Afterglow,1997,Drama|Romance,Baylor,Smith,49
+6183,408,2295,4,915918117,Impostors,1998,Comedy,Baylor,Smith,49
+6184,415,307,5,947439662,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Jaiden,Smith,39
+6185,415,1186,4,947439662,Sex,1989,Drama,Jaiden,Smith,39
+6186,415,2707,3,941717801,Arlington Road,1999,Thriller,Jaiden,Smith,39
+6187,415,1221,4,938856343,Godfather: Part II,1974,Crime|Drama,Jaiden,Smith,39
+6188,415,1645,3,938857938,The Devil's Advocate,1997,Drama|Mystery|Thriller,Jaiden,Smith,39
+6189,415,16,3,940080667,Casino,1995,Crime|Drama,Jaiden,Smith,39
+6190,415,34,4,938857306,Babe,1995,Children|Drama,Jaiden,Smith,39
+6191,415,50,5,938856343,Usual Suspects,1995,Crime|Mystery|Thriller,Jaiden,Smith,39
+6192,415,260,3,938855642,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,Jaiden,Smith,39
+6193,415,293,4,938856493,Léon: The Professional (a.k.a. The Professional) (Léon),1994,Action|Crime|Drama|Thriller,Jaiden,Smith,39
+6194,415,296,4,940153411,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Jaiden,Smith,39
+6195,415,318,3,940153500,Shawshank Redemption,1994,Crime|Drama,Jaiden,Smith,39
+6196,415,349,3,940153664,Clear and Present Danger,1994,Action|Crime|Drama|Thriller,Jaiden,Smith,39
+6197,415,350,3,940153664,Client,1994,Drama|Mystery|Thriller,Jaiden,Smith,39
+6198,415,457,5,938861244,Fugitive,1993,Thriller,Jaiden,Smith,39
+6199,415,474,3,940153602,In the Line of Fire,1993,Action|Thriller,Jaiden,Smith,39
+6200,415,527,4,938856200,Schindler's List,1993,Drama|War,Jaiden,Smith,39
+6201,415,541,3,940153456,Blade Runner,1982,Action|Sci-Fi|Thriller,Jaiden,Smith,39
+6202,415,593,5,940080622,Silence of the Lambs,1991,Crime|Horror|Thriller,Jaiden,Smith,39
+6203,415,608,4,938856443,Fargo,1996,Comedy|Crime|Drama|Thriller,Jaiden,Smith,39
+6204,415,858,4,938856443,Godfather,1972,Crime|Drama,Jaiden,Smith,39
+6205,415,924,2,940153714,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Jaiden,Smith,39
+6206,415,1089,2,938856343,Reservoir Dogs,1992,Crime|Mystery|Thriller,Jaiden,Smith,39
+6207,415,1092,4,947437010,Basic Instinct,1992,Crime|Mystery|Thriller,Jaiden,Smith,39
+6208,415,1094,4,940153312,Crying Game,1992,Drama|Romance|Thriller,Jaiden,Smith,39
+6209,415,1208,4,938855901,Apocalypse Now,1979,Action|Drama|War,Jaiden,Smith,39
+6210,415,1466,4,938857784,Donnie Brasco,1997,Crime|Drama,Jaiden,Smith,39
+6211,415,1608,3,940153456,Air Force One,1997,Action|Thriller,Jaiden,Smith,39
+6212,415,1610,2,940153602,Hunt for Red October,1990,Action|Adventure|Thriller,Jaiden,Smith,39
+6213,415,1617,5,938856493,L.A. Confidential,1997,Crime|Film-Noir|Mystery|Thriller,Jaiden,Smith,39
+6214,415,1704,4,938861695,Good Will Hunting,1997,Drama|Romance,Jaiden,Smith,39
+6215,415,1732,3,938856343,Big Lebowski,1998,Comedy|Crime,Jaiden,Smith,39
+6216,415,1747,4,939823328,Wag the Dog,1997,Comedy,Jaiden,Smith,39
+6217,415,1784,4,938862947,As Good as It Gets,1997,Comedy|Drama|Romance,Jaiden,Smith,39
+6218,415,1909,4,940080780,X-Files: Fight the Future,1998,Action|Crime|Mystery|Sci-Fi|Thriller,Jaiden,Smith,39
+6219,415,1918,4,938858019,Lethal Weapon 4,1998,Action|Comedy|Crime|Thriller,Jaiden,Smith,39
+6220,415,1921,1,940153827,Pi,1998,Drama|Sci-Fi|Thriller,Jaiden,Smith,39
+6221,415,1923,1,940153827,There's Something About Mary,1998,Comedy|Romance,Jaiden,Smith,39
+6222,415,2000,4,938856343,Lethal Weapon,1987,Action|Comedy|Crime|Drama,Jaiden,Smith,39
+6223,415,2002,1,940153827,Lethal Weapon 3,1992,Action|Comedy|Crime|Drama,Jaiden,Smith,39
+6224,415,2058,4,938861341,Negotiator,1998,Action|Crime|Drama|Mystery|Thriller,Jaiden,Smith,39
+6225,415,2278,4,938857722,Ronin,1998,Action|Crime|Thriller,Jaiden,Smith,39
+6226,415,2433,3,938860830,Civil Action,1998,Drama,Jaiden,Smith,39
+6227,415,2490,2,938862834,Payback,1999,Action|Thriller,Jaiden,Smith,39
+6228,415,2539,3,938856830,Analyze This,1999,Comedy,Jaiden,Smith,39
+6229,415,2542,1,940153827,Lock,1998,Comedy|Crime|Thriller,Jaiden,Smith,39
+6230,415,2571,2,939450355,Matrix,1999,Action|Sci-Fi|Thriller,Jaiden,Smith,39
+6231,415,2700,1,939823501,South Park: Bigger,1999,Animation|Comedy|Musical,Jaiden,Smith,39
+6232,415,2710,3,940934343,Blair Witch Project,1999,Drama|Horror|Thriller,Jaiden,Smith,39
+6233,415,2712,2,939823544,Eyes Wide Shut,1999,Drama|Mystery|Thriller,Jaiden,Smith,39
+6234,415,2723,1,938860830,Mystery Men,1999,Action|Comedy|Fantasy,Jaiden,Smith,39
+6235,415,2762,3,938958289,Sixth Sense,1999,Drama|Horror|Mystery,Jaiden,Smith,39
+6236,415,2803,3,940153542,Pelican Brief,1993,Crime|Drama|Mystery|Romance|Thriller,Jaiden,Smith,39
+6237,415,2858,5,942747581,American Beauty,1999,Drama|Romance,Jaiden,Smith,39
+6238,415,2860,2,939823606,Blue Streak,1999,Comedy,Jaiden,Smith,39
+6239,415,2918,4,942747669,Ferris Bueller's Day Off,1986,Comedy,Jaiden,Smith,39
+6240,415,1193,4,938861643,One Flew Over the Cuckoo's Nest,1975,Drama,Jaiden,Smith,39
+6241,415,1213,4,938856343,Goodfellas,1990,Crime|Drama,Jaiden,Smith,39
+6242,415,21,4,938861296,Get Shorty,1995,Comedy|Crime|Thriller,Jaiden,Smith,39
+6243,415,111,4,940153360,Taxi Driver,1976,Crime|Drama|Thriller,Jaiden,Smith,39
+6244,415,515,5,947439723,Remains of the Day,1993,Drama|Romance,Jaiden,Smith,39
+6245,415,43,2,938958188,Restoration,1995,Drama,Jaiden,Smith,39
+6246,415,299,5,939017804,Priest,1994,Drama,Jaiden,Smith,39
+6247,415,904,5,947436892,Rear Window,1954,Mystery|Thriller,Jaiden,Smith,39
+6248,415,912,5,938855642,Casablanca,1942,Drama|Romance,Jaiden,Smith,39
+6249,415,1188,4,938857463,Strictly Ballroom,1992,Comedy|Romance,Jaiden,Smith,39

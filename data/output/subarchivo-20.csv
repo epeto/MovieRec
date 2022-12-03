@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+2375,214,2163,2,983024166,Attack of the Killer Tomatoes!,1978,Comedy|Horror,Patrick,Smith,17
+2376,214,2328,3,983024774,Vampires,1998,Horror|Western,Patrick,Smith,17
+2377,214,2668,2,983027548,Swamp Thing,1982,Horror|Sci-Fi,Patrick,Smith,17
+2378,214,5812,3,1157929508,Far from Heaven,2002,Drama|Romance,Patrick,Smith,17
+2379,214,6774,4,1175846005,Videodrome,1983,Fantasy|Horror|Sci-Fi|Thriller,Patrick,Smith,17
+2380,214,8917,4,1215961701,Team America: World Police,2004,Action|Adventure|Animation|Comedy,Patrick,Smith,17
+2381,214,46965,4,1156716405,Snakes on a Plane,2006,Action|Comedy|Horror|Thriller,Patrick,Smith,17
+2382,214,64983,4,1361057580,Valkyrie,2008,Drama|Thriller|War,Patrick,Smith,17
+2383,214,78209,1,1288460885,Get Him to the Greek,2010,Comedy,Patrick,Smith,17
+2384,214,83613,2,1330548167,Cowboys & Aliens,2011,Action|Sci-Fi|Thriller|Western|IMAX,Patrick,Smith,17
+2385,214,100383,3,1371393629,Side Effects,2013,Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+2386,214,102819,3,1452639050,Behind the Candelabra,2013,Drama,Patrick,Smith,17
+2387,214,105504,3,1515957406,Captain Phillips,2013,Adventure|Drama|Thriller|IMAX,Patrick,Smith,17
+2388,214,107069,3,1472941099,Lone Survivor,2013,Action|Drama|Thriller|War,Patrick,Smith,17
+2389,214,135569,3,1480882223,Star Trek Beyond,2016,Action|Adventure|Sci-Fi,Patrick,Smith,17
+2390,214,149,4,983018451,Amateur,1994,Crime|Drama|Thriller,Patrick,Smith,17
+2391,214,322,4,983018548,Swimming with Sharks,1995,Comedy|Drama,Patrick,Smith,17
+2392,214,866,3,1171214688,Bound,1996,Crime|Drama|Romance|Thriller,Patrick,Smith,17
+2393,214,1216,2,983026686,Big Blue,1988,Adventure|Drama|Romance,Patrick,Smith,17
+2394,214,1241,3,983017951,Dead Alive (Braindead),1992,Comedy|Fantasy|Horror,Patrick,Smith,17
+2395,214,1243,2,1531043371,Rosencrantz and Guildenstern Are Dead,1990,Comedy|Drama,Patrick,Smith,17
+2396,214,1447,3,1276941983,Gridlock'd,1997,Crime,Patrick,Smith,17
+2397,214,1594,3,1002623625,In the Company of Men,1997,Comedy|Drama,Patrick,Smith,17
+2398,214,1734,4,1085717847,My Life in Pink (Ma vie en rose),1997,Comedy|Drama,Patrick,Smith,17
+2399,214,1834,3,983019165,Spanish Prisoner,1997,Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+2400,214,2575,3,1294094618,Dreamlife of Angels,1998,Drama,Patrick,Smith,17
+2401,214,2952,4,1272900271,Sydney (Hard Eight),1996,Crime|Drama|Thriller,Patrick,Smith,17
+2402,214,3091,3,1157226757,Kagemusha,1980,Drama|War,Patrick,Smith,17
+2403,214,3272,3,983024127,Bad Lieutenant,1992,Crime|Drama,Patrick,Smith,17
+2404,214,4166,2,1193257420,Series 7: The Contenders,2001,Action|Drama,Patrick,Smith,17
+2405,214,4378,4,1162041535,Sexy Beast,2000,Crime|Drama,Patrick,Smith,17
+2406,214,4765,4,1191684653,L.I.E.,2001,Drama,Patrick,Smith,17
+2407,214,4902,4,1095019555,Devil's Backbone,2001,Drama|Fantasy|Horror|Thriller|War,Patrick,Smith,17
+2408,214,5666,3,1209305197,Rules of Attraction,2002,Comedy|Drama|Romance|Thriller,Patrick,Smith,17
+2409,214,5893,2,1181482790,Last Seduction,1994,Crime|Drama|Thriller,Patrick,Smith,17
+2410,214,2269,2,983029329,Indecent Proposal,1993,Drama|Romance,Patrick,Smith,17
+2411,214,1755,3,981198283,Shooting Fish,1997,Comedy|Romance,Patrick,Smith,17
+2412,214,1844,3,1156779745,Live Flesh (Carne trémula),1997,Drama|Romance,Patrick,Smith,17
+2413,214,3569,3,981199632,Idiots,1998,Comedy|Drama,Patrick,Smith,17
+2414,214,4144,3,1159677220,In the Mood For Love (Fa yeung nin wa),2000,Drama|Romance,Patrick,Smith,17
+2415,214,8973,2,1164481812,Bad Education (La mala educación),2004,Drama|Thriller,Patrick,Smith,17
+2416,214,77240,3,1280300683,I Am Love (Io sono l'amore),2009,Drama|Romance,Patrick,Smith,17
+2417,214,89118,2,1330547961,Skin I Live In,2011,Drama,Patrick,Smith,17
+2418,214,2793,2,983026498,American Werewolf in Paris,1997,Comedy|Horror|Romance|Thriller,Patrick,Smith,17
+2419,214,3658,3,1217177573,Quatermass and the Pit,1967,Horror|Sci-Fi,Patrick,Smith,17
+2420,214,3125,5,1197211095,End of the Affair,1999,Drama,Patrick,Smith,17
+2421,214,1660,3,983019089,Eve's Bayou,1997,Drama,Patrick,Smith,17
+2422,214,4210,4,1127577823,Manhunter,1986,Action|Crime|Drama|Horror|Thriller,Patrick,Smith,17
+2423,214,5505,4,1158403698,Good Girl,2002,Comedy|Drama,Patrick,Smith,17
+2424,214,6296,2,1240738795,Mighty Wind,2003,Comedy|Musical,Patrick,Smith,17
+2425,214,6299,3,1138574354,Winged Migration (Peuple migrateur,2001,Documentary,Patrick,Smith,17
+2426,214,6331,3,1115573956,Spellbound,2002,Documentary,Patrick,Smith,17
+2427,214,6538,4,1182705259,Swimming Pool,2003,Drama|Mystery|Thriller,Patrick,Smith,17
+2428,214,6992,3,1138526675,Guarding Tess,1994,Comedy|Drama,Patrick,Smith,17
+2429,214,42002,3,1419635658,Producers,2005,Comedy|Musical,Patrick,Smith,17
+2430,214,781,4,983019024,Stealing Beauty,1996,Drama,Patrick,Smith,17
+2431,214,1366,3,1104263157,Crucible,1996,Drama,Patrick,Smith,17
+2432,214,1593,2,983028084,Picture Perfect,1997,Comedy|Romance,Patrick,Smith,17
+2433,214,26,4,998464038,Othello,1995,Drama,Patrick,Smith,17
+2434,214,94,2,1136586165,Beautiful Girls,1996,Comedy|Drama|Romance,Patrick,Smith,17
+2435,214,91077,4,1419122598,Descendants,2011,Comedy|Drama,Patrick,Smith,17
+2436,214,98154,3,1467667825,Lincoln,2012,Drama|War,Patrick,Smith,17
+2437,214,2338,2,983030483,I Still Know What You Did Last Summer,1998,Horror|Mystery|Thriller,Patrick,Smith,17
+2438,214,2410,2,983028259,Rocky III,1982,Action|Drama,Patrick,Smith,17
+2439,214,3440,1,983031205,Teenage Mutant Ninja Turtles III,1993,Action|Adventure|Children|Comedy|Fantasy,Patrick,Smith,17
+2440,214,4967,4,1081515430,No Man's Land,2001,Drama|War,Patrick,Smith,17
+2441,214,5225,4,1160305001,And Your Mother Too (Y tu mamá también),2001,Drama|Romance,Patrick,Smith,17
+2442,214,8958,2,1265647635,Ray,2004,Drama,Patrick,Smith,17
+2443,214,31364,1,1272755487,Memories of Murder (Salinui chueok),2003,Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+2444,214,40732,4,1206866405,Descent,2005,Adventure|Drama|Horror|Thriller,Patrick,Smith,17
+2445,214,44761,2,1207387003,Brick,2005,Crime|Drama|Film-Noir|Mystery,Patrick,Smith,17
+2446,214,53550,4,1199635236,Rescue Dawn,2006,Action|Adventure|Drama|War,Patrick,Smith,17
+2447,214,55261,3,1419678865,Heartbreak Kid,2007,Comedy|Drama|Romance,Patrick,Smith,17
+2448,214,55814,4,1202635920,Diving Bell and the Butterfly,2007,Drama,Patrick,Smith,17
+2449,214,58301,4,1208038752,Funny Games U.S.,2007,Drama|Thriller,Patrick,Smith,17
+2450,214,60020,3,1263845342,Warlords,2007,Action|Drama|War,Patrick,Smith,17
+2451,214,62081,3,1422139757,Eagle Eye,2008,Action|Crime|Thriller|IMAX,Patrick,Smith,17
+2452,214,74795,3,1288460898,Green Zone,2010,Action|Drama|Thriller|War,Patrick,Smith,17
+2453,214,85774,4,1326542232,Senna,2010,Documentary,Patrick,Smith,17
+2454,214,89470,4,1330548109,Contagion,2011,Sci-Fi|Thriller|IMAX,Patrick,Smith,17
+2455,214,90376,4,1324682724,We Need to Talk About Kevin,2011,Drama|Thriller,Patrick,Smith,17
+2456,214,96432,3,1356820871,Lawless,2012,Crime|Drama,Patrick,Smith,17
+2457,214,104272,4,1519571868,Blackfish,2013,Documentary,Patrick,Smith,17
+2458,214,105653,3,1513375292,Escape Plan,2013,Action|Mystery|Thriller,Patrick,Smith,17
+2459,214,138210,3,1520103424,13 Hours,2016,Drama,Patrick,Smith,17
+2460,214,160438,2,1480882355,Jason Bourne,2016,Action,Patrick,Smith,17
+2461,214,5527,3,1206211570,Possession,2002,Drama|Romance,Patrick,Smith,17
+2462,214,6187,3,1200835397,Life of David Gale,2003,Crime|Drama|Thriller,Patrick,Smith,17
+2463,214,7827,4,1111793566,Cypher,2002,Action|Sci-Fi|Thriller,Patrick,Smith,17
+2464,214,76079,3,1276941893,Chloe,2009,Drama|Thriller,Patrick,Smith,17
+2465,214,78218,2,1475699452,Unthinkable,2010,Drama|Thriller,Patrick,Smith,17
+2466,214,93855,4,1426950380,God Bless America,2011,Comedy|Drama,Patrick,Smith,17
+2467,214,99633,2,1421533026,Sweeney,2012,Action|Crime,Patrick,Smith,17
+2468,214,101741,3,1371393682,Trance,2013,Crime|Thriller,Patrick,Smith,17
+2469,214,139417,3,1466932996,Tale of Tales,2015,Fantasy,Patrick,Smith,17
+2470,214,162598,3,1475443023,Deepwater Horizon,2016,Drama,Patrick,Smith,17
+2471,214,168612,4,1521929165,Ghost in the Shell,2017,Action|Drama|Sci-Fi,Patrick,Smith,17
+2472,214,171763,3,1500771320,Baby Driver,2017,Action|Crime|Thriller,Patrick,Smith,17
+2473,214,179819,3,1519570953,Star Wars: The Last Jedi,2017,Action|Adventure|Fantasy|Sci-Fi,Patrick,Smith,17
+2474,214,2598,3,1176649444,Pushing Tin,1999,Comedy,Patrick,Smith,17
+2475,214,87,1,983031018,Dunston Checks In,1996,Children|Comedy,Patrick,Smith,17
+2476,214,1050,4,981198817,Looking for Richard,1996,Documentary|Drama,Patrick,Smith,17
+2477,214,1392,3,1191074115,Citizen Ruth,1996,Comedy|Drama,Patrick,Smith,17
+2478,214,1643,3,983019540,Mrs. Brown (a.k.a. Her Majesty,1997,Drama|Romance,Patrick,Smith,17
+2479,214,1883,3,1095398924,Bulworth,1998,Comedy|Drama|Romance,Patrick,Smith,17
+2480,214,1885,3,1180359057,Opposite of Sex,1998,Comedy|Drama|Romance,Patrick,Smith,17
+2481,214,2349,3,983021076,Mona Lisa,1986,Comedy|Thriller,Patrick,Smith,17
+2482,214,2390,3,1142205210,Little Voice,1998,Comedy,Patrick,Smith,17
+2483,214,2696,3,1185717110,Dinner Game,1998,Comedy,Patrick,Smith,17
+2484,214,2819,4,983018668,Three Days of the Condor (3 Days of the Condor),1975,Drama|Mystery|Romance|Thriller,Patrick,Smith,17
+2485,214,3163,3,1181484478,Topsy-Turvy,1999,Comedy|Drama|Musical,Patrick,Smith,17
+2486,214,4161,3,1001242426,Mexican,2001,Action|Comedy,Patrick,Smith,17
+2487,214,71579,4,1261263559,Education,2009,Drama|Romance,Patrick,Smith,17
+2488,214,2607,3,1185096679,Get Real,1998,Drama|Romance,Patrick,Smith,17
+2489,214,117,4,1238910175,Young Poisoner's Handbook,1995,Crime|Drama,Patrick,Smith,17
+2490,214,183,3,983022434,Mute Witness,1994,Comedy|Horror|Thriller,Patrick,Smith,17
+2491,214,241,1,983028495,Fluke,1995,Children|Drama,Patrick,Smith,17
+2492,214,263,3,983017511,Ladybird Ladybird,1994,Drama,Patrick,Smith,17
+2493,214,484,1,983030879,Lassie,1994,Adventure|Children,Patrick,Smith,17
+2494,214,492,3,983021115,Manhattan Murder Mystery,1993,Comedy|Mystery,Patrick,Smith,17
+2495,214,565,3,1206211480,Cronos,1993,Drama|Horror,Patrick,Smith,17
+2496,214,567,3,983018381,Kika,1993,Comedy|Drama,Patrick,Smith,17
+2497,214,574,3,983023261,Spanking the Monkey,1994,Comedy|Drama,Patrick,Smith,17
+2498,214,577,1,983027629,Andre,1994,Adventure|Children|Drama,Patrick,Smith,17
+2499,214,638,1,983025115,Jack and Sarah,1995,Romance,Patrick,Smith,17

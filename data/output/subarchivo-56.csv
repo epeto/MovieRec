@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+6875,495,5878,4,1225744351,Talk to Her (Hable con Ella),2002,Drama|Romance,Jase,Smith,22
+6876,495,36517,5,1225749698,Constant Gardener,2005,Drama|Thriller,Jase,Smith,22
+6877,495,64575,4,1235419914,Doubt,2008,Drama|Mystery,Jase,Smith,22
+6878,495,509,5,1225745200,Piano,1993,Drama|Romance,Jase,Smith,22
+6879,495,7162,4.5,1225748804,Cold Mountain,2003,Drama|Romance|War,Jase,Smith,22
+6880,495,3317,5,986146194,Wonder Boys,2000,Comedy|Drama,Jase,Smith,22
+6881,495,6385,5,1225744473,Whale Rider,2002,Drama,Jase,Smith,22
+6882,495,1734,5,986145683,My Life in Pink (Ma vie en rose),1997,Comedy|Drama,Jase,Smith,22
+6883,495,1480,5,986576200,Smilla's Sense of Snow,1997,Drama|Thriller,Jase,Smith,22
+6884,495,3185,5,986146194,Snow Falling on Cedars,1999,Drama,Jase,Smith,22
+6885,495,4200,1,986145431,Double Impact,1991,Action,Jase,Smith,22
+6886,495,5890,3,1225744497,Elling,2001,Comedy|Drama,Jase,Smith,22
+6887,495,121,4,986145974,Boys of St. Vincent,1992,Drama,Jase,Smith,22
+6888,495,1446,3.5,1225744406,Kolya (Kolja),1996,Comedy|Drama,Jase,Smith,22
+6889,495,36535,4,1225744528,Everything Is Illuminated,2005,Comedy|Drama,Jase,Smith,22
+6890,495,49312,4.5,1225749818,Snow Cake,2006,Drama,Jase,Smith,22
+6891,495,55555,5,1228772048,Edge of Heaven,2007,Drama,Jase,Smith,22
+6892,495,56389,4.5,1225748810,My Blueberry Nights,2007,Drama|Romance,Jase,Smith,22
+6893,497,307,4,941881240,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Sonny,Smith,53
+6894,497,481,4,941884060,Kalifornia,1993,Drama|Thriller,Sonny,Smith,53
+6895,497,1186,5,941882243,Sex,1989,Drama,Sonny,Smith,53
+6896,497,1244,4,941882150,Manhattan,1979,Comedy|Drama|Romance,Sonny,Smith,53
+6897,497,1962,1,941879872,Driving Miss Daisy,1989,Drama,Sonny,Smith,53
+6898,497,2243,4,941878302,Broadcast News,1987,Comedy|Drama|Romance,Sonny,Smith,53
+6899,497,2352,3,941878920,Big Chill,1983,Comedy|Drama,Sonny,Smith,53
+6900,497,1221,5,941878632,Godfather: Part II,1974,Crime|Drama,Sonny,Smith,53
+6901,497,11,3,941881083,American President,1995,Comedy|Drama|Romance,Sonny,Smith,53
+6902,497,16,4,941880852,Casino,1995,Crime|Drama,Sonny,Smith,53
+6903,497,25,5,941880752,Leaving Las Vegas,1995,Drama|Romance,Sonny,Smith,53
+6904,497,32,5,941880393,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Sonny,Smith,53
+6905,497,34,5,941879133,Babe,1995,Children|Drama,Sonny,Smith,53
+6906,497,36,5,941878171,Dead Man Walking,1995,Crime|Drama,Sonny,Smith,53
+6907,497,45,3,941884060,To Die For,1995,Comedy|Drama|Thriller,Sonny,Smith,53
+6908,497,62,1,941881544,Mr. Holland's Opus,1995,Drama,Sonny,Smith,53
+6909,497,85,3,941882567,Angels and Insects,1995,Drama|Romance,Sonny,Smith,53
+6910,497,110,4,941879720,Braveheart,1995,Action|Drama|War,Sonny,Smith,53
+6911,497,150,5,941879133,Apollo 13,1995,Adventure|Drama|IMAX,Sonny,Smith,53
+6912,497,151,4,941883239,Rob Roy,1995,Action|Drama|Romance|War,Sonny,Smith,53
+6913,497,161,3,941882870,Crimson Tide,1995,Drama|Thriller|War,Sonny,Smith,53
+6914,497,253,3,941882567,Interview with the Vampire: The Vampire Chronicles,1994,Drama|Horror,Sonny,Smith,53
+6915,497,292,5,941883739,Outbreak,1995,Action|Drama|Sci-Fi|Thriller,Sonny,Smith,53
+6916,497,293,5,941879720,Léon: The Professional (a.k.a. The Professional) (Léon),1994,Action|Crime|Drama|Thriller,Sonny,Smith,53
+6917,497,296,5,941878366,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Sonny,Smith,53
+6918,497,318,4,941878734,Shawshank Redemption,1994,Crime|Drama,Sonny,Smith,53
+6919,497,350,5,941883239,Client,1994,Drama|Mystery|Thriller,Sonny,Smith,53
+6920,497,361,4,941882430,It Could Happen to You,1994,Comedy|Drama|Romance,Sonny,Smith,53
+6921,497,454,5,941883478,Firm,1993,Drama|Thriller,Sonny,Smith,53
+6922,497,524,3,941881787,Rudy,1993,Drama,Sonny,Smith,53
+6923,497,590,3,941882870,Dances with Wolves,1990,Adventure|Drama|Western,Sonny,Smith,53
+6924,497,592,4,941883937,Batman,1989,Action|Crime|Thriller,Sonny,Smith,53
+6925,497,593,5,941879041,Silence of the Lambs,1991,Crime|Horror|Thriller,Sonny,Smith,53
+6926,497,608,5,941878302,Fargo,1996,Comedy|Crime|Drama|Thriller,Sonny,Smith,53
+6927,497,647,4,941881971,Courage Under Fire,1996,Action|Crime|Drama|War,Sonny,Smith,53
+6928,497,778,2,941880243,Trainspotting,1996,Comedy|Crime|Drama,Sonny,Smith,53
+6929,497,805,4,941880752,Time to Kill,1996,Drama|Thriller,Sonny,Smith,53
+6930,497,832,4,941883739,Ransom,1996,Crime|Thriller,Sonny,Smith,53
+6931,497,919,3,941880173,Wizard of Oz,1939,Adventure|Children|Fantasy|Musical,Sonny,Smith,53
+6932,497,924,4,941878367,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Sonny,Smith,53
+6933,497,1059,3,941881544,William Shakespeare's Romeo + Juliet,1996,Drama|Romance,Sonny,Smith,53
+6934,497,1090,5,941880852,Platoon,1986,Drama|War,Sonny,Smith,53
+6935,497,1094,5,941879819,Crying Game,1992,Drama|Romance|Thriller,Sonny,Smith,53
+6936,497,1196,4,941879133,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,Sonny,Smith,53
+6937,497,1203,4,941878919,12 Angry Men,1957,Drama,Sonny,Smith,53
+6938,497,1207,5,941878243,To Kill a Mockingbird,1962,Drama,Sonny,Smith,53
+6939,497,1208,5,941878243,Apocalypse Now,1979,Action|Drama|War,Sonny,Smith,53
+6940,497,1222,5,941880643,Full Metal Jacket,1987,Drama|War,Sonny,Smith,53
+6941,497,1242,5,941879223,Glory,1989,Drama|War,Sonny,Smith,53
+6942,497,1259,5,941880931,Stand by Me,1986,Adventure|Drama,Sonny,Smith,53
+6943,497,1393,5,941880643,Jerry Maguire,1996,Drama|Romance,Sonny,Smith,53
+6944,497,1396,4,941881787,Sneakers,1992,Action|Comedy|Crime|Drama|Sci-Fi,Sonny,Smith,53
+6945,497,1466,4,941880752,Donnie Brasco,1997,Crime|Drama,Sonny,Smith,53
+6946,497,1584,4,941879434,Contact,1997,Drama|Sci-Fi,Sonny,Smith,53
+6947,497,1653,3,941879334,Gattaca,1997,Drama|Sci-Fi|Thriller,Sonny,Smith,53
+6948,497,1673,2,941880546,Boogie Nights,1997,Drama,Sonny,Smith,53
+6949,497,1682,5,941880546,Truman Show,1998,Comedy|Drama|Sci-Fi,Sonny,Smith,53
+6950,497,1704,4,941880321,Good Will Hunting,1997,Drama|Romance,Sonny,Smith,53
+6951,497,1747,3,941882360,Wag the Dog,1997,Comedy,Sonny,Smith,53
+6952,497,1784,4,941878801,As Good as It Gets,1997,Comedy|Drama|Romance,Sonny,Smith,53
+6953,497,1805,2,941882947,Wild Things,1998,Crime|Drama|Mystery|Thriller,Sonny,Smith,53
+6954,497,1810,3,941878801,Primary Colors,1998,Comedy|Drama,Sonny,Smith,53
+6955,497,1876,5,941883739,Deep Impact,1998,Drama|Sci-Fi|Thriller,Sonny,Smith,53
+6956,497,1918,1,941884060,Lethal Weapon 4,1998,Action|Comedy|Crime|Thriller,Sonny,Smith,53
+6957,497,1961,4,941879627,Rain Man,1988,Drama,Sonny,Smith,53
+6958,497,1968,4,941880752,Breakfast Club,1985,Comedy|Drama,Sonny,Smith,53
+6959,497,2000,4,941880852,Lethal Weapon,1987,Action|Comedy|Crime|Drama,Sonny,Smith,53
+6960,497,2001,3,941881544,Lethal Weapon 2,1989,Action|Comedy|Crime|Drama,Sonny,Smith,53
+6961,497,2194,4,941879627,Untouchables,1987,Action|Crime|Drama,Sonny,Smith,53
+6962,497,2231,2,941879819,Rounders,1998,Drama,Sonny,Smith,53
+6963,497,2268,3,941881327,Few Good Men,1992,Crime|Drama|Thriller,Sonny,Smith,53
+6964,497,2291,5,941879334,Edward Scissorhands,1990,Drama|Fantasy|Romance,Sonny,Smith,53
+6965,497,2433,4,941883011,Civil Action,1998,Drama,Sonny,Smith,53
+6966,497,2501,5,941878243,October Sky,1999,Drama,Sonny,Smith,53
+6967,497,2712,3,941878801,Eyes Wide Shut,1999,Drama|Mystery|Thriller,Sonny,Smith,53
+6968,497,2858,4,941877554,American Beauty,1999,Drama|Romance,Sonny,Smith,53
+6969,497,2890,1,941877619,Three Kings,1999,Action|Adventure|Comedy|Drama|War,Sonny,Smith,53
+6970,497,1193,5,941878092,One Flew Over the Cuckoo's Nest,1975,Drama,Sonny,Smith,53
+6971,497,1213,5,941879133,Goodfellas,1990,Crime|Drama,Sonny,Smith,53
+6972,497,2329,5,941878632,American History X,1998,Crime|Drama,Sonny,Smith,53
+6973,497,21,2,941881083,Get Shorty,1995,Comedy|Crime|Thriller,Sonny,Smith,53
+6974,497,111,5,941878733,Taxi Driver,1976,Crime|Drama|Thriller,Sonny,Smith,53
+6975,497,224,4,941882666,Don Juan DeMarco,1995,Comedy|Drama|Romance,Sonny,Smith,53
+6976,497,261,4,941880752,Little Women,1994,Drama,Sonny,Smith,53
+6977,497,337,5,941881787,What's Eating Gilbert Grape,1993,Drama,Sonny,Smith,53
+6978,497,515,5,941879627,Remains of the Day,1993,Drama|Romance,Sonny,Smith,53
+6979,497,381,4,941883239,When a Man Loves a Woman,1994,Drama|Romance,Sonny,Smith,53
+6980,497,1041,5,941878530,Secrets & Lies,1996,Drama,Sonny,Smith,53
+6981,497,1416,3,941883650,Evita,1996,Drama|Musical,Sonny,Smith,53
+6982,497,43,4,941881853,Restoration,1995,Drama,Sonny,Smith,53
+6983,497,299,5,941880321,Priest,1994,Drama,Sonny,Smith,53
+6984,497,908,3,941878420,North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,Sonny,Smith,53
+6985,497,912,4,941878092,Casablanca,1942,Drama|Romance,Sonny,Smith,53
+6986,497,923,5,941881692,Citizen Kane,1941,Drama|Mystery,Sonny,Smith,53
+6987,497,994,4,941879872,Big Night,1996,Comedy|Drama,Sonny,Smith,53
+6988,497,1095,4,941879720,Glengarry Glen Ross,1992,Drama,Sonny,Smith,53
+6989,497,1131,4,941881617,Jean de Florette,1986,Drama|Mystery,Sonny,Smith,53
+6990,497,1225,5,941879510,Amadeus,1984,Drama,Sonny,Smith,53
+6991,497,1247,5,941878920,Graduate,1967,Comedy|Drama|Romance,Sonny,Smith,53
+6992,497,1635,2,941880393,Ice Storm,1997,Drama,Sonny,Smith,53
+6993,497,1639,5,941880243,Chasing Amy,1997,Comedy|Drama|Romance,Sonny,Smith,53
+6994,497,1952,5,941878302,Midnight Cowboy,1969,Drama,Sonny,Smith,53
+6995,497,1953,5,941878420,French Connection,1971,Action|Crime|Thriller,Sonny,Smith,53
+6996,497,1957,5,941881240,Chariots of Fire,1981,Drama,Sonny,Smith,53
+6997,497,2324,5,941883650,Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,Sonny,Smith,53
+6998,497,3067,4,941883937,Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios),1988,Comedy|Drama,Sonny,Smith,53
+6999,497,105,2,941882243,Bridges of Madison County,1995,Drama|Romance,Sonny,Smith,53

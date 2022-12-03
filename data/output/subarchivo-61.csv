@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+7500,549,3555,3,1238322627,U-571,2000,Action|Thriller|War,Dariel,Smith,57
+7501,549,3578,4,1238318904,Gladiator,2000,Action|Adventure|Drama,Dariel,Smith,57
+7502,549,3617,3,1238322587,Road Trip,2000,Comedy,Dariel,Smith,57
+7503,549,3623,2.5,1238321013,Mission: Impossible II,2000,Action|Adventure|Thriller,Dariel,Smith,57
+7504,549,3638,2,1238331014,Moonraker,1979,Action|Adventure|Sci-Fi|Thriller,Dariel,Smith,57
+7505,549,3697,2.5,1238330305,Predator 2,1990,Action|Sci-Fi|Thriller,Dariel,Smith,57
+7506,549,3702,4,1238322169,Mad Max,1979,Action|Adventure|Sci-Fi,Dariel,Smith,57
+7507,549,3703,5,1238322181,Road Warrior,1981,Action|Adventure|Sci-Fi|Thriller,Dariel,Smith,57
+7508,549,3717,3,1238321960,Gone in 60 Seconds,2000,Action|Crime,Dariel,Smith,57
+7509,549,3753,2.5,1238321365,Patriot,2000,Action|Drama|War,Dariel,Smith,57
+7510,549,3793,4,1238320720,X-Men,2000,Action|Adventure|Sci-Fi,Dariel,Smith,57
+7511,549,3809,3.5,1238330092,What About Bob?,1991,Comedy,Dariel,Smith,57
+7512,549,3916,2.5,1238322550,Remember the Titans,2000,Drama,Dariel,Smith,57
+7513,549,3948,3.5,1238321181,Meet the Parents,2000,Comedy,Dariel,Smith,57
+7514,549,3994,3.5,1238321395,Unbreakable,2000,Drama|Sci-Fi,Dariel,Smith,57
+7515,549,3996,5,1238318159,Crouching Tiger,2000,Action|Drama|Romance,Dariel,Smith,57
+7516,549,4011,3.5,1238318693,Snatch,2000,Comedy|Crime|Thriller,Dariel,Smith,57
+7517,549,4015,1.5,1238330943,Dude,2000,Comedy|Sci-Fi,Dariel,Smith,57
+7518,549,4019,3,1238330097,Finding Forrester,2000,Drama,Dariel,Smith,57
+7519,549,4022,4,1238321008,Cast Away,2000,Drama,Dariel,Smith,57
+7520,549,4025,2,1238322130,Miss Congeniality,2000,Comedy|Crime,Dariel,Smith,57
+7521,549,4034,5,1238318357,Traffic,2000,Crime|Drama|Thriller,Dariel,Smith,57
+7522,549,4085,4,1238321701,Beverly Hills Cop,1984,Action|Comedy|Crime|Drama,Dariel,Smith,57
+7523,549,4148,2.5,1238322753,Hannibal,2001,Horror|Thriller,Dariel,Smith,57
+7524,549,4226,4.5,1238320753,Memento,2000,Mystery|Thriller,Dariel,Smith,57
+7525,549,4239,3,1238329941,Blow,2001,Crime|Drama,Dariel,Smith,57
+7526,549,4246,3.5,1238321543,Bridget Jones's Diary,2001,Comedy|Drama|Romance,Dariel,Smith,57
+7527,549,4262,4,1238319210,Scarface,1983,Action|Crime|Drama,Dariel,Smith,57
+7528,549,4270,2.5,1238322545,Mummy Returns,2001,Action|Adventure|Comedy|Thriller,Dariel,Smith,57
+7529,549,4306,4.5,1238319749,Shrek,2001,Adventure|Animation|Children|Comedy|Fantasy|Romance,Dariel,Smith,57
+7530,549,4308,5,1238321660,Moulin Rouge,2001,Drama|Musical|Romance,Dariel,Smith,57
+7531,549,4321,3.5,1238322575,City Slickers,1991,Comedy|Western,Dariel,Smith,57
+7532,549,4344,3,1238330241,Swordfish,2001,Action|Crime|Drama,Dariel,Smith,57
+7533,549,4367,2.5,1238322744,Lara Croft: Tomb Raider,2001,Action|Adventure,Dariel,Smith,57
+7534,549,4446,3,1238330001,Final Fantasy: The Spirits Within,2001,Adventure|Animation|Fantasy|Sci-Fi,Dariel,Smith,57
+7535,549,4571,3.5,1238322299,Bill & Ted's Excellent Adventure,1989,Adventure|Comedy|Sci-Fi,Dariel,Smith,57
+7536,549,4638,3,1238329924,Jurassic Park III,2001,Action|Adventure|Sci-Fi|Thriller,Dariel,Smith,57
+7537,549,4643,2,1238322330,Planet of the Apes,2001,Action|Adventure|Drama|Sci-Fi,Dariel,Smith,57
+7538,549,4701,2,1238330412,Rush Hour 2,2001,Action|Comedy,Dariel,Smith,57
+7539,549,4734,2.5,1238330048,Jay and Silent Bob Strike Back,2001,Adventure|Comedy,Dariel,Smith,57
+7540,549,4776,4,1238319789,Training Day,2001,Crime|Drama|Thriller,Dariel,Smith,57
+7541,549,4874,3,1238330055,K-PAX,2001,Drama|Fantasy|Mystery|Sci-Fi,Dariel,Smith,57
+7542,549,4878,4.5,1238318857,Donnie Darko,2001,Drama|Mystery|Sci-Fi|Thriller,Dariel,Smith,57
+7543,549,4886,4.5,1238319645,Monsters,2001,Adventure|Animation|Children|Comedy|Fantasy,Dariel,Smith,57
+7544,549,4896,4.5,1238321232,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),2001,Adventure|Children|Fantasy,Dariel,Smith,57
+7545,549,4901,3,1238330445,Spy Game,2001,Action|Crime|Drama|Thriller,Dariel,Smith,57
+7546,549,4963,4,1238319674,Ocean's Eleven,2001,Crime|Thriller,Dariel,Smith,57
+7547,549,4979,4.5,1238321656,Royal Tenenbaums,2001,Comedy|Drama,Dariel,Smith,57
+7548,549,4993,5,1238315402,Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy,Dariel,Smith,57
+7549,549,4995,4,1238318791,Beautiful Mind,2001,Drama|Romance,Dariel,Smith,57
+7550,549,5010,4,1238318418,Black Hawk Down,2001,Action|Drama|War,Dariel,Smith,57
+7551,549,5349,4.5,1238320901,Spider-Man,2002,Action|Adventure|Sci-Fi|Thriller,Dariel,Smith,57
+7552,549,5378,2,1238321191,Star Wars: Episode II - Attack of the Clones,2002,Action|Adventure|Sci-Fi|IMAX,Dariel,Smith,57
+7553,549,5388,4,1238330040,Insomnia,2002,Action|Crime|Drama|Mystery|Thriller,Dariel,Smith,57
+7554,549,5418,4,1238314796,Bourne Identity,2002,Action|Mystery|Thriller,Dariel,Smith,57
+7555,549,5445,4.5,1238320835,Minority Report,2002,Action|Crime|Mystery|Sci-Fi|Thriller,Dariel,Smith,57
+7556,549,5464,4,1238318635,Road to Perdition,2002,Crime|Drama,Dariel,Smith,57
+7557,549,5481,2.5,1238322533,Austin Powers in Goldmember,2002,Comedy,Dariel,Smith,57
+7558,549,5502,3.5,1238321928,Signs,2002,Horror|Sci-Fi|Thriller,Dariel,Smith,57
+7559,549,5816,3.5,1238321505,Harry Potter and the Chamber of Secrets,2002,Adventure|Fantasy,Dariel,Smith,57
+7560,549,5872,2.5,1238330698,Die Another Day,2002,Action|Adventure|Thriller,Dariel,Smith,57
+7561,549,5945,4.5,1238330551,About Schmidt,2002,Comedy|Drama,Dariel,Smith,57
+7562,549,5952,5,1238315404,Lord of the Rings: The Two Towers,2002,Adventure|Fantasy,Dariel,Smith,57
+7563,549,5954,4,1238318761,25th Hour,2002,Crime|Drama,Dariel,Smith,57
+7564,549,5956,4,1238329920,Gangs of New York,2002,Crime|Drama,Dariel,Smith,57
+7565,549,5959,4,1238318287,Narc,2002,Crime|Drama|Thriller,Dariel,Smith,57
+7566,549,5989,4,1238318439,Catch Me If You Can,2002,Crime|Drama,Dariel,Smith,57
+7567,549,6016,4.5,1238318155,City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,Dariel,Smith,57
+7568,549,6333,4,1238319828,X2: X-Men United,2003,Action|Adventure|Sci-Fi|Thriller,Dariel,Smith,57
+7569,549,6365,2.5,1238321244,Matrix Reloaded,2003,Action|Adventure|Sci-Fi|Thriller|IMAX,Dariel,Smith,57
+7570,549,6373,2.5,1238322541,Bruce Almighty,2003,Comedy|Drama|Fantasy|Romance,Dariel,Smith,57
+7571,549,6377,5,1238319503,Finding Nemo,2003,Adventure|Animation|Children|Comedy,Dariel,Smith,57
+7572,549,6378,3.5,1238322239,Italian Job,2003,Action|Crime,Dariel,Smith,57
+7573,549,6539,4,1238319165,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Action|Adventure|Comedy|Fantasy,Dariel,Smith,57
+7574,549,6708,4,1238319100,Matchstick Men,2003,Comedy|Crime|Drama,Dariel,Smith,57
+7575,549,6807,4.5,1238318569,Monty Python's The Meaning of Life,1983,Comedy,Dariel,Smith,57
+7576,549,6874,4.5,1238319571,Kill Bill: Vol. 1,2003,Action|Crime|Thriller,Dariel,Smith,57
+7577,549,6934,2.5,1238321706,Matrix Revolutions,2003,Action|Adventure|Sci-Fi|Thriller|IMAX,Dariel,Smith,57
+7578,549,6947,4.5,1238319635,Master and Commander: The Far Side of the World,2003,Adventure|Drama|War,Dariel,Smith,57
+7579,549,7143,3.5,1238322101,Last Samurai,2003,Action|Adventure|Drama|War,Dariel,Smith,57
+7580,549,7147,3.5,1238321926,Big Fish,2003,Drama|Fantasy|Romance,Dariel,Smith,57
+7581,549,7153,5,1238318554,Lord of the Rings: The Return of the King,2003,Action|Adventure|Drama|Fantasy,Dariel,Smith,57
+7582,549,7361,5,1238318866,Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,Dariel,Smith,57
+7583,549,7373,4,1238330940,Hellboy,2004,Action|Adventure|Fantasy|Horror,Dariel,Smith,57
+7584,549,7438,4.5,1238318967,Kill Bill: Vol. 2,2004,Action|Drama|Thriller,Dariel,Smith,57
+7585,549,8360,3.5,1238321502,Shrek 2,2004,Adventure|Animation|Children|Comedy|Musical|Romance,Dariel,Smith,57
+7586,549,8376,4,1238330416,Napoleon Dynamite,2004,Comedy,Dariel,Smith,57
+7587,549,8464,4,1238318703,Super Size Me,2004,Comedy|Documentary|Drama,Dariel,Smith,57
+7588,549,8622,4.5,1238322405,Fahrenheit 9/11,2004,Documentary,Dariel,Smith,57
+7589,549,8636,4.5,1238321439,Spider-Man 2,2004,Action|Adventure|Sci-Fi|IMAX,Dariel,Smith,57
+7590,549,8665,4,1238318431,Bourne Supremacy,2004,Action|Crime|Thriller,Dariel,Smith,57
+7591,549,8874,4.5,1238319230,Shaun of the Dead,2004,Comedy|Horror,Dariel,Smith,57
+7592,549,8961,4.5,1238318520,Incredibles,2004,Action|Adventure|Animation|Children|Comedy,Dariel,Smith,57
+7593,549,32587,4,1238318689,Sin City,2005,Action|Crime|Film-Noir|Mystery|Thriller,Dariel,Smith,57
+7594,549,33004,3.5,1238330985,Hitchhiker's Guide to the Galaxy,2005,Adventure|Comedy|Sci-Fi,Dariel,Smith,57
+7595,549,33493,3.5,1238321930,Star Wars: Episode III - Revenge of the Sith,2005,Action|Adventure|Sci-Fi,Dariel,Smith,57
+7596,549,33794,4,1238315797,Batman Begins,2005,Action|Crime|IMAX,Dariel,Smith,57
+7597,549,34162,3.5,1238330251,Wedding Crashers,2005,Comedy|Romance,Dariel,Smith,57
+7598,549,37733,5,1238318931,History of Violence,2005,Action|Crime|Drama|Thriller,Dariel,Smith,57
+7599,549,38061,4,1238315860,Kiss Kiss Bang Bang,2005,Comedy|Crime|Mystery|Thriller,Dariel,Smith,57
+7600,549,44191,4,1238322122,V for Vendetta,2006,Action|Sci-Fi|Thriller|IMAX,Dariel,Smith,57
+7601,549,48774,5,1238318453,Children of Men,2006,Action|Adventure|Drama|Sci-Fi|Thriller,Dariel,Smith,57
+7602,549,54286,4,1238315668,Bourne Ultimatum,2007,Action|Crime|Thriller,Dariel,Smith,57
+7603,549,55765,4,1238315708,American Gangster,2007,Crime|Drama|Thriller,Dariel,Smith,57
+7604,549,56367,4.5,1238317579,Juno,2007,Comedy|Drama|Romance,Dariel,Smith,57
+7605,549,1147,4.5,1238315484,When We Were Kings,1996,Documentary,Dariel,Smith,57
+7606,549,1193,5,1238315213,One Flew Over the Cuckoo's Nest,1975,Drama,Dariel,Smith,57
+7607,549,1213,5,1238315832,Goodfellas,1990,Crime|Drama,Dariel,Smith,57
+7608,549,2329,4,1238316530,American History X,1998,Crime|Drama,Dariel,Smith,57
+7609,549,3178,3.5,1238319558,Hurricane,1999,Drama,Dariel,Smith,57
+7610,549,3949,5,1238319186,Requiem for a Dream,2000,Drama,Dariel,Smith,57
+7611,549,4973,4.5,1238315349,Amelie (Fabuleux destin d'Amélie Poulain,2001,Comedy|Romance,Dariel,Smith,57
+7612,549,5995,5,1238318299,Pianist,2002,Drama|War,Dariel,Smith,57
+7613,549,8784,4,1238318478,Garden State,2004,Comedy|Drama|Romance,Dariel,Smith,57
+7614,549,8873,4,1238319118,Motorcycle Diaries,2004,Adventure|Drama,Dariel,Smith,57
+7615,549,8949,5,1238319242,Sideways,2004,Comedy|Drama|Romance,Dariel,Smith,57
+7616,549,31410,4.5,1238315199,Downfall (Untergang,2004,Drama|War,Dariel,Smith,57
+7617,549,46578,4.5,1238318543,Little Miss Sunshine,2006,Adventure|Comedy|Drama,Dariel,Smith,57
+7618,549,46976,4,1238316409,Stranger than Fiction,2006,Comedy|Drama|Fantasy|Romance,Dariel,Smith,57
+7619,549,48394,5,1238315427,Pan's Labyrinth (Laberinto del fauno,2006,Drama|Fantasy|Thriller,Dariel,Smith,57
+7620,549,48516,5,1238315817,Departed,2006,Crime|Drama|Thriller,Dariel,Smith,57
+7621,549,48696,4,1238318541,Little Children,2006,Drama|Romance,Dariel,Smith,57
+7622,549,48780,4,1238318007,Prestige,2006,Drama|Mystery|Sci-Fi|Thriller,Dariel,Smith,57
+7623,549,49272,4,1238315727,Casino Royale,2006,Action|Adventure|Thriller,Dariel,Smith,57
+7624,549,49530,3.5,1238318423,Blood Diamond,2006,Action|Adventure|Crime|Drama|Thriller|War,Dariel,Smith,57

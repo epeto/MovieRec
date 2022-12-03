@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+1500,214,1760,1,983029980,Spice World,1997,Comedy,Patrick,Smith,17
+1501,214,1784,3,983022128,As Good as It Gets,1997,Comedy|Drama|Romance,Patrick,Smith,17
+1502,214,1810,3,1138574339,Primary Colors,1998,Comedy|Drama,Patrick,Smith,17
+1503,214,1831,3,983029980,Lost in Space,1998,Action|Adventure|Sci-Fi,Patrick,Smith,17
+1504,214,1876,2,983025569,Deep Impact,1998,Drama|Sci-Fi|Thriller,Patrick,Smith,17
+1505,214,1882,2,983030744,Godzilla,1998,Action|Sci-Fi|Thriller,Patrick,Smith,17
+1506,214,1884,4,1148854565,Fear and Loathing in Las Vegas,1998,Adventure|Comedy|Drama,Patrick,Smith,17
+1507,214,1917,3,1155978195,Armageddon,1998,Action|Romance|Sci-Fi|Thriller,Patrick,Smith,17
+1508,214,1918,3,1081514506,Lethal Weapon 4,1998,Action|Comedy|Crime|Thriller,Patrick,Smith,17
+1509,214,1921,2,983114997,Pi,1998,Drama|Sci-Fi|Thriller,Patrick,Smith,17
+1510,214,1923,4,981198945,There's Something About Mary,1998,Comedy|Romance,Patrick,Smith,17
+1511,214,2000,2,983019024,Lethal Weapon,1987,Action|Comedy|Crime|Drama,Patrick,Smith,17
+1512,214,2001,2,983022827,Lethal Weapon 2,1989,Action|Comedy|Crime|Drama,Patrick,Smith,17
+1513,214,2002,3,1081514512,Lethal Weapon 3,1992,Action|Comedy|Crime|Drama,Patrick,Smith,17
+1514,214,2003,2,983023130,Gremlins,1984,Comedy|Horror,Patrick,Smith,17
+1515,214,2004,2,983024380,Gremlins 2: The New Batch,1990,Comedy|Horror,Patrick,Smith,17
+1516,214,2006,2,983020742,Mask of Zorro,1998,Action|Comedy|Romance,Patrick,Smith,17
+1517,214,2011,2,983024954,Back to the Future Part II,1989,Adventure|Comedy|Sci-Fi,Patrick,Smith,17
+1518,214,2054,2,983027289,Honey,1989,Adventure|Children|Comedy|Fantasy|Sci-Fi,Patrick,Smith,17
+1519,214,2058,3,983020601,Negotiator,1998,Action|Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+1520,214,2115,1,983024475,Indiana Jones and the Temple of Doom,1984,Action|Adventure|Fantasy,Patrick,Smith,17
+1521,214,2126,3,1134320209,Snake Eyes,1998,Action|Crime|Mystery|Thriller,Patrick,Smith,17
+1522,214,2167,3,983026317,Blade,1998,Action|Horror|Thriller,Patrick,Smith,17
+1523,214,2194,4,1234008205,Untouchables,1987,Action|Crime|Drama,Patrick,Smith,17
+1524,214,2231,4,1175846362,Rounders,1998,Drama,Patrick,Smith,17
+1525,214,2268,3,1081514418,Few Good Men,1992,Crime|Drama|Thriller,Patrick,Smith,17
+1526,214,2273,3,983024254,Rush Hour,1998,Action|Comedy|Crime|Thriller,Patrick,Smith,17
+1527,214,2278,3,983020742,Ronin,1998,Action|Crime|Thriller,Patrick,Smith,17
+1528,214,2291,2,983019979,Edward Scissorhands,1990,Drama|Fantasy|Romance,Patrick,Smith,17
+1529,214,2294,3,983023652,Antz,1998,Adventure|Animation|Children|Comedy|Fantasy,Patrick,Smith,17
+1530,214,2334,2,983024036,Siege,1998,Action|Thriller,Patrick,Smith,17
+1531,214,2355,3,981198556,Bug's Life,1998,Adventure|Animation|Children|Comedy,Patrick,Smith,17
+1532,214,2378,2,983027289,Police Academy,1984,Comedy|Crime,Patrick,Smith,17
+1533,214,2379,2,983030451,Police Academy 2: Their First Assignment,1985,Comedy|Crime,Patrick,Smith,17
+1534,214,2381,1,983030879,Police Academy 4: Citizens on Patrol,1987,Comedy|Crime,Patrick,Smith,17
+1535,214,2391,3,1166370956,Simple Plan,1998,Crime|Drama|Thriller,Patrick,Smith,17
+1536,214,2393,3,983025034,Star Trek: Insurrection,1998,Action|Drama|Romance|Sci-Fi,Patrick,Smith,17
+1537,214,2424,2,1147597634,You've Got Mail,1998,Comedy|Romance,Patrick,Smith,17
+1538,214,2470,2,983025520,Crocodile Dundee,1986,Adventure|Comedy,Patrick,Smith,17
+1539,214,2471,2,983030161,Crocodile Dundee II,1988,Action|Adventure|Comedy,Patrick,Smith,17
+1540,214,2502,3,1153780582,Office Space,1999,Comedy|Crime,Patrick,Smith,17
+1541,214,2539,3,983021240,Analyze This,1999,Comedy,Patrick,Smith,17
+1542,214,2542,3,981198556,Lock,1998,Comedy|Crime|Thriller,Patrick,Smith,17
+1543,214,2571,4,1104261176,Matrix,1999,Action|Sci-Fi|Thriller,Patrick,Smith,17
+1544,214,2600,4,1000064591,eXistenZ,1999,Action|Sci-Fi|Thriller,Patrick,Smith,17
+1545,214,2605,3,983028110,Entrapment,1999,Crime|Thriller,Patrick,Smith,17
+1546,214,2616,3,983026847,Dick Tracy,1990,Action|Crime,Patrick,Smith,17
+1547,214,2628,3,1255785304,Star Wars: Episode I - The Phantom Menace,1999,Action|Adventure|Sci-Fi,Patrick,Smith,17
+1548,214,2683,3,983023489,Austin Powers: The Spy Who Shagged Me,1999,Action|Adventure|Comedy,Patrick,Smith,17
+1549,214,2688,3,983028495,General's Daughter,1999,Crime|Drama|Mystery|Thriller,Patrick,Smith,17
+1550,214,2710,3,1154285477,Blair Witch Project,1999,Drama|Horror|Thriller,Patrick,Smith,17
+1551,214,2712,4,983022672,Eyes Wide Shut,1999,Drama|Mystery|Thriller,Patrick,Smith,17
+1552,214,2762,4,981198879,Sixth Sense,1999,Drama|Horror|Mystery,Patrick,Smith,17
+1553,214,2770,2,983019924,Bowfinger,1999,Comedy,Patrick,Smith,17
+1554,214,2792,3,983027801,Airplane II: The Sequel,1982,Comedy,Patrick,Smith,17
+1555,214,2794,2,983028388,European Vacation (aka National Lampoon's European Vacation),1985,Adventure|Comedy|Romance,Patrick,Smith,17
+1556,214,2803,3,983026106,Pelican Brief,1993,Crime|Drama|Mystery|Romance|Thriller,Patrick,Smith,17
+1557,214,2808,1,983029771,Universal Soldier,1992,Action|Sci-Fi,Patrick,Smith,17
+1558,214,2858,5,1104262765,American Beauty,1999,Drama|Romance,Patrick,Smith,17
+1559,214,2881,2,983025303,Double Jeopardy,1999,Action|Crime|Drama|Thriller,Patrick,Smith,17
+1560,214,2890,3,981198702,Three Kings,1999,Action|Adventure|Comedy|Drama|War,Patrick,Smith,17
+1561,214,2916,3,1131221700,Total Recall,1990,Action|Adventure|Sci-Fi|Thriller,Patrick,Smith,17
+1562,214,2918,3,1092080300,Ferris Bueller's Day Off,1986,Comedy,Patrick,Smith,17
+1563,214,2953,2,983030451,Home Alone 2: Lost in New York,1992,Children|Comedy,Patrick,Smith,17
+1564,214,2959,4,1104261166,Fight Club,1999,Action|Crime|Drama|Thriller,Patrick,Smith,17
+1565,214,2985,2,983022484,RoboCop,1987,Action|Crime|Drama|Sci-Fi|Thriller,Patrick,Smith,17
+1566,214,2990,3,983022788,Licence to Kill,1989,Action|Adventure|Thriller,Patrick,Smith,17
+1567,214,2997,4,983016771,Being John Malkovich,1999,Comedy|Drama|Fantasy,Patrick,Smith,17
+1568,214,3033,2,983023949,Spaceballs,1987,Comedy|Sci-Fi,Patrick,Smith,17
+1569,214,3052,4,983019356,Dogma,1999,Adventure|Comedy|Fantasy,Patrick,Smith,17
+1570,214,3113,2,1161519632,End of Days,1999,Action|Fantasy|Horror|Mystery|Thriller,Patrick,Smith,17
+1571,214,3114,3,1104263557,Toy Story 2,1999,Adventure|Animation|Children|Comedy|Fantasy,Patrick,Smith,17
+1572,214,3247,1,983026812,Sister Act,1992,Comedy|Crime,Patrick,Smith,17
+1573,214,3248,1,983031113,Sister Act 2: Back in the Habit,1993,Comedy,Patrick,Smith,17
+1574,214,3250,3,1227359779,Alive,1993,Drama,Patrick,Smith,17
+1575,214,3252,4,983021660,Scent of a Woman,1992,Drama,Patrick,Smith,17
+1576,214,3253,3,1166374333,Wayne's World,1992,Comedy,Patrick,Smith,17
+1577,214,3254,4,983024603,Wayne's World 2,1993,Comedy,Patrick,Smith,17
+1578,214,3256,3,983021385,Patriot Games,1992,Action|Crime|Drama|Thriller,Patrick,Smith,17
+1579,214,3298,4,1134929796,Boiler Room,2000,Crime|Drama|Thriller,Patrick,Smith,17
+1580,214,3300,3,983016990,Pitch Black,2000,Horror|Sci-Fi|Thriller,Patrick,Smith,17
+1581,214,3448,3,983021038,Good Morning,1987,Comedy|Drama|War,Patrick,Smith,17
+1582,214,3481,4,981197676,High Fidelity,2000,Comedy|Drama|Romance,Patrick,Smith,17
+1583,214,3513,3,981197990,Rules of Engagement,2000,Drama|Thriller,Patrick,Smith,17
+1584,214,3578,3,981197766,Gladiator,2000,Action|Adventure|Drama,Patrick,Smith,17
+1585,214,3617,3,1109978013,Road Trip,2000,Comedy,Patrick,Smith,17
+1586,214,3623,3,983022898,Mission: Impossible II,2000,Action|Adventure|Thriller,Patrick,Smith,17
+1587,214,3751,3,981197539,Chicken Run,2000,Animation|Children|Comedy,Patrick,Smith,17
+1588,214,3793,3,981199726,X-Men,2000,Action|Adventure|Sci-Fi,Patrick,Smith,17
+1589,214,3869,3,983025569,Naked Gun 2 1/2: The Smell of Fear,1991,Comedy,Patrick,Smith,17
+1590,214,3952,3,1101575470,Contender,2000,Drama|Thriller,Patrick,Smith,17
+1591,214,3977,3,1142203655,Charlie's Angels,2000,Action|Comedy,Patrick,Smith,17
+1592,214,3996,4,1170579273,Crouching Tiger,2000,Action|Drama|Romance,Patrick,Smith,17
+1593,214,4011,3,1206211736,Snatch,2000,Comedy|Crime|Thriller,Patrick,Smith,17
+1594,214,4019,2,1139762192,Finding Forrester,2000,Drama,Patrick,Smith,17
+1595,214,4022,4,1186841003,Cast Away,2000,Drama,Patrick,Smith,17
+1596,214,4034,3,983114687,Traffic,2000,Crime|Drama|Thriller,Patrick,Smith,17
+1597,214,4084,2,983026735,Beverly Hills Cop II,1987,Action|Comedy|Crime|Thriller,Patrick,Smith,17
+1598,214,4085,2,983018636,Beverly Hills Cop,1984,Action|Comedy|Crime|Drama,Patrick,Smith,17
+1599,214,4223,4,1109408780,Enemy at the Gates,2001,Drama|War,Patrick,Smith,17
+1600,214,4226,4,1081515286,Memento,2000,Mystery|Thriller,Patrick,Smith,17
+1601,214,4239,4,1211737459,Blow,2001,Crime|Drama,Patrick,Smith,17
+1602,214,4246,3,1104263227,Bridget Jones's Diary,2001,Comedy|Drama|Romance,Patrick,Smith,17
+1603,214,4306,4,995832732,Shrek,2001,Adventure|Animation|Children|Comedy|Fantasy|Romance,Patrick,Smith,17
+1604,214,4308,4,1002367627,Moulin Rouge,2001,Drama|Musical|Romance,Patrick,Smith,17
+1605,214,4446,4,997602197,Final Fantasy: The Spirits Within,2001,Adventure|Animation|Fantasy|Sci-Fi,Patrick,Smith,17
+1606,214,4448,3,1240143027,Score,2001,Action|Drama,Patrick,Smith,17
+1607,214,4734,2,1175023325,Jay and Silent Bob Strike Back,2001,Adventure|Comedy,Patrick,Smith,17
+1608,214,4776,4,1179683040,Training Day,2001,Crime|Drama|Thriller,Patrick,Smith,17
+1609,214,4874,3,1147598030,K-PAX,2001,Drama|Fantasy|Mystery|Sci-Fi,Patrick,Smith,17
+1610,214,4878,5,1104261290,Donnie Darko,2001,Drama|Mystery|Sci-Fi|Thriller,Patrick,Smith,17
+1611,214,4886,4,1166372316,Monsters,2001,Adventure|Animation|Children|Comedy|Fantasy,Patrick,Smith,17
+1612,214,4958,3,1239447593,Behind Enemy Lines,2001,Action|Drama|War,Patrick,Smith,17
+1613,214,4963,4,1136728913,Ocean's Eleven,2001,Crime|Thriller,Patrick,Smith,17
+1614,214,4975,2,1114371741,Vanilla Sky,2001,Mystery|Romance|Sci-Fi|Thriller,Patrick,Smith,17
+1615,214,4979,4,1129662665,Royal Tenenbaums,2001,Comedy|Drama,Patrick,Smith,17
+1616,214,4993,4,1164482069,Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy,Patrick,Smith,17
+1617,214,4995,4,1104263222,Beautiful Mind,2001,Drama|Romance,Patrick,Smith,17
+1618,214,5010,4,1081513690,Black Hawk Down,2001,Action|Drama|War,Patrick,Smith,17
+1619,214,5107,3,1148206568,Hart's War,2002,Drama|War,Patrick,Smith,17
+1620,214,5152,2,1163287853,We Were Soldiers,2002,Action|Drama|War,Patrick,Smith,17
+1621,214,5219,2,1106384299,Resident Evil,2002,Action|Horror|Sci-Fi|Thriller,Patrick,Smith,17
+1622,214,5349,3,1152446313,Spider-Man,2002,Action|Adventure|Sci-Fi|Thriller,Patrick,Smith,17
+1623,214,5378,3,1228684041,Star Wars: Episode II - Attack of the Clones,2002,Action|Adventure|Sci-Fi|IMAX,Patrick,Smith,17
+1624,214,5388,4,1134941892,Insomnia,2002,Action|Crime|Drama|Mystery|Thriller,Patrick,Smith,17

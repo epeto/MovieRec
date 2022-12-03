@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+1375,214,288,5,981197046,Natural Born Killers,1994,Action|Crime|Thriller,Patrick,Smith,17
+1376,214,292,3,983024983,Outbreak,1995,Action|Drama|Sci-Fi|Thriller,Patrick,Smith,17
+1377,214,293,4,983020025,Léon: The Professional (a.k.a. The Professional) (Léon),1994,Action|Crime|Drama|Thriller,Patrick,Smith,17
+1378,214,296,5,981198317,Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,Patrick,Smith,17
+1379,214,315,2,983030196,Specialist,1994,Action|Drama|Thriller,Patrick,Smith,17
+1380,214,318,3,1000073917,Shawshank Redemption,1994,Crime|Drama,Patrick,Smith,17
+1381,214,333,2,987494181,Tommy Boy,1995,Comedy,Patrick,Smith,17
+1382,214,344,2,1081513670,Ace Ventura: Pet Detective,1994,Comedy,Patrick,Smith,17
+1383,214,349,3,1091555746,Clear and Present Danger,1994,Action|Crime|Drama|Thriller,Patrick,Smith,17
+1384,214,353,3,983021115,Crow,1994,Action|Crime|Fantasy|Thriller,Patrick,Smith,17
+1385,214,356,4,983023652,Forrest Gump,1994,Comedy|Drama|Romance|War,Patrick,Smith,17
+1386,214,367,3,983024558,Mask,1994,Action|Comedy|Crime|Fantasy,Patrick,Smith,17
+1387,214,368,3,1140206026,Maverick,1994,Adventure|Comedy|Western,Patrick,Smith,17
+1388,214,370,3,983028154,Naked Gun 33 1/3: The Final Insult,1994,Action|Comedy,Patrick,Smith,17
+1389,214,377,1,983021877,Speed,1994,Action|Romance|Thriller,Patrick,Smith,17
+1390,214,380,3,983025770,True Lies,1994,Action|Adventure|Comedy|Romance|Thriller,Patrick,Smith,17
+1391,214,405,1,983030069,Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension),1994,Action|Fantasy,Patrick,Smith,17
+1392,214,410,3,983022023,Addams Family Values,1993,Children|Comedy|Fantasy,Patrick,Smith,17
+1393,214,420,2,983029850,Beverly Hills Cop III,1994,Action|Comedy|Crime|Thriller,Patrick,Smith,17
+1394,214,423,2,983024725,Blown Away,1994,Action|Thriller,Patrick,Smith,17
+1395,214,442,4,983026847,Demolition Man,1993,Action|Adventure|Sci-Fi,Patrick,Smith,17
+1396,214,454,3,983020680,Firm,1993,Drama|Thriller,Patrick,Smith,17
+1397,214,455,1,983029850,Free Willy,1993,Adventure|Children|Drama,Patrick,Smith,17
+1398,214,457,3,983019183,Fugitive,1993,Thriller,Patrick,Smith,17
+1399,214,471,4,1081514754,Hudsucker Proxy,1994,Comedy,Patrick,Smith,17
+1400,214,474,3,983018571,In the Line of Fire,1993,Action|Thriller,Patrick,Smith,17
+1401,214,480,3,983022050,Jurassic Park,1993,Action|Adventure|Sci-Fi|Thriller,Patrick,Smith,17
+1402,214,485,2,983029427,Last Action Hero,1993,Action|Adventure|Comedy|Fantasy,Patrick,Smith,17
+1403,214,527,3,981198357,Schindler's List,1993,Drama|War,Patrick,Smith,17
+1404,214,539,3,983025770,Sleepless in Seattle,1993,Comedy|Drama|Romance,Patrick,Smith,17
+1405,214,541,4,983017464,Blade Runner,1982,Action|Sci-Fi|Thriller,Patrick,Smith,17
+1406,214,546,1,983031250,Super Mario Bros.,1993,Action|Adventure|Children|Comedy|Fantasy|Sci-Fi,Patrick,Smith,17
+1407,214,586,2,983027801,Home Alone,1990,Children|Comedy,Patrick,Smith,17
+1408,214,589,3,983018703,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Patrick,Smith,17
+1409,214,590,3,983021338,Dances with Wolves,1990,Adventure|Drama|Western,Patrick,Smith,17
+1410,214,592,3,983021155,Batman,1989,Action|Crime|Thriller,Patrick,Smith,17
+1411,214,593,4,983017038,Silence of the Lambs,1991,Crime|Horror|Thriller,Patrick,Smith,17
+1412,214,597,2,983024851,Pretty Woman,1990,Comedy|Romance,Patrick,Smith,17
+1413,214,608,4,983017382,Fargo,1996,Comedy|Crime|Drama|Thriller,Patrick,Smith,17
+1414,214,647,3,983021076,Courage Under Fire,1996,Action|Crime|Drama|War,Patrick,Smith,17
+1415,214,648,3,1104263175,Mission: Impossible,1996,Action|Adventure|Mystery|Thriller,Patrick,Smith,17
+1416,214,733,3,1149978535,Rock,1996,Action|Adventure|Thriller,Patrick,Smith,17
+1417,214,741,3,1521922249,Ghost in the Shell (Kôkaku kidôtai),1995,Animation|Sci-Fi,Patrick,Smith,17
+1418,214,762,2,983029827,Striptease,1996,Comedy|Crime,Patrick,Smith,17
+1419,214,778,3,983019089,Trainspotting,1996,Comedy|Crime|Drama,Patrick,Smith,17
+1420,214,780,3,983024774,Independence Day (a.k.a. ID4),1996,Action|Adventure|Sci-Fi|Thriller,Patrick,Smith,17
+1421,214,785,2,983021240,Kingpin,1996,Comedy,Patrick,Smith,17
+1422,214,786,2,983026910,Eraser,1996,Action|Drama|Thriller,Patrick,Smith,17
+1423,214,788,1,983026258,Nutty Professor,1996,Comedy|Fantasy|Romance|Sci-Fi,Patrick,Smith,17
+1424,214,805,3,983020288,Time to Kill,1996,Drama|Thriller,Patrick,Smith,17
+1425,214,832,2,983021981,Ransom,1996,Crime|Thriller,Patrick,Smith,17
+1426,214,836,3,983029613,Chain Reaction,1996,Action|Adventure|Thriller,Patrick,Smith,17
+1427,214,875,3,983020228,Nothing to Lose,1994,Action|Crime|Drama,Patrick,Smith,17
+1428,214,924,5,1104262526,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Patrick,Smith,17
+1429,214,1036,3,1104263161,Die Hard,1988,Action|Crime|Thriller,Patrick,Smith,17
+1430,214,1037,2,1388944229,Lawnmower Man,1992,Action|Horror|Sci-Fi|Thriller,Patrick,Smith,17
+1431,214,1047,3,983021431,Long Kiss Goodnight,1996,Action|Drama|Thriller,Patrick,Smith,17
+1432,214,1059,5,1081513461,William Shakespeare's Romeo + Juliet,1996,Drama|Romance,Patrick,Smith,17
+1433,214,1079,3,983018277,Fish Called Wanda,1988,Comedy|Crime,Patrick,Smith,17
+1434,214,1080,4,983018087,Monty Python's Life of Brian,1979,Comedy,Patrick,Smith,17
+1435,214,1088,2,983024725,Dirty Dancing,1987,Drama|Musical|Romance,Patrick,Smith,17
+1436,214,1089,5,981198317,Reservoir Dogs,1992,Crime|Mystery|Thriller,Patrick,Smith,17
+1437,214,1090,4,1081515283,Platoon,1986,Drama|War,Patrick,Smith,17
+1438,214,1092,3,983024851,Basic Instinct,1992,Crime|Mystery|Thriller,Patrick,Smith,17
+1439,214,1094,3,983020352,Crying Game,1992,Drama|Romance|Thriller,Patrick,Smith,17
+1440,214,1100,3,983027515,Days of Thunder,1990,Action|Drama|Romance,Patrick,Smith,17
+1441,214,1101,2,983021981,Top Gun,1986,Action|Romance,Patrick,Smith,17
+1442,214,1127,2,1114802723,Abyss,1989,Action|Adventure|Sci-Fi|Thriller,Patrick,Smith,17
+1443,214,1136,4,983017910,Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,Patrick,Smith,17
+1444,214,1196,3,983018198,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,Patrick,Smith,17
+1445,214,1198,1,983017582,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action|Adventure,Patrick,Smith,17
+1446,214,1200,4,983018485,Aliens,1986,Action|Adventure|Horror|Sci-Fi,Patrick,Smith,17
+1447,214,1208,5,1104261121,Apocalypse Now,1979,Action|Drama|War,Patrick,Smith,17
+1448,214,1210,3,983020078,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Sci-Fi,Patrick,Smith,17
+1449,214,1214,4,983017582,Alien,1979,Horror|Sci-Fi,Patrick,Smith,17
+1450,214,1222,4,983017787,Full Metal Jacket,1987,Drama|War,Patrick,Smith,17
+1451,214,1240,3,983018087,Terminator,1984,Action|Sci-Fi|Thriller,Patrick,Smith,17
+1452,214,1259,3,1183917394,Stand by Me,1986,Adventure|Drama,Patrick,Smith,17
+1453,214,1265,3,983016861,Groundhog Day,1993,Comedy|Fantasy|Romance,Patrick,Smith,17
+1454,214,1270,2,983020320,Back to the Future,1985,Adventure|Comedy|Sci-Fi,Patrick,Smith,17
+1455,214,1275,2,983021981,Highlander,1986,Action|Adventure|Fantasy,Patrick,Smith,17
+1456,214,1291,1,983019838,Indiana Jones and the Last Crusade,1989,Action|Adventure,Patrick,Smith,17
+1457,214,1320,3,983026106,Alien³ (a.k.a. Alien 3),1992,Action|Horror|Sci-Fi|Thriller,Patrick,Smith,17
+1458,214,1339,3,983024893,Dracula (Bram Stoker's Dracula),1992,Fantasy|Horror|Romance|Thriller,Patrick,Smith,17
+1459,214,1356,3,983021484,Star Trek: First Contact,1996,Action|Adventure|Sci-Fi|Thriller,Patrick,Smith,17
+1460,214,1374,3,983021155,Star Trek II: The Wrath of Khan,1982,Action|Adventure|Sci-Fi|Thriller,Patrick,Smith,17
+1461,214,1375,3,983024254,Star Trek III: The Search for Spock,1984,Action|Adventure|Sci-Fi,Patrick,Smith,17
+1462,214,1376,3,983021484,Star Trek IV: The Voyage Home,1986,Adventure|Comedy|Sci-Fi,Patrick,Smith,17
+1463,214,1377,2,983024254,Batman Returns,1992,Action|Crime,Patrick,Smith,17
+1464,214,1385,2,983026106,Under Siege,1992,Action|Drama|Thriller,Patrick,Smith,17
+1465,214,1391,5,1250329214,Mars Attacks!,1996,Action|Comedy|Sci-Fi,Patrick,Smith,17
+1466,214,1393,3,983016899,Jerry Maguire,1996,Drama|Romance,Patrick,Smith,17
+1467,214,1396,3,1110137058,Sneakers,1992,Action|Comedy|Crime|Drama|Sci-Fi,Patrick,Smith,17
+1468,214,1405,3,983023202,Beavis and Butt-Head Do America,1996,Adventure|Animation|Comedy|Crime,Patrick,Smith,17
+1469,214,1407,3,983020626,Scream,1996,Comedy|Horror|Mystery|Thriller,Patrick,Smith,17
+1470,214,1466,4,1120373226,Donnie Brasco,1997,Crime|Drama,Patrick,Smith,17
+1471,214,1485,2,983023012,Liar Liar,1997,Comedy,Patrick,Smith,17
+1472,214,1500,4,1104261169,Grosse Pointe Blank,1997,Comedy|Crime|Romance,Patrick,Smith,17
+1473,214,1517,3,983020811,Austin Powers: International Man of Mystery,1997,Action|Adventure|Comedy,Patrick,Smith,17
+1474,214,1518,3,1117324617,Breakdown,1997,Action|Thriller,Patrick,Smith,17
+1475,214,1527,5,1138747045,Fifth Element,1997,Action|Adventure|Comedy|Sci-Fi,Patrick,Smith,17
+1476,214,1544,3,1104263172,Lost World: Jurassic Park,1997,Action|Adventure|Sci-Fi|Thriller,Patrick,Smith,17
+1477,214,1552,2,983027737,Con Air,1997,Action|Adventure|Thriller,Patrick,Smith,17
+1478,214,1562,2,983030483,Batman & Robin,1997,Action|Adventure|Fantasy|Thriller,Patrick,Smith,17
+1479,214,1580,4,983022224,Men in Black (a.k.a. MIB),1997,Action|Comedy|Sci-Fi,Patrick,Smith,17
+1480,214,1584,3,983021981,Contact,1997,Drama|Sci-Fi,Patrick,Smith,17
+1481,214,1586,2,983025806,G.I. Jane,1997,Action|Drama,Patrick,Smith,17
+1482,214,1608,3,983025924,Air Force One,1997,Action|Thriller,Patrick,Smith,17
+1483,214,1610,3,1104263167,Hunt for Red October,1990,Action|Adventure|Thriller,Patrick,Smith,17
+1484,214,1616,3,1081513769,Peacemaker,1997,Action|Thriller|War,Patrick,Smith,17
+1485,214,1617,5,1136415511,L.A. Confidential,1997,Crime|Film-Noir|Mystery|Thriller,Patrick,Smith,17
+1486,214,1625,4,1131278249,Game,1997,Drama|Mystery|Thriller,Patrick,Smith,17
+1487,214,1641,2,981199079,Full Monty,1997,Comedy|Drama,Patrick,Smith,17
+1488,214,1653,4,983019718,Gattaca,1997,Drama|Sci-Fi|Thriller,Patrick,Smith,17
+1489,214,1665,2,983470212,Bean,1997,Comedy,Patrick,Smith,17
+1490,214,1676,3,983024851,Starship Troopers,1997,Action|Sci-Fi,Patrick,Smith,17
+1491,214,1682,3,983020601,Truman Show,1998,Comedy|Drama|Sci-Fi,Patrick,Smith,17
+1492,214,1687,3,983025806,Jackal,1997,Action|Thriller,Patrick,Smith,17
+1493,214,1690,3,983025194,Alien: Resurrection,1997,Action|Horror|Sci-Fi,Patrick,Smith,17
+1494,214,1704,4,1081515401,Good Will Hunting,1997,Drama|Romance,Patrick,Smith,17
+1495,214,1721,3,1511816535,Titanic,1997,Drama|Romance,Patrick,Smith,17
+1496,214,1722,3,983021799,Tomorrow Never Dies,1997,Action|Adventure|Thriller,Patrick,Smith,17
+1497,214,1732,5,1104261283,Big Lebowski,1998,Comedy|Crime,Patrick,Smith,17
+1498,214,1747,4,1081514988,Wag the Dog,1997,Comedy,Patrick,Smith,17
+1499,214,1748,3,1111876772,Dark City,1998,Adventure|Film-Noir|Sci-Fi|Thriller,Patrick,Smith,17

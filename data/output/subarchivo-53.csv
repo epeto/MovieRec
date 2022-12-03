@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+6500,428,3578,3,1002384019,Gladiator,2000,Action|Adventure|Drama,Grady,Smith,58
+6501,428,3617,4,1002384134,Road Trip,2000,Comedy,Grady,Smith,58
+6502,428,3623,2,1002384082,Mission: Impossible II,2000,Action|Adventure|Thriller,Grady,Smith,58
+6503,428,3639,2,1005325102,Man with the Golden Gun,1974,Action|Adventure|Thriller,Grady,Smith,58
+6504,428,3697,3,1005325196,Predator 2,1990,Action|Sci-Fi|Thriller,Grady,Smith,58
+6505,428,3702,3,1005323622,Mad Max,1979,Action|Adventure|Sci-Fi,Grady,Smith,58
+6506,428,3703,4,1005323475,Road Warrior,1981,Action|Adventure|Sci-Fi|Thriller,Grady,Smith,58
+6507,428,3717,4,1002384019,Gone in 60 Seconds,2000,Action|Crime,Grady,Smith,58
+6508,428,3751,5,1005323345,Chicken Run,2000,Animation|Children|Comedy,Grady,Smith,58
+6509,428,3753,2,1002384111,Patriot,2000,Action|Drama|War,Grady,Smith,58
+6510,428,3793,2,1002384189,X-Men,2000,Action|Adventure|Sci-Fi,Grady,Smith,58
+6511,428,3869,4,1005325394,Naked Gun 2 1/2: The Smell of Fear,1991,Comedy,Grady,Smith,58
+6512,428,3977,3,1002383954,Charlie's Angels,2000,Action|Comedy,Grady,Smith,58
+6513,428,3984,3,1005323944,Diamonds Are Forever,1971,Action|Adventure|Thriller,Grady,Smith,58
+6514,428,3994,4,1005324315,Unbreakable,2000,Drama|Sci-Fi,Grady,Smith,58
+6515,428,4005,3,1005325442,Living Daylights,1987,Action|Adventure|Thriller,Grady,Smith,58
+6516,428,4011,5,1005323769,Snatch,2000,Comedy|Crime|Thriller,Grady,Smith,58
+6517,428,4022,3,1002383954,Cast Away,2000,Drama,Grady,Smith,58
+6518,428,4367,1,1005327472,Lara Croft: Tomb Raider,2001,Action|Adventure,Grady,Smith,58
+6519,428,4638,3,1005327498,Jurassic Park III,2001,Action|Adventure|Sci-Fi|Thriller,Grady,Smith,58
+6520,428,4643,3,1005326675,Planet of the Apes,2001,Action|Adventure|Drama|Sci-Fi,Grady,Smith,58
+6521,428,1193,5,1005313471,One Flew Over the Cuckoo's Nest,1975,Drama,Grady,Smith,58
+6522,428,2329,4,1002382119,American History X,1998,Crime|Drama,Grady,Smith,58
+6523,428,111,5,1005313588,Taxi Driver,1976,Crime|Drama|Thriller,Grady,Smith,58
+6524,428,208,3,1002381428,Waterworld,1995,Action|Adventure|Sci-Fi,Grady,Smith,58
+6525,428,337,4,1005322958,What's Eating Gilbert Grape,1993,Drama,Grady,Smith,58
+6526,428,3986,3,1002383892,6th Day,2000,Action|Sci-Fi|Thriller,Grady,Smith,58
+6527,428,551,5,1002381967,Nightmare Before Christmas,1993,Animation|Children|Fantasy|Musical,Grady,Smith,58
+6528,428,904,4,1005313539,Rear Window,1954,Mystery|Thriller,Grady,Smith,58
+6529,428,912,4,1005313488,Casablanca,1942,Drama|Romance,Grady,Smith,58
+6530,428,913,3,1005313727,Maltese Falcon,1941,Film-Noir|Mystery,Grady,Smith,58
+6531,428,923,4,1005313383,Citizen Kane,1941,Drama|Mystery,Grady,Smith,58
+6532,428,1206,5,1002381829,Clockwork Orange,1971,Crime|Drama|Sci-Fi|Thriller,Grady,Smith,58
+6533,428,1219,5,1002381702,Psycho,1960,Crime|Horror,Grady,Smith,58
+6534,428,1223,4,1005313630,Grand Day Out with Wallace and Gromit,1989,Adventure|Animation|Children|Comedy|Sci-Fi,Grady,Smith,58
+6535,428,1225,5,1005314030,Amadeus,1984,Drama,Grady,Smith,58
+6536,428,1230,5,1002381906,Annie Hall,1977,Comedy|Romance,Grady,Smith,58
+6537,428,1234,5,1002382026,Sting,1973,Comedy|Crime,Grady,Smith,58
+6538,428,1247,4,1002381829,Graduate,1967,Comedy|Drama|Romance,Grady,Smith,58
+6539,428,1258,5,1002382350,Shining,1980,Horror,Grady,Smith,58
+6540,428,1288,5,1002382073,This Is Spinal Tap,1984,Comedy,Grady,Smith,58
+6541,428,2324,5,1002382167,Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,Grady,Smith,58
+6542,428,720,5,1002381614,Wallace & Gromit: The Best of Aardman Animation,1996,Adventure|Animation|Comedy,Grady,Smith,58
+6543,428,2968,4,1005323311,Time Bandits,1981,Adventure|Comedy|Fantasy|Sci-Fi,Grady,Smith,58
+6544,428,1281,5,1002382151,Great Dictator,1940,Comedy|Drama|War,Grady,Smith,58
+6545,428,3267,4,1002383833,Mariachi,1992,Action|Crime|Thriller|Western,Grady,Smith,58
+6546,428,232,4,1002383579,Eat Drink Man Woman (Yin shi nan nu),1994,Comedy|Drama|Romance,Grady,Smith,58
+6547,428,235,4,1002382302,Ed Wood,1994,Comedy|Drama,Grady,Smith,58
+6548,428,300,4,1002381459,Quiz Show,1994,Drama,Grady,Smith,58
+6549,428,468,4,1005326242,Englishman Who Went Up a Hill But Came Down a Mountain,1995,Comedy|Romance,Grady,Smith,58
+6550,428,357,4,1002381428,Four Weddings and a Funeral,1994,Comedy|Romance,Grady,Smith,58
+6551,428,507,4,1005323882,Perfect World,1993,Crime|Drama|Thriller,Grady,Smith,58
+6552,428,1129,3,1005324753,Escape from New York,1981,Action|Adventure|Sci-Fi|Thriller,Grady,Smith,58
+6553,428,1135,3,1005324365,Private Benjamin,1980,Comedy,Grady,Smith,58
+6554,428,1201,5,1005314230,Good,1966,Action|Adventure|Western,Grady,Smith,58
+6555,428,1245,4,1002382102,Miller's Crossing,1990,Crime|Drama|Film-Noir|Thriller,Grady,Smith,58
+6556,428,953,3,1002381741,It's a Wonderful Life,1946,Children|Drama|Fantasy|Romance,Grady,Smith,58
+6557,428,3271,3,1002382439,Of Mice and Men,1992,Drama,Grady,Smith,58
+6558,428,1120,4,1002383679,People vs. Larry Flynt,1996,Comedy|Drama,Grady,Smith,58
+6559,428,2455,4,1005324582,Fly,1986,Drama|Horror|Sci-Fi|Thriller,Grady,Smith,58
+6560,428,194,4,1002383564,Smoke,1995,Comedy|Drama,Grady,Smith,58
+6561,428,1097,4,1002381459,E.T. the Extra-Terrestrial,1982,Children|Drama|Sci-Fi,Grady,Smith,58
+6562,428,2677,4,1005314333,Buena Vista Social Club,1999,Documentary|Musical,Grady,Smith,58
+6563,428,3471,5,1002382328,Close Encounters of the Third Kind,1977,Adventure|Drama|Sci-Fi,Grady,Smith,58
+6564,428,1246,4,1005324208,Dead Poets Society,1989,Drama,Grady,Smith,58
+6565,428,2427,4,1005323345,Thin Red Line,1998,Action|Drama|War,Grady,Smith,58
+6566,428,1261,4,1005323081,Evil Dead II (Dead by Dawn),1987,Action|Comedy|Fantasy|Horror,Grady,Smith,58
+6567,428,1387,4,1002381994,Jaws,1975,Action|Horror,Grady,Smith,58
+6568,428,1982,5,1005324549,Halloween,1978,Horror,Grady,Smith,58
+6569,428,1997,3,1002382290,Exorcist,1973,Horror|Mystery,Grady,Smith,58
+6570,428,3160,5,1002382026,Magnolia,1999,Drama,Grady,Smith,58
+6571,428,3499,4,1005324136,Misery,1990,Drama|Horror|Thriller,Grady,Smith,58
+6572,428,4027,5,1002383530,O Brother,2000,Adventure|Comedy|Crime,Grady,Smith,58
+6573,428,4105,5,1005323401,Evil Dead,1981,Fantasy|Horror|Thriller,Grady,Smith,58
+6574,428,1276,4,1002382073,Cool Hand Luke,1967,Drama,Grady,Smith,58
+6575,428,2321,4,1005323522,Pleasantville,1998,Comedy|Drama|Fantasy,Grady,Smith,58
+6576,428,3174,4,1002384072,Man on the Moon,1999,Comedy|Drama,Grady,Smith,58
+6577,428,3176,3,1002384169,Talented Mr. Ripley,1999,Drama|Mystery|Thriller,Grady,Smith,58
+6578,428,247,4,1005322958,Heavenly Creatures,1994,Crime|Drama,Grady,Smith,58
+6579,428,2699,3,1002383907,Arachnophobia,1990,Comedy|Horror,Grady,Smith,58
+6580,428,3408,3,1002383993,Erin Brockovich,2000,Drama,Grady,Smith,58
+6581,428,1573,3,1005323452,Face/Off,1997,Action|Crime|Drama|Thriller,Grady,Smith,58
+6582,428,1042,4,1005325196,That Thing You Do!,1996,Comedy|Drama,Grady,Smith,58
+6583,428,1394,4,1002382051,Raising Arizona,1987,Comedy,Grady,Smith,58
+6584,428,2580,4,1002384019,Go,1999,Comedy|Crime,Grady,Smith,58
+6585,428,2671,3,1005325350,Notting Hill,1999,Comedy|Romance,Grady,Smith,58
+6586,428,2871,4,1002383564,Deliverance,1972,Adventure|Drama|Thriller,Grady,Smith,58
+6587,428,3198,4,1005323873,Papillon,1973,Crime|Drama,Grady,Smith,58
+6588,428,3543,4,1005313552,Diner,1982,Comedy|Drama,Grady,Smith,58
+6589,428,3633,3,1005325234,On Her Majesty's Secret Service,1969,Action|Adventure|Romance|Thriller,Grady,Smith,58
+6590,428,1298,5,1005325045,Pink Floyd: The Wall,1982,Drama|Musical,Grady,Smith,58
+6591,428,665,4,1005313503,Underground,1995,Comedy|Drama|War,Grady,Smith,58
+6592,428,1175,4,1002382222,Delicatessen,1991,Comedy|Drama|Romance,Grady,Smith,58
+6593,428,1263,4,1005323153,Deer Hunter,1978,Drama|War,Grady,Smith,58
+6594,428,2337,4,1002384202,Velvet Goldmine,1998,Drama,Grady,Smith,58
+6595,428,968,4,1002384098,Night of the Living Dead,1968,Horror|Sci-Fi|Thriller,Grady,Smith,58
+6596,428,1350,3,1005324570,Omen,1976,Horror|Mystery|Thriller,Grady,Smith,58
+6597,428,1587,4,1005326973,Conan the Barbarian,1982,Action|Adventure|Fantasy,Grady,Smith,58
+6598,428,2402,3,1005326582,Rambo: First Blood Part II,1985,Action|Adventure|Thriller,Grady,Smith,58
+6599,428,2517,4,1005325925,Christine,1983,Horror,Grady,Smith,58
+6600,428,2533,3,1005325091,Escape from the Planet of the Apes,1971,Action|Sci-Fi,Grady,Smith,58
+6601,428,3615,4,1002383981,Dinosaur,2000,Adventure|Animation|Children,Grady,Smith,58
+6602,428,4002,4,1005324173,Planes,1987,Comedy,Grady,Smith,58
+6603,428,29,4,1002382368,City of Lost Children,1995,Adventure|Drama|Fantasy|Mystery|Sci-Fi,Grady,Smith,58
+6604,428,308,4,1002383727,Three Colors: White (Trzy kolory: Bialy),1994,Comedy|Drama,Grady,Smith,58
+6605,428,1513,3,1002384134,Romy and Michele's High School Reunion,1997,Comedy,Grady,Smith,58
+6606,428,1693,4,1005326596,Amistad,1997,Drama|Mystery,Grady,Smith,58
+6607,428,2313,4,1002382302,Elephant Man,1980,Drama,Grady,Smith,58
+6608,428,3676,1,1002383727,Eraserhead,1977,Drama|Horror,Grady,Smith,58
+6609,428,4361,4,1002381804,Tootsie,1982,Comedy|Romance,Grady,Smith,58
+6610,428,1729,4,1005324123,Jackie Brown,1997,Crime|Drama|Thriller,Grady,Smith,58
+6611,428,3005,3,1002383938,Bone Collector,1999,Thriller,Grady,Smith,58
+6612,428,1176,5,1005314260,Double Life of Veronique,1991,Drama|Fantasy|Romance,Grady,Smith,58
+6613,428,714,4,1002382247,Dead Man,1995,Drama|Mystery|Western,Grady,Smith,58
+6614,428,1701,5,1005324508,Deconstructing Harry,1997,Comedy|Drama,Grady,Smith,58
+6615,428,3152,4,1005314269,Last Picture Show,1971,Drama,Grady,Smith,58
+6616,428,4628,5,1005324173,New York Stories,1989,Comedy|Drama,Grady,Smith,58
+6617,428,3524,3,1005324488,Arthur,1981,Comedy|Romance,Grady,Smith,58
+6618,428,3752,3,1002384072,Me,2000,Adventure|Comedy,Grady,Smith,58
+6619,428,2995,2,1002384035,House on Haunted Hill,1999,Horror|Thriller,Grady,Smith,58
+6620,428,1260,5,1005313397,M,1931,Crime|Film-Noir|Thriller,Grady,Smith,58
+6621,428,4489,3,1005324768,Coming to America,1988,Comedy|Romance,Grady,Smith,58
+6622,428,2951,4,1005324397,Fistful of Dollars,1964,Action|Western,Grady,Smith,58
+6623,428,1354,4,1002383653,Breaking the Waves,1996,Drama|Mystery,Grady,Smith,58
+6624,428,1680,4,1005324335,Sliding Doors,1998,Drama|Romance,Grady,Smith,58

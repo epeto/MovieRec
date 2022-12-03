@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+2875,214,114635,5,1533940055,Look of Silence,2014,Documentary,Patrick,Smith,17
+2876,214,115170,3,1427578953,Judge,2014,Drama,Patrick,Smith,17
+2877,214,118246,4,1535186781,Clouds of Sils Maria,2014,Drama,Patrick,Smith,17
+2878,214,122906,3,1518985270,Black Panther,2017,Action|Adventure|Sci-Fi,Patrick,Smith,17
+2879,214,122926,3,1499640520,Untitled Spider-Man Reboot,2017,Action|Adventure|Fantasy,Patrick,Smith,17
+2880,214,127108,4,1527978127,Brooklyn,2015,Drama|Romance,Patrick,Smith,17
+2881,214,127130,3,1439759373,Mistress America,2015,Comedy,Patrick,Smith,17
+2882,214,128606,3,1441486138,45 Years,2015,Drama,Patrick,Smith,17
+2883,214,128620,4,1518295888,Victoria,2015,Crime|Drama|Romance,Patrick,Smith,17
+2884,214,130578,3,1515798703,Gunman,2015,Action|Thriller,Patrick,Smith,17
+2885,214,134796,4,1519571710,Bitter Lake,2015,Documentary,Patrick,Smith,17
+2886,214,136449,4,1525376937,Ghost in the Shell 2.0,2008,Action|Animation|Sci-Fi,Patrick,Smith,17
+2887,214,137337,5,1438533358,Amy,2015,Documentary,Patrick,Smith,17
+2888,214,143367,3,1484424714,Silence,2016,Drama|Thriller,Patrick,Smith,17
+2889,214,149334,3,1476479858,Nocturnal Animals,2016,Drama|Thriller,Patrick,Smith,17
+2890,214,150284,3,1507536939,Everyday,2012,Drama,Patrick,Smith,17
+2891,214,152065,4,1466151211,Embrace of the Serpent,2016,Adventure|Drama,Patrick,Smith,17
+2892,214,152970,3,1525211812,Hunt for the Wilderpeople,2016,Adventure|Comedy,Patrick,Smith,17
+2893,214,155064,3,1468101766,The Neon Demon,2016,Drama|Horror|Mystery,Patrick,Smith,17
+2894,214,158972,4,1487457263,Toni Erdmann,2016,Drama,Patrick,Smith,17
+2895,214,159193,4,1480882308,Café Society,2016,Comedy|Drama|Romance,Patrick,Smith,17
+2896,214,161954,3,1492205251,Anthropoid,2016,War,Patrick,Smith,17
+2897,214,161966,4,1475996410,Elle,2016,Thriller,Patrick,Smith,17
+2898,214,162414,4,1492205302,Moonlight,2016,Drama,Patrick,Smith,17
+2899,214,163068,2,1509890383,Killing Salazar,2016,Action,Patrick,Smith,17
+2900,214,163134,3,1518393160,Your Name.,2016,Animation|Drama|Fantasy|Romance,Patrick,Smith,17
+2901,214,163508,3,1489333214,Certain Women,2016,Drama,Patrick,Smith,17
+2902,214,163959,3,1492862899,Loving,2016,Drama,Patrick,Smith,17
+2903,214,165179,4,1507536365,Una,2016,Drama,Patrick,Smith,17
+2904,214,165549,3,1492205267,Manchester by the Sea,2016,Drama,Patrick,Smith,17
+2905,214,166643,4,1512924465,Hidden Figures,2016,Drama,Patrick,Smith,17
+2906,214,167426,4,1507448651,Manifesto,2015,Drama,Patrick,Smith,17
+2907,214,167794,4,1520112540,Frantz,2016,Drama,Patrick,Smith,17
+2908,214,169068,4,1507536327,All This Panic,2016,Documentary,Patrick,Smith,17
+2909,214,169984,3,1494705787,Alien: Covenant,2017,Action|Horror|Sci-Fi|Thriller,Patrick,Smith,17
+2910,214,169992,3,1492205193,Free Fire,2017,Action|Crime|Drama,Patrick,Smith,17
+2911,214,170355,4,1525378489,Mulholland Dr.,1999,Drama|Mystery|Romance,Patrick,Smith,17
+2912,214,173141,4,1507536478,The Stopover,2016,Drama,Patrick,Smith,17
+2913,214,173369,3,1520713799,You Were Never Really Here,2017,Drama,Patrick,Smith,17
+2914,214,175813,4,1525733949,Force Majeure,2014,Comedy|Drama,Patrick,Smith,17
+2915,214,176419,4,1506974502,Mother!,2017,Drama|Horror|Mystery|Thriller,Patrick,Smith,17
+2916,214,176921,3,1506236586,The Villainess,2017,Action|Drama,Patrick,Smith,17
+2917,214,177651,3,1533508938,The Florida Project,2017,Drama,Patrick,Smith,17
+2918,214,177689,3,1509913377,The Killing of a Sacred Deer,2017,Drama|Horror|Mystery|Thriller,Patrick,Smith,17
+2919,214,178401,3,1537593294,Lucky,2017,Drama,Patrick,Smith,17
+2920,214,179111,4,1526756315,Montparnasse Bienvenüe,2017,(no genres listed),Patrick,Smith,17
+2921,214,179119,4,1525370238,The Death of Stalin,2017,Comedy,Patrick,Smith,17
+2922,214,179133,4,1525370189,Loving Vincent,2017,Animation|Crime|Drama,Patrick,Smith,17
+2923,214,179135,5,1535302704,Blue Planet II,2017,Documentary,Patrick,Smith,17
+2924,214,180031,3,1531088431,The Shape of Water,2017,Adventure|Drama|Fantasy,Patrick,Smith,17
+2925,214,180297,4,1512850654,The Disaster Artist,2017,Comedy|Drama,Patrick,Smith,17
+2926,214,180451,4,1528922194,Sicilian Ghost Story,2017,Drama|Mystery,Patrick,Smith,17
+2927,214,181315,4,1518212561,Phantom Thread,2017,Drama|Romance,Patrick,Smith,17
+2928,214,182379,4,1512850716,Kingdom of Us,2017,Documentary,Patrick,Smith,17
+2929,214,183161,4,1522910827,Journeyman,2018,Drama,Patrick,Smith,17
+2930,214,183897,4,1522472313,Isle of Dogs,2018,Animation|Comedy,Patrick,Smith,17
+2931,214,185029,3,1524348666,A Quiet Place,2018,Drama|Horror|Thriller,Patrick,Smith,17
+2932,214,188213,4,1533588313,The Escape,2018,Drama,Patrick,Smith,17
+2933,214,189333,3,1533421611,Mission: Impossible - Fallout,2018,Action|Adventure|Thriller,Patrick,Smith,17
+2934,239,307,4,991627551,Three Colors: Blue (Trois couleurs: Bleu),1993,Drama,Jeremy,Smith,17
+2935,239,481,4,991625765,Kalifornia,1993,Drama|Thriller,Jeremy,Smith,17
+2936,239,1091,3,992922388,Weekend at Bernie's,1989,Comedy,Jeremy,Smith,17
+2937,239,1257,3,991628166,Better Off Dead...,1985,Comedy|Romance,Jeremy,Smith,17
+2938,239,1449,4,991710829,Waiting for Guffman,1996,Comedy,Jeremy,Smith,17
+2939,239,1590,2,991626038,Event Horizon,1997,Horror|Sci-Fi|Thriller,Jeremy,Smith,17
+2940,239,1591,2,1013382693,Spawn,1997,Action|Adventure|Sci-Fi|Thriller,Jeremy,Smith,17
+2941,239,2134,3,992921486,Weird Science,1985,Comedy|Fantasy|Sci-Fi,Jeremy,Smith,17
+2942,239,2478,1,992921486,¡Three Amigos!,1986,Comedy|Western,Jeremy,Smith,17
+2943,239,2840,4,991624441,Stigmata,1999,Drama|Thriller,Jeremy,Smith,17
+2944,239,2986,3,992923113,RoboCop 2,1990,Action|Crime|Sci-Fi|Thriller,Jeremy,Smith,17
+2945,239,3020,3,992921486,Falling Down,1993,Action|Drama,Jeremy,Smith,17
+2946,239,3424,2,991710765,Do the Right Thing,1989,Drama,Jeremy,Smith,17
+2947,239,3826,1,991624237,Hollow Man,2000,Horror|Sci-Fi|Thriller,Jeremy,Smith,17
+2948,239,3893,3,1015197693,Nurse Betty,2000,Comedy|Crime|Drama|Romance|Thriller,Jeremy,Smith,17
+2949,239,1186,3,991711574,Sex,1989,Drama,Jeremy,Smith,17
+2950,239,1235,5,1030921848,Harold and Maude,1971,Comedy|Drama|Romance,Jeremy,Smith,17
+2951,239,1244,2,1021416610,Manhattan,1979,Comedy|Drama|Romance,Jeremy,Smith,17
+2952,239,1663,3,991711111,Stripes,1981,Comedy|War,Jeremy,Smith,17
+2953,239,1962,3,991628166,Driving Miss Daisy,1989,Drama,Jeremy,Smith,17
+2954,239,2108,4,991710886,L.A. Story,1991,Comedy|Romance,Jeremy,Smith,17
+2955,239,2243,3,1012948837,Broadcast News,1987,Comedy|Drama|Romance,Jeremy,Smith,17
+2956,239,2352,3,991628105,Big Chill,1983,Comedy|Drama,Jeremy,Smith,17
+2957,239,2707,2,991624030,Arlington Road,1999,Thriller,Jeremy,Smith,17
+2958,239,2746,3,991712477,Little Shop of Horrors,1986,Comedy|Horror|Musical,Jeremy,Smith,17
+2959,239,2915,3,991711406,Risky Business,1983,Comedy,Jeremy,Smith,17
+2960,239,3363,3,991628021,American Graffiti,1973,Comedy|Drama,Jeremy,Smith,17
+2961,239,640,2,991626084,Diabolique,1996,Drama|Thriller,Jeremy,Smith,17
+2962,239,1221,5,991626410,Godfather: Part II,1974,Crime|Drama,Jeremy,Smith,17
+2963,239,1321,5,991722464,American Werewolf in London,1981,Comedy|Horror|Thriller,Jeremy,Smith,17
+2964,239,1645,3,991625536,The Devil's Advocate,1997,Drama|Mystery|Thriller,Jeremy,Smith,17
+2965,239,2024,3,1012948712,Rapture,1991,Drama|Mystery,Jeremy,Smith,17
+2966,239,2028,2,991710386,Saving Private Ryan,1998,Action|Drama|War,Jeremy,Smith,17
+2967,239,1,3,991626320,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy,Jeremy,Smith,17
+2968,239,2,2,991712477,Jumanji,1995,Adventure|Children|Fantasy,Jeremy,Smith,17
+2969,239,6,2,991625084,Heat,1995,Action|Crime|Thriller,Jeremy,Smith,17
+2970,239,10,3,991712653,GoldenEye,1995,Action|Adventure|Thriller,Jeremy,Smith,17
+2971,239,11,3,991711655,American President,1995,Comedy|Drama|Romance,Jeremy,Smith,17
+2972,239,16,4,991625174,Casino,1995,Crime|Drama,Jeremy,Smith,17
+2973,239,19,1,992923161,Ace Ventura: When Nature Calls,1995,Comedy,Jeremy,Smith,17
+2974,239,31,1,992921708,Dangerous Minds,1995,Drama,Jeremy,Smith,17
+2975,239,32,3,991628445,Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery|Sci-Fi|Thriller,Jeremy,Smith,17
+2976,239,34,4,991626492,Babe,1995,Children|Drama,Jeremy,Smith,17
+2977,239,36,3,991627474,Dead Man Walking,1995,Crime|Drama,Jeremy,Smith,17
+2978,239,39,3,991627747,Clueless,1995,Comedy|Romance,Jeremy,Smith,17
+2979,239,41,3,991627404,Richard III,1995,Drama|War,Jeremy,Smith,17
+2980,239,45,3,991712390,To Die For,1995,Comedy|Drama|Thriller,Jeremy,Smith,17
+2981,239,47,4.5,1055204315,Seven (a.k.a. Se7en),1995,Mystery|Thriller,Jeremy,Smith,17
+2982,239,50,5,990081768,Usual Suspects,1995,Crime|Mystery|Thriller,Jeremy,Smith,17
+2983,239,62,3,991712176,Mr. Holland's Opus,1995,Drama,Jeremy,Smith,17
+2984,239,65,1,992922855,Bio-Dome,1996,Comedy,Jeremy,Smith,17
+2985,239,70,2,991625765,From Dusk Till Dawn,1996,Action|Comedy|Horror|Thriller,Jeremy,Smith,17
+2986,239,95,1,991625853,Broken Arrow,1996,Action|Adventure|Thriller,Jeremy,Smith,17
+2987,239,100,3,991625536,City Hall,1996,Drama|Thriller,Jeremy,Smith,17
+2988,239,104,3,991711655,Happy Gilmore,1996,Comedy,Jeremy,Smith,17
+2989,239,110,5,990081644,Braveheart,1995,Action|Drama|War,Jeremy,Smith,17
+2990,239,141,3,991712101,Birdcage,1996,Comedy,Jeremy,Smith,17
+2991,239,150,3,991627815,Apollo 13,1995,Adventure|Drama|IMAX,Jeremy,Smith,17
+2992,239,151,3,991711338,Rob Roy,1995,Action|Drama|Romance|War,Jeremy,Smith,17
+2993,239,153,1,992922481,Batman Forever,1995,Action|Adventure|Comedy|Crime,Jeremy,Smith,17
+2994,239,165,2,991625647,Die Hard: With a Vengeance,1995,Action|Crime|Thriller,Jeremy,Smith,17
+2995,239,180,3,991724147,Mallrats,1995,Comedy|Romance,Jeremy,Smith,17
+2996,239,185,2,991723697,Net,1995,Action|Crime|Thriller,Jeremy,Smith,17
+2997,239,186,3,991623603,Nine Months,1995,Comedy|Romance,Jeremy,Smith,17
+2998,239,193,3,992922388,Showgirls,1995,Drama,Jeremy,Smith,17
+2999,239,198,3,991711819,Strange Days,1995,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,Jeremy,Smith,17

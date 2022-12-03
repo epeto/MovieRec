@@ -1,0 +1,126 @@
+idRating,userId,movieId,rating,timestamp,title,year,genres,name,lastname,age
+5875,408,541,4,915919664,Blade Runner,1982,Action|Sci-Fi|Thriller,Baylor,Smith,49
+5876,408,589,3,916091071,Terminator 2: Judgment Day,1991,Action|Sci-Fi,Baylor,Smith,49
+5877,408,590,4,915921544,Dances with Wolves,1990,Adventure|Drama|Western,Baylor,Smith,49
+5878,408,592,3,915923312,Batman,1989,Action|Crime|Thriller,Baylor,Smith,49
+5879,408,593,4,915920746,Silence of the Lambs,1991,Crime|Horror|Thriller,Baylor,Smith,49
+5880,408,597,1,916093300,Pretty Woman,1990,Comedy|Romance,Baylor,Smith,49
+5881,408,608,4,915920746,Fargo,1996,Comedy|Crime|Drama|Thriller,Baylor,Smith,49
+5882,408,647,4,915921544,Courage Under Fire,1996,Action|Crime|Drama|War,Baylor,Smith,49
+5883,408,858,5,915919184,Godfather,1972,Crime|Drama,Baylor,Smith,49
+5884,408,919,4,915918715,Wizard of Oz,1939,Adventure|Children|Fantasy|Musical,Baylor,Smith,49
+5885,408,924,2,915923630,2001: A Space Odyssey,1968,Adventure|Drama|Sci-Fi,Baylor,Smith,49
+5886,408,1080,3,915923036,Monty Python's Life of Brian,1979,Comedy,Baylor,Smith,49
+5887,408,1088,1,915923957,Dirty Dancing,1987,Drama|Musical|Romance,Baylor,Smith,49
+5888,408,1089,3,915922992,Reservoir Dogs,1992,Crime|Mystery|Thriller,Baylor,Smith,49
+5889,408,1090,5,915919924,Platoon,1986,Drama|War,Baylor,Smith,49
+5890,408,1092,2,916091521,Basic Instinct,1992,Crime|Mystery|Thriller,Baylor,Smith,49
+5891,408,1094,4,915922131,Crying Game,1992,Drama|Romance|Thriller,Baylor,Smith,49
+5892,408,1101,2,915919924,Top Gun,1986,Action|Romance,Baylor,Smith,49
+5893,408,1136,3,915922940,Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,Baylor,Smith,49
+5894,408,1196,3,915922822,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,Baylor,Smith,49
+5895,408,1198,3,915922758,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action|Adventure,Baylor,Smith,49
+5896,408,1200,3,915919631,Aliens,1986,Action|Adventure|Horror|Sci-Fi,Baylor,Smith,49
+5897,408,1203,4,915918347,12 Angry Men,1957,Drama,Baylor,Smith,49
+5898,408,1207,3,915922670,To Kill a Mockingbird,1962,Drama,Baylor,Smith,49
+5899,408,1208,4,915919335,Apocalypse Now,1979,Action|Drama|War,Baylor,Smith,49
+5900,408,1210,3,915922706,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Sci-Fi,Baylor,Smith,49
+5901,408,1220,3,915919802,Blues Brothers,1980,Action|Comedy|Musical,Baylor,Smith,49
+5902,408,1222,3,915919978,Full Metal Jacket,1987,Drama|War,Baylor,Smith,49
+5903,408,1240,2,916094335,Terminator,1984,Action|Sci-Fi|Thriller,Baylor,Smith,49
+5904,408,1242,3,915923355,Glory,1989,Drama|War,Baylor,Smith,49
+5905,408,1291,3,915923133,Indiana Jones and the Last Crusade,1989,Action|Adventure,Baylor,Smith,49
+5906,408,1339,2,916092733,Dracula (Bram Stoker's Dracula),1992,Fantasy|Horror|Romance|Thriller,Baylor,Smith,49
+5907,408,1356,3,915923036,Star Trek: First Contact,1996,Action|Adventure|Sci-Fi|Thriller,Baylor,Smith,49
+5908,408,1372,3,916091854,Star Trek VI: The Undiscovered Country,1991,Action|Mystery|Sci-Fi,Baylor,Smith,49
+5909,408,1374,3,915923133,Star Trek II: The Wrath of Khan,1982,Action|Adventure|Sci-Fi|Thriller,Baylor,Smith,49
+5910,408,1375,2,915923630,Star Trek III: The Search for Spock,1984,Action|Adventure|Sci-Fi,Baylor,Smith,49
+5911,408,1376,3,915923222,Star Trek IV: The Voyage Home,1986,Adventure|Comedy|Sci-Fi,Baylor,Smith,49
+5912,408,1393,2,915923781,Jerry Maguire,1996,Drama|Romance,Baylor,Smith,49
+5913,408,1584,3,915922992,Contact,1997,Drama|Sci-Fi,Baylor,Smith,49
+5914,408,1617,4,915921713,L.A. Confidential,1997,Crime|Film-Noir|Mystery|Thriller,Baylor,Smith,49
+5915,408,1641,3,915922992,Full Monty,1997,Comedy|Drama,Baylor,Smith,49
+5916,408,1673,2,915923736,Boogie Nights,1997,Drama,Baylor,Smith,49
+5917,408,1682,4,915920746,Truman Show,1998,Comedy|Drama|Sci-Fi,Baylor,Smith,49
+5918,408,1704,5,915920698,Good Will Hunting,1997,Drama|Romance,Baylor,Smith,49
+5919,408,1721,3,915920698,Titanic,1997,Drama|Romance,Baylor,Smith,49
+5920,408,1784,2,915923691,As Good as It Gets,1997,Comedy|Drama|Romance,Baylor,Smith,49
+5921,408,1921,2,916091106,Pi,1998,Drama|Sci-Fi|Thriller,Baylor,Smith,49
+5922,408,1961,3,915922822,Rain Man,1988,Drama,Baylor,Smith,49
+5923,408,1968,2,915923781,Breakfast Club,1985,Comedy|Drama,Baylor,Smith,49
+5924,408,2000,2,915923862,Lethal Weapon,1987,Action|Comedy|Crime|Drama,Baylor,Smith,49
+5925,408,2003,1,915923957,Gremlins,1984,Comedy|Horror,Baylor,Smith,49
+5926,408,2105,1,915923987,Tron,1982,Action|Adventure|Sci-Fi,Baylor,Smith,49
+5927,408,2115,2,915923861,Indiana Jones and the Temple of Doom,1984,Action|Adventure|Fantasy,Baylor,Smith,49
+5928,408,2140,4,915919598,Dark Crystal,1982,Adventure|Fantasy,Baylor,Smith,49
+5929,408,2150,3,915922706,Gods Must Be Crazy,1980,Adventure|Comedy,Baylor,Smith,49
+5930,408,2174,2,915923826,Beetlejuice,1988,Comedy|Fantasy,Baylor,Smith,49
+5931,408,2194,3,915919766,Untouchables,1987,Action|Crime|Drama,Baylor,Smith,49
+5932,408,2268,3,915922758,Few Good Men,1992,Crime|Drama|Thriller,Baylor,Smith,49
+5933,408,2391,3,915917746,Simple Plan,1998,Crime|Drama|Thriller,Baylor,Smith,49
+5934,408,2393,3,915917941,Star Trek: Insurrection,1998,Action|Drama|Romance|Sci-Fi,Baylor,Smith,49
+5935,408,2406,2,915923861,Romancing the Stone,1984,Action|Adventure|Comedy|Romance,Baylor,Smith,49
+5936,408,2470,2,915923781,Crocodile Dundee,1986,Adventure|Comedy,Baylor,Smith,49
+5937,408,1147,4,915921595,When We Were Kings,1996,Documentary,Baylor,Smith,49
+5938,408,1193,4,915919184,One Flew Over the Cuckoo's Nest,1975,Drama,Baylor,Smith,49
+5939,408,2329,5,915917816,American History X,1998,Crime|Drama,Baylor,Smith,49
+5940,408,111,2,915923455,Taxi Driver,1976,Crime|Drama|Thriller,Baylor,Smith,49
+5941,408,224,1,916092863,Don Juan DeMarco,1995,Comedy|Drama|Romance,Baylor,Smith,49
+5942,408,273,2,916093800,Mary Shelley's Frankenstein (Frankenstein),1994,Drama|Horror|Sci-Fi,Baylor,Smith,49
+5943,408,515,4,915921633,Remains of the Day,1993,Drama|Romance,Baylor,Smith,49
+5944,408,1041,2,915923691,Secrets & Lies,1996,Drama,Baylor,Smith,49
+5945,408,14,4,915922362,Nixon,1995,Drama,Baylor,Smith,49
+5946,408,52,3,915922608,Mighty Aphrodite,1995,Comedy|Drama|Romance,Baylor,Smith,49
+5947,408,1057,3,916092733,Everyone Says I Love You,1996,Comedy|Musical|Romance,Baylor,Smith,49
+5948,408,299,2,915923455,Priest,1994,Drama,Baylor,Smith,49
+5949,408,348,3,915923396,Bullets Over Broadway,1994,Comedy,Baylor,Smith,49
+5950,408,534,2,915923500,Shadowlands,1993,Drama|Romance,Baylor,Smith,49
+5951,408,551,4,915921361,Nightmare Before Christmas,1993,Animation|Children|Fantasy|Musical,Baylor,Smith,49
+5952,408,745,3,915923271,Wallace & Gromit: A Close Shave,1995,Animation|Children|Comedy,Baylor,Smith,49
+5953,408,750,5,915918915,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|War,Baylor,Smith,49
+5954,408,903,3,915918308,Vertigo,1958,Drama|Mystery|Romance|Thriller,Baylor,Smith,49
+5955,408,904,3,915918262,Rear Window,1954,Mystery|Thriller,Baylor,Smith,49
+5956,408,908,3,915918308,North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,Baylor,Smith,49
+5957,408,912,5,915918519,Casablanca,1942,Drama|Romance,Baylor,Smith,49
+5958,408,913,4,915918519,Maltese Falcon,1941,Film-Noir|Mystery,Baylor,Smith,49
+5959,408,923,5,915918519,Citizen Kane,1941,Drama|Mystery,Baylor,Smith,49
+5960,408,994,2,915923630,Big Night,1996,Comedy|Drama,Baylor,Smith,49
+5961,408,1077,4,915919351,Sleeper,1973,Comedy|Sci-Fi,Baylor,Smith,49
+5962,408,1093,2,916093613,Doors,1991,Drama,Baylor,Smith,49
+5963,408,1131,5,915919631,Jean de Florette,1986,Drama|Mystery,Baylor,Smith,49
+5964,408,1148,3,915922857,Wallace & Gromit: The Wrong Trousers,1993,Animation|Children|Comedy|Crime,Baylor,Smith,49
+5965,408,1199,3,915922758,Brazil,1985,Fantasy|Sci-Fi,Baylor,Smith,49
+5966,408,1206,4,915919290,Clockwork Orange,1971,Crime|Drama|Sci-Fi|Thriller,Baylor,Smith,49
+5967,408,1219,5,915918951,Psycho,1960,Crime|Horror,Baylor,Smith,49
+5968,408,1223,3,915923271,Grand Day Out with Wallace and Gromit,1989,Adventure|Animation|Children|Comedy|Sci-Fi,Baylor,Smith,49
+5969,408,1225,4,915919598,Amadeus,1984,Drama,Baylor,Smith,49
+5970,408,1230,5,915919262,Annie Hall,1977,Comedy|Romance,Baylor,Smith,49
+5971,408,1234,3,915922608,Sting,1973,Comedy|Crime,Baylor,Smith,49
+5972,408,1247,2,915923781,Graduate,1967,Comedy|Drama|Romance,Baylor,Smith,49
+5973,408,1249,4,915921713,Femme Nikita,1990,Action|Crime|Romance|Thriller,Baylor,Smith,49
+5974,408,1284,3,915923133,Big Sleep,1946,Crime|Film-Noir|Mystery,Baylor,Smith,49
+5975,408,1288,4,915919697,This Is Spinal Tap,1984,Comedy,Baylor,Smith,49
+5976,408,1307,2,915923862,When Harry Met Sally...,1989,Comedy|Romance,Baylor,Smith,49
+5977,408,1639,4,915920657,Chasing Amy,1997,Comedy|Drama|Romance,Baylor,Smith,49
+5978,408,1953,3,915923036,French Connection,1971,Action|Crime|Thriller,Baylor,Smith,49
+5979,408,1957,3,915922940,Chariots of Fire,1981,Drama,Baylor,Smith,49
+5980,408,2116,3,915922670,Lord of the Rings,1978,Adventure|Animation|Children|Fantasy,Baylor,Smith,49
+5981,408,2300,4,915919060,Producers,1968,Comedy,Baylor,Smith,49
+5982,408,2324,4,915918117,Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,Baylor,Smith,49
+5983,408,2360,2,915923905,Celebration,1998,Drama,Baylor,Smith,49
+5984,408,2396,4,915918117,Shakespeare in Love,1998,Comedy|Drama|Romance,Baylor,Smith,49
+5985,408,720,2,915923550,Wallace & Gromit: The Best of Aardman Animation,1996,Adventure|Animation|Comedy,Baylor,Smith,49
+5986,408,838,3,915923271,Emma,1996,Comedy|Drama|Romance,Baylor,Smith,49
+5987,408,1281,5,915918578,Great Dictator,1940,Comedy|Drama|War,Baylor,Smith,49
+5988,408,1197,2,915923736,Princess Bride,1987,Action|Adventure|Comedy|Fantasy|Romance,Baylor,Smith,49
+5989,408,1267,5,915918993,Manchurian Candidate,1962,Crime|Thriller|War,Baylor,Smith,49
+5990,408,17,3,915922563,Sense and Sensibility,1995,Drama|Romance,Baylor,Smith,49
+5991,408,232,2,915923455,Eat Drink Man Woman (Yin shi nan nu),1994,Comedy|Drama|Romance,Baylor,Smith,49
+5992,408,265,4,915921633,Like Water for Chocolate (Como agua para chocolate),1992,Drama|Fantasy|Romance,Baylor,Smith,49
+5993,408,272,4,915921038,Madness of King George,1994,Comedy|Drama,Baylor,Smith,49
+5994,408,417,1,916092733,Barcelona,1994,Comedy|Romance,Baylor,Smith,49
+5995,408,468,4,916092863,Englishman Who Went Up a Hill But Came Down a Mountain,1995,Comedy|Romance,Baylor,Smith,49
+5996,408,342,1,915923957,Muriel's Wedding,1994,Comedy,Baylor,Smith,49
+5997,408,357,1,916092285,Four Weddings and a Funeral,1994,Comedy|Romance,Baylor,Smith,49
+5998,408,497,4,915922181,Much Ado About Nothing,1993,Comedy|Romance,Baylor,Smith,49
+5999,408,508,2,915923499,Philadelphia,1993,Drama,Baylor,Smith,49
