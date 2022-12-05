@@ -17,15 +17,15 @@ import java.util.HashMap;
  * Clase para el comportamiento de cada Worker.
  */
 public class Worker extends Thread {
-    
+
     // Direccion del archivo donde se guardan los resultados de cada worker
-    public final static String DIR_RESULTADO = "data/resultados.csv"; 
+    public final static String DIR_RESULTADO = "data/resultados.csv";
     // El buffer general para escribir
     public static BufferedWriter bufferResultado;
     private String archivo;
     private ArrayList<ArrayList<Expresion>> expresiones;
     private String colSelect;
-     
+
     /**
      * Recibe el archivo sobre el cual va a trabajar.
      * @param archivo el archivo a realizar la operación de filtrado.
@@ -40,39 +40,41 @@ public class Worker extends Thread {
 
     /**
      * Inicializa el buffer de escritura concurrente para los hilos.
+     * @param columnas las columnas a agregar al archivo de resultados.
      */
-    static void inicializaBufferConcurrente() {
-        try {            
+    static void inicializaBufferConcurrente(String columnas) {
+        try {
             File file = new File(DIR_RESULTADO);
             file.createNewFile();
             FileWriter fw = new FileWriter(DIR_RESULTADO);
             bufferResultado = new BufferedWriter(fw);
+            fw.write(columnas + "\n");
         } catch (IOException e) {
             System.out.printf("No se puede escribir en el archivo %s%n", DIR_RESULTADO);
         } catch (Exception e) {
             System.out.println(e);
         }
     }
-    
-    
+
+
     /**
      * Una vez que los hilos hayan terminado su tarea, cierra el buffer.
      */
     static void cierraBufferConcurrente() {
         try {
-            bufferResultado.close();   
+            bufferResultado.close();
         } catch (IOException e) {
             System.out.println("No se pudo cerrar el buffer de escritura compartida");
         } catch (Exception e) {
             System.out.println(e);
         }
-    }    
-    
+    }
+
     @Override
     public void run() {
-       manejaArchivo(); 
+       manejaArchivo();
     }
-    
+
     /**
      * Hace una proyección de un registro, dejando solamente las columnas seleccionadas.
      * @param registro
@@ -89,7 +91,7 @@ public class Worker extends Thread {
         salida += regSplit[indSelec.get(indSelec.size()-1)];
         return salida;
     }
-    
+
     /**
      * Hace el filtrado de información del subarchivo que le tocó.
      */
@@ -106,7 +108,7 @@ public class Worker extends Thread {
             for(int i=0; i<columnaSubarchivo.length; i++){
                 tablaNombres.put(columnaSubarchivo[i], i);
             }
-            
+
             String [] proyeccion; //va a contener solamente las columnas seleccionadas.
             if(colSelect.equals("*")){
                 proyeccion = columnaSubarchivo;
@@ -116,7 +118,7 @@ public class Worker extends Thread {
                     proyeccion[k] = proyeccion[k].strip();
                 }
             }
-            
+
             for(String cs : proyeccion){
                 indicesColumnas.add(tablaNombres.get(cs));
             }
@@ -125,12 +127,12 @@ public class Worker extends Thread {
                     escribeArchivo(registro+"\n");
                 }else{
                     for (ArrayList<Expresion> listaExpresiones : expresiones) {
-                        // Filtra las columnas 
+                        // Filtra las columnas
                         if (satisfaceCondiciones(registro, listaExpresiones, tablaNombres)) {
                             String proyectado = seleccionaColumnas(registro, indicesColumnas);
                             escribeArchivo(proyectado + "\n");
                             break; // verificar si no sale un bug por esta línea
-                        }                
+                        }
                     }
                 }
             }
@@ -139,9 +141,9 @@ public class Worker extends Thread {
         } catch (Exception e) {
             System.out.println(e);
         }
-    }  
-    
-    
+    }
+
+
     /**
      * Escribe de manera concurrente un registro en un archivo especifico para guardar los resultados.
      * @param registro el registro a guardar en el archivo general.
@@ -154,9 +156,9 @@ public class Worker extends Thread {
             System.out.printf("%s no pudo escribir en el archivo %s%n", this.getName(), DIR_RESULTADO);
         } catch (Exception e) {
             System.out.println(e);
-        } 
+        }
     }
-    
+
 
     /**
      * Le asigna un número dependiendo del tipo de columna
@@ -176,10 +178,10 @@ public class Worker extends Thread {
             default: return 3;
         }
     }
-    
+
     /**
      * Revisa si el registro dado satisface las condiciones.
-     * @param registro 
+     * @param registro
      * @param listaExpresiones
      * @param tablaNombres
      */
@@ -203,7 +205,7 @@ public class Worker extends Thread {
                 default: vrComp = valorReal;
                          veComp = valorEsperado;
             }
-            
+
             if(tipoColumna(expr.getVariable()) == 0){
                 String[] generos = valorReal.split("\\|");
                 switch(expr.getComparador()){
@@ -285,7 +287,7 @@ public class Worker extends Thread {
 
         return true;
     }
- 
-    
-    
+
+
+
 }

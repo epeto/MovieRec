@@ -3,10 +3,14 @@ package movies;
 
 import ManagerWorker.Manager;
 import utilidades.*;
+import estadisticas.GraficaBarras;
+
 import java.util.ArrayList;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import javafx.geometry.Pos;
+import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.Button;
@@ -30,7 +34,9 @@ public class Main extends Application{
     TextField inputSelect;
     TextField inputWhere;
     VBox caja;
-    
+    Button avanzaGrafica;
+    Button retrocedeGrafica;
+
     @Override
     public void start(Stage primaryStage) {
         anchoVentana = 500;
@@ -38,32 +44,62 @@ public class Main extends Application{
         escenario = primaryStage;
 
         caja = new VBox();
-        
+
         labelSelect = new Label(" Indique las columnas a seleccionar ");
-        
+
         inputSelect = new TextField();
         inputSelect.setPrefWidth(anchoVentana-100);
-        
+
         labelWhere = new Label(" Escriba las condiciones de filtrado en forma normal disyuntiva. ");
-        
+
         inputWhere = new TextField();
         inputWhere.setPrefWidth(anchoVentana-100);
-        
+
+        GraficaBarras grafica = new GraficaBarras();
+
         ejecuta = new Button(" Ejecutar consulta ");
         ejecuta.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
                 ejecutaConsulta();
+                grafica.reset();
             }
         });
-        
-        caja.getChildren().addAll(labelSelect, inputSelect, labelWhere, inputWhere, ejecuta);
+
+
+        avanzaGrafica = new Button("Avanzar");
+        avanzaGrafica.setOnAction(new EventHandler<ActionEvent>() {
+           @Override
+           public void handle(ActionEvent event) {
+               grafica.avanza();
+           }
+        });
+
+        retrocedeGrafica = new Button("Retroceder");
+        retrocedeGrafica.setOnAction(new EventHandler<ActionEvent>() {
+          @Override
+          public void handle(ActionEvent event) {
+            grafica.retrocede();
+          }
+        });
+
+        HBox cajaBotones = new HBox();
+        cajaBotones.setSpacing(20);
+        cajaBotones.getChildren().addAll(ejecuta, retrocedeGrafica, avanzaGrafica);
+        caja.getChildren().addAll(labelSelect, inputSelect, labelWhere, inputWhere, cajaBotones);
+        caja.setSpacing(10);
+
+        VBox cajaGraph = new VBox(grafica.getBarChart());
+        cajaGraph.setMaxWidth(1500);
+        cajaGraph.setAlignment(Pos.TOP_CENTER);
+        caja.getChildren().add(cajaGraph);
+
         Scene scene = new Scene(caja, anchoVentana, altoVentana);
         escenario.setTitle("Consulta");
         escenario.setScene(scene);
         escenario.show();
     }
-    
+
     /**
      * @return El número de hilos a usar es 4 veces el número de CPU's según la JVM.
      */
@@ -71,7 +107,7 @@ public class Main extends Application{
         int CPUs = Runtime.getRuntime().availableProcessors();
         return CPUs*4;
     }
-    
+
     public void ejecutaConsulta(){
         int numHilos = getNumHilos();
         // Probando con un archivo de pocos registros
@@ -81,6 +117,12 @@ public class Main extends Application{
         String expr = inputWhere.getText();
         // Interprete envia las clausulas de filtrado....
         ArrayList<ArrayList<Expresion>> expresiones = Parser.analiza(expr);
+        if (!select.contains("title")) {
+          select += ", title";
+        }
+        if (!select.contains("rating")) {
+          select += ", rating";
+        }
         // Realiza el filtrado sobre los workers
         Manager.filtraInformacion(numHilos, expresiones, select);
 
