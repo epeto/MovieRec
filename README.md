@@ -4,6 +4,7 @@ Manejo de tabla con ratings de películas
 
 Para compilar:
 - make compile
+
 Para ejecutar:
 - make run
 

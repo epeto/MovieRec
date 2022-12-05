@@ -107,11 +107,14 @@ public class Worker extends Thread {
                 tablaNombres.put(columnaSubarchivo[i], i);
             }
             
-            String [] proyeccion;
+            String [] proyeccion; //va a contener solamente las columnas seleccionadas.
             if(colSelect.equals("*")){
                 proyeccion = columnaSubarchivo;
             }else{
                 proyeccion = colSelect.split(",");
+                for(int k=0; k<proyeccion.length; k++){
+                    proyeccion[k] = proyeccion[k].strip();
+                }
             }
             
             for(String cs : proyeccion){
