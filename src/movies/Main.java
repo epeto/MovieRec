@@ -45,7 +45,7 @@ public class Main extends Application{
 
         caja = new VBox();
 
-        labelSelect = new Label(" Indique las columnas a seleccionar ");
+        labelSelect = new Label(" Indique las columnas a seleccionar. ");
 
         inputSelect = new TextField();
         inputSelect.setPrefWidth(anchoVentana-100);
@@ -125,6 +125,7 @@ public class Main extends Application{
              alert.setTitle("Error");
              alert.setHeaderText("Columnas no validas.");
              alert.setContentText("Ingresa solo columnas validas: \n  movieId, rating, title, year, genres, imdb, themoviedb");
+             //alert.setContentText("Ingresa solo columnas validas: \n  idRating, userId, movieId, rating, timestamp, title, year, genres, name, lastname, age, imdb, themoviedb");
              alert.showAndWait();
              return false;
          }
@@ -152,7 +153,7 @@ public class Main extends Application{
 
          int numHilos = getNumHilos();
          // Probando con un archivo de pocos registros
-         String direccion = "data/out-users-8000_v3.csv";
+         String direccion = "data/out-users-8000_v3.csv"; // ya vamos por la versión 3
          Divisor.divideArchivos(numHilos, direccion);
          // Realiza el filtrado sobre los workers
          Manager.filtraInformacion(numHilos, expresiones, select);

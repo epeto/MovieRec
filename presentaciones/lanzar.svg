@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="lanzar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8116734"
+     inkscape:cx="288.68337"
+     inkscape:cy="226.03411"
+     inkscape:window-width="1080"
+     inkscape:window-height="656"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path13644" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path13632" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e6e6e6;stroke:#808080;stroke-width:0.751658;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect7637"
+       width="18.644657"
+       height="6.3610077"
+       x="42.872032"
+       y="73.223709" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="45.100929"
+       y="77.492264"
+       id="text3081"><tspan
+         sodipodi:role="line"
+         id="tspan3079"
+         style="stroke-width:0.264583"
+         x="45.100929"
+         y="77.492264">Worker 1</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8588"
+       width="20.328552"
+       height="10.326035"
+       x="67.360863"
+       y="44.238449" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="71.030121"
+       y="50.504742"
+       id="text8592"><tspan
+         sodipodi:role="line"
+         id="tspan8590"
+         style="stroke-width:0.264583"
+         x="71.030121"
+         y="50.504742">Manager</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#808080;stroke-width:0.751658;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect31082"
+       width="18.644657"
+       height="6.3610077"
+       x="65.626221"
+       y="73.223709" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="67.855118"
+       y="77.492264"
+       id="text31086"><tspan
+         sodipodi:role="line"
+         id="tspan31084"
+         style="stroke-width:0.264583"
+         x="67.855118"
+         y="77.492264">Worker 2</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#808080;stroke-width:0.751658;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect31094"
+       width="18.644657"
+       height="6.3610077"
+       x="97.376236"
+       y="73.223709" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="99.605186"
+       y="77.492264"
+       id="text31098"><tspan
+         sodipodi:role="line"
+         id="tspan31096"
+         style="stroke-width:0.264583"
+         x="99.605186"
+         y="77.492264">Worker n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="88.05603"
+       y="77.049416"
+       id="text32714"><tspan
+         sodipodi:role="line"
+         id="tspan32712"
+         style="stroke-width:0.264583"
+         x="88.05603"
+         y="77.049416">...</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 67.360863,54.564483 51.485506,72.846667"
+       id="path37997" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.260978px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 74.92491,55.122515 0.09606,17.260494"
+       id="path37999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25684px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 87.68528,54.563064 107.3248,72.550347"
+       id="path38001" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="104.93038"
+       y="-20.954041"
+       id="text39144"
+       transform="rotate(43.030103)"><tspan
+         sodipodi:role="line"
+         id="tspan39142"
+         style="stroke-width:0.264583"
+         x="104.93038"
+         y="-20.954041">consulta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="-67.717888"
+       y="76.038979"
+       id="text40482"
+       transform="rotate(-87.900292)"><tspan
+         sodipodi:role="line"
+         id="tspan40480"
+         style="stroke-width:0.264583"
+         x="-67.717888"
+         y="76.038979">consulta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="-14.212753"
+       y="86.114594"
+       id="text40486"
+       transform="rotate(-46.992966)"><tspan
+         sodipodi:role="line"
+         id="tspan40484"
+         style="stroke-width:0.264583"
+         x="-14.212753"
+         y="86.114594">consulta</tspan></text>
+  </g>
+</svg>

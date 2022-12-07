@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="division.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8116734"
+     inkscape:cx="332.01348"
+     inkscape:cy="226.03411"
+     inkscape:window-width="1080"
+     inkscape:window-height="656"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path13644" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path13632" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e6e6e6;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect7637"
+       width="20.328552"
+       height="10.326035"
+       x="67.360863"
+       y="64.346802" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="71.030121"
+       y="70.613091"
+       id="text3081"><tspan
+         sodipodi:role="line"
+         id="tspan3079"
+         style="stroke-width:0.264583"
+         x="71.030121"
+         y="70.613091">Divisor</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8588"
+       width="20.328552"
+       height="10.326035"
+       x="67.360863"
+       y="44.238449" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="73.675957"
+       y="50.504742"
+       id="text8592"><tspan
+         sodipodi:role="line"
+         id="tspan8590"
+         style="stroke-width:0.264583"
+         x="73.675957"
+         y="50.504742">Main</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.275923;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect9904"
+       width="19.821493"
+       height="10.825677"
+       x="67.939926"
+       y="24.694059" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="69.649155"
+       y="28.575003"
+       id="text12187"><tspan
+         sodipodi:role="line"
+         id="tspan12185"
+         style="stroke-width:0.264583"
+         x="69.649155"
+         y="28.575003">archivo</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="69.649155"
+         y="32.984715"
+         id="tspan12189">principal</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 78.582871,35.313701 0.03024,7.855548"
+       id="path13482" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 78.127057,54.768876 0.04507,8.592613"
+       id="path13484" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.218781;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect13899"
+       width="24.258009"
+       height="5.5613499"
+       x="40.784191"
+       y="87.639229" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="41.603294"
+       y="91.545891"
+       id="text13905"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="41.603294"
+         y="91.545891"
+         id="tspan14385">subarchivo 1</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.218781;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect15701"
+       width="24.258009"
+       height="5.5613499"
+       x="69.888382"
+       y="87.639229" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="70.707489"
+       y="91.545891"
+       id="text15705"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="70.707489"
+         y="91.545891"
+         id="tspan15703">subarchivo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="97.406158"
+       y="91.048843"
+       id="text17227"><tspan
+         sodipodi:role="line"
+         id="tspan17225"
+         style="stroke-width:0.264583"
+         x="97.406158"
+         y="91.048843">...</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.225558;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18299"
+       width="25.815496"
+       height="5.5545731"
+       x="105.87514"
+       y="87.642616" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+       x="106.69083"
+       y="91.545891"
+       id="text18303"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="106.69083"
+         y="91.545891"
+         id="tspan18301">subarchivo 4p</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 67.360863,74.672835 53.475352,87.691202"
+       id="path26194" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 78.625659,75.233566 0.371383,12.723479"
+       id="path26196" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 87.689414,74.672835 119.37639,87.965604"
+       id="path26198" />
+  </g>
+</svg>
