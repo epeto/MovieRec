@@ -124,7 +124,7 @@ public class Main extends Application{
              Alert alert = new Alert(AlertType.ERROR);
              alert.setTitle("Error");
              alert.setHeaderText("Columnas no validas.");
-             alert.setContentText("Ingresa solo columnas validas: \n  movieId, rating, title, year, genres, imdbId, tmdbId");
+             alert.setContentText("Ingresa solo columnas validas: \n  movieId, rating, title, year, genres, imdb, themoviedb");
              alert.showAndWait();
              return false;
          }
@@ -140,7 +140,9 @@ public class Main extends Application{
              alert.showAndWait();
              return false;
          }
-
+         if (select.strip().equals("*")) {
+           select = "movieId,title,year,genres,rating,imdb,themoviedb";
+         }
          if (!select.contains("title")) {
            select += ", title";
          }
@@ -150,7 +152,7 @@ public class Main extends Application{
 
          int numHilos = getNumHilos();
          // Probando con un archivo de pocos registros
-         String direccion = "data/out-users-8000_v2.csv";
+         String direccion = "data/out-users-8000_v3.csv";
          Divisor.divideArchivos(numHilos, direccion);
          // Realiza el filtrado sobre los workers
          Manager.filtraInformacion(numHilos, expresiones, select);

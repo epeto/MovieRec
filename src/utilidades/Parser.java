@@ -155,8 +155,8 @@ public class Parser {
                  !columna.equals("title")   &&
                  !columna.equals("year")    &&
                  !columna.equals("genres")  &&
-                 !columna.equals("imdbId")  &&
-                 !columna.equals("tmdbId")  &&
+                 !columna.equals("imdb")  &&
+                 !columna.equals("themoviedb")  &&
                  !columna.equals("*")) {
                  return false;
              }

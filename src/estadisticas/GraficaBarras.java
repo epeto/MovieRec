@@ -26,7 +26,7 @@ import javafx.scene.chart.XYChart;
      private ArrayList<EstadisticaRating> maximosRating;
      private ArrayList<EstadisticaRating> medianasRating;
 
-     private final BarChart barChart;
+     private BarChart barChart;
 
      /*
      * Crea la grafica de barras tomando un rango de datos.
@@ -37,7 +37,7 @@ import javafx.scene.chart.XYChart;
        this.indexInclusive = -ELEMENTOS_PAGINA;
        this.indexExclusive = 0;
        this.barChart = new BarChart<>(xAxis, yAxis);
-       this.barChart.setAnimated(true);
+       this.barChart.setAnimated(false);
      }
 
      public BarChart getBarChart() {
@@ -52,11 +52,23 @@ import javafx.scene.chart.XYChart;
       * Muestra los siguientes N registros.
       */
      public void avanza() {
+         if (this.promediosRating == null) {
+             return;
+         }
+         if (this.promediosRating.isEmpty()) {
+             return;
+         }
          this.indexInclusive += ELEMENTOS_PAGINA;
          this.indexExclusive += ELEMENTOS_PAGINA;
          if (this.indexExclusive > this.promediosRating.size()) {
              this.indexExclusive = this.promediosRating.size();
              this.indexInclusive = (this.promediosRating.size() / ELEMENTOS_PAGINA) * ELEMENTOS_PAGINA;
+             if (this.indexInclusive == this.indexExclusive) {
+                 this.indexInclusive -= ELEMENTOS_PAGINA;
+                 if (this.indexInclusive < 0) {
+                   this.indexInclusive = 0;
+                 }
+             }
          }
          actualizaDatos();
      }
@@ -65,6 +77,12 @@ import javafx.scene.chart.XYChart;
       * Muestra los N registros anteriores.
       */
      public void retrocede() {
+         if (this.promediosRating == null) {
+             return;
+         }
+         if (this.promediosRating.isEmpty()) {
+             return;
+         }
          if (this.indexExclusive % ELEMENTOS_PAGINA != 0) {
              this.indexExclusive -= this.indexExclusive % ELEMENTOS_PAGINA;
              this.indexInclusive = this.indexExclusive - ELEMENTOS_PAGINA;
@@ -92,6 +110,13 @@ import javafx.scene.chart.XYChart;
         this.maximosRating = GeneraEstadisticas.estadisticasRatingMinimo(false);
         this.minimosRating = GeneraEstadisticas.estadisticasRatingMinimo(true);
         int elementos = promediosRating.size();
+        if (elementos == 0) {
+          this.indexInclusive = -ELEMENTOS_PAGINA;
+          this.indexExclusive = 0;
+          this.barChart.setTitle("Sin resultados");
+          this.barChart.setData(FXCollections.observableArrayList());
+          return;
+        }
         if (medianasRating.size() != elementos ||
             maximosRating.size() != elementos ||
             minimosRating.size() != elementos) {
