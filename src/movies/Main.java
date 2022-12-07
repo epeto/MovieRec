@@ -45,7 +45,7 @@ public class Main extends Application{
 
         caja = new VBox();
 
-        labelSelect = new Label(" Indique las columnas a seleccionar ");
+        labelSelect = new Label(" Indique las columnas a seleccionar. ");
 
         inputSelect = new TextField();
         inputSelect.setPrefWidth(anchoVentana-100);
