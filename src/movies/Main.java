@@ -124,7 +124,7 @@ public class Main extends Application{
              Alert alert = new Alert(AlertType.ERROR);
              alert.setTitle("Error");
              alert.setHeaderText("Columnas no validas.");
-             alert.setContentText("Ingresa solo columnas validas: \n  movieId, rating, title, year, genres, imdbId, tmdbId");
+             alert.setContentText("Ingresa solo columnas validas: \n  idRating, userId, movieId, rating, timestamp, title, year, genres, name, lastname, age, imdb, themoviedb");
              alert.showAndWait();
              return false;
          }
@@ -150,7 +150,7 @@ public class Main extends Application{
 
          int numHilos = getNumHilos();
          // Probando con un archivo de pocos registros
-         String direccion = "data/out-users-8000_v2.csv";
+         String direccion = "data/out-users-8000_v3.csv"; // ya vamos por la versión 3
          Divisor.divideArchivos(numHilos, direccion);
          // Realiza el filtrado sobre los workers
          Manager.filtraInformacion(numHilos, expresiones, select);

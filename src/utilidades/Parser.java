@@ -6,6 +6,7 @@ package utilidades;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 /**
  *
@@ -148,25 +149,24 @@ public class Parser {
       * @return true si la cadena tiene columnas validas, false en otro caso.
       */
     public static boolean revisaCorrectas(String select) {
-         String[] columnas = select.split(",");
-         for (String c : columnas) {
-             String columna = c.strip();
-             if (!columna.equals("movieId") &&
-                 !columna.equals("title")   &&
-                 !columna.equals("year")    &&
-                 !columna.equals("genres")  &&
-                 !columna.equals("imdbId")  &&
-                 !columna.equals("tmdbId")  &&
-                 !columna.equals("*")) {
-                 return false;
-             }
-         }
-         return true;
+        if(select.equals("*")){
+            return true;
+        }
+        String[] columnas = select.split(",");
+        String[] totales = {"idRating", "userId", "movieId", "rating", "timestamp", "title", "year", "genres", "name", "lastname", "age", "imdb", "themoviedb"};
+        List<String> listaColumnas = Arrays.asList(totales);
+        for(String c : columnas) {
+            String columna = c.strip();
+            if (!listaColumnas.contains(columna)) {
+                return false;
+            }
+        }
+        return true;
     }
 
 
-     public static void main(String[] args){
-         String ejemplo = "(hola = 1 AND hola = 2) OR (mundo > 2 AND mundo < 8) OR (perro >= 0) OR (gato <= 3 AND gato = 6 AND gato = 9)";
-         System.out.println(Parser.analiza(ejemplo));
-     }
- }
+    public static void main(String[] args){
+        String ejemplo = "(age >= 20 AND age <= 30 AND year > 2000 AND genres = Thriller) OR (age >= 20 AND age <= 30 AND year > 2000 AND genres = Horror)";
+        System.out.println(Parser.analiza(ejemplo));
+    }
+}
