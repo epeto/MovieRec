@@ -22,9 +22,9 @@ public class Worker extends Thread {
     public final static String DIR_RESULTADO = "data/resultados.csv";
     // El buffer general para escribir
     public static BufferedWriter bufferResultado;
-    private String archivo;
-    private ArrayList<ArrayList<Expresion>> expresiones;
-    private String colSelect;
+    private final String archivo;
+    private final ArrayList<ArrayList<Expresion>> expresiones;
+    private final String colSelect;
 
     /**
      * Recibe el archivo sobre el cual va a trabajar.
@@ -160,24 +160,24 @@ public class Worker extends Thread {
     }
 
 
-    /**
-     * Le asigna un número dependiendo del tipo de columna
-     * @param nombreColumna
-     * @return 0 si es genres, 1 si es tipo double, 2 si es entero, 3 en otro caso.
-     */
-    private int tipoColumna(String nombreColumna){
-        switch(nombreColumna){
-            case "genres": return 0;
-            case "rating": return 1;
-            case "idRating":
-            case "userId":
-            case "movieId":
-            case "timestamp":
-            case "year":
-            case "age": return 2;
-            default: return 3;
-        }
-    }
+     /**
+      * Le asigna un número dependiendo del tipo de columna
+      * @param nombreColumna
+      * @return 0 si es genres, 1 si es tipo double, 2 si es entero, 3 en otro caso.
+      */
+     private int tipoColumna(String nombreColumna){
+         switch(nombreColumna){
+             case "genres": return 0;
+             case "rating": return 1;
+             case "idRating":
+             case "userId":
+             case "movieId":
+             case "timestamp":
+             case "year":
+             case "age": return 2;
+             default: return 3;
+         }
+     }
 
     /**
      * Revisa si el registro dado satisface las condiciones.

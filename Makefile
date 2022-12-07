@@ -1,4 +1,4 @@
-compile: compileComparadorEnum compileDivisor compileExpresion compileParser compileWorker compileManager compilePromedioRating compileEstadisticas compileGraficaBarras compileMain
+compile: compileComparadorEnum compileDivisor compileExpresion compileParser compileWorker compileManager compileEstadisticaRating compileEstadisticas compileGraficaBarras compileMain
 compileComparadorEnum:
 	javac src/utilidades/ComparadorEnum.java -d classes
 compileDivisor:
@@ -13,8 +13,8 @@ compileManager:
 	javac -cp classes src/ManagerWorker/Manager.java -d classes
 compileEstadisticas:
 	javac -cp classes src/estadisticas/GeneraEstadisticas.java -d classes
-compilePromedioRating:
-	javac -cp classes src/estadisticas/PromedioRating.java -d classes
+compileEstadisticaRating:
+	javac -cp classes src/estadisticas/EstadisticaRating.java -d classes
 compileGraficaBarras:
 	javac -cp classes -p lib --add-modules=ALL-MODULE-PATH src/estadisticas/GraficaBarras.java -d classes
 compileMain:

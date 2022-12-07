@@ -23,16 +23,16 @@ public class Divisor {
     private static final int NUM_RATINGS = 8000;
     
     /**
-     * Divide el archivo especificado en la ruta en multiples subarchivos, 
+     * Divide el archivo especificado en la ruta en multiples subarchivos,
      * tantos como haya hilos.
      * @param numHilos el numero de subarchivos.
      * @param direccion ruta del archivo fuente.
-     */    
+     */
     public static void divideArchivos(int numHilos, String direccion) {
         // Cantidad de registros para cada subarchivo
         int num_ratings_hilo = NUM_RATINGS / numHilos;
         int residuo_ratings_hilo = NUM_RATINGS % numHilos;
-        
+
         // Linea sobre la cual debe empezar a leer cada registro
         int linea_inicial = 1;
         // El i-esimo archivo en crearse
@@ -40,22 +40,22 @@ public class Divisor {
 
         while (numHilos != 0) {
             // Registros a guardar en un subarchivo
-            ArrayList<String> registrosHilo = new ArrayList<String>(); 
+            ArrayList<String> registrosHilo = new ArrayList<String>();
             // Lee el archivo y obten una cantidad determinada de registros a partir de una linea del archivo
-            leerArchivo(direccion, num_ratings_hilo, linea_inicial, registrosHilo);            
-            linea_inicial += num_ratings_hilo;           
+            leerArchivo(direccion, num_ratings_hilo, linea_inicial, registrosHilo);
+            linea_inicial += num_ratings_hilo;
             numHilos--;
             // Añade los registros faltantes al ultimo hilo
             if (numHilos == 1) {
                 num_ratings_hilo += residuo_ratings_hilo;
-            }            
+            }
             escribeArchivo(registrosHilo, archivos);
             archivos++;
         }
-        
+
 
     }
-    
+
     /**
     * Leer tantas lineas del archivo en la dirección dada, a partir de una linea i.
     * Agrega en la lista de registros los registros correspondientes al subarchivo.
@@ -73,27 +73,27 @@ public class Divisor {
              // Agrega las columnas
              String columnas = br.readLine();
              registros.add(columnas);
-            // Llega hasta la linea donde tiene que iniciar la lectura    
+            // Llega hasta la linea donde tiene que iniciar la lectura
             while (linea_actual != i) {
                 br.readLine();
                 linea_actual += 1;
             }
-            
+
             // Agrega tantas lineas como se indica
             while (lineas != 0) {
-                String registro = br.readLine();   
+                String registro = br.readLine();
                 registros.add(registro);
                 lineas -= 1;
-            }            
-        
+            }
+
         } catch (FileNotFoundException e) {
             System.out.printf("No se puede leer el archivo %s%n", direccion);
         } catch (Exception e) {
             System.out.println(e);
-        }        
+        }
     }
-    
-    
+
+
     /**
      * Dada una lista de registros, guardarlos en un archivo con un nombre identificado con un número.
      * @param registros los registros a guardar.
@@ -111,11 +111,11 @@ public class Divisor {
              PrintWriter pw = new PrintWriter(bw);){
             for(String registro : registros) {
                pw.write(registro + "\n");
-            }            
+            }
         } catch(IOException e) {
             System.out.printf("No se puede escribir en %s%n", WRITE_DIR + nombreArchivo);
         } catch(Exception e) {
             System.out.println(e);
-        }        
+        }
     }
 }

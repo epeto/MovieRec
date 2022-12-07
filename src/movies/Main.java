@@ -39,8 +39,8 @@ public class Main extends Application{
 
     @Override
     public void start(Stage primaryStage) {
-        anchoVentana = 500;
-        altoVentana = 500;
+        anchoVentana = 800;
+        altoVentana = 700;
         escenario = primaryStage;
 
         caja = new VBox();
@@ -61,26 +61,28 @@ public class Main extends Application{
         ejecuta.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                ejecutaConsulta();
-                grafica.reset();
-            }
+               boolean valida = ejecutaConsulta();
+               if (valida) {
+                   grafica.reset();
+                }
+             }
         });
 
 
         avanzaGrafica = new Button("Avanzar");
         avanzaGrafica.setOnAction(new EventHandler<ActionEvent>() {
-           @Override
-           public void handle(ActionEvent event) {
-               grafica.avanza();
-           }
-        });
+            @Override
+            public void handle(ActionEvent event) {
+                grafica.avanza();
+            }
+         });
 
         retrocedeGrafica = new Button("Retroceder");
         retrocedeGrafica.setOnAction(new EventHandler<ActionEvent>() {
-          @Override
-          public void handle(ActionEvent event) {
-            grafica.retrocede();
-          }
+           @Override
+           public void handle(ActionEvent event) {
+             grafica.retrocede();
+           }
         });
 
         HBox cajaBotones = new HBox();
@@ -108,36 +110,64 @@ public class Main extends Application{
         return CPUs*4;
     }
 
-    public void ejecutaConsulta(){
-        int numHilos = getNumHilos();
-        // Probando con un archivo de pocos registros
-        String direccion = "data/out-users-8000_v2.csv";
-        Divisor.divideArchivos(numHilos, direccion);
+     /**
+      * Revisa las entradas del usuario.
+      * Realiza la división de archivos.
+      * Llama al manager para realizar el filtrado.
+      * @return true si se pudo realizar la consulta, false en otro caso.
+      */
+     public boolean ejecutaConsulta(){
         String select = inputSelect.getText();
         String expr = inputWhere.getText();
-        // Interprete envia las clausulas de filtrado....
-        ArrayList<ArrayList<Expresion>> expresiones = Parser.analiza(expr);
-        if (!select.contains("title")) {
-          select += ", title";
-        }
-        if (!select.contains("rating")) {
-          select += ", rating";
-        }
-        // Realiza el filtrado sobre los workers
-        Manager.filtraInformacion(numHilos, expresiones, select);
 
-        Alert alert = new Alert(AlertType.CONFIRMATION);
-        alert.setTitle("Query");
-        alert.setHeaderText("Consulta finalizada.");
-        alert.setContentText("Revisar archivo data/resultado.csv");
-        alert.showAndWait();
+        if (!Parser.revisaCorrectas(select)) {
+             Alert alert = new Alert(AlertType.ERROR);
+             alert.setTitle("Error");
+             alert.setHeaderText("Columnas no validas.");
+             alert.setContentText("Ingresa solo columnas validas: \n  movieId, rating, title, year, genres, imdbId, tmdbId");
+             alert.showAndWait();
+             return false;
+         }
+         ArrayList<ArrayList<Expresion>> expresiones = null;
+         try {
+             // Interprete envia las clausulas de filtrado
+             expresiones = Parser.analiza(expr);
+         } catch (Exception e) {
+             Alert alert = new Alert(AlertType.ERROR);
+             alert.setTitle("Error");
+             alert.setHeaderText("Consulta no valida.");
+             alert.setContentText("Ese comparador no está en nuestra gramática o la sintaxis de la cadena es incorrecta.");
+             alert.showAndWait();
+             return false;
+         }
 
-        inputSelect.setText("");
-        inputWhere.setText("");
-    }
+         if (!select.contains("title")) {
+           select += ", title";
+         }
+         if (!select.contains("rating")) {
+           select += ", rating";
+         }
 
-    public static void main(String[] args) {
-        launch(args);
-    }
+         int numHilos = getNumHilos();
+         // Probando con un archivo de pocos registros
+         String direccion = "data/out-users-8000_v2.csv";
+         Divisor.divideArchivos(numHilos, direccion);
+         // Realiza el filtrado sobre los workers
+         Manager.filtraInformacion(numHilos, expresiones, select);
 
-}
+         Alert alert = new Alert(AlertType.CONFIRMATION);
+         alert.setTitle("Query");
+         alert.setHeaderText("Consulta finalizada.");
+         alert.setContentText("Revisar archivo data/resultado.csv");
+         alert.showAndWait();
+
+         inputSelect.setText("");
+         inputWhere.setText("");
+         return true;
+     }
+
+     public static void main(String[] args) {
+         launch(args);
+     }
+
+ }
