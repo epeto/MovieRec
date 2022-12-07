@@ -21,7 +21,7 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 
 /**
- * Sistema de recomendacion de peliculas
+ * Sistema de consulta de estadisticas de peliculas.
  */
 public class Main extends Application{
 
@@ -124,8 +124,7 @@ public class Main extends Application{
              Alert alert = new Alert(AlertType.ERROR);
              alert.setTitle("Error");
              alert.setHeaderText("Columnas no validas.");
-             alert.setContentText("Ingresa solo columnas validas: \n  movieId, rating, title, year, genres, imdb, themoviedb");
-             //alert.setContentText("Ingresa solo columnas validas: \n  idRating, userId, movieId, rating, timestamp, title, year, genres, name, lastname, age, imdb, themoviedb");
+             alert.setContentText("Ingresa solo columnas validas: \n  movieId, title, year, genres, imdb, themoviedb");
              alert.showAndWait();
              return false;
          }
@@ -142,7 +141,7 @@ public class Main extends Application{
              return false;
          }
          if (select.strip().equals("*")) {
-           select = "movieId,title,year,genres,rating,imdb,themoviedb";
+           select = "movieId,title,year,genres,rating,imdb,themoviedb,age,name,lastname";
          }
          if (!select.contains("title")) {
            select += ", title";

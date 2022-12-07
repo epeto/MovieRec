@@ -208,6 +208,8 @@ public class Worker extends Thread {
 
             if(tipoColumna(expr.getVariable()) == 0){
                 String[] generos = valorReal.split("\\|");
+                valorReal = valorReal.toUpperCase();
+                valorEsperado = valorEsperado.toUpperCase();
                 switch(expr.getComparador()){
                     case IGUALDAD:
                     if(!valorReal.contains(valorEsperado)){

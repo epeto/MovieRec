@@ -47,7 +47,9 @@ import java.util.Arrays;
                  String params = titulo;
                  for (int i = 0; i < columnas.size(); i++) {
                    String columna = columnas.get(i);
-                   if (!columna.equals("title") && !columna.equals("rating")) {
+                   if (!columna.equals("title") && !columna.equals("rating") &&
+                       !columna.equals("age") && !columna.equals("name") &&
+                       !columna.equals("lastname")) {
                      params += ", " + valores[i];
                    }
                  }
@@ -116,7 +118,9 @@ import java.util.Arrays;
                  String params = titulo;
                  for (int i = 0; i < columnas.size(); i++) {
                    String columna = columnas.get(i);
-                   if (!columna.equals("title") && !columna.equals("rating")) {
+                   if (!columna.equals("title") && !columna.equals("rating") &&
+                       !columna.equals("age") && !columna.equals("name") &&
+                       !columna.equals("lastname")) {
                      params += ", " + valores[i];
                    }
                  }
@@ -186,7 +190,9 @@ import java.util.Arrays;
                  String params = titulo;
                  for (int i = 0; i < columnas.size(); i++) {
                    String columna = columnas.get(i);
-                   if (!columna.equals("title") && !columna.equals("rating")) {
+                   if (!columna.equals("title") && !columna.equals("rating") &&
+                       !columna.equals("age") && !columna.equals("name") &&
+                       !columna.equals("lastname")) {
                      params += ", " + valores[i];
                    }
                  }
