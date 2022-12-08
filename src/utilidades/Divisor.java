@@ -18,7 +18,7 @@ public class Divisor {
     private static final String WRITE_DIR = "data" + System.getProperty("file.separator") + "output" + System.getProperty("file.separator");
 
     // Registros en la base de datos
-    private static final int NUM_RATINGS = 8000;
+    private static final int NUM_RATINGS = 4999999;
 
     /**
      * Divide el archivo especificado en la ruta en multiples subarchivos,
