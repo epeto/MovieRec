@@ -19,7 +19,7 @@ import java.util.HashMap;
 public class Worker extends Thread {
 
     // Direccion del archivo donde se guardan los resultados de cada worker
-    public final static String DIR_RESULTADO = "data/resultados.csv";
+    public static String DIR_RESULTADO;
     // El buffer general para escribir
     public static BufferedWriter bufferResultado;
     private final String archivo;

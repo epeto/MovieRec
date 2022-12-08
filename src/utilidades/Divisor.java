@@ -15,13 +15,11 @@ import java.util.ArrayList;
  */
 public class Divisor {
     // Lugar en donde escribir los subarchivos
-    private static final String WRITE_DIR = "data/output/";
+    private static final String WRITE_DIR = "data" + System.getProperty("file.separator") + "output" + System.getProperty("file.separator");
 
     // Registros en la base de datos
-    //private static final int NUM_RATINGS = 27753444;
-    // Registro temporal de 8000 registros
     private static final int NUM_RATINGS = 8000;
-    
+
     /**
      * Divide el archivo especificado en la ruta en multiples subarchivos,
      * tantos como haya hilos.

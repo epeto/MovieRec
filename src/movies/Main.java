@@ -2,10 +2,18 @@
 package movies;
 
 import ManagerWorker.Manager;
+import ManagerWorker.Worker;
 import utilidades.*;
 import estadisticas.GraficaBarras;
 
+import java.time.format.DateTimeFormatter;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.io.File;
+import java.time.Instant;
+import java.time.Duration;
+import java.io.IOException;
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
@@ -39,6 +47,14 @@ public class Main extends Application{
 
     @Override
     public void start(Stage primaryStage) {
+
+        int numHilos = getNumHilos();
+        String separator = System.getProperty("file.separator");
+        String direccion = "data" + separator + "dataset.csv";
+        Divisor.divideArchivos(numHilos, direccion);
+        // Asigna el nombre al archivo segun la fecha y hora actuales
+        asignaNombreArchivoResultado();
+
         anchoVentana = 800;
         altoVentana = 700;
         escenario = primaryStage;
@@ -150,22 +166,43 @@ public class Main extends Application{
            select += ", rating";
          }
 
-         int numHilos = getNumHilos();
-         // Probando con un archivo de pocos registros
-         String direccion = "data/out-users-8000_v3.csv"; // ya vamos por la versión 3
-         Divisor.divideArchivos(numHilos, direccion);
          // Realiza el filtrado sobre los workers
+         Instant inicio = Instant.now();
+         int numHilos = getNumHilos();
          Manager.filtraInformacion(numHilos, expresiones, select);
+         Instant ultimo = Instant.now();
+         long tiempoTotal = Duration.between(inicio, ultimo).toSeconds();
+
 
          Alert alert = new Alert(AlertType.CONFIRMATION);
          alert.setTitle("Query");
-         alert.setHeaderText("Consulta finalizada.");
+         alert.setHeaderText("Consulta finalizada (" + Long.toString(tiempoTotal) + " segundos)");
          alert.setContentText("Revisar archivo data/resultado.csv");
          alert.showAndWait();
 
          inputSelect.setText("");
          inputWhere.setText("");
          return true;
+     }
+
+     public void asignaNombreArchivoResultado() {
+       DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyyMMdd_HHmm");
+       LocalDateTime now = LocalDateTime.now();
+       String separator = System.getProperty("file.separator");
+       String dir = "data" + separator + "resultados" + separator;
+       File file = new File(dir);
+       if (!file.exists()) {
+         file.mkdirs();
+       }
+       Worker.DIR_RESULTADO = dir + "dataset(" + dtf.format(now).toString() + ").csv";
+       File resultados = new File(Worker.DIR_RESULTADO);
+       try {
+         resultados.createNewFile();
+       } catch (IOException e) {
+           System.out.printf("No se puede escribir en el archivo %s%n", Worker.DIR_RESULTADO);
+       } catch (Exception e) {
+           System.out.println(e);
+       }
      }
 
      public static void main(String[] args) {

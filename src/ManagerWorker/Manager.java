@@ -11,7 +11,7 @@ import java.util.concurrent.Executors;
  */
 public class Manager {
 
-    private static final String DIR_SUBARCHIVOS = "data/output/subarchivo-";
+    private static final String DIR_SUBARCHIVOS = "data" + System.getProperty("file.separator") + "output" + System.getProperty("file.separator") + "subarchivo-";
 
     /**
      * Crea un pool de hilos y obten la información de cada hilo.
