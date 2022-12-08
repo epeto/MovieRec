@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Main}{2}{0}{1}
+\beamer@sectionintoc {2}{Manager}{7}{0}{2}
+\beamer@sectionintoc {3}{Worker}{8}{0}{3}
+\beamer@sectionintoc {4}{ComparadorEnum}{21}{0}{4}
+\beamer@sectionintoc {5}{Divisor}{22}{0}{5}
+\beamer@sectionintoc {6}{Expresion}{25}{0}{6}
+\beamer@sectionintoc {7}{Parser}{26}{0}{7}
+\beamer@sectionintoc {8}{EstadisticaRating}{33}{0}{8}
+\beamer@sectionintoc {9}{GraficaBarras}{40}{0}{9}
